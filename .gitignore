@@ -1,0 +1,6 @@
+# Publish only the generated viewer and its instructions from J_DogDex.
+*
+!/.gitignore
+!/MOBILE_README.md
+!/docs/
+!/docs/**
