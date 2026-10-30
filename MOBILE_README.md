@@ -1,4 +1,4 @@
-# DogDex on PC and mobile — version 1.8
+# DogDex on PC and mobile — version 1.8.4
 
 Keep the application files directly in your existing `J_DogDex` folder. Keep
 your `my_collection` folder there, the research evidence ZIP wherever you prefer,
@@ -9,13 +9,14 @@ Android app or a second editable collection.
 
 1. Close the running DogDex console. Keep an exported collection backup.
 2. Extract this package somewhere temporary. Copy the **contents** of its
-   `DogDex` folder into your existing `J_DogDex`, replacing application files.
+   `DogDex` folder into your existing `J_DogDex`, replacing matching files, including supplied catalogue data.
 3. Keep your existing **`my_collection`** folder. Do not replace or delete it.
 4. Start `START_DOGDEX.bat` from `J_DogDex` as usual.
 
 Personal copies, IDs, purchase costs, wishlist, catalog edits and pictures remain
 in `my_collection`. Backups now include source covers too. Old version 1–3
-backups can be restored in 1.8; use 1.8 to restore a new version 4 backup.
+backups can be restored in 1.8.4. New exports remain version 4. First start also
+saves an automatic pre-upgrade backup for an existing collection.
 
 ## First public mobile website: GitHub Desktop
 
@@ -86,12 +87,25 @@ the official guide. This uses no paid service or account key. The snapshot is
 refreshed at most once per UTC day; a failure retains the previous cache.
 
 A printing receives a price only after its product and price series have been
-explicitly confirmed. In its printing editor's **More printing details**, enter
-the numeric Cardmarket product ID, choose the standard or reverse-holo price
-series and tick the confirmation. If an old provider suggestion is present it
-is shown as **unverified**, never silently accepted. A URL containing
-`idProduct=123456` supplies the ID directly; a name search or arbitrary slug
-does not establish it. Review the product's card, set, number and variant first.
+explicitly confirmed. Open the card, choose the printing and click **Find
+Cardmarket product** (or **Change product** for an existing match). Saved source
+references appear first. **Search catalogue** searches the official download;
+enter a card name, ID or Cardmarket listing URL. No TCGGO lookup is needed.
+
+Open a candidate's listing, select it and check the card, expansion, collector
+number, language and physical printing. Tick the confirmation and **Confirm &
+save**. DogDex saves the ID and series for that printing and loads its guide price.
+The confirmation step has **Change selection** to return to the results. **Remove
+price match** clears a link without changing ownership or purchase records.
+
+The official product list does not supply every identifying field. Source hints
+and name-only results remain unconfirmed until checked. A pretty URL without
+`idProduct` can open the listing but cannot by itself reveal its numeric ID; the
+finder searches the current card's saved references/name instead. Manual ID/URL
+fields remain in the printing editor for products the search cannot distinguish.
+The catalogue and guide caches stay local in `my_collection`. They are not part
+of the mobile export. Linking and refreshing happen on the PC; the phone shows
+the last exported confirmed matches and price snapshot.
 
 An ordinary holo card does not automatically use the reverse-holo price series.
 Stamps, first editions, deck versions, jumbo cards and championship replicas may
@@ -105,7 +119,8 @@ inferred. Export/push includes the current matched price snapshot on mobile.
 
 ## Research archives
 
-The 1.7 research evidence ZIP remains the research archive. The 1.8 update is a
-usability/publishing release, not a new global completeness audit. It does not
-add or remove card identities, infer physical variants, restore quarantined
-marketplace IDs, or alter the Japanese/Korean factual catalog.
+The 1.7 research evidence ZIP remains the historical archive. Keep it. The new
+1.8.4 evidence, reviewed printing specification and resumable claims queue are
+under data/research/printing_184 inside J_DogDex. Read PRINTING_UPDATE_1_8_4.md
+for the bounded EN/DE correction and research limits. No JA/KO factual records
+or old IDs are changed. None of these private research files is exported to docs.
