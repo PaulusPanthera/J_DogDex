@@ -1,4 +1,6 @@
-# DogDex on PC and mobile — version 1.8.4
+# DogDex on PC and mobile — version 1.8.5
+
+1.8.5 unifies expansion subsets and separates retail distributions in Products. After merging the PC update, export the mobile view again, then Commit and Push. The public viewer keeps the same parent/subset navigation and read-only ownership.
 
 Keep the application files directly in your existing `J_DogDex` folder. Keep
 your `my_collection` folder there, the research evidence ZIP wherever you prefer,
