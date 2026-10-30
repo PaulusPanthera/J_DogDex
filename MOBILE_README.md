@@ -1,4 +1,6 @@
-# DogDex on PC and mobile — version 1.8.5
+# DogDex on PC and mobile — version 1.8.6
+
+1.8.6 adds the reviewed printing corrections and preserves the 1.8.5 source navigation. After updating the PC, export the read-only mobile view again, then Commit and Push. Keep my_collection.
 
 1.8.5 unifies expansion subsets and separates retail distributions in Products. After merging the PC update, export the mobile view again, then Commit and Push. The public viewer keeps the same parent/subset navigation and read-only ownership.
 
