@@ -1,0 +1,2295 @@
+{
+  "format": "dogdex-set-symbol-assets-1",
+  "generated_on": "2026-10-31",
+  "purpose": "Presentation metadata only. Does not verify card availability, printings, or dates.",
+  "credits": [
+    {
+      "name": "Pokemon Symbols",
+      "url": "https://pokesymbols.com/tcg/sets",
+      "about": "https://pokesymbols.com/about"
+    },
+    {
+      "name": "Pokemon TCG API / PokemonTCG data",
+      "url": "https://github.com/PokemonTCG/pokemon-tcg-data"
+    },
+    {
+      "name": "Pokemon",
+      "url": "https://www.pokemon.com",
+      "note": "Pokemon names and set symbols belong to their respective rights holders."
+    }
+  ],
+  "no_symbol": [
+    {
+      "release": "base1",
+      "lang": "en/de",
+      "reason": "Original Base Set cards have no expansion symbol"
+    }
+  ],
+  "regional_identifiers": {
+    "policy": "Exact JA/KO catalog release identifier, explicitly labelled as an identifier, without cross-language symbol substitution"
+  },
+  "assets": {
+    "2016xy": {
+      "name": "McDonald's Collection 2016",
+      "source_url": "https://pokesymbols.com/tcg/sets/mc-donalds-collection-2016",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mcdonalds-collection-2016.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/mcd16/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "804f7291731bb2d93f74.webp",
+      "asset_sha256": "804f7291731bb2d93f7430a2dfbf3e19fbf677a2b8392053d58f062d96ac53f6",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "30th": {
+      "name": "30th Celebration",
+      "source_url": "https://pokesymbols.com/tcg/sets/30th-celebration",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/30th-celebration.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.scrydex.com/pokemon/me55-symbol/symbol",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "e59d3a047b3a48384390.webp",
+      "asset_sha256": "e59d3a047b3a48384390a8b0d9935d477a9eb8360db121661661e6d93518692b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "base4": {
+      "name": "Base Set 2",
+      "source_url": "https://pokesymbols.com/tcg/sets/base-set-2",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/base-set-2.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/base4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "40706b62cf1cfb523c63.webp",
+      "asset_sha256": "40706b62cf1cfb523c63ad3f81b4823acbab4e161b7450feea9b3279a84d28ee",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw11": {
+      "name": "Legendary Treasures",
+      "source_url": "https://pokesymbols.com/tcg/sets/legendary-treasures",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/legendary-treasures.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw11/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "af4893911ef9a7368509.webp",
+      "asset_sha256": "af4893911ef9a73685095905ae34a0d61004cbbf3e4bf62d0e22d124f440e669",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw6": {
+      "name": "Dragons Exalted",
+      "source_url": "https://pokesymbols.com/tcg/sets/dragons-exalted",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/dragons-exalted.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "63c5d7ef23e87f0a4e6c.webp",
+      "asset_sha256": "63c5d7ef23e87f0a4e6cf242f2de4492608f1be65f2ba2465aaa41987e8baa4b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "col1": {
+      "name": "Call of Legends",
+      "source_url": "https://pokesymbols.com/tcg/sets/call-of-legends",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/call-of-legends.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/col1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "474885f06911c8e80757.webp",
+      "asset_sha256": "474885f06911c8e807576775dd0858714a1a72a617d9c5e2cc432ac86126efea",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dp2": {
+      "name": "Mysterious Treasures",
+      "source_url": "https://pokesymbols.com/tcg/sets/mysterious-treasures",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mysterious-treasures.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dp2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "9b4d5fddaf959d95c721.webp",
+      "asset_sha256": "9b4d5fddaf959d95c7218250128fc7a02015ccb29ce11dfc1ffbfe63929443e7",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ecard1": {
+      "name": "Expedition Base Set",
+      "source_url": "https://pokesymbols.com/tcg/sets/expedition-base-set",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/expedition.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ecard1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f82e496012635324eb0d.webp",
+      "asset_sha256": "f82e496012635324eb0d2f88af364313614a842e5cdc673db169295f8cd38052",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ecard2": {
+      "name": "Aquapolis",
+      "source_url": "https://pokesymbols.com/tcg/sets/aquapolis",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/aquapolis.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ecard2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "59e151f84959f6e42ebc.webp",
+      "asset_sha256": "59e151f84959f6e42ebc394fc2763f0936f9d175dcc6c5332cf4f435b5d3662a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex15": {
+      "name": "Dragon Frontiers",
+      "source_url": "https://pokesymbols.com/tcg/sets/dragon-frontiers",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/dragon-frontiers.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex15/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "2ad126f08ffc357c8da5.webp",
+      "asset_sha256": "2ad126f08ffc357c8da5e98d06d88ed34ac4c0d5339ddb227f1e84f67e46407d",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex16": {
+      "name": "Power Keepers",
+      "source_url": "https://pokesymbols.com/tcg/sets/power-keepers",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/power-keepers.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex16/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "6fab4257e0a4e8d25546.webp",
+      "asset_sha256": "6fab4257e0a4e8d255463b7658761553c612acaeaf29731e480fb5325e3823f8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex5": {
+      "name": "Hidden Legends",
+      "source_url": "https://pokesymbols.com/tcg/sets/hidden-legends",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/hidden-legends.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "fde824b6f0cc6ab97fd9.webp",
+      "asset_sha256": "fde824b6f0cc6ab97fd93fb25365013e73d148bf039f8d19b3a69189e61a48db",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex9": {
+      "name": "Emerald",
+      "source_url": "https://pokesymbols.com/tcg/sets/emerald",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/emerald.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex9/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "0118e2fcceb12235fd54.webp",
+      "asset_sha256": "0118e2fcceb12235fd54a1848ed7af1da834c176ad8d61ce89cbe977e87945b8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "gym1": {
+      "name": "Gym Heroes",
+      "source_url": "https://pokesymbols.com/tcg/sets/gym-heroes",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/gym-heroes.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/gym1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "57f3ccc2dfd1fa0ec25b.webp",
+      "asset_sha256": "57f3ccc2dfd1fa0ec25b7100d5a6a3199680d286b34552eaff84b977e3ee5adf",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "gym2": {
+      "name": "Gym Challenge",
+      "source_url": "https://pokesymbols.com/tcg/sets/gym-challenge",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/gym-challenge.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/gym2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "4dccbda9eb52c4e3d1b6.webp",
+      "asset_sha256": "4dccbda9eb52c4e3d1b6ac41c0d7adbffd3a6bda3c9a911b07c535eda07bae58",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "hgss1": {
+      "name": "HeartGold & SoulSilver",
+      "source_url": "https://pokesymbols.com/tcg/sets/heart-gold-and-soul-silver",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/heartgold-soulsilver.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/hgss1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "49836e99775674d5130c.webp",
+      "asset_sha256": "49836e99775674d5130cb6742f320d9452f949c955717e883c76eefd9f689db1",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "hgss2": {
+      "name": "HS—Unleashed",
+      "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+      "image_url": "https://images.pokemontcg.io/hgss2/symbol.png",
+      "source_family": "Pokemon TCG API",
+      "asset": "4cc38567c12bf0d4e32e.webp",
+      "asset_sha256": "4cc38567c12bf0d4e32e93085d51b8ef4f97767702df7a66c371dc4d16770527",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "lc": {
+      "name": "Legendary Collection",
+      "source_url": "https://pokesymbols.com/tcg/sets/legendary-collection",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/legendary-collection.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/base6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "85ce139477d3aac479fe.webp",
+      "asset_sha256": "85ce139477d3aac479fe5104cbd675051e084f30572209b21dd19f61b1b06e17",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "me01": {
+      "name": "Mega Evolution",
+      "source_url": "https://pokesymbols.com/tcg/sets/mega-evolution",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mega-evolution.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/me1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "53fdaf1ff9a9087fc673.webp",
+      "asset_sha256": "53fdaf1ff9a9087fc6732d3e28d7e819540b61a0ea631e5927abdc1c140203ab",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "me04": {
+      "name": "Chaos Rising",
+      "source_url": "https://pokesymbols.com/tcg/sets/chaos-rising",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/chaos-rising.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.scrydex.com/pokemon/me4-symbol/symbol",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "7091f7ff78eaf9ce6b5d.webp",
+      "asset_sha256": "7091f7ff78eaf9ce6b5de9a6f1febf98dcd206f2f6502ba46417ac25c5507b8a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "neo4": {
+      "name": "Neo Destiny",
+      "source_url": "https://pokesymbols.com/tcg/sets/neo-destiny",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/neo-destiny.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/neo4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f84df7bf6da588dd373a.webp",
+      "asset_sha256": "f84df7bf6da588dd373abbf169e2ecd12ad942a16a32e9b2164ffbe7afa2fa9e",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "pl1": {
+      "name": "Platinum",
+      "source_url": "https://pokesymbols.com/tcg/sets/platinum",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/platinum.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/pl1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "d57b8311c7d2b5b17606.webp",
+      "asset_sha256": "d57b8311c7d2b5b1760615fb4d379994aed601b3c0b3fb1eb7e86a9f14bc215f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm12": {
+      "name": "Cosmic Eclipse",
+      "source_url": "https://pokesymbols.com/tcg/sets/cosmic-eclipse",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/cosmic-eclipse.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm12/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "1af154ac255004a67535.webp",
+      "asset_sha256": "1af154ac255004a675353b0c3af885747d3b34a32b8f055d2e34b2f24594ecd7",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm2": {
+      "name": "Guardians Rising",
+      "source_url": "https://pokesymbols.com/tcg/sets/guardians-rising",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/guardians-rising.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "810def04b025073175ed.webp",
+      "asset_sha256": "810def04b025073175eda1e675686d60063e71688b33a16a895976171b6a91f0",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm3": {
+      "name": "Burning Shadows",
+      "source_url": "https://pokesymbols.com/tcg/sets/burning-shadows",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/burning-shadows.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "2b542f7e09baaf75854f.webp",
+      "asset_sha256": "2b542f7e09baaf75854ff317e62bf742f599a267a18c7a264573628c7f538bc3",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm5": {
+      "name": "Ultra Prism",
+      "source_url": "https://pokesymbols.com/tcg/sets/ultra-prism",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/ultra-prism.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "bb39a7b9d785d6a59a75.webp",
+      "asset_sha256": "bb39a7b9d785d6a59a75de9c1c2b32bcaa3ee92275f3198956b2107640fce308",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm8": {
+      "name": "Lost Thunder",
+      "source_url": "https://pokesymbols.com/tcg/sets/lost-thunder",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/lost-thunder.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm8/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "8fe841b1173823de79ab.webp",
+      "asset_sha256": "8fe841b1173823de79abd12d10a52c117a643e33e3b1e9ec644fd82797cc4d04",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm9": {
+      "name": "Team Up",
+      "source_url": "https://pokesymbols.com/tcg/sets/team-up",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/team-up.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm9/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "dc3740ef419809d254e4.webp",
+      "asset_sha256": "dc3740ef419809d254e408acbd51ea5fd6b35c2f49e6937d55415c1cd08fe79a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sma": {
+      "name": "Hidden Fates Shiny Vault",
+      "source_url": "https://pokesymbols.com/tcg/sets/hidden-fates-shiny-vault",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/hidden-fates-shiny-vault.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm115/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "adc9cc62c4105f27b963.webp",
+      "asset_sha256": "adc9cc62c4105f27b9633134e37e1de4b4f2bc620c8643df9368a8aba178a57d",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv03": {
+      "name": "Obsidian Flames",
+      "source_url": "https://pokesymbols.com/tcg/sets/obsidian-flames",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/obsidian-flames.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "edc305abe5d2bd6f6fee.webp",
+      "asset_sha256": "edc305abe5d2bd6f6fee9b2cbd39991f04ccb1e12b9a12b5069eec570062ea06",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv03.5": {
+      "name": "151",
+      "source_url": "https://pokesymbols.com/tcg/sets/151",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/151.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "b0678820f81994557fc0.webp",
+      "asset_sha256": "b0678820f81994557fc044610d4c218d439f04e8b251e3c697ecbe3c0b9edd46",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv06": {
+      "name": "Twilight Masquerade",
+      "source_url": "https://pokesymbols.com/tcg/sets/twilight-masquerade",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/twilight-masquerade.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "cdce15a93ba44663571a.webp",
+      "asset_sha256": "cdce15a93ba44663571a455852c4f1d20a4808bd172d20cdb012b3b64b0cb58f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv08": {
+      "name": "Surging Sparks",
+      "source_url": "https://pokesymbols.com/tcg/sets/surging-sparks",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/surging-sparks.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv8/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f01e6f6d0430cd4abca8.webp",
+      "asset_sha256": "f01e6f6d0430cd4abca80d6eb4e2e9d0e895274b3ef5d34726a5ec8a73a91c11",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh1": {
+      "name": "Sword & Shield",
+      "source_url": "https://pokesymbols.com/tcg/sets/sword-and-shield",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/sword-and-shield.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "ad57dba33b4750891552.webp",
+      "asset_sha256": "ad57dba33b4750891552893c8d1f6d9154f142994e00d14183870e83f9396eb5",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh12": {
+      "name": "Silver Tempest",
+      "source_url": "https://pokesymbols.com/tcg/sets/silver-tempest",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/silver-tempest.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh12/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "ac7d67e282de5b91af94.webp",
+      "asset_sha256": "ac7d67e282de5b91af947a06a7013a24fdb70470adf2f0f228160583d0249308",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh2": {
+      "name": "Rebel Clash",
+      "source_url": "https://pokesymbols.com/tcg/sets/rebel-clash",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/rebel-clash.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "5e910346ea85d14911ba.webp",
+      "asset_sha256": "5e910346ea85d14911ba8afda734ffbbd0b0231119bae35579b65dab34b1902a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh3.5": {
+      "name": "Champion's Path",
+      "source_url": "https://pokesymbols.com/tcg/sets/champions-path",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/champions-path.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh35/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "293e2fc7ec9ab99fb8e2.webp",
+      "asset_sha256": "293e2fc7ec9ab99fb8e22d60dfe665db5c5b9b25b6497627a252dd2dea919992",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh8": {
+      "name": "Fusion Strike",
+      "source_url": "https://pokesymbols.com/tcg/sets/fusion-strike",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/fusion-strike.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh8/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "a65eb7d0a34a6a2bbc46.webp",
+      "asset_sha256": "a65eb7d0a34a6a2bbc461c00c53864bedee04be1c8f331b32bab6717988637f4",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-ex-m": {
+      "name": "EX Trainer Kit 2 Minun",
+      "source_url": "https://pokesymbols.com/tcg/sets/ex-trainer-kit-2-minun",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/ex-trainer-kit-2-minun.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/tk2b/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "9c3eca4e0a6c8d0ccf61.webp",
+      "asset_sha256": "9c3eca4e0a6c8d0ccf61f73f1432815df3c5dcb494fa36d9c266f66b24bfeba2",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy12": {
+      "name": "Evolutions",
+      "source_url": "https://pokesymbols.com/tcg/sets/evolutions",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy-evolutions.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy12/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "67b9b8a1ead604160afa.webp",
+      "asset_sha256": "67b9b8a1ead604160afad8886bfc473e5d2cbc7d8017c4a55d11c99c37a517d8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy5": {
+      "name": "Primal Clash",
+      "source_url": "https://pokesymbols.com/tcg/sets/primal-clash",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/primal-clash.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "468b5b404ad8bcbfbd75.webp",
+      "asset_sha256": "468b5b404ad8bcbfbd7569e2712452332d0868d0a3cab4079a35c138cc5e48c9",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bwp": {
+      "name": "BW Black Star Promos",
+      "source_url": "https://pokesymbols.com/tcg/sets/bw-black-star-promos",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/_promo.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bwp/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "25544b0cdb4e094d6c5c.webp",
+      "asset_sha256": "25544b0cdb4e094d6c5ca09e1e5680b6154c1a0d98ea062a417c7c5789d6a057",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "g1": {
+      "name": "Generations",
+      "source_url": "https://pokesymbols.com/tcg/sets/generations",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy-generations.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/g1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "31704d174521eeee0498.webp",
+      "asset_sha256": "31704d174521eeee049815466a2da3a5c3dbe15b1b3db97c5288c1240ea3d833",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ru1": {
+      "name": "Pokémon Rumble",
+      "source_url": "https://pokesymbols.com/tcg/sets/pokemon-rumble",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/pokemon-rumble.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ru1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "2eeb7f2234da3f24443e.webp",
+      "asset_sha256": "2eeb7f2234da3f24443e5f20c15cbaefa07338e4fc55f62a955143dea6a2bba2",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "smp": {
+      "name": "SM Black Star Promos",
+      "source_url": "https://pokesymbols.com/tcg/sets/sm-black-star-promos",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/_promo.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/smp/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "25544b0cdb4e094d6c5c.webp",
+      "asset_sha256": "25544b0cdb4e094d6c5ca09e1e5680b6154c1a0d98ea062a417c7c5789d6a057",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "2018sm": {
+      "name": "McDonald's Collection 2018",
+      "source_url": "https://pokesymbols.com/tcg/sets/mc-donalds-collection-2018",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mcdonalds-collection-2018.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/mcd18/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "1ed399c90d6ce97e7b88.webp",
+      "asset_sha256": "1ed399c90d6ce97e7b8830449c074e6976efea56f3f9b6ace8a3017c10732cb0",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "2022swsh": {
+      "name": "McDonald's Collection 2022",
+      "source_url": "https://pokesymbols.com/tcg/sets/mc-donalds-collection-2022",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mcdonalds-collection-2022.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/mcd22/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "a40e5ef71f218474f54c.webp",
+      "asset_sha256": "a40e5ef71f218474f54ce68663b41ac106ec26e0276299739c8c2344d3774e43",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw4": {
+      "name": "Next Destinies",
+      "source_url": "https://pokesymbols.com/tcg/sets/next-destinies",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/next-destinies.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "5689ead6b9a014b8aed0.webp",
+      "asset_sha256": "5689ead6b9a014b8aed08568c5b0622b059b3fa6c8f658b1c3e76d97b5e1ddd2",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dp3": {
+      "name": "Secret Wonders",
+      "source_url": "https://pokesymbols.com/tcg/sets/secret-wonders",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/secret-wonders.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dp3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "c2b45d60de48de07b68b.webp",
+      "asset_sha256": "c2b45d60de48de07b68bd8fc95c18e7363ff4edd9250e754217d71564af04fb0",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ecard3": {
+      "name": "Skyridge",
+      "source_url": "https://pokesymbols.com/tcg/sets/skyridge",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/skyridge.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ecard3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "6f89d6a9b4311ba5afed.webp",
+      "asset_sha256": "6f89d6a9b4311ba5afed2dd000110db9d8349d7f148377ca3592b612c3ccdf5e",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex12": {
+      "name": "Legend Maker",
+      "source_url": "https://pokesymbols.com/tcg/sets/legend-maker",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/legend-maker.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex12/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "bcfd36155bee8c084c59.webp",
+      "asset_sha256": "bcfd36155bee8c084c59af329a018157a4e46cf28afac9f914fedd1b4bf4b914",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex2": {
+      "name": "Sandstorm",
+      "source_url": "https://pokesymbols.com/tcg/sets/sandstorm",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/sandstorm.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "472fc10749a33e102029.webp",
+      "asset_sha256": "472fc10749a33e102029c2b92ef2307c61780971742cf8344ef9e40b9621092f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex6": {
+      "name": "FireRed & LeafGreen",
+      "source_url": "https://pokesymbols.com/tcg/sets/fire-red-and-leaf-green",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/firered-leafgreen.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "a23fed87eebdfcdb7705.webp",
+      "asset_sha256": "a23fed87eebdfcdb77055f31d367f2064e399f8dfd111e7a70b5e54fb6122679",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "pl2": {
+      "name": "Rising Rivals",
+      "source_url": "https://pokesymbols.com/tcg/sets/rising-rivals",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/rising-rivals.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/pl2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "3454ac48ce36483953cb.webp",
+      "asset_sha256": "3454ac48ce36483953cb037dbce01427e64b4ba0f4dccf38a4293767243d8461",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "pl3": {
+      "name": "Supreme Victors",
+      "source_url": "https://pokesymbols.com/tcg/sets/supreme-victors",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/supreme-victors.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/pl3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "50c45b436a11a2f0c9d3.webp",
+      "asset_sha256": "50c45b436a11a2f0c9d3bb708628e545fed1616bef6a42bffd5b192b3b4ab68b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm1": {
+      "name": "Sun & Moon",
+      "source_url": "https://pokesymbols.com/tcg/sets/sun-and-moon",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/sun-and-moon.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "c4abf44bb64584f8ffff.webp",
+      "asset_sha256": "c4abf44bb64584f8ffff683f0ef59518e0d207188b22496d552698d523b50dd5",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm10": {
+      "name": "Unbroken Bonds",
+      "source_url": "https://pokesymbols.com/tcg/sets/unbroken-bonds",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/unbroken-bonds.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm10/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "82971a4137da15c5d42c.webp",
+      "asset_sha256": "82971a4137da15c5d42c088526f562b35964797e1ff9d758579610609e58b916",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv01": {
+      "name": "Scarlet & Violet",
+      "source_url": "https://pokesymbols.com/tcg/sets/scarlet-and-violet",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/scarlet-and-violet.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "ae1162fcdb1e565082c6.webp",
+      "asset_sha256": "ae1162fcdb1e565082c61bdff387c36efffb5bc45ffd8a246fbadf3734e750c1",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv10": {
+      "name": "Destined Rivals",
+      "source_url": "https://pokesymbols.com/tcg/sets/destined-rivals",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/destined-rivals.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv10/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "fcfc2716441a4b988246.webp",
+      "asset_sha256": "fcfc2716441a4b988246348cfb0a0e764e83bdd9572816624512610c0c989883",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "svp": {
+      "name": "Scarlet & Violet Black Star Promos",
+      "source_url": "https://pokesymbols.com/tcg/sets/scarlet-and-violet-black-star-promos",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/_promo.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/svp/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "25544b0cdb4e094d6c5c.webp",
+      "asset_sha256": "25544b0cdb4e094d6c5ca09e1e5680b6154c1a0d98ea062a417c7c5789d6a057",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh10": {
+      "name": "Astral Radiance",
+      "source_url": "https://pokesymbols.com/tcg/sets/astral-radiance",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/astral-radiance.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh10/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "052e16c28de74d95fe46.webp",
+      "asset_sha256": "052e16c28de74d95fe46647694ae21f50e8168b800a3825184971d04d6626b4a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh11": {
+      "name": "Lost Origin",
+      "source_url": "https://pokesymbols.com/tcg/sets/lost-origin",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/lost-origin.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "0649967c73ae51d5f3de.webp",
+      "asset_sha256": "0649967c73ae51d5f3deb9005a2446a7d5529e0b7e11bfe9a4a891ce645e4686",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy9": {
+      "name": "BREAKpoint",
+      "source_url": "https://pokesymbols.com/tcg/sets/breakpoint",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/breakpoint.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy9/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "366aba8c409a3036e562.webp",
+      "asset_sha256": "366aba8c409a3036e562fe4f85b2e1839a6e319061cae4f42793e6cebe3e81b8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "basep": {
+      "name": "Wizards Black Star Promos",
+      "source_url": "https://pokesymbols.com/tcg/sets/wizards-black-star-promos",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/_promo.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/basep/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "25544b0cdb4e094d6c5c.webp",
+      "asset_sha256": "25544b0cdb4e094d6c5ca09e1e5680b6154c1a0d98ea062a417c7c5789d6a057",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "det1": {
+      "name": "Detective Pikachu",
+      "source_url": "https://pokesymbols.com/tcg/sets/detective-pikachu",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/detective-pikachu.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/det1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "a38b2e547890d25bae6e.webp",
+      "asset_sha256": "a38b2e547890d25bae6e16f3bb0a64ebe22e11a444204a8c60a1f786da78c165",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh11tg": {
+      "name": "Lost Origin",
+      "source_url": "https://pokesymbols.com/tcg/sets/lost-origin",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/lost-origin.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "0649967c73ae51d5f3de.webp",
+      "asset_sha256": "0649967c73ae51d5f3deb9005a2446a7d5529e0b7e11bfe9a4a891ce645e4686",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swshp": {
+      "name": "SWSH Black Star Promos",
+      "source_url": "https://pokesymbols.com/tcg/sets/swsh-black-star-promos",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/_promo.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swshp/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "25544b0cdb4e094d6c5c.webp",
+      "asset_sha256": "25544b0cdb4e094d6c5ca09e1e5680b6154c1a0d98ea062a417c7c5789d6a057",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xyp": {
+      "name": "XY Black Star Promos",
+      "source_url": "https://pokesymbols.com/tcg/sets/xy-black-star-promos",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/_promo.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xyp/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "25544b0cdb4e094d6c5c.webp",
+      "asset_sha256": "25544b0cdb4e094d6c5ca09e1e5680b6154c1a0d98ea062a417c7c5789d6a057",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "2014xy": {
+      "name": "McDonald's Collection 2014",
+      "source_url": "https://pokesymbols.com/tcg/sets/mc-donalds-collection-2014",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mcdonalds-collection-2014.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/mcd14/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "71fa10afdb16b5ddd82d.webp",
+      "asset_sha256": "71fa10afdb16b5ddd82d6cc22176f36424852896e4941a1464ce27857644a58c",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dp4": {
+      "name": "Great Encounters",
+      "source_url": "https://pokesymbols.com/tcg/sets/great-encounters",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/great-encounters.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dp4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "e419bbeca231a462f897.webp",
+      "asset_sha256": "e419bbeca231a462f89772267fa4dd8337c8e1ae2c55cc5656d23787738e74a6",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex10": {
+      "name": "Unseen Forces",
+      "source_url": "https://pokesymbols.com/tcg/sets/unseen-forces",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/unseen-forces.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex10/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "8efe65153d8f16cb7946.webp",
+      "asset_sha256": "8efe65153d8f16cb7946cda6fa1d62b28e4bdf0b0fbcf869f413a2864c365de1",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "me02": {
+      "name": "Phantasmal Flames",
+      "source_url": "https://pokesymbols.com/tcg/sets/phantasmal-flames",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/phantasmal-flames.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/me2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "37fcaf21a88bd960a211.webp",
+      "asset_sha256": "37fcaf21a88bd960a2110489eda4b70503b59216c84d51dc696f0d8fa110b599",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "neo1": {
+      "name": "Neo Genesis",
+      "source_url": "https://pokesymbols.com/tcg/sets/neo-genesis",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/neo-genesis.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/neo1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "78cd80e749e8989fafbc.webp",
+      "asset_sha256": "78cd80e749e8989fafbc1f643906ed3b42811a1f12a13cac13518ab58523e26f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "neo3": {
+      "name": "Neo Revelation",
+      "source_url": "https://pokesymbols.com/tcg/sets/neo-revelation",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/neo-revelation.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/neo3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "b8235a070810af996d30.webp",
+      "asset_sha256": "b8235a070810af996d304d7d5b8233aa0870b0e8377141e2007d930de952a32b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh3": {
+      "name": "Darkness Ablaze",
+      "source_url": "https://pokesymbols.com/tcg/sets/darkness-ablaze",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/darkness-ablaze.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "2be4b126dc809badbedf.webp",
+      "asset_sha256": "2be4b126dc809badbedfa3c57a1121cca2e3d99fc7d1ddf92d1ddf1f6aee31e5",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-xy-sy": {
+      "name": "XY Trainer Kit Sylveon",
+      "source_url": "https://pokesymbols.com/tcg/sets/xy-trainer-kit-sylveon",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy-trainer-kit-sylveon.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": null,
+      "asset": "308c3b9b482d8b52a75f.webp",
+      "asset_sha256": "308c3b9b482d8b52a75f916f06ca2f91d1fc61455a9e3e94e2e332eef8300161",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy0": {
+      "name": "Kalos Starter Set",
+      "source_url": "https://pokesymbols.com/tcg/sets/kalos-starter-set",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/kalos-starter-set.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy0/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "79d69021e5cfb26dcbcc.webp",
+      "asset_sha256": "79d69021e5cfb26dcbcc63b172d36920060c8d3e47f18a7f202fcb039fa56114",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy10": {
+      "name": "Fates Collide",
+      "source_url": "https://pokesymbols.com/tcg/sets/fates-collide",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy-fates-collide.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy10/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "76dde67536ec513c9762.webp",
+      "asset_sha256": "76dde67536ec513c9762720f0c36171de1911e23d1d5b56e0bb40d903594f0bc",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy8": {
+      "name": "BREAKthrough",
+      "source_url": "https://pokesymbols.com/tcg/sets/breakthrough",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/breakthrough.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy8/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "fc39b75acff34f7d6a7e.webp",
+      "asset_sha256": "fc39b75acff34f7d6a7e10469ef85ae07b95e921d6a9631957119387145e8ac9",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh9": {
+      "name": "Brilliant Stars",
+      "source_url": "https://pokesymbols.com/tcg/sets/brilliant-stars",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/brilliant-stars.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f81754c8ca09b2a8d6af.webp",
+      "asset_sha256": "f81754c8ca09b2a8d6af8a00bd2931b51312a7c21f894044dcc4f68edc223946",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw10": {
+      "name": "Plasma Blast",
+      "source_url": "https://pokesymbols.com/tcg/sets/plasma-blast",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/plasma-blast.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw10/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "3d9a815fb21be67df80a.webp",
+      "asset_sha256": "3d9a815fb21be67df80a6a5762079022ac4947c0c212e6d15cfa8751272549d3",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dp6": {
+      "name": "Legends Awakened",
+      "source_url": "https://pokesymbols.com/tcg/sets/legends-awakened",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/legends-awakened.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dp6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "bf8402082cb82ec0c1f5.webp",
+      "asset_sha256": "bf8402082cb82ec0c1f550ea43dd9e76bfad71330f685127208c2970bb754125",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex3": {
+      "name": "Dragon",
+      "source_url": "https://pokesymbols.com/tcg/sets/dragon",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/dragon.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "2371d0a58a18777b9083.webp",
+      "asset_sha256": "2371d0a58a18777b9083e4fd7d51add244adb09821070758087f2187bc518f24",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex4": {
+      "name": "Team Magma vs Team Aqua",
+      "source_url": "https://pokesymbols.com/tcg/sets/team-magma-vs-team-aqua",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/team-magma-vs-team-aqua.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "10e5cac8c80b8b858447.webp",
+      "asset_sha256": "10e5cac8c80b8b8584478821e1c8f730db280d4fa2e826196c3073740c7bb96a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex7": {
+      "name": "Team Rocket Returns",
+      "source_url": "https://pokesymbols.com/tcg/sets/team-rocket-returns",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/team-rocket-returns.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex7/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "bf85d8551027cb11ced7.webp",
+      "asset_sha256": "bf85d8551027cb11ced70124581cd90676fa4ef84c8923fa5cd1096fe9c586f8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "hgss3": {
+      "name": "HS—Undaunted",
+      "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+      "image_url": "https://images.pokemontcg.io/hgss3/symbol.png",
+      "source_family": "Pokemon TCG API",
+      "asset": "4ec0cb8d993a99982d29.webp",
+      "asset_sha256": "4ec0cb8d993a99982d294cd14c4b170b81b6127ad20e17efddfa846d9d8e06c6",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "neo2": {
+      "name": "Neo Discovery",
+      "source_url": "https://pokesymbols.com/tcg/sets/neo-discovery",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/neo-discovery.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/neo2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "cfc6b9d8b9f57dc5fc73.webp",
+      "asset_sha256": "cfc6b9d8b9f57dc5fc73937953eea62df0ab0b586cdfa6926dd17612e5244b55",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm4": {
+      "name": "Crimson Invasion",
+      "source_url": "https://pokesymbols.com/tcg/sets/crimson-invasion",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/crimson-invasion.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "353e544b46c90cde3385.webp",
+      "asset_sha256": "353e544b46c90cde33852e9d3cf4af84720bf01bb982a395090100eef6fec58e",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv06.5": {
+      "name": "Shrouded Fable",
+      "source_url": "https://pokesymbols.com/tcg/sets/shrouded-fable",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/shrouded-fable.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv6pt5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "14a9525bc2f17bfb17b4.webp",
+      "asset_sha256": "14a9525bc2f17bfb17b4b43b0ca9b170054aa6515c052beb6ced5e8bfa82e87f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv08.5": {
+      "name": "Prismatic Evolutions",
+      "source_url": "https://pokesymbols.com/tcg/sets/prismatic-evolutions",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/prismatic-evolutions.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f6c133901ec12660004b.webp",
+      "asset_sha256": "f6c133901ec12660004b9d317f410fb476cabf2935da9f2e599ba0e381450496",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh5": {
+      "name": "Battle Styles",
+      "source_url": "https://pokesymbols.com/tcg/sets/battle-styles",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/battle-styles.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "93e4de8e8b15d678cd43.webp",
+      "asset_sha256": "93e4de8e8b15d678cd43576fbe680173275a73431e6d137a1481f78d14fc33a2",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh9tg": {
+      "name": "Brilliant Stars",
+      "source_url": "https://pokesymbols.com/tcg/sets/brilliant-stars",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/brilliant-stars.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh9/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f81754c8ca09b2a8d6af.webp",
+      "asset_sha256": "f81754c8ca09b2a8d6af8a00bd2931b51312a7c21f894044dcc4f68edc223946",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh12tg": {
+      "name": "Silver Tempest",
+      "source_url": "https://pokesymbols.com/tcg/sets/silver-tempest",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/silver-tempest.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh12/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "ac7d67e282de5b91af94.webp",
+      "asset_sha256": "ac7d67e282de5b91af947a06a7013a24fdb70470adf2f0f228160583d0249308",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh7": {
+      "name": "Evolving Skies",
+      "source_url": "https://pokesymbols.com/tcg/sets/evolving-skies",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/evolving-skies.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh7/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "528efbffaf863cca3c65.webp",
+      "asset_sha256": "528efbffaf863cca3c6507759c27f0bc447f694781ca66c998717c45bfdfd436",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dc1": {
+      "name": "Double Crisis",
+      "source_url": "https://pokesymbols.com/tcg/sets/double-crisis",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/double-crisis.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dc1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "62326f957c279391cf78.webp",
+      "asset_sha256": "62326f957c279391cf787a86daa178af9252204cf8e2727cd7782ae636c35a02",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex1": {
+      "name": "Ruby & Sapphire",
+      "source_url": "https://pokesymbols.com/tcg/sets/ruby-and-sapphire",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/ruby-and-sapphire-fixed.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "9c7377c3ea071004292b.webp",
+      "asset_sha256": "9c7377c3ea071004292bef8561e050bd404367e85034a2b7c375b98c25200826",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex11": {
+      "name": "Delta Species",
+      "source_url": "https://pokesymbols.com/tcg/sets/delta-species",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/delta-species.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex11/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "4da1af5957bffeb98680.webp",
+      "asset_sha256": "4da1af5957bffeb986807f205c76a77b46a5bf6c238a62dfeb62e7a81f1406f5",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex13": {
+      "name": "Holon Phantoms",
+      "source_url": "https://pokesymbols.com/tcg/sets/holon-phantoms",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/holon-phantoms.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex13/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "45e40e570f0eca9e2352.webp",
+      "asset_sha256": "45e40e570f0eca9e23528ac4dceaf58e945ded70beefc79aceceb83c75b39a72",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex8": {
+      "name": "Deoxys",
+      "source_url": "https://pokesymbols.com/tcg/sets/deoxys",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/deoxys.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex8/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "29b3ae773c4ceab1b0ad.webp",
+      "asset_sha256": "29b3ae773c4ceab1b0ad2f401825cc4784c6a2107cd558a0cdbe078a3a4cb32b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "me02.5": {
+      "name": "Ascended Heroes",
+      "source_url": "https://pokesymbols.com/tcg/sets/ascended-heroes",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/ascended-heroes.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "7b82d1c8d630d1dcbffb.webp",
+      "asset_sha256": "7b82d1c8d630d1dcbffbc37eb9754c8992b30f97ae3ed519e4658cd8aa09bd19",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv05": {
+      "name": "Temporal Forces",
+      "source_url": "https://pokesymbols.com/tcg/sets/temporal-forces",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/temporal-forces.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "a41b08c8225a6884e55b.webp",
+      "asset_sha256": "a41b08c8225a6884e55bdc73c32c2fcbedb8e0ffa4088e7df6e4056f22e0e466",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh12.5gg": {
+      "name": "Crown Zenith",
+      "source_url": "https://pokesymbols.com/tcg/sets/crown-zenith",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/crown-zenith.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "2ac7e2bd07f02e1702c0.webp",
+      "asset_sha256": "2ac7e2bd07f02e1702c0f52e316b7b179d0afacf15daa65e0242135c148b10c8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh4": {
+      "name": "Vivid Voltage",
+      "source_url": "https://pokesymbols.com/tcg/sets/vivid-voltage",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/vivid-voltage.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "8964845223be5929e9d1.webp",
+      "asset_sha256": "8964845223be5929e9d1841f91ce225cb4154c9fdf0a22ae18762ccbfd9b225d",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy4": {
+      "name": "Phantom Forces",
+      "source_url": "https://pokesymbols.com/tcg/sets/phantom-forces",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/phantom-forces.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "4b3559409484dc1fed93.webp",
+      "asset_sha256": "4b3559409484dc1fed935f352860ee4537202f9d715cde502ca06567b4ea6c12",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh10tg": {
+      "name": "Astral Radiance",
+      "source_url": "https://pokesymbols.com/tcg/sets/astral-radiance",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/astral-radiance.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh10/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "052e16c28de74d95fe46.webp",
+      "asset_sha256": "052e16c28de74d95fe46647694ae21f50e8168b800a3825184971d04d6626b4a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "2015xy": {
+      "name": "McDonald's Collection 2015",
+      "source_url": "https://pokesymbols.com/tcg/sets/mc-donalds-collection-2015",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mcdonalds-collection-2015.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/mcd15/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "6e1feeba5c3df279f451.webp",
+      "asset_sha256": "6e1feeba5c3df279f4515dd0f6ce5f6c65cfaf39d3497b1dbf39a1996a7cbabd",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh4.5sv": {
+      "name": "Shining Fates",
+      "source_url": "https://pokesymbols.com/tcg/sets/shining-fates",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/shining-fates.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "1d739251f2a35f0d59b8.webp",
+      "asset_sha256": "1d739251f2a35f0d59b879346d15a58b23db9173a714f47dddfa99f565322b5b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-ex-latio": {
+      "name": "EX Trainer Kit Latios",
+      "source_url": "https://pokesymbols.com/tcg/sets/ex-trainer-kit-latios",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/ex-trainer-kit-latios.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/tk1b/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "cea0f72f9a55b8c23d4d.webp",
+      "asset_sha256": "cea0f72f9a55b8c23d4dfd8f6f52bedac98a54a98a37fa3bb6df0a30557e9891",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dp5": {
+      "name": "Majestic Dawn",
+      "source_url": "https://pokesymbols.com/tcg/sets/majestic-dawn",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/majestic-dawn.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dp5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "1d61214f44cfe3bd4e4c.webp",
+      "asset_sha256": "1d61214f44cfe3bd4e4c328adf1f8d62330e0ce01a22d49054ab5c73696de421",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "ex14": {
+      "name": "Crystal Guardians",
+      "source_url": "https://pokesymbols.com/tcg/sets/crystal-guardians",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/crystal-guardians.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/ex14/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "6d47fef00166166916ff.webp",
+      "asset_sha256": "6d47fef00166166916ff0583658c6a6384cfee99c02aa8c6af4ea5b538810934",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "me05": {
+      "name": "Pitch Black",
+      "source_url": "https://pokesymbols.com/tcg/sets/pitch-black",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/pitch-black.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.scrydex.com/pokemon/me5-symbol/symbol",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "81dbcf468c66f49f03f6.webp",
+      "asset_sha256": "81dbcf468c66f49f03f661c5aa1f0c966f09d14608fd712c178f963907827e6b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "pl4": {
+      "name": "Arceus",
+      "source_url": "https://pokesymbols.com/tcg/sets/arceus",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/arceus.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/pl4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "999e8e13276030452a55.webp",
+      "asset_sha256": "999e8e13276030452a5568d8ec92a4249aaf77edeb68707127cee73952cb7ebd",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm7": {
+      "name": "Celestial Storm",
+      "source_url": "https://pokesymbols.com/tcg/sets/celestial-storm",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/celestial-storm.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm7/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "4d4bbff25315ad85044e.webp",
+      "asset_sha256": "4d4bbff25315ad85044eef1953041a9af55c1ef91577dffe02885691fb3f68df",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-xy-p": {
+      "name": "XY Trainer Kit Pikachu Libre",
+      "source_url": "https://pokesymbols.com/tcg/sets/xy-trainer-kit-pikachu-libre",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy-trainer-kit-libre-pikachu.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": null,
+      "asset": "f64edcfca1b54fc74119.webp",
+      "asset_sha256": "f64edcfca1b54fc74119b5d2f49fcb78301f1fc2ed2ddc8ae4543183dfc67573",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy6": {
+      "name": "Roaring Skies",
+      "source_url": "https://pokesymbols.com/tcg/sets/roaring-skies",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/roaring-skies.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "c68cade03750a6cef4dd.webp",
+      "asset_sha256": "c68cade03750a6cef4dd23b0c191cf03818c978357ccc76b0a33d18d1c7d2594",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw8": {
+      "name": "Plasma Storm",
+      "source_url": "https://pokesymbols.com/tcg/sets/plasma-storm",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/plasma-storm.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw8/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "e4824c13b635ed234845.webp",
+      "asset_sha256": "e4824c13b635ed234845cd59878b4e1f7f9569c8286d4512f186b2ef94bf412d",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dp1": {
+      "name": "Diamond & Pearl",
+      "source_url": "https://pokesymbols.com/tcg/sets/diamond-and-pearl",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/diamond-and-pearl.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dp1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "86e081a194f2e34054a9.webp",
+      "asset_sha256": "86e081a194f2e34054a9d6f6fd541f7f6659e51b9de7815dd29c080b3350dfdc",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "pop6": {
+      "name": "POP Series 6",
+      "source_url": "https://pokesymbols.com/tcg/sets/pop-series-6",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/pop-6.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/pop6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "64083459695a73717b66.webp",
+      "asset_sha256": "64083459695a73717b666d80560f8c92ff462e811c822c86782e31e4fbd6acf8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "pop8": {
+      "name": "POP Series 8",
+      "source_url": "https://pokesymbols.com/tcg/sets/pop-series-8",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/pop-8.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/pop8/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f4c458567e89e611c3b1.webp",
+      "asset_sha256": "f4c458567e89e611c3b1319f29f918ec677e605e66bacd00365d320007446a98",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm11": {
+      "name": "Unified Minds",
+      "source_url": "https://pokesymbols.com/tcg/sets/unified-minds",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/unified-minds.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm11/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "1a72a49c20e5438f3bb9.webp",
+      "asset_sha256": "1a72a49c20e5438f3bb98cd1d4be79b7e76ff5a93e8f67202c589830ad717239",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv04.5": {
+      "name": "Paldean Fates",
+      "source_url": "https://pokesymbols.com/tcg/sets/paldean-fates",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/paldean-fates.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv4pt5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "7d86ec99d9952592b9ea.webp",
+      "asset_sha256": "7d86ec99d9952592b9ea7741ae47f5a5abf3c1e40a53e718a4ff6b01ca472d50",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv07": {
+      "name": "Stellar Crown",
+      "source_url": "https://pokesymbols.com/tcg/sets/stellar-crown",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/stellar-crown.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv7/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f6be319b1fc485886da0.webp",
+      "asset_sha256": "f6be319b1fc485886da0d8ebfa2fa2fa0a0c75358c6d3dfa1b0b8f7155a3f1d8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh12.5": {
+      "name": "Crown Zenith",
+      "source_url": "https://pokesymbols.com/tcg/sets/crown-zenith",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/crown-zenith.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "2ac7e2bd07f02e1702c0.webp",
+      "asset_sha256": "2ac7e2bd07f02e1702c0f52e316b7b179d0afacf15daa65e0242135c148b10c8",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dpp": {
+      "name": "DP Black Star Promos",
+      "source_url": "https://pokesymbols.com/tcg/sets/dp-black-star-promos",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/_promo.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dpp/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "25544b0cdb4e094d6c5c.webp",
+      "asset_sha256": "25544b0cdb4e094d6c5ca09e1e5680b6154c1a0d98ea062a417c7c5789d6a057",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm6": {
+      "name": "Forbidden Light",
+      "source_url": "https://pokesymbols.com/tcg/sets/forbidden-light",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/forbidden-light.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "b75afb95ece7ecef686d.webp",
+      "asset_sha256": "b75afb95ece7ecef686d37568b4ec8221535bc6f9fcf938df2b55dcc0bea526c",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-dp-l": {
+      "name": "Diamond & Pearl Trainer Kit Lucario",
+      "source_url": "https://pokesymbols.com/tcg/sets/diamond-and-pearl-trainer-kit-lucario",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/diamond-and-pearl-trainer-kit-lucario.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": null,
+      "asset": "1a1a529f272dcb28e10e.webp",
+      "asset_sha256": "1a1a529f272dcb28e10ebce6352662f15680c93fe460913e4f569a4e1522ac38",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy3": {
+      "name": "Furious Fists",
+      "source_url": "https://pokesymbols.com/tcg/sets/furious-fists",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/furious-fists.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy3/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "725c063bde36e6327e39.webp",
+      "asset_sha256": "725c063bde36e6327e391be5279ace65cfcc16d404c0a1c24a3c8ef244906ee2",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw1": {
+      "name": "Black & White",
+      "source_url": "https://pokesymbols.com/tcg/sets/black-and-white",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/black-and-white.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "fa4b0448b5a193da8140.webp",
+      "asset_sha256": "fa4b0448b5a193da8140849b1a026728a55736c479242b8ce083786bac4ec51e",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw5": {
+      "name": "Dark Explorers",
+      "source_url": "https://pokesymbols.com/tcg/sets/dark-explorers",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/dark-explorers.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "4e06fe19f022d232fac2.webp",
+      "asset_sha256": "4e06fe19f022d232fac20bbafb8581d0e6a67795e097d9a602a8adc131121e8f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw7": {
+      "name": "Boundaries Crossed",
+      "source_url": "https://pokesymbols.com/tcg/sets/boundaries-crossed",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/boundaries-crossed.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw7/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "eed6ac3b7c0b45cab3e4.webp",
+      "asset_sha256": "eed6ac3b7c0b45cab3e4f9eac83428340af284828f0cc9fad3d05b6f8b1f7891",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv10.5w": {
+      "name": "White Flare",
+      "source_url": "https://pokesymbols.com/tcg/sets/white-flare",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/white-flare.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/rsv10pt5/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "6600538c1737a68606b9.webp",
+      "asset_sha256": "6600538c1737a68606b9e99199255a93625bc7514cab99d9cb0fb00dc7a0d3a7",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-bw-e": {
+      "name": "Black & White Trainer Kit Excadrill",
+      "source_url": "https://pokesymbols.com/tcg/sets/black-and-white-trainer-kit-excadrill",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/black-and-white-trainer-kit-excadrill.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": null,
+      "asset": "0fc88fb426fb084dc335.webp",
+      "asset_sha256": "0fc88fb426fb084dc3357f47311cd1727be9ec1fcbf53c84775de92dd080b103",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy1": {
+      "name": "XY",
+      "source_url": "https://pokesymbols.com/tcg/sets/xy",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy1/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "4b0992ca1cba7987d57c.webp",
+      "asset_sha256": "4b0992ca1cba7987d57c3550e8f76248154f1a871bdf08c8e709dd2b4733413c",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "2011bw": {
+      "name": "McDonald's Collection 2011",
+      "source_url": "https://pokesymbols.com/tcg/sets/mc-donalds-collection-2011",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mcdonalds-collection-2011.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/mcd11/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "210189ce3b76d8a1c912.webp",
+      "asset_sha256": "210189ce3b76d8a1c912c6df50734a9a3b20c1d71c3f896c771cd29021ecec80",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "bw2": {
+      "name": "Emerging Powers",
+      "source_url": "https://pokesymbols.com/tcg/sets/emerging-powers",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/emerging-powers.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/bw2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "1ac78b31fd7d09b7cb50.webp",
+      "asset_sha256": "1ac78b31fd7d09b7cb50b45280adbaced4d2b8d6fe2c621d94d84c16439bba90",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sm3.5": {
+      "name": "Shining Legends",
+      "source_url": "https://pokesymbols.com/tcg/sets/shining-legends",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/shining-legends.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sm35/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "603e76cd86c8289ceefc.webp",
+      "asset_sha256": "603e76cd86c8289ceefc3a1d63981a3102cb940b0c667427afc76f8a261db1e1",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv09": {
+      "name": "Journey Together",
+      "source_url": "https://pokesymbols.com/tcg/sets/journey-together",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/journey-together.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv9/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "b96019d3fa96e6f1ab22.webp",
+      "asset_sha256": "b96019d3fa96e6f1ab22414a53adbaf754635db79e46500ccf89a1115bfb1e99",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-bw-z": {
+      "name": "Black & White Trainer Kit Zoroark",
+      "source_url": "https://pokesymbols.com/tcg/sets/black-and-white-trainer-kit-zoroark",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/black-and-white-trainer-kit-zoroark.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": null,
+      "asset": "5afd45b68ccc12422086.webp",
+      "asset_sha256": "5afd45b68ccc12422086d4af2d6431c1fb49c544a294a9bd6d6908ae14b3a74a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "2021swsh": {
+      "name": "McDonald's Collection 2021",
+      "source_url": "https://pokesymbols.com/tcg/sets/mc-donalds-collection-2021",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/mcdonalds-collection-2021.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/mcd21/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "3dc906a7604d1ecbf479.webp",
+      "asset_sha256": "3dc906a7604d1ecbf4796150b293661ab81852e475cecbef4c11b655df32909d",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "me03": {
+      "name": "Perfect Order",
+      "source_url": "https://pokesymbols.com/tcg/sets/perfect-order",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/perfect-order.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.scrydex.com/pokemon/me3-symbol/symbol",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "282451ebae9880194324.webp",
+      "asset_sha256": "282451ebae988019432448fa95e14f9f3f4fb0e34a5d65d8690989d438ebf8e4",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh6": {
+      "name": "Chilling Reign",
+      "source_url": "https://pokesymbols.com/tcg/sets/chilling-reign",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/chilling-reign.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f92688eea47331ce676e.webp",
+      "asset_sha256": "f92688eea47331ce676e95bda98f9938d9199e6c82fbad6d40dbb9798717b3e3",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-xy-n": {
+      "name": "XY Trainer Kit Noivern",
+      "source_url": "https://pokesymbols.com/tcg/sets/xy-trainer-kit-noivern",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy-trainer-kit-noivern.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": null,
+      "asset": "be8a2bd3baba8da71977.webp",
+      "asset_sha256": "be8a2bd3baba8da719775583b02dbb3e4d90da92e3c12ebaae08a6ad8a45a9e1",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "xy2": {
+      "name": "Flashfire",
+      "source_url": "https://pokesymbols.com/tcg/sets/flashfire",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/xy-flashfire.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/xy2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "b41371a3e9c04be78c73.webp",
+      "asset_sha256": "b41371a3e9c04be78c736d9cd5ea6cbf714a58cfe7230f005197c074b2e924e3",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv02": {
+      "name": "Paldea Evolved",
+      "source_url": "https://pokesymbols.com/tcg/sets/paldea-evolved",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/paldea-evolved.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv2/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "05bee29cefe6434bac18.webp",
+      "asset_sha256": "05bee29cefe6434bac181597228605a073dc749df715b6b25c15bd361454ec7f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-sm-l": {
+      "name": "Sun & Moon Trainer Kit Lycanroc",
+      "source_url": "https://pokesymbols.com/tcg/sets/sun-and-moon-trainer-kit-lycanroc",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/sun-and-moon-trainer-kit-lycanroc.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": null,
+      "asset": "ab7dc5b06ea654ed9e08.webp",
+      "asset_sha256": "ab7dc5b06ea654ed9e08996b79529a041de8b3f1dcd4c5ccd634729f8cfb82f3",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "sv04": {
+      "name": "Paradox Rift",
+      "source_url": "https://pokesymbols.com/tcg/sets/paradox-rift",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/paradox-rift.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/sv4/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "58d8a3766708422831da.webp",
+      "asset_sha256": "58d8a3766708422831da7c421ee11fadae131d6d4de22a62578c1b2f5b736a48",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh4.5": {
+      "name": "Shining Fates",
+      "source_url": "https://pokesymbols.com/tcg/sets/shining-fates",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/shining-fates.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "1d739251f2a35f0d59b8.webp",
+      "asset_sha256": "1d739251f2a35f0d59b879346d15a58b23db9173a714f47dddfa99f565322b5b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "30th-c": {
+      "name": "30th Celebration: Classic Collection",
+      "source_url": "https://pokesymbols.com/tcg/sets/30th-celebration-classic-collection",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/30th-celebration.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.scrydex.com/pokemon/me55c-symbol/symbol",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "e59d3a047b3a48384390.webp",
+      "asset_sha256": "e59d3a047b3a48384390a8b0d9935d477a9eb8360db121661661e6d93518692b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "cel25": {
+      "name": "Celebrations",
+      "source_url": "https://pokesymbols.com/tcg/sets/celebrations",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/celebrations.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/cel25/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "f7a941dd408695832a79.webp",
+      "asset_sha256": "f7a941dd408695832a79698fb7ca5cdc26fc96b20c61c6c624507222f4a16a6f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "dp7": {
+      "name": "Stormfront",
+      "source_url": "https://pokesymbols.com/tcg/sets/stormfront",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/stormfront.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/dp7/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "88fb5ac2fabd6ab7a749.webp",
+      "asset_sha256": "88fb5ac2fabd6ab7a7497585068054e04d6e861bd85651c9e12fe932ef66286a",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "swsh10.5": {
+      "name": "Pokémon GO",
+      "source_url": "https://pokesymbols.com/tcg/sets/pokemon-go",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/pokemon-go.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/pgo/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "aa2da3199e312eaf8904.webp",
+      "asset_sha256": "aa2da3199e312eaf8904b061216a5f31718c42817a0f4fdbdfdfca0661646d3f",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    },
+    "tk-ex-p": {
+      "name": "EX Trainer Kit 2 Plusle",
+      "source_url": "https://pokesymbols.com/tcg/sets/ex-trainer-kit-2-plusle",
+      "image_url": "https://pokesymbols.com/images/tcg/sets/symbols/ex-trainer-kit-2-plusle.png",
+      "source_family": "Pokemon Symbols",
+      "fallback": {
+        "source_url": "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/sets/en.json",
+        "image_url": "https://images.pokemontcg.io/tk2a/symbol.png",
+        "source_family": "Pokemon TCG API"
+      },
+      "asset": "8c1b9cd34f2e008574cb.webp",
+      "asset_sha256": "8c1b9cd34f2e008574cbdfaee573d058da5807f8d0a0c2782b3fcd2eb709800b",
+      "retrieved_on": "2026-10-31",
+      "mapping": "exact set ID / exact English name; existing EN/DE canonical set family"
+    }
+  },
+  "unresolved": [
+    {
+      "lang": "en/de",
+      "release": "mfb",
+      "name": "My First Battle",
+      "reason": "No exact symbol asset in reference index"
+    },
+    {
+      "lang": "en/de",
+      "release": "mep",
+      "name": "MEP Black Star Promos",
+      "reason": "No exact symbol asset in reference index"
+    },
+    {
+      "lang": "en/de",
+      "release": "art_academy_2015",
+      "name": "Pokemon Art Academy Competition 2015",
+      "reason": "No exact symbol asset in reference index"
+    }
+  ]
+}

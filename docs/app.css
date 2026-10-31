@@ -168,3 +168,250 @@ dialog[data-kind='market-finder']{width:min(970px,calc(100vw - 32px))}.product-f
 @media(max-width:600px){.source-tabs{gap:5px}.source-tabs button{flex:1;font-size:12px;padding:9px}.subset-filter{gap:5px}.subset-filter button{padding:8px 10px;font-size:12px}.source-edit{margin-left:0}.breadcrumb strong{flex-basis:calc(100% - 100px)}}
 
 .distribution-review{display:block;font-size:12px;color:#dfbd8e;margin:4px 0 8px}
+
+/* 1.8.7: top navigation, compact toolbar and an independent species sidebar. */
+.shell{grid-template-columns:280px minmax(0,1fr);grid-template-rows:auto 1fr;align-items:start}
+.catalog-header{grid-column:2;grid-row:1;min-width:0;width:100%;max-width:1900px;padding:22px 28px 16px}
+.catalog-header .topbar{margin:0;padding:0;border:0;gap:18px;min-height:42px}
+.collection-nav.nav{flex-direction:row;flex-wrap:wrap;gap:6px;min-width:0}
+.collection-nav.nav button{font-size:14px;padding:10px 12px;gap:8px;white-space:nowrap;justify-content:center}
+.collection-nav .nav-count{margin-left:3px;display:inline;font-size:12px}
+.catalog-toolbar{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-top:15px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+.catalog-toolbar .ledgers{flex:none;gap:3px}
+.catalog-toolbar .ledger{padding:8px 9px;font-size:13px;gap:7px;min-height:40px}
+.catalog-toolbar .filters{display:flex;justify-content:flex-end;align-items:center;flex:1 1 740px;gap:8px;margin:0;min-width:0}
+.catalog-toolbar .search{flex:0 1 240px;width:240px;min-width:180px;max-width:260px}
+.catalog-toolbar .search input{width:100%;font-size:13px}
+.catalog-toolbar .filters select{min-height:40px;flex:0 1 auto;width:auto;min-width:0;font-size:13px}
+.catalog-toolbar .filters #sort{min-width:200px;max-width:230px}
+.catalog-toolbar .filters #rarity{max-width:190px}
+.catalog-toolbar .filters #artwork{max-width:170px}
+.main{grid-column:2;grid-row:2;padding:0 28px 60px}
+.sidebar{grid-column:1;grid-row:1/3;padding:20px 12px 14px;gap:12px;align-self:start}
+.sidebar-browse{margin:0;border:0;padding:0;flex:1;min-height:0}
+.browse-panel{gap:10px}
+.browse-specials{padding-bottom:10px}
+.browse-specials .browse-item{font-size:13px;min-height:34px;padding:7px 10px}
+.species-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-content:start;gap:2px 5px;padding:0 2px 0 0;overflow-x:hidden;flex:1;min-height:0}
+.species-list .browse-item{min-width:0;min-height:28px;padding:5px 6px;gap:5px;font-size:13px;line-height:18px;border-radius:5px}
+.species-list .species-number{width:25px;font-size:10px;line-height:18px}
+.species-list .browse-item>span:last-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.side-bottom{margin-top:0;padding-top:10px;flex:none}
+.side-bottom .nav button{font-size:13px;padding:8px 10px;min-height:36px}
+.side-bottom .local{padding:8px 10px 0}
+@media(min-width:701px) and (max-width:1600px){
+ .catalog-toolbar .ledger span{display:none}
+ .catalog-toolbar .ledger{padding:8px}
+ .catalog-toolbar .filters{flex-basis:680px}
+ .catalog-toolbar .search{width:210px;flex-basis:210px}
+}
+@media(min-width:701px) and (max-width:1250px){
+ .shell{grid-template-columns:260px minmax(0,1fr)}
+ .catalog-header{padding:18px 20px 14px}.main{padding:0 20px 45px}
+ .catalog-header .overview{width:180px;flex:none}
+ .collection-nav.nav button{font-size:13px;padding:9px 10px;gap:6px}
+ .catalog-toolbar{gap:10px}.catalog-toolbar .filters{flex-basis:620px}
+ .catalog-toolbar .search{width:180px;flex-basis:180px}
+ .catalog-toolbar .filters #sort{min-width:185px}
+ .species-list .browse-item{font-size:12px;padding-left:5px;padding-right:3px}
+}
+@media(max-width:700px){
+ .shell{display:flex;flex-direction:column;align-items:stretch}
+ .catalog-header{order:0;padding:12px 12px 10px;max-width:none}
+ .catalog-header .topbar{display:block;min-height:0}
+ .collection-nav.nav{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:3px}
+ .collection-nav.nav button{min-width:0;font-size:12px;padding:9px 3px;gap:4px;min-height:38px}
+ .collection-nav.nav button svg{width:15px;height:15px;flex:none}
+ .collection-nav .nav-count{font-size:10px;margin-left:0}
+ .catalog-header .overview{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:10px;row-gap:5px;width:100%;margin-top:10px}
+ .catalog-header .overview-line{margin:0;font-size:10px;justify-content:flex-start;gap:8px;white-space:nowrap}
+ .catalog-header .overview .bar{grid-column:1/-1;grid-row:2}
+ .catalog-header .overall{font-size:9px;margin:0;align-self:center;white-space:nowrap}
+ .catalog-toolbar{display:flex;gap:10px;margin-top:12px;padding-bottom:12px}
+ .catalog-toolbar .ledgers{gap:4px}.catalog-toolbar .ledger{padding:7px 10px;min-height:36px}.catalog-toolbar .ledger span{display:none}
+ .catalog-toolbar .filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));flex:1 1 100%;gap:7px;width:100%}
+ .catalog-toolbar .search{grid-column:1/-1;width:100%;max-width:none;min-width:0}
+ .catalog-toolbar .filters #sort{grid-column:1/-1;min-width:0;max-width:none;width:100%}
+ .catalog-toolbar .filters #rarity,.catalog-toolbar .filters #artwork{width:100%;max-width:none;min-width:0}
+ .sidebar{order:1;position:sticky;top:0;z-index:5;display:block;height:auto;padding:7px 12px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);overflow:visible}
+ .sidebar-browse{display:block;margin:0;padding:0;border:0}
+ .browse-toggle{display:flex;min-height:36px;padding:7px 42px 7px 10px;gap:8px}
+ .browse-toggle>span:first-child{font-size:12px}.browse-toggle strong{font-size:12px}
+ .sidebar-browse .browse-panel{display:none}
+ .sidebar-browse.expanded .browse-panel{display:flex;height:min(55vh,520px);padding-top:8px}
+ .browse-specials{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));padding-bottom:8px;gap:4px}
+ .browse-specials .browse-item{justify-content:center;min-height:36px;font-size:12px;padding:7px 3px}
+ .species-list{gap:2px 6px;padding-bottom:5px}
+ .species-list .browse-item{font-size:13px;min-height:34px;padding:7px 8px;gap:7px}
+ .species-list .species-number{font-size:11px;width:25px}
+ .sidebar .side-bottom{position:absolute;right:12px;top:7px;display:block;margin:0;padding:0;border:0}
+ .sidebar .side-bottom .nav button{font-size:0;padding:8px;min-height:36px}
+ .sidebar .local,.sidebar .readonly-note{display:none}
+ .is-readonly .browse-toggle{padding-right:10px}
+ .main{order:2;padding:16px 12px 40px;width:100%}
+}
+@media(max-width:380px){
+ .collection-nav.nav button{font-size:11px}.collection-nav.nav button svg{display:none}
+ .collection-nav .nav-count{font-size:9px}.catalog-header .overall{font-size:8px}
+}
+
+/* 1.8.8: set identity, generation landmarks and an optional sidebar. */
+.skip-link{position:fixed;top:8px;left:12px;z-index:1000;transform:translateY(-160%);padding:10px 14px;background:var(--accent);color:#151722;border-radius:6px;font-size:14px}
+.skip-link:focus{transform:none}
+.shell.sidebar-hidden{grid-template-columns:0 minmax(0,1fr)}
+.catalog-header .topbar{gap:12px}
+.collection-nav.nav{margin-right:auto}
+.sidebar-toggle{display:inline-flex;align-items:center;justify-content:center;flex:none;width:38px;height:38px;min-height:38px;padding:8px;color:#aeb8cf;background:transparent;border:1px solid var(--line);border-radius:7px}
+.sidebar-toggle:hover{color:var(--accent);background:#232633;border-color:#66718b}
+.sidebar-toggle svg{width:20px;height:20px}
+.sidebar-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.sidebar-toggle[aria-expanded='false']{color:var(--accent);background:#242735;border-color:#606b86}
+.species-list{display:block;padding:1px 3px 5px 0}
+.species-generation{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px 5px;position:relative;margin-top:9px;padding-top:7px;border-top:1px solid #2b2f38}
+.species-generation:first-child{margin-top:7px}
+.species-generation-label{position:absolute;left:5px;top:-7px;margin:0;padding:0 5px;background:#0f0f11;color:#929eb4;font-size:10px;font-weight:500;letter-spacing:.04em;line-height:12px}
+.species-generation-label span{color:#7f899d}
+.species-list .browse-item{font-size:13px;line-height:16px;min-height:24px;padding:4px 6px}
+.species-list .species-number{line-height:16px}
+.card{display:flex;flex-direction:column}
+.card-visual{flex:none}
+.card-meta{display:flex;flex:1;flex-direction:column;gap:8px;padding-top:12px;min-height:0}
+.card-title{display:flex;align-items:center;gap:7px;min-width:0;overflow:visible}
+.card-title .card-name{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#e0e4ee}
+.card-title .collector-number{flex:none;white-space:nowrap;margin:0;color:#a8b2c7;font-variant-numeric:tabular-nums}
+.set-symbol{display:inline-flex;align-items:center;justify-content:center;flex:none;vertical-align:middle;width:27px;height:23px;padding:3px;border-radius:4px;background:#e2e5ec;color:#141923;line-height:1;overflow:hidden}
+.set-symbol img{display:block;width:100%;height:100%;object-fit:contain;filter:none;opacity:1}
+.set-symbol.set-identifier{width:auto;min-width:27px;max-width:58px;padding:3px 5px;font-size:10px;font-weight:700;letter-spacing:0}
+.card-origin{min-width:0}
+.card-origin .card-set{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;white-space:normal;overflow:hidden;min-height:20px;font-size:14px;line-height:1.4;margin:0;color:#c7cfdf;text-align:left}
+.card-classification{align-content:flex-start;min-height:26px;gap:5px}
+.card-bottom{margin-top:auto;padding-top:2px;min-height:34px}
+.card-bottom .card-date{margin-top:0}
+.card-grid{row-gap:30px}
+.detail-links button,.market-link{min-height:32px;font-size:13px}
+@media(min-width:701px) and (max-width:1250px){
+ .catalog-header .overview{width:165px}
+ .collection-nav.nav{gap:3px}.collection-nav.nav button{font-size:12px;padding:9px 7px;gap:5px}
+ .catalog-header .topbar{gap:8px}
+ .sidebar-toggle{width:34px;height:36px;min-height:36px;padding:7px}
+}
+@media(max-width:700px){
+ .catalog-header .topbar{display:grid;grid-template-columns:34px minmax(0,1fr);gap:8px}
+ .sidebar-toggle{width:34px;height:38px;min-height:38px;padding:6px}
+ .collection-nav.nav{width:100%;margin:0;gap:2px}
+ .collection-nav.nav button{padding:9px 2px;font-size:11px;gap:3px}
+ .collection-nav.nav button svg{width:13px;height:13px}
+ .catalog-header .overview{grid-column:1/-1;margin-top:2px}
+ .species-list .browse-item{min-height:36px;line-height:20px;padding:8px;font-size:13px}
+ .species-list .species-number{line-height:20px}
+ .species-generation{margin-top:13px;padding-top:8px;gap:2px 6px}
+ .species-generation-label{font-size:10px;line-height:13px}
+ .card-meta{padding-top:10px;gap:7px}.card-title{gap:5px}
+ .set-symbol{width:23px;height:21px;padding:3px}.set-symbol.set-identifier{min-width:23px;max-width:44px;font-size:9px;padding:3px 4px}
+ .card-origin .card-set{font-size:12px;line-height:1.45;min-height:18px}
+ .card-classification{min-height:24px;gap:4px}
+ .card-grid{row-gap:25px}
+ .wish-btn{min-width:32px;min-height:32px}
+ .detail-links button,.market-link{min-height:36px}
+}
+@media(max-width:400px){
+ .collection-nav .nav-count{display:none}
+ .collection-nav.nav button svg{display:none}
+ .card-title .card-name{font-size:13px}.card-title .collector-number{font-size:11px}
+ .set-symbol{width:21px;height:20px;padding:3px}
+}
+@media(prefers-reduced-motion:reduce){.skip-link{transition:none}}
+
+/* 1.8.9: retained copies of a reviewed out-of-scope form. */
+.research-badge.out-of-scope,.artwork-badge.scope-label{background:#403527;color:#f0d4ac;border-color:#796548}
+
+/* 1.8.10: reserve the sidebar for browsing; application status belongs in the header. */
+.sidebar{padding-top:12px;padding-bottom:10px;gap:8px}
+.sidebar-brand{display:flex;align-items:center;gap:8px;flex:none;min-height:26px;padding:0 7px;color:#e4e8f4;font-size:17px;font-weight:700;letter-spacing:-.02em;line-height:26px}
+.sidebar-brand-mark{display:grid;place-items:center;flex:none;width:25px;height:25px;border-radius:8px;background:#c9ceff;color:#161a29}
+.sidebar-brand-mark svg{width:19px;height:19px;fill:currentColor}
+.header-utilities{display:flex;flex:none;flex-direction:column;align-items:flex-end;justify-content:center;gap:3px;padding-left:14px;border-left:1px solid #2d323e}
+.header-health{display:inline-flex;align-items:center;gap:6px;min-height:30px;padding:5px 8px;border:1px solid transparent;border-radius:6px;color:#adb9cf;background:transparent;font-size:12px;line-height:18px;white-space:nowrap}
+.header-health svg{width:15px;height:15px;flex:none}
+.header-health:hover{background:#232733;color:#e2e7f5}
+.header-health.active{background:#282b36;border-color:#4d566e;color:var(--accent)}
+.header-health:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.save-status{display:inline-flex;align-items:center;gap:5px;min-height:14px;color:#929eb5;font-size:10px;line-height:14px;white-space:nowrap}
+.save-status i{width:5px;height:5px;border-radius:50%;background:#85bca6;flex:none}
+.save-status.is-readonly i{background:#9ba7c2}
+@media(min-width:701px) and (max-width:1050px){
+ .catalog-header .topbar{display:grid;grid-template-columns:34px minmax(0,1fr) auto;column-gap:8px;row-gap:9px}
+ .catalog-header .sidebar-toggle{grid-column:1;grid-row:1}
+ .catalog-header .collection-nav{grid-column:2/-1;grid-row:1;margin:0}
+ .catalog-header .header-utilities{grid-column:2;grid-row:2;justify-self:start;align-items:flex-start;padding-left:0;border:0}
+ .catalog-header .overview{grid-column:3;grid-row:2;align-self:center}
+}
+@media(max-width:700px){
+ .sidebar{padding:7px 12px}
+ .sidebar-brand{display:none}
+ .browse-toggle{padding-right:10px}
+ .catalog-header .sidebar-toggle{grid-column:1;grid-row:1}
+ .catalog-header .collection-nav{grid-column:2;grid-row:1}
+ .catalog-header .overview{grid-column:1/-1;grid-row:2}
+ .catalog-header .header-utilities{grid-column:1/-1;grid-row:3;flex-direction:row;align-items:center;justify-content:space-between;gap:10px;padding:0;border:0;min-width:0}
+ .header-health{min-height:34px;padding:6px 8px}
+ .save-status{font-size:10px;line-height:16px;white-space:normal;text-align:right}
+ .is-readonly .header-utilities{justify-content:flex-end}
+}
+
+/* 1.8.11: one tile and three caption rows; ownership never covers the artwork. */
+.sidebar-brand-mark{width:30px;height:26px;border-radius:0;background:transparent}
+.sidebar-brand-mark img{display:block;width:30px;height:26px;object-fit:contain;filter:none;opacity:1}
+.card{padding:5px;background:#171a21;border:1px solid #303642;border-radius:11px;overflow:hidden;transition:border-color .15s,background-color .15s}
+.card.owned{background:#222938;border-color:#637294}
+.card:hover{border-color:#58647b}
+.card.owned:hover{border-color:#9aa9ce}
+.card:focus-within{outline:2px solid var(--accent);outline-offset:2px}
+.card.research-card{border-style:dashed}
+.card .card-visual{border:0;padding:0;border-radius:6px;background:#1c1f26;box-shadow:none}
+.card .card-visual:hover{transform:none;background:#1c1f26}
+.card.owned .card-visual{box-shadow:none;border-color:transparent}
+.card-meta{padding:10px 4px 5px;gap:7px;min-height:0}
+.card-heading{display:flex;align-items:baseline;gap:8px;min-width:0}
+.card-title{flex:1;justify-content:flex-start;align-items:baseline;gap:6px;min-width:0;line-height:1.35}
+.card-title .card-name{display:block;flex:0 1 auto;min-width:0;overflow:visible;white-space:normal;text-overflow:clip;overflow-wrap:anywhere;-webkit-line-clamp:unset;font-size:16px;line-height:1.35}
+.card-title .collector-number{flex:none;font-size:13px;line-height:1.35;color:#a4aec3}
+.card-heading .card-price{flex:none;flex-wrap:nowrap;white-space:nowrap;border:0;border-radius:0;background:transparent;padding:0;gap:3px;line-height:1.35}
+.card-heading .card-price strong{font-size:16px;color:#e2e8f7}
+.card-heading .card-price small{font-size:10px;color:#a4b1cb}
+.card-origin{min-width:0;line-height:1.45}
+.card-source{display:block;width:100%;min-width:0;padding:0;border:0;border-radius:0;background:transparent;color:#c7cfdf;text-align:left;font-size:14px;line-height:1.45;white-space:normal}
+.card-source:hover{background:transparent;color:#e7ebf5}
+.card-origin .card-set{display:inline;margin:0;padding:0;border:0;min-height:0;white-space:normal;overflow:visible;-webkit-line-clamp:unset;font-size:14px;line-height:1.45;color:inherit}
+.card-origin .set-symbol{width:21px;height:18px;padding:2px;margin-right:5px;border-radius:3px;vertical-align:-3px}
+.card-origin .set-symbol.set-identifier{width:auto;min-width:21px;max-width:48px;padding:2px 4px;font-size:9px}
+.card-origin .card-date{display:inline;margin:0;font-size:12px;line-height:1.45;color:#929eb5;white-space:nowrap}
+.card-origin .card-date::before{content:'·';margin-right:4px;color:#69788f}
+.card-classification{display:flex;flex-wrap:nowrap;align-items:flex-start;gap:7px;margin-top:auto;min-height:30px}
+.card-tags{display:flex;flex:1;flex-wrap:wrap;align-items:center;align-content:flex-start;gap:4px;min-width:0;padding-top:2px}
+.card-tags .rarity-badge,.card-tags .printing-chip{font-size:11px;min-height:24px;padding:3px 5px;max-width:100%;white-space:normal;overflow-wrap:anywhere}
+.card-tags .research-badge{position:static;top:auto;left:auto;min-height:24px;padding:3px 5px;line-height:16px;font-size:10px;border-radius:4px}
+.card-classification>.add{flex:none;align-self:flex-start;width:30px;height:30px;min-height:30px;margin:0;background:#202631;border-color:#465167;color:#c1cce1}
+.card-classification>.add:hover{background:#343d52;color:#fff;border-color:#8d9dbe}
+.card .artwork-credit,.card .distribution-review{font-size:11px;line-height:1.4;margin:0;color:#a8b4cb}
+.printing-section .detail-wish{position:static;display:inline-flex;align-items:center;justify-content:center;gap:6px;width:auto;height:auto;min-height:34px;margin:0;padding:6px 9px;border:1px solid #3c4659;border-radius:6px;background:transparent;box-shadow:none;font-size:12px;line-height:18px;color:#b5c1d8}
+.printing-section .detail-wish svg{width:15px;height:15px;flex:none}
+.printing-section .detail-wish:hover{background:#272e3c;color:#edf0f7}
+.printing-section .detail-wish.wanted{background:#312d25;border-color:#746041;color:#ebcf8c}
+@media(max-width:700px){
+ .card{padding:4px;border-radius:9px}
+ .card .card-visual{border-radius:5px}
+ .card-meta{padding:8px 3px 4px;gap:6px}
+ .card-heading{gap:5px}.card-title{gap:4px}
+ .card-title .card-name{font-size:13px}.card-title .collector-number{font-size:11px}
+ .card-heading .card-price strong{font-size:14px}.card-heading .card-price small{font-size:9px}
+ .card-source,.card-origin .card-set{font-size:12px}.card-origin .card-date{font-size:11px}
+ .card-origin .set-symbol{width:19px;height:17px;margin-right:4px}
+ .card-origin .set-symbol.set-identifier{min-width:19px;max-width:40px;font-size:8px}
+ .card-classification{gap:4px;min-height:30px}.card-tags{gap:3px}
+ .card-tags .rarity-badge,.card-tags .printing-chip{font-size:10px;padding:3px 4px;min-height:23px}
+ .card-tags .research-badge{font-size:9px;min-height:23px}
+ .card .artwork-credit,.card .distribution-review{font-size:10px}
+ .printing-section .detail-wish{min-height:36px}
+}
+@media(prefers-reduced-motion:reduce){.card{transition:none}}

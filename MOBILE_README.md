@@ -1,4 +1,14 @@
-# DogDex on PC and mobile — version 1.8.6
+# Mobile data update 1.8.9
+
+Export the mobile view after installing the update, then commit and push docs in GitHub Desktop. Restored German 077, corrected 120 cameo classification and retained out-of-scope owned 104 records are included in that export.
+
+# Mobile viewer update 1.8.8
+
+After installing the UI patch, export the mobile view again, then commit and push the changed docs folder in GitHub Desktop. The export includes local set symbols and the new sidebar controls. It does not sync automatically before an export.
+
+# DogDex on PC and mobile — version 1.8.7
+
+1.8.7 updates navigation and lets Cameos / Jumbo combine with species. After updating the PC application, export the mobile view again, then Commit and Push. Ownership and personal data continue to come from your current PC collection.
 
 1.8.6 adds the reviewed printing corrections and preserves the 1.8.5 source navigation. After updating the PC, export the read-only mobile view again, then Commit and Push. Keep my_collection.
 

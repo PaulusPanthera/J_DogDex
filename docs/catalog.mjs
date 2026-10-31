@@ -11,6 +11,14 @@ const rank=e=>e.rarity_order??({common:0,C:0,uncommon:10,U:10,rare:20,R:20,rare_
 export function compareRows(a,b,sort='pokedex',roster=new Map()){const x=a.e,y=b.e,dex=e=>e.subject_dex?.[0]||e.cameo_dex?.[0]||e.dex||9999;let order=sort==='pokedex'?dex(x)-dex(y):sort==='pokemon'?(roster.get(dex(x))||x.english).localeCompare(roster.get(dex(y))||y.english,'en'):sort==='rarity'?(a.rarity_order??rank(x))-(b.rarity_order??rank(y)):0;return order||compareDates(effectiveDate(a),effectiveDate(b),sort==='newest'?-1:1)||x.release.localeCompare(y.release,'en',{numeric:true})||String(x.number).localeCompare(String(y.number),'en',{numeric:true})||dex(x)-dex(y)||a.label.localeCompare(b.label);}
 const dateFormats={month:new Intl.DateTimeFormat('en-GB',{month:'short',year:'numeric',timeZone:'UTC'}),day:new Intl.DateTimeFormat('en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'})};
 export function dateLabel(e,p=null){if(p?.date_state==='unresolved_product_date')return 'Product date needs research';let v=p?.release_date||e.release_date||e.year;if(!v)return e.date_state==='sourced_regional_period'&&e.release_period?e.release_period:'Date needs research';v=String(v);const prefix=(!p?.release_date&&e.date_state==='provider_reference'||p?.date_state==='provider_reference')?'≈ ':'';if(v.length===4)return prefix+v;if(v.length===7)return prefix+dateFormats.month.format(new Date(v+'-01T00:00:00Z'));return prefix+dateFormats.day.format(new Date(v+'T00:00:00Z'));}
+export function yearLabel(e,p=null){
+ if(p?.date_state==='unresolved_product_date')return '';
+ const [year]=dateParts(p?.release_date||e.release_date||e.year);
+ if(year){const approximate=(!p?.release_date&&e.date_state==='provider_reference')||p?.date_state==='provider_reference';return (approximate?'≈ ':'')+year;}
+ if(e.date_state!=='sourced_regional_period')return '';
+ const years=[...new Set(String(e.release_period||'').match(/\b(?:19|20)\d{2}\b/g)||[])];
+ return years.length<=2?years.join('–'):'';
+}
 export function uniqueProgress(list,copies){const groups=new Map();for(const r of list){if(r.research||['provisional','disputed','excluded','announced'].includes(r.e?.identity_status)||['provisional','disputed','excluded'].includes(r.collection_status))continue;const key=r.physical_key?JSON.stringify(r.physical_key):r.id;groups.set(key,groups.get(key)||!!copies.get(r.id)?.length);}return {total:groups.size,owned:[...groups.values()].filter(Boolean).length};}
 export function marketLink(e,p){
  if(p?.market_confirmed&&p.market_match?.method==='collector_product_search'&&Number.isSafeInteger(p.price_product_id))return {url:'https://www.cardmarket.com/en/Pokemon/Products?'+new URLSearchParams({idProduct:p.price_product_id}),label:'Open matched Cardmarket product',exact:true};
