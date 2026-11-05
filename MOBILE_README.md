@@ -1,3 +1,5 @@
+Cardmarket links in 1.8.14: the read-only viewer uses the published confirmed products and automatically filters outgoing offers by ledger language, edition and reverse-holo status. Minimum condition defaults to Excellent+ and is saved separately in each browser. Guide prices remain product-wide. Re-export and push docs after updating the desktop application.
+
 # Mobile data update 1.8.9
 
 Export the mobile view after installing the update, then commit and push docs in GitHub Desktop. Restored German 077, corrected 120 cameo classification and retained out-of-scope owned 104 records are included in that export.

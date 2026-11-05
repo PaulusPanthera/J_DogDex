@@ -1,11 +1,11 @@
 import {setSymbolMarkup} from './set-symbols.mjs';
 import {sourceRoot,inSource,groupSources,subsetSections,localizedScope,setDestination} from './source-ui.mjs';
 import {canonicalSet,recognizedSetQuery,equivalentSource,equivalentCard,equivalentPrinting} from './localization.mjs';
-import {makeEditor} from './editor-ui.mjs?v=1.8.12';
-import {priceMarkup,pricePreview} from './prices.mjs';
+import {makeEditor} from './editor-ui.mjs?v=1.8.15';
+import {priceMarkup,pricePreview} from './prices.mjs?v=1.8.15';
 import {rarityMarkup,finishClass,rarityDisplayLabel} from './appearance.mjs';
-import {makeMarketFinder} from './market-ui.mjs';
-import {compareRows,compareDates,dateLabel,yearLabel,effectiveDate,pokemonIds,primaryPokemonIds,isCameo,isFullArt,inCategory,uniqueProgress,marketLink,rarityKey,compareSources,sourceDateLabel} from './catalog.mjs?v=1.8.11';
+import {makeMarketFinder} from './market-ui.mjs?v=1.8.14';
+import {compareRows,compareDates,dateLabel,yearLabel,effectiveDate,pokemonIds,primaryPokemonIds,isCameo,isFullArt,inCategory,uniqueProgress,marketLink,rarityKey,compareSources,sourceDateLabel,entryPreview,marketConditions,comparePrintings} from './catalog.mjs?v=1.8.15';
 const $=s=>document.querySelector(s);
 const readOnly=document.documentElement?.dataset?.readonly==='true';
 let marketPrices={},publishedAt=null;
@@ -17,12 +17,12 @@ const conditionLabels={unassessed:'Unassessed',mint:'Mint',near_mint:'Near mint'
 const pretty=x=>String(x||'').replaceAll('_',' ').replace(/\b\w/g,c=>c.toUpperCase());
 const formatMoney=(minor,currency)=>new Intl.NumberFormat('en-GB',{style:'currency',currency}).format(minor/(['JPY','KRW'].includes(currency)?1:100));
 const imgUrl=image=>!image?null:image.startsWith('/user-images/')?(readOnly?'.'+image:image):(readOnly?'./images/':'/images/')+encodeURIComponent(image);
-const imageMarkup=(image,alt,cls='')=>image?`<img class="${cls}" src="${esc(imgUrl(image))}" alt="${esc(alt)}" loading="${cls.includes('detail-image')?'eager':'lazy'}" ${cls.includes('detail-image')?'fetchpriority="high"':''} decoding="async">`:`<div class="placeholder ${cls}" role="img" aria-label="Catalog picture unavailable">◇<small>Catalog picture<br>not available yet</small></div>`;
+const imageMarkup=(image,alt,cls='',emptyLabel='Catalog picture not available yet')=>image?`<img class="${cls}" src="${esc(imgUrl(image))}" alt="${esc(alt)}" loading="${cls.includes('detail-image')?'eager':'lazy'}" ${cls.includes('detail-image')?'fetchpriority="high"':''} decoding="async">`:`<div class="placeholder ${cls}" role="img" aria-label="${esc(emptyLabel)}">◇<small>${esc(emptyLabel)}</small></div>`;
 let prefs={};try{const saved=JSON.parse(localStorage.getItem('dogdex-view-v1')||'{}');if(saved&&typeof saved==='object'&&!Array.isArray(saved))prefs=saved;}catch{}
-const ui={lang:prefs.lang||'en',view:prefs.view||'all',sort:prefs.sort||'pokedex',rarity:prefs.rarity==='full_art'?'':prefs.rarity||'',category:['cameo','jumbo'].includes(prefs.category)?prefs.category:'all',pokemon:prefs.pokemon||'',pending:prefs.pending!==false,q:'',source:null,subset:'all',sourcesTab:'sets',limit:96,health:'cards',issue:'',browseOpen:false,sidebarCollapsed:prefs.sidebarCollapsed===true,artwork:prefs.artwork||(prefs.rarity==='full_art'?'full_art':'')};
+const ui={marketCondition:marketConditions.some(([v])=>v===prefs.marketCondition)?prefs.marketCondition:'3',lang:prefs.lang||'en',view:prefs.view||'all',sort:prefs.sort||'pokedex',rarity:prefs.rarity==='full_art'?'':prefs.rarity||'',category:['cameo','jumbo'].includes(prefs.category)?prefs.category:'all',pokemon:prefs.pokemon||'',pending:prefs.pending!==false,q:'',source:null,subset:'all',sourcesTab:'sets',limit:96,health:'cards',issue:'',browseOpen:false,sidebarCollapsed:prefs.sidebarCollapsed===true,artwork:prefs.artwork||(prefs.rarity==='full_art'?'full_art':'')};
 let catalog,user,token,serverView=null,sourceRecords=[],entries=[],rows=[],byEntry=new Map(),byPrinting=new Map(),copies=new Map(),wishes=new Set(),roster=new Map(),toastTimer,speciesScrollTop=0,searchIndex=new WeakMap();
 let modal={kind:null,id:null,entryId:null,printingId:null,tab:'identity'};
-const persist=()=>{try{localStorage.setItem('dogdex-view-v1',JSON.stringify({lang:ui.lang,view:ui.view,sort:ui.sort,rarity:ui.rarity,category:ui.category,pokemon:ui.pokemon,pending:ui.pending,artwork:ui.artwork,sidebarCollapsed:ui.sidebarCollapsed}));}catch{}};
+const persist=()=>{try{localStorage.setItem('dogdex-view-v1',JSON.stringify({lang:ui.lang,view:ui.view,sort:ui.sort,rarity:ui.rarity,category:ui.category,pokemon:ui.pokemon,pending:ui.pending,artwork:ui.artwork,sidebarCollapsed:ui.sidebarCollapsed,marketCondition:ui.marketCondition}));}catch{}};
 function rebuild(){
  entries=serverView?.entries||catalog.entries;sourceRecords=serverView?.sources||[];if(ui.source)ui.source=sourceRoot(ui.source.id,sourceRecords)||null;byEntry=new Map(entries.map(e=>[e.id,e]));rows=[];byPrinting=new Map();copies=new Map();wishes=new Set();const aliases=new Map(entries.flatMap(e=>Object.entries(e.printing_aliases||{})));for(const r of user.wishlist)wishes.add(aliases.get(r.printing_id)||r.printing_id);roster=new Map(catalog.roster.map(r=>[r.dex,r.name]));
  searchIndex=new WeakMap();for(const e of entries)searchIndex.set(e,searchText(e));
@@ -45,7 +45,7 @@ function matches(e,p=null,ignoreQuery=false){return e.lang===ui.lang&&(ignoreQue
 function filteredRows(category=true,pending=false,{ignoreQuery=false,ignoreScope=false}={}){
  let list=rows.filter(r=>(!r.research||ui.view==='collection'||ui.view==='wishlist')&&matches(r.e,r,ignoreQuery)&&(!ui.rarity||rarityKey(r)===ui.rarity));
  if(ui.view==='collection')list=list.filter(r=>copies.get(r.id)?.length);if(ui.view==='wishlist')list=list.filter(r=>wishes.has(r.id));
- if(pending&&['all','sources'].includes(ui.view)&&ui.pending)list.push(...entries.filter(e=>e.identity_status!=='excluded'&&(!e.printings.length||e.printing_claims?.length||e.variant_claims?.some(x=>x.disposition!=='matched'))&&matches(e,null,ignoreQuery)&&(!ui.rarity||rarityKey(e)===ui.rarity)).map(e=>({e,id:e.id,image:e.image,research:true,label:e.identity_status==='disputed'?'Disputed · research':e.identity_status==='provisional'?'Identity / language unconfirmed':e.identity_status==='announced'?'Announced · unreleased':'Printing claims need research',distribution_source_ids:[...new Set(e.printing_claims?.flatMap(p=>p.distribution_source_ids||[])||[])],size:e.category==='jumbo'||e.variant_claims?.some(c=>c.normalized_partial?.size==='oversized')?'oversized':'standard',material:'paper'})));
+ if(pending&&['all','sources'].includes(ui.view)&&ui.pending)list.push(...entries.filter(e=>e.identity_status!=='excluded'&&(!e.printings.length||e.printing_claims?.length||e.variant_claims?.some(x=>x.disposition!=='matched'))&&matches(e,null,ignoreQuery)&&(!ui.rarity||rarityKey(e)===ui.rarity)).map(e=>({e,id:e.id,image:entryPreview(e).image,research:true,label:e.identity_status==='disputed'?'Disputed · research':e.identity_status==='provisional'?'Identity / language unconfirmed':e.identity_status==='announced'?'Announced · unreleased':'Printing claims need research',distribution_source_ids:[...new Set(e.printing_claims?.flatMap(p=>p.distribution_source_ids||[])||[])],size:e.category==='jumbo'||e.variant_claims?.some(c=>c.normalized_partial?.size==='oversized')?'oversized':'standard',material:'paper'})));
  if(ui.source&&!ignoreScope)list=list.filter(r=>inSource(r,ui.source,ui.subset,sourceRecords));if(category)list=list.filter(r=>inCategory(r,ui.category));return list.sort((a,b)=>compareRows(a,b,ui.sort,roster));
 }
 
@@ -148,8 +148,8 @@ function openDialog(title,subtitle,body,kind,id=null,entryId=null,headerExtra=''
 function closeDialog(){$('#dialog').close();document.body.append($('#toast'));modal.kind=null;}
 function detail(pid){
  const r=byPrinting.get(pid);if(!r)return;pid=r.id;
- const e=r.e,list=copies.get(pid)||[],cm=marketLink(e,r),switching=modal.kind==='detail'&&modal.entryId===e.id,title=e.lang==='en'?e.name:e.english;
- const variants=[...e.printings,...(e.printing_claims||[])];
+ const e=r.e,list=copies.get(pid)||[],cm=marketLink(e,r,{condition:ui.marketCondition}),switching=modal.kind==='detail'&&modal.entryId===e.id,title=e.lang==='en'?e.name:e.english;
+ const variants=[...e.printings,...(e.printing_claims||[])].sort(comparePrintings);
  const options=variants.map(p=>{
   const count=copies.get(p.id)?.length||0,research=!e.printings.some(q=>q.id===p.id);
   return `<button class="printing-option ${finishClass(p)} ${p.id===pid?'active':''}" data-action="detail" data-id="${esc(p.id)}" aria-pressed="${p.id===pid}" title="${esc(p.label)}"><span class="variant-check" aria-hidden="true">${p.id===pid?icon('check'):''}</span><span class="variant-text">${esc(printingParts(p.label).join(' · '))}${research?'<small class="variant-research">Research</small>':''}</span>${count?`<span class="variant-owned" aria-label="${count} ${count===1?'copy':'copies'} owned">×${count}</span>`:''}</button>`;
@@ -162,7 +162,7 @@ function detail(pid){
  const header=`<div class="detail-native"><div class="detail-languages" aria-label="Card languages">${Object.entries(languages).map(([key,name])=>`<button class="${key===e.lang?'active':''}" data-action="language" data-lang="${key}" aria-label="${name} card" aria-pressed="${key===e.lang}" title="${name}"><img src="${readOnly?'./':'/'}flags/${key}.svg" alt=""></button>`).join('')}</div><span>${esc(e.name!==title?e.name:languages[e.lang])}</span><span class="detail-dex">#${String(e.dex).padStart(3,'0')}</span></div><div class="detail-facts">${rarityMarkup(r,esc)}${e.scope_review?.decision==='excluded_form'?'<span class="artwork-badge scope-label">Outside Zygarde 10% scope</span>':''}${e.art_style==='full_art'?'<span class="artwork-badge">Full Art</span>':''}</div>`;
  const imageStatus=r.image_review?.status==='verified'?'Verified printing image':r.image_review?.kind==='physical_photo'?'Printing image · unchecked':'Reference artwork';
  const linked=r.market_confirmed&&r.price_product_id;
- const market=`<section class="market-section" aria-label="Market reference"><div class="detail-section-heading"><h3>Market reference</h3>${!readOnly&&!r.research?`<button class="quiet market-find" data-action="market-find" data-id="${pid}">${icon(linked?'edit':'link')}${linked?'Change product':'Find Cardmarket product'}</button>`:''}</div>${priceMarkup(marketPrices,pid,esc)||`<p class="market-empty">${linked?'Price not cached':'Not linked'}</p>`}<a class="market-link" href="${esc(cm.url)}" target="_blank" rel="noopener noreferrer" title="${esc(cm.label)}">${icon('link')}${cm.exact?'Open listing':'Search Cardmarket'}</a></section>`;
+ const market=`<section class="market-section" aria-label="Market reference"><div class="detail-section-heading"><h3>Market reference</h3>${!readOnly&&!r.research?`<button class="quiet market-find" data-action="market-find" data-id="${pid}">${icon(linked?'edit':'link')}${linked?'Change product':'Find Cardmarket product'}</button>`:''}</div>${priceMarkup(marketPrices,pid,esc)||`<p class="market-empty">${linked?'Price not cached':'Not linked'}</p>`}<div class="market-offers"><a class="market-link" href="${esc(cm.url)}" target="_blank" rel="noopener noreferrer" title="${esc(cm.offers?cm.filterLabel:cm.label)}">${icon('link')}${cm.offers?'Open '+languages[e.lang]+' offers':'Search Cardmarket'}</a><label class="offer-condition"><span>Min. condition</span><select id="market-condition" aria-label="Minimum condition for Cardmarket offers">${marketConditions.map(([v,n])=>`<option value="${v}" ${ui.marketCondition===v?'selected':''}>${esc(n)}</option>`).join('')}</select></label></div></section>`;
  openDialog(title+' '+(/^Unnumbered$/i.test(e.number)?'· Unnumbered':'#'+e.number),`${e.set_name} · ${dateLabel(e,r)}`,
   `<div class="modal-body"><div class="detail"><div class="detail-media"><div class="detail-image-wrap">${imageMarkup(r.image,e.name,'detail-image')}</div>${!readOnly?`<div class="detail-image-caption"><span class="image-review-badge">${esc(imageStatus)}</span><button class="quiet btn-small" data-action="picture" data-id="${e.id}" data-printing="${pid}">${icon('edit')}Change picture</button></div>`:''}</div><div class="detail-info"><section class="printing-section" aria-label="Printing selection"><div class="detail-section-heading"><h3>Printing</h3>${!readOnly?`<button class="quiet detail-wish ${wishes.has(pid)?'wanted':''}" data-action="wish-detail" data-id="${pid}" aria-label="${wishes.has(pid)?'Remove from':'Add to'} wishlist" aria-pressed="${wishes.has(pid)}" title="${wishes.has(pid)?'Remove from':'Add to'} wishlist">${icon('heart',wishes.has(pid))}<span>Wishlist</span></button>`:''}</div><div class="detail-printings" role="group" aria-label="Choose a printing">${options}</div></section>${r.world_championship_year||r.date_note?`<p class="form-note printing-note">${esc(r.world_championship_year?r.notes:r.date_note)}</p>`:''}<section class="copy-list ${list.length?'has-copies':''}" aria-label="Your collection"><div class="detail-section-heading"><h3>Your copies${list.length?`<span class="copy-count" aria-label="${list.length} physical ${list.length===1?'copy':'copies'}">${list.length}</span>`:''}</h3>${addCopy}</div>${list.length?copyRows:'<p class="detail-empty">Not collected</p>'}</section>${market}${!readOnly?`<div class="detail-links"><button class="quiet" data-action="review" data-id="${e.id}" data-printing="${pid}">${icon('edit')}Edit catalog</button></div>`:''}</div></div></div>`,'detail',pid,e.id,header);
 
@@ -193,13 +193,13 @@ function copyForm(pid,cid=null){
 function review(eid,tab='card',pid=null){editor.card(eid,tab,pid);}
 function newCard(key=null){editor.card(null,'card',null,key);}
 const editor=makeEditor({rarityLabel:rarityDisplayLabel,prices:()=>marketPrices,esc,pretty,icon,languages,ui,dateLabel,imageMarkup,matchesScope,activeFilters,resetButton,openDialog,closeDialog,post,render,toast,catalog:()=>catalog,taxonomy:()=>serverView?.printing_taxonomy,state:()=>user,entries:()=>entries,sources:()=>sourceRecords,trash:()=>serverView?.trash||[]});
-const marketFinder=makeMarketFinder({esc,icon,languages,imageMarkup,post,openDialog,render,detail,toast,printing:pid=>byPrinting.get(pid),isOpen:()=>modal.kind==='market-finder'});
+const marketFinder=makeMarketFinder({condition:()=>ui.marketCondition,esc,icon,languages,imageMarkup,post,openDialog,render,detail,toast,printing:pid=>byPrinting.get(pid),isOpen:()=>modal.kind==='market-finder'});
 document.addEventListener('click',async event=>{
  const b=event.target.closest('[data-action]');if(!b)return;const a=b.dataset.action,id=b.dataset.id;
  try{
   if(!readOnly&&await marketFinder.click(a,b))return;
   if(await editor.click(a,b))return;
-  if(readOnly&&a==='review'){const e=byEntry.get(id);if(e)openDialog(e.name+' · '+e.number,e.set_name,`<div class="modal-body">${imageMarkup(e.image,e.name,'detail-image')}<p class="image-note">Research entry · ${esc(pretty(e.identity_status||'documented'))}. Physical printing details need review on the PC.</p></div>`,'research',id);return;}
+  if(readOnly&&a==='review'){const e=byEntry.get(id);if(e)openDialog(e.name+' · '+e.number,e.set_name,`<div class="modal-body">${imageMarkup(entryPreview(e).image,e.name,'detail-image')}<p class="image-note">Research entry · ${esc(pretty(e.identity_status||'documented'))}. Physical printing details need review on the PC.</p></div>`,'research',id);return;}
   if(a==='mobile-export'){b.disabled=true;try{const r=await post('mobile/export',{});toast(r.message);}finally{b.disabled=false;}return;}
   if(a==='market-refresh'){b.disabled=true;try{const r=await post('market/refresh',{});toast(`Cardmarket guide refreshed · ${Object.keys(r.prices?.printings||{}).length} confirmed printing matches.`);}finally{b.disabled=false;}return;}
   if(a==='view'){ui.view=b.dataset.view;ui.source=null;ui.subset='all';ui.limit=96;render();window.scrollTo(0,0);}
@@ -232,6 +232,7 @@ let searchTimer;document.addEventListener('input',event=>{if(event.target.id==='
 document.addEventListener('change',async event=>{
  if(!readOnly&&marketFinder.change(event.target))return;
  if(editor.change(event.target))return;
+ if(event.target.id==='market-condition'){ui.marketCondition=event.target.value;persist();const pid=modal.id;if(modal.kind==='detail'){detail(pid);$('#market-condition')?.focus?.({preventScroll:true});}return;}
  if(event.target.id==='pending'){ui.pending=event.target.checked;render();}
  if(event.target.id==='sort'){ui.sort=event.target.value;render();}
  if(event.target.id==='artwork'){ui.artwork=event.target.value;ui.limit=96;render();}

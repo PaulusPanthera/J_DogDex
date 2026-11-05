@@ -12,11 +12,11 @@ function priceContext(prices,pid){
 }
 export function pricePreview(prices,pid,esc){
  const selected=primaryPrice(prices,pid);if(!selected)return '';
- const context=priceContext(prices,pid),title=`Cardmarket ${selected.label} · ${context.series} · ${context.date}${context.stale?' · Older snapshot':''} · all available languages and conditions`;
+ const context=priceContext(prices,pid),title=`Cardmarket ${selected.label} · ${context.series} · ${context.date}${context.stale?' · Older snapshot':''} · product-wide · languages, editions and conditions combined`;
  return `<span class="card-price" data-price-kind="${selected.key}" title="${esc(title)}" aria-label="${esc(title+': '+selected.text)}">${selected.key==='low'?'<small>from</small>':''}<strong>${esc(selected.text)}</strong></span>`;
 }
 export function priceMarkup(prices,pid,esc){
  const selected=primaryPrice(prices,pid);if(!selected)return '';
  const value=prices.printings[pid],context=priceContext(prices,pid);
- return `<details class="market-guide" title="Product reference across available languages and conditions"><summary><span class="market-heading">Cardmarket</span><strong class="market-primary">${selected.key==='low'?'<small>from </small>':''}${esc(selected.text)}</strong><span class="price-chevron" aria-hidden="true">⌄</span></summary><div class="market-breakdown">${['trend','avg7','avg30','low'].map(key=>`<span><small>${esc(priceNames[key])}</small><strong>${validPrice(value[key])?esc(guideMoney.format(value[key])):'—'}</strong></span>`).join('')}<span class="market-updated">${esc(selected.label)} · ${esc(context.date)} · ${context.series} · EUR${context.stale?' · older snapshot':''}</span></div></details>`;
+ return `<details class="market-guide" title="Product-wide guide: languages, editions and conditions combined. Offer filters do not change this price."><summary><span class="market-heading">Cardmarket guide</span><strong class="market-primary">${selected.key==='low'?'<small>from </small>':''}${esc(selected.text)}</strong><span class="price-chevron" aria-hidden="true">⌄</span></summary><div class="market-breakdown">${['trend','avg7','avg30','low'].map(key=>`<span><small>${esc(priceNames[key])}</small><strong>${validPrice(value[key])?esc(guideMoney.format(value[key])):'—'}</strong></span>`).join('')}<span class="market-updated">${esc(selected.label)} · ${esc(context.date)} · ${context.series} · EUR${context.stale?' · older snapshot':''} · product-wide</span></div></details>`;
 }
