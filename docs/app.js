@@ -1,11 +1,11 @@
 import {setSymbolMarkup} from './set-symbols.mjs';
 import {sourceRoot,inSource,groupSources,subsetSections,localizedScope,setDestination} from './source-ui.mjs';
 import {canonicalSet,recognizedSetQuery,equivalentSource,equivalentCard,equivalentPrinting} from './localization.mjs';
-import {makeEditor} from './editor-ui.mjs?v=1.8.15';
-import {priceMarkup,pricePreview} from './prices.mjs?v=1.8.15';
+import {makeEditor} from './editor-ui.mjs?v=1.8.16';
+import {priceMarkup,pricePreview} from './prices.mjs?v=1.8.16';
 import {rarityMarkup,finishClass,rarityDisplayLabel} from './appearance.mjs';
 import {makeMarketFinder} from './market-ui.mjs?v=1.8.14';
-import {compareRows,compareDates,dateLabel,yearLabel,effectiveDate,pokemonIds,primaryPokemonIds,isCameo,isFullArt,inCategory,uniqueProgress,marketLink,rarityKey,compareSources,sourceDateLabel,entryPreview,marketConditions,comparePrintings} from './catalog.mjs?v=1.8.15';
+import {compareRows,compareDates,dateLabel,yearLabel,effectiveDate,pokemonIds,primaryPokemonIds,isCameo,isFullArt,inCategory,uniqueProgress,marketLink,rarityKey,compareSources,sourceDateLabel,entryPreview,marketConditions,comparePrintings} from './catalog.mjs?v=1.8.16';
 const $=s=>document.querySelector(s);
 const readOnly=document.documentElement?.dataset?.readonly==='true';
 let marketPrices={},publishedAt=null;
@@ -134,6 +134,7 @@ function setForm(key){editor.source(key);}
 function health(){return editor.health();}
 
 function render(){
+ editor.syncSelection();
  const focused=document.activeElement?.id,position=focused==='search'?document.activeElement.selectionStart:null,scroll=window.scrollY,oldList=$('#species-list');if(oldList?.clientHeight)speciesScrollTop=oldList.scrollTop;persist();const languageRows=rows.filter(r=>r.e.lang===ui.lang),p=progress(languageRows),total=progress(rows);const navs=[['all','cards','All cards'],['collection','collection','My collection'],['wishlist','heart','Wishlist'],['sources','box','Sources']];const titles={all:'All cards',collection:'My collection',wishlist:'Wishlist',sources:'Sets & sources',health:'Data health'};
  $('#app').innerHTML=`<a class="skip-link" href="#main-content">Skip to cards</a><div class="shell ${ui.sidebarCollapsed?'sidebar-hidden':''} ${readOnly?'is-readonly':''}"><header class="catalog-header"><div class="topbar">${sidebarToggle()}<nav class="nav collection-nav" aria-label="Collection views">${navs.map(([v,i,n])=>`<button id="nav-${v}" class="${ui.view===v?'active':''}" data-action="view" data-view="${v}" ${ui.view===v?'aria-current="page"':''}>${icon(i)}${n}${v==='collection'?`<span class="nav-count">${p.owned}</span>`:v==='wishlist'?`<span class="nav-count">${languageRows.filter(r=>wishes.has(r.id)).length}</span>`:''}</button>`).join('')}</nav>${headerUtilities()}<div class="overview"><div class="overview-line"><span>Collected printings</span><strong>${p.owned.toLocaleString()} / ${p.total.toLocaleString()}</strong></div>${bar(p)}<div class="overall">${total.owned.toLocaleString()} / ${total.total.toLocaleString()} across all four ledgers</div></div></div><div class="catalog-toolbar"><div class="ledgers" aria-label="Language ledgers">${Object.entries(languages).map(([key,name])=>`<button id="lang-${key}" class="ledger ${ui.lang===key?'active':''}" data-action="language" data-lang="${key}" aria-label="${name} collection" title="${name}" aria-pressed="${ui.lang===key}"><img src="${readOnly?'./':'/'}flags/${key}.svg" alt=""><span>${name}</span></button>`).join('')}</div>${ui.view==='health'?'':filters()}</div></header><aside id="species-sidebar" class="sidebar" ${ui.sidebarCollapsed?'hidden':''}>${sidebarBrand()}${sidebarBrowse()}</aside><main id="main-content" class="main" tabindex="-1"><h1 class="sr-only">${esc(titles[ui.view]||titles.all)} · ${languages[ui.lang]}</h1>${sourceContext()}${ui.view==='health'?health():`${activeFilters()}${ui.view==='sources'&&!ui.source?sourceView():grid()}`}</main></div>`;
  const newList=$('#species-list');if(newList)newList.scrollTop=speciesScrollTop;if(focused==='search'){const el=$('#search');el?.focus({preventScroll:true});el?.setSelectionRange(position,position);}else if(focused){const mobileClosed=!ui.browseOpen&&window.matchMedia?.('(max-width:700px)').matches&&focused.startsWith('browse-');document.getElementById?.(mobileClosed?'browse-toggle':focused)?.focus({preventScroll:true});}window.scrollTo(0,scroll);
