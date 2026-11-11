@@ -1,1 +1,1 @@
-export function makeEditor(){return {click:async()=>false,change:()=>false,submit:async()=>false};}
+export function makeEditor(){return {syncSelection:()=>{},click:async()=>false,change:()=>false,submit:async()=>false};}
