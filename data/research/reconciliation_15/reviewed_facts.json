@@ -1,0 +1,1888 @@
+{
+  "observed_on": "2026-10-29",
+  "basis_revision": "1.4.0",
+  "releases": [
+    {
+      "lang": "de",
+      "release": "tk-ex-m",
+      "name": "EX Trainer Kit 2 (Minun)",
+      "date": "2006",
+      "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)"
+      ],
+      "evidence": "Native numbered inventory and explicit German kit release; 2006 specimens. German day and month remain unestablished."
+    },
+    {
+      "lang": "de",
+      "release": "tk-ex-p",
+      "name": "EX Trainer Kit 2 (Plusle)",
+      "date": "2006",
+      "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)"
+      ],
+      "evidence": "Native numbered inventory and explicit German kit release; 2006 specimens. German day and month remain unestablished."
+    }
+  ],
+  "release_dates": [
+    {
+      "lang": "en",
+      "release": "tk-ex-m",
+      "date": "2006-03",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)"
+      ],
+      "evidence": "The kit history establishes March 2006, not the importer placeholder March 1. English month is not transferred to the German source."
+    },
+    {
+      "lang": "en",
+      "release": "tk-ex-p",
+      "date": "2006-03",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)"
+      ],
+      "evidence": "The kit history establishes March 2006, not the importer placeholder March 1. English month is not transferred to the German source."
+    }
+  ],
+  "entries": [
+    {
+      "lang": "de",
+      "release": "tk-ex-m",
+      "number": "7",
+      "number_key": "7",
+      "dex": 37,
+      "name": "Vulpix",
+      "english": "Vulpix",
+      "availability_basis": "native_numbered_inventory_and_explicit_language_release",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)",
+        "https://www.ebay.de/itm/377251602143"
+      ],
+      "evidence": "Carddex explicitly identifies the native named half-deck and number. Kit history explicitly includes German, and exact German Minun/Plusle specimens corroborate the product family. No printed rarity symbol; ordinary fixed non-holo insert. No reverse, holo or extra edition inferred. Reference pictures remain absent until a usable exact native picture is available.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-ex-m",
+      "number": "4",
+      "number_key": "4",
+      "dex": 58,
+      "name": "Fukano",
+      "english": "Growlithe",
+      "availability_basis": "native_numbered_inventory_and_explicit_language_release",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)",
+        "https://www.ebay.de/itm/377251602141"
+      ],
+      "evidence": "Carddex explicitly identifies the native named half-deck and number. Kit history explicitly includes German, and exact German Minun/Plusle specimens corroborate the product family. No printed rarity symbol; ordinary fixed non-holo insert. No reverse, holo or extra edition inferred. Reference pictures remain absent until a usable exact native picture is available.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-ex-m",
+      "number": "1",
+      "number_key": "1",
+      "dex": 59,
+      "name": "Arkani",
+      "english": "Arcanine",
+      "availability_basis": "native_numbered_inventory_and_explicit_language_release",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)",
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=151"
+      ],
+      "evidence": "Carddex explicitly identifies the native named half-deck and number. Kit history explicitly includes German, and exact German Minun/Plusle specimens corroborate the product family. No printed rarity symbol; ordinary fixed non-holo insert. No reverse, holo or extra edition inferred. Reference pictures remain absent until a usable exact native picture is available.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-ex-p",
+      "number": "2",
+      "number_key": "2",
+      "dex": 309,
+      "name": "Frizelbliz",
+      "english": "Electrike",
+      "availability_basis": "native_numbered_inventory_and_explicit_language_release",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=151",
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)",
+        "https://www.ebay.de/itm/318894643197"
+      ],
+      "evidence": "Carddex explicitly identifies the native named half-deck and number. Kit history explicitly includes German, and exact German Minun/Plusle specimens corroborate the product family. No printed rarity symbol; ordinary fixed non-holo insert. No reverse, holo or extra edition inferred. Reference pictures remain absent until a usable exact native picture is available.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    }
+  ],
+  "entry_updates": [
+    {
+      "lang": "de",
+      "release": "sm9",
+      "number": "91",
+      "entry_id": "entry_eb6b96cb01a651e39e238d986a6e5659",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_namespace": "de:sm9:native_inventory"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/sm/teams-sind-trumpf/kartenliste.php",
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=288"
+      ],
+      "image_sha256": "c3a94893594e02b0fcef4d767bc046dd4ae0e98fb578e9127e45fe0d4090ebb1",
+      "evidence": "Native German checklist explicitly labels exact card Holo Rare. Exact localized card face reviewed for identity. The outline-only manufacturer PDF was previously unreadable; provider Rare is not equivalent to independent validation. No physical printing is generated from the rarity. Independently agrees with the cached native Carddex inventory.",
+      "source_sha256": "88c9ea4b3584798856f8518d5ef10bb48cde3600e277ef5bedb01a291c26b01c"
+    },
+    {
+      "lang": "de",
+      "release": "sm9",
+      "number": "111",
+      "entry_id": "entry_d3903dc49de8577ab5c242dfc1b15d9e",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_namespace": "de:sm9:native_inventory"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/sm/teams-sind-trumpf/kartenliste.php",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/pokemon-karten/series/sm9/111",
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=288"
+      ],
+      "image_sha256": "04edfb85d785802bbe46c0da1dfc8ff23dafb74816dacaf356ffcdc1d9190abc",
+      "evidence": "Native German checklist explicitly labels exact card Holo Rare. Exact localized card face reviewed for identity. The outline-only manufacturer PDF was previously unreadable; provider Rare is not equivalent to independent validation. No physical printing is generated from the rarity. Independently agrees with the cached native Carddex inventory.",
+      "source_sha256": "88c9ea4b3584798856f8518d5ef10bb48cde3600e277ef5bedb01a291c26b01c"
+    },
+    {
+      "lang": "en",
+      "release": "neo3",
+      "number": "55",
+      "entry_id": "entry_e79302ae3f9854ebb92f20eb97eb23e3",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "ca5e56a077032afdcc10f90be3f599818c3e897f02b6f102408a8610ecdc3c3e.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/snubbull-neo-revelation-n3-55/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/snubbull-neo-revelation-n3-55/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "ecard1",
+      "number": "113",
+      "entry_id": "entry_c0a090d8cba351509461992c102395f1",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "a4638dd11559c84b2ca3cc8bf379320a985f9cf9cf40d5d8b35fd4c3299a9307.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndour-expedition-ex-113/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndour-expedition-ex-113/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "neo4",
+      "number": "7",
+      "entry_id": "entry_4e5cd285875851558ae62d8213b58e42",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "54fef5dce4907e4a6a271194867125863f08a1f2c4fca23fda96df87455bcc56.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/dark-houndoom-neo-destiny-n4-7/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/dark-houndoom-neo-destiny-n4-7/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "neo1",
+      "number": "74",
+      "entry_id": "entry_b5f4d1dbddb25690a9d4a7c447783f23",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "def0e02f66fd489f20f8d4bf869d500f2437d80ac7f4418cf6ce90350cfcc138.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/snubbull-neo-genesis-n1-74/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/snubbull-neo-genesis-n1-74/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "ecard1",
+      "number": "57",
+      "entry_id": "entry_c4ba9307fb405f378ca5cbd3f06324df",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "b09d56d4682b1cec68715010901ae1cc9264962a8641839e5fdc2ade8a0c1a16.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/ninetales-expedition-ex-57/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/ninetales-expedition-ex-57/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "neo2",
+      "number": "39",
+      "entry_id": "entry_9303ab52422d51c6a099c4f23769b4a2",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "e36baacf4ecc1634f84b5637f612e795ff238e158934044b14f204c5d470fe41.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndour-neo-discovery-n2-39/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndour-neo-discovery-n2-39/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "lc",
+      "number": "17",
+      "entry_id": "entry_3d09c8810eff5a21b41a7ed389727ed8",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "8ee165259a0ec97894261ca5089f3b847e6c6079204278c37507c0d0658f622e.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/ninetales-legendary-collection-lc-17/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/ninetales-legendary-collection-lc-17/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "neo2",
+      "number": "24",
+      "entry_id": "entry_b9408944e0605c7c8cc80a4d84f344d0",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "62882d204761a6a1ec18286f74264e5bda8edf2561a93a5ae8eccea122eef1cd.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndour-neo-discovery-n2-24/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndour-neo-discovery-n2-24/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "ecard2",
+      "number": "116",
+      "entry_id": "entry_d1a35864d2925a4cb3c839d311ce37f2",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "f5ad9b359fc69feb4df2ae59c400607835709a8a0448ac8f9ed889569e49409d.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/vulpix-aquapolis-aq-116/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/vulpix-aquapolis-aq-116/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "ex1",
+      "number": "39",
+      "entry_id": "entry_c19cb081e2c954428359cf7633c6a895",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "130d89360cd38b4d91dcc739cf7a9458f6939f6abc7b2d861b08a3d7bf04017c.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/manectric-ruby-sapphire-rs-39/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/manectric-ruby-sapphire-rs-39/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "pl1",
+      "number": "74",
+      "entry_id": "entry_249f8659a6fe52a9931083b8e37f4ee9",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "ac1fff1ca66bd257cb623ca054c016a7d6a457c9bc4e66cad2a6b248c8b3521e.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/electrike-platinum-pl-74/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/electrike-platinum-pl-74/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "ex1",
+      "number": "52",
+      "entry_id": "entry_7709fa918952558dae78160924585781",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "78da098ec4da5c0ddb47fa338379c1d6591cf78cd19dcb64eb0cb0113c5e4acc.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/electrike-ruby-sapphire-rs-52/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/electrike-ruby-sapphire-rs-52/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "ex1",
+      "number": "42",
+      "entry_id": "entry_6df3589b8c0254f3b1c4909fefbede42",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "241a4c1279de84fbfb801b5b482e5e937a7c7fd7bd009d42197d22e73009929c.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/mightyena-ruby-sapphire-rs-42/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/mightyena-ruby-sapphire-rs-42/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "dp4",
+      "number": "18",
+      "entry_id": "entry_43710aa855bb54c884bc0557c9c8fdcf",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "ae377d542792f38c3579586265c762e904c5e5f999422b7f0ca7f2be53904882.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndoom-great-encounters-ge-18/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndoom-great-encounters-ge-18/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "dp2",
+      "number": "81",
+      "entry_id": "entry_63a1e3d34a16512aac80a7ebba51f6f0",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "f97ac8805a32a10f58affb45fec19078f8ffdabb9f71e128e0e575eadf21613c.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/electrike-mysterious-treasures-mt-81/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/electrike-mysterious-treasures-mt-81/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "pl2",
+      "number": "65",
+      "entry_id": "entry_e1a331b6d98f502aa4ea21a6042a8b6d",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "1ca819f04ea6a24c785dc4f437ae328199061e0d90750f7d98ca31364909369f.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndoom-e4-rising-rivals-rr-65/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndoom-e4-rising-rivals-rr-65/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "xy8",
+      "number": "25",
+      "entry_id": "entry_2e365990b99a545287c592706c67b2a9",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "265dfb1a3eb6362b1b29503d410dc046965e4bc28e6d7d830524ff1789cb2c31.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/fennekin-breakthrough-bkt-25/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/fennekin-breakthrough-bkt-25/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "col1",
+      "number": "10",
+      "entry_id": "entry_58be40f58344505bb404f33d8ae336b5",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "c6ff24d556c722b11d7e5ebff42a01c66efe2b6045148c93722b0f267ecdcfd9.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndoom-call-of-legends-cl-10/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndoom-call-of-legends-cl-10/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY19",
+      "entry_id": "entry_84437414936e5e0faff465c22c192d1c",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "3b2ef33817f739bfb710aa42bdac86e0be3640b79457559c2629e37b207d69cf.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/delphox-ex-xy-promos-xyp-xy19/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/delphox-ex-xy-promos-xyp-xy19/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "col1",
+      "number": "71",
+      "entry_id": "entry_1fd74446b8f75468a90ee9a289d10e9c",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "5569aca5b60fdd6f03e0ced49aee024636479fd2533567b04ae834979931c946.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/snubbull-call-of-legends-cl-71/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/snubbull-call-of-legends-cl-71/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "xy6",
+      "number": "25",
+      "entry_id": "entry_543e742718775fa0a508cc73a927aaf5",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "9bb361447c75b44c5c92ba018f61902c887a371712d8dd72c82e096962ed7dcb.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/manectric-roaring-skies-ros-25/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/manectric-roaring-skies-ros-25/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "xy8",
+      "number": "89",
+      "entry_id": "entry_175cbf376bbd5498a395c13a5f81a704",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "2e2451c36a3c821ffaa5526d95adc5e0460910bf726f01b1ffdf9d7873ee8c79.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/zorua-breakthrough-bkt-89/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zorua-breakthrough-bkt-89/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "bw6",
+      "number": "44",
+      "entry_id": "entry_705ef2c00a8651cc9b1113b42ad06e1a",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "ecaa2a4dce30c9c77473ad996df938c2b4f02d954ca1d5d6be894197764bb625.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/manectric-dragons-exalted-drx-44/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/manectric-dragons-exalted-drx-44/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH298",
+      "entry_id": "entry_75e1827359f0553bb69112e5930e2d0e",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "3c0fe35ebb2b65a519102f40a32965cb7b6088d4fee086e98a855114f7b8ef7e.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/hisuian-zoroark-vstar-sword-shield-promos-swsh298/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/hisuian-zoroark-vstar-sword-shield-promos-swsh298/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "sma",
+      "number": "SV23",
+      "entry_id": "entry_c6721c0ff30f52f79fd163c22dc17d82",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "a30c0ed3ee19782904ffd369c81e97df5f29f7e146f0b61c1d2e26f0cbefe9ba.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/rockruff-forbidden-light-fli-sv23/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/rockruff-forbidden-light-fli-sv23/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "sm6",
+      "number": "75",
+      "entry_id": "entry_50446dce09525046b3bd21aa94952fbc",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "31e392706aee81dbefa7a7ec561d1865ebd90a3f5206d93d6738ea932d2c84fc.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/rockruff-forbidden-light-fli-75/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/rockruff-forbidden-light-fli-75/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "sm5",
+      "number": "30",
+      "entry_id": "entry_4fc86abf8a92524aa3b9788a965077c6",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "13222234c99b29383643607a18c6f60cbdc8862f587df0261128d5e3a91c8045.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/alolan-vulpix-ultra-prism-upr-30/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/alolan-vulpix-ultra-prism-upr-30/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "sm8",
+      "number": "45",
+      "entry_id": "entry_eed35647838d59cba0f92012355fc3c8",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "ec7504fa7ef3cce2bd6e7fe35aac5cc89e15cf6481f80fc9e01f8a86b749421e.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndour-lost-thunder-lot-45/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndour-lost-thunder-lot-45/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "svp",
+      "number": "071",
+      "entry_id": "entry_57ece4ebed2952439cdef87cf93e5c80",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "fc2dd71bfd5f2e7c9e756c86cb6f56ad9e1cabe120a2a6589ac4b2fe7c05d5ea.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/maschiff-scarlet-violet-promos-svp-071/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/maschiff-scarlet-violet-promos-svp-071/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "me05",
+      "number": "057",
+      "entry_id": "entry_4046125da10e5ec1ba2b106fa48ad90c",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "27190b300c48ca053db1bea17b1e84ebfea0df029f751548d154b30721a2c5b8.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/maschiff-pitch-black-pbl-057/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/maschiff-pitch-black-pbl-057/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "sv03",
+      "number": "116",
+      "entry_id": "entry_72f02d6fb83b5b6e972023af5613a414",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "1a247d45fce4608c41c421a260246e2880c58814b4de8a63997d1ff628e65faa.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/rockruff-obsidian-flames-obf-116/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/rockruff-obsidian-flames-obf-116/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "sv08",
+      "number": "017",
+      "entry_id": "entry_40ae33495afb5b2cb99b0fca2eff71ea",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "710b17c8f36d4f7f50927269b3b08e45e167a38c4e57d86bbf1a340346ac3519.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/ninetales-surging-sparks-ssp-017/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/ninetales-surging-sparks-ssp-017/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "en",
+      "release": "sv04.5",
+      "number": "161",
+      "entry_id": "entry_7f43c73c0b6056c4a5e8b0bd0283ac78",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "04203f3a0977c692bc627f0f3c9bf170284c0509664b1caa07ee7bb9d41dddc1.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/dachsbun-paldean-fates-paf-161/"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/dachsbun-paldean-fates-paf-161/"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "neo3",
+      "number": "55",
+      "entry_id": "entry_6676503a1c15590fb3648d802e6cb8c5",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "7d572aeeca3fd290c7ce0eba27e2e73698b91218c4dc5031a33a79b84ae2aaca.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-revelation/055.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-revelation/055.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "neo4",
+      "number": "7",
+      "entry_id": "entry_4c076611644f50ee82a2dcf131ac1780",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "a0789c63fb02bfe2cde4f98b6fbaa78a6879412416711b7b12f1560af2160c69.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-destiny/007.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-destiny/007.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "base1",
+      "number": "68",
+      "entry_id": "entry_f438fd45ef6d5dac881420ec1964008d",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "5007b39ca1c799c1a59b4380d3b51350369dda07be0b67f8195460f9941b8410.webp",
+          "source_urls": [
+            "https://www.pokewiki.de/images/9/9d/Vulpix_%28Grundset_68%29.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/9/9d/Vulpix_%28Grundset_68%29.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "neo2",
+      "number": "24",
+      "entry_id": "entry_c33eed105b4556dd928e32bb459ad5a1",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "21f5c78d418d56228eb1306e4e89028c0ad8e7a54088777784735a11ad701bcd.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/024.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/024.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "neo1",
+      "number": "74",
+      "entry_id": "entry_ff06f674eabc5c5cb397eb1d1a207766",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "83a00e86e230a012e575236b87a59d32c33f1a45eee86816933db83f27974010.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-genesis/074.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-genesis/074.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "neo4",
+      "number": "12",
+      "entry_id": "entry_cfdbcb6ff266535aa5dd20194fe4a25b",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "cc1b022bbf64a7febd87796bc1b104e390b57bbd95277876c80ed2d96e26d9aa.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-destiny/012.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-destiny/012.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "neo2",
+      "number": "4",
+      "entry_id": "entry_b806546c673353b882832dc9fed6d424",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "7ec8dcab1cf031cbaa9e989c4d6ec1c3149c6c44f389e1e99b7c1c264e632d94.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/004.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/004.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "neo4",
+      "number": "91",
+      "entry_id": "entry_eadf3e3f8e7c5c63bd418466504b8714",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "2cffb01bd88ac396887d3d84640434e221599927263ffbe1f8658600cbac9985.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-destiny/091.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-destiny/091.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "dp1",
+      "number": "61",
+      "entry_id": "entry_cfb59b17c3285ccfba94392fd68c0f6a",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "56d087b451a3b5e1e7092f56afa12d2b85185123c5f16ccea147f46090ec9a77.webp",
+          "source_urls": [
+            "https://www.pokewiki.de/images/d/d5/Riolu_%28Diamant_%26_Perl_61%29.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/d/d5/Riolu_%28Diamant_%26_Perl_61%29.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "dp4",
+      "number": "96",
+      "entry_id": "entry_d82857b22a605d6bb2b6d7cad26e8a91",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "1463b467eff80c08aaf5b5160763d21696daf0201a2721f612e7151ffd4d9925.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/dp-epische-begegnungen/096.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/dp-epische-begegnungen/096.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "ex4",
+      "number": "35",
+      "entry_id": "entry_0cd4e508afe95b3ea28c5901fe7f2ccc",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "7e9bc15dab6efc74ac4462a8dd4ec27d66e1e69803d00a398642f7fe610706ef.webp",
+          "source_urls": [
+            "https://www.pokewiki.de/images/e/e6/Team_Magmas_Hunduster_%28EX_Team_Magma_vs_Team_Aqua_35%29.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/e/e6/Team_Magmas_Hunduster_%28EX_Team_Magma_vs_Team_Aqua_35%29.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "ex1",
+      "number": "9",
+      "entry_id": "entry_fb7920ea085f5c119452fe7c51155e0d",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "24eb3c4e6f37836b3c33853aa14a99461d14bcce1b976c9eb3ee7355b1335271.webp",
+          "source_urls": [
+            "https://www.pokewiki.de/images/a/af/Voltenso_%28EX_Rubin_%26_Saphir_9%29.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/a/af/Voltenso_%28EX_Rubin_%26_Saphir_9%29.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "ex9",
+      "number": "38",
+      "entry_id": "entry_176d3870bdf35e8080c8e15c019af61d",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "b7b76b1281353520acc3d07c62f552d7bf1c29fa49ec0c9eda1b443e21180231.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/ex-smaragd/038.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/ex-smaragd/038.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "ex9",
+      "number": "7",
+      "entry_id": "entry_86736a210a9a5f8baa474548473ac40b",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "9a6855b33a2ccf7554c92f4bd7c86f6bd783c38581e264bd7108d61aa17f958e.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/ex-smaragd/007.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/ex-smaragd/007.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "dp5",
+      "number": "64",
+      "entry_id": "entry_f77efd08dc5a51a6bb53dcd995e0fcf3",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "8204e1a54ef6e51fe2aa3a8661929e945357fbd962cb0fdf2e5597972ff0caa6.webp",
+          "source_urls": [
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/dp-majestaetischer-morgen/064.jpg"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/dp-majestaetischer-morgen/064.jpg"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "xy10",
+      "number": "63",
+      "entry_id": "entry_45b1f6a6e518510095d0d4f34f2d75af",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "db8b3eb0a834168b0eda7402a21c1ea1edb08a679884cdc2da2ff8d9060b4602.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy10-63"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy10-63"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "bw5",
+      "number": "86",
+      "entry_id": "entry_a6060acd1e7356d1a036881018fec1a3",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "8c70fc74d7ff60dfc553aa95c6e0fb922df622b980936b433ba0305f885c722b.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/bw5-86"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/bw5-86"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "xy10",
+      "number": "10",
+      "entry_id": "entry_6c7070b2b1195e8f8da9c40e3f4c4e8f",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "630c69545a690d5a01dc9d1347f49f567992d745d2366125c47248a1c107b5f0.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy10-10"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy10-10"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "xy0",
+      "number": "17",
+      "entry_id": "entry_30a80d0b67ea54ce9f298b671ca80bfe",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "ac89c8143209c1fd0652ed9d3d01ceb7593fef7914406a2f5f53552be67726f5.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy0-17"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy0-17"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "xy8",
+      "number": "89",
+      "entry_id": "entry_c20f083c42515000aaa2568616dc427a",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "2a1dc8f39fafef82b0c677679fc8d485e9689c3e868ababa45517c5aecaf39b7.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy8-89"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-89"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "swsh5",
+      "number": "96",
+      "entry_id": "entry_7a66099f37d55c3daa66c53b10892c15",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "23d92efeb4368e1afa64a0b8cd356a3c3a75173a0c792ef956ac8cac1245bee8.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh5-96"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh5-96"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "swsh12",
+      "number": "025",
+      "entry_id": "entry_dc9dddd30f5858889481991eb43e624b",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "3fbd58a2dce3599d18f05b91ec7e69ad26a94c87df23353f562bfff3cbf42624.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh12-025"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh12-025"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "sm10",
+      "number": "102",
+      "entry_id": "entry_c845ae31f12956e2b09e09370df374cf",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "7199e3bf81345fe65af81fc6f084e091a757cb308306d3e4b828e2d08f470324.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm10-102"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm10-102"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "swsh11",
+      "number": "076",
+      "entry_id": "entry_d0fa897d42d65293ade4edd6b54bb07e",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "f84998bcfbf28e3dcc89dfe54a888b4e8e6ed4dfbb31e6284a1146595490a4b7.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh11-076"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh11-076"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "swsh11",
+      "number": "083",
+      "entry_id": "entry_ebe94197b23351ca91110168aa988fab",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "be10dd43cca0c69ae0789eb3e01141f2f1d1b80ea0247d7be72a552535119dcd.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh11-083"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh11-083"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "sv10",
+      "number": "028",
+      "entry_id": "entry_00abf7345bab53c3aa125e1ed8f87169",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "8191e5d8e9057d80de00837ef96434c0933755628d1284124b13b5c975fc57f1.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sv10-028"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv10-028"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "sv03",
+      "number": "029",
+      "entry_id": "entry_c9ead69ed54753e482aa07ac319eeaed",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "b2139fcea155406a9776f39a7c46e4f096b81208bc304d867c1b16f467725eac.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sv03-029"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv03-029"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "swsh12.5",
+      "number": "160",
+      "entry_id": "research_entry_c6407668eb11509297764d068ee21e68",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "5682e4abff1ca0f6993642513ffce3356a467a7f3e383a479f38f78bd6c8f8ca.webp",
+          "source_urls": [
+            "https://assets.tcgdex.net/de/swsh/swsh12.5/160/high.webp"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://assets.tcgdex.net/de/swsh/swsh12.5/160/high.webp"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "me01",
+      "number": "065",
+      "entry_id": "entry_7348dbe21d4b509399c7f0fb0ebf6c0d",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "e9e025ff7c47d335992ab492bf97d36286e8ed4b02d50f428631e2f9f4f82e08.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/me01-065"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me01-065"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    },
+    {
+      "lang": "de",
+      "release": "sv06",
+      "number": "027",
+      "entry_id": "entry_e997a9a7018657ccbdda2888de5a575f",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "fresh_sample_exact_native_image",
+          "image": "eb0f5a3bb70fe66fcd875cd75660a7d02dafca83a5f2c4ced813bb0f9c0686ad.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sv06-027"
+          ],
+          "inference": false,
+          "observed_on": "2026-10-29"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv06-027"
+      ],
+      "evidence": "Fresh frozen-sample native card face read for name/identifier and artwork extent. A shared reference image does not verify all finishes, editions or paper patterns."
+    }
+  ],
+  "card_dates": [
+    {
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY19",
+      "entry_id": "entry_84437414936e5e0faff465c22c192d1c",
+      "date": "2014-06",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/xy-2014-kalos-power-tins"
+      ],
+      "evidence": "Manufacturer dates the specific English Kalos Power tin to June 2014. The imported June 30 lacks evidence. Community history says June 12; retain the supported manufacturer month rather than manufacture a day."
+    },
+    {
+      "lang": "en",
+      "release": "xy6",
+      "number": "77a",
+      "entry_id": "research_entry_433e9bba302e547bb1eea97fb19ced92",
+      "date": "2017-10-20",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/premium-trainers-xy-collection/",
+        "https://www.pokebeach.com/2017/10/xy-premium-trainers-kit-product-and-promo-photos"
+      ],
+      "evidence": "Exact alternate Shaymin is from Premium Trainer’s XY Collection. Manufacturer distinguishes October 20 hobby availability and November 17 general launch. Neither is the original 2015 expansion date.",
+      "distribution_dates": [
+        {
+          "region": "US hobby prerelease stores",
+          "date": "2017-10-20"
+        },
+        {
+          "region": "US general retail",
+          "date": "2017-11-17"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "xy9",
+      "number": "98b",
+      "entry_id": "research_entry_f4356b06dd2e54c8aa20f44406d7748d",
+      "date": "2017-10-20",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/premium-trainers-xy-collection/",
+        "https://www.pokebeach.com/2017/10/xy-premium-trainers-kit-product-and-promo-photos"
+      ],
+      "evidence": "Exact Full Art Delinquent 98b belongs to the 2017 product, not the original February 2016 expansion.",
+      "distribution_dates": [
+        {
+          "region": "US hobby prerelease stores",
+          "date": "2017-10-20"
+        },
+        {
+          "region": "US general retail",
+          "date": "2017-11-17"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "xy9",
+      "number": "98a",
+      "entry_id": "research_entry_d70311bdd2bc512795e1964dfd064856",
+      "date": "2018-09-21",
+      "source_urls": [
+        "https://deviramericas.com/wp-content/uploads/2018/07/P4780_Battle_Arena_Decks_Sell_Sheet_DOM_EN_LoRes.pdf",
+        "https://bulbapedia.bulbagarden.net/wiki/Battle_Arena_Decks%E2%80%94Mega_Charizard_X_vs._Mega_Blastoise_(TCG)",
+        "https://www.pokebeach.com/2018/07/new-configuration-for-charizard-blastoise-battle-arena-decks-delinquent-professors-letter-promos"
+      ],
+      "evidence": "The initially cancelled 2017 alternate was released in the 2018 Mega Charizard/Mega Blastoise decks. Publisher sell sheet establishes September 21, 2018; firsthand product report and specific deck inventory establish 98a. Do not retire it based on the earlier cancellation."
+    }
+  ],
+  "printing_updates": [
+    {
+      "lang": "de",
+      "release": "ex9",
+      "number": "7",
+      "entry_id": "entry_86736a210a9a5f8baa474548473ac40b",
+      "printing_id": "variant_67b68f67a25859de889ecb3d9e5c20f9",
+      "status": "needs_exact_native_product_proof",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=120",
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(EX_Emerald_7)"
+      ],
+      "evidence": "Native physical finish remains unproven. Do not transfer an English deck exception or interpret marketplace Normal as non-holo. Carddex native Lauffeuer list explicitly calls its 7/106 copy Holo, conflicting with English Wildfire non-holo history."
+    },
+    {
+      "lang": "de",
+      "release": "bw1",
+      "number": "71",
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "printing_id": "variant_f5167b8be1545ab7afe1345e2a4d6cc3",
+      "status": "needs_exact_native_product_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/bw1-71"
+      ],
+      "evidence": "Native physical finish remains unproven. Do not transfer an English deck exception or interpret marketplace Normal as non-holo."
+    },
+    {
+      "lang": "en",
+      "release": "hgss1",
+      "number": "1",
+      "entry_id": "entry_3e93f8e4d6a95390895f397edf18e0e0",
+      "printing_id": "variant_bca6c7f5cc0d5aa1aee0b273060ecee0",
+      "status": "documented_product_exception",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(HeartGold_%26_SoulSilver_1)",
+        "https://bulbapedia.bulbagarden.net/wiki/Ember_Spark_(TCG)",
+        "https://assets.pokemon.com/assets/cms/pdf/tcg/rulebooks/HeartGold_SoulSilver_Rulebook.pdf"
+      ],
+      "evidence": "Ember Spark non-holo exception explicitly documented; publisher rulebook confirms the named deck and Arcanine. Keep original rarity and printing ID."
+    },
+    {
+      "lang": "en",
+      "release": "ex9",
+      "number": "7",
+      "entry_id": "entry_acdf74a3b20b5aa2a760f98603b83e43",
+      "printing_id": "variant_a1669c9bb8d256d79a18a7aed5ef6182",
+      "status": "documented_product_exception",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(EX_Emerald_7)",
+        "https://pokumon.com/release_event/wildfire-theme-deck/"
+      ],
+      "evidence": "Exact English non-holo Wildfire deck print documented. German Lauffeuer inventory calls its copy holo, so this confirmation is not transferred to German."
+    },
+    {
+      "lang": "en",
+      "release": "pl2",
+      "number": "8",
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "printing_id": "variant_b1b17a4dc6375ce482e9a4ee303f45bd",
+      "status": "needs_exact_native_product_proof",
+      "source_urls": [
+        "https://pkmncards.com/card/lucario-gl-rising-rivals-rr-8/",
+        "https://api.tcgdex.net/v2/en/cards/pl2-8",
+        "https://bulbapedia.bulbagarden.net/wiki/Crowned_Tiger_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/LuxChomp_of_the_Spirit_(TCG)"
+      ],
+      "evidence": "Generic English non-holo is not established by the separately documented 2009 and 2010 World Championships replicas, which retain their own IDs. Keep generic target flagged pending exact ordinary-card product proof."
+    },
+    {
+      "lang": "de",
+      "release": "swsh7",
+      "number": "16",
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_acd5a3c47da353f8bb1a335ca63c19b3",
+      "status": "needs_exact_native_product_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh7-16"
+      ],
+      "evidence": "Native physical finish remains unproven. Do not transfer an English deck exception or interpret marketplace Normal as non-holo."
+    },
+    {
+      "lang": "de",
+      "release": "swsh7",
+      "number": "16",
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_304bf3da304c59ccba41ad4315915387",
+      "status": "needs_exact_native_product_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh7-16"
+      ],
+      "evidence": "Native physical finish remains unproven. Do not transfer an English deck exception or interpret marketplace Normal as non-holo."
+    },
+    {
+      "lang": "en",
+      "release": "swsh7",
+      "number": "16",
+      "entry_id": "research_entry_423973354c7c54fcb94c2a796f025c4a",
+      "printing_id": "research_printing_8da623e3117d5027af7056a105504a2f",
+      "status": "documented_product_exception",
+      "source_urls": [
+        "https://www.pokebeach.com/2021/08/evolving-skies-prerelease-promos-and-non-holo-exclusives-revealed",
+        "https://bulbapedia.bulbagarden.net/wiki/Deluxe_Battle_Decks%E2%80%94Meowscarada_ex_%26_Quaquaval_ex_(TCG)"
+      ],
+      "evidence": "Firsthand prerelease report and specific deluxe deck inventory establish the English 016/203 non-holo. No change to the printed Holo Rare tier."
+    },
+    {
+      "lang": "en",
+      "release": "swsh7",
+      "number": "16",
+      "entry_id": "research_entry_423973354c7c54fcb94c2a796f025c4a",
+      "printing_id": "research_printing_16b0f670cd1a58498c46fc70dcfb8cbd",
+      "status": "documented_product_exception",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Play!_Pok%C3%A9mon_Prize_Pack_Series_One_(TCG)",
+        "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/prize_pack_series_1_web_cardlist_en.pdf"
+      ],
+      "evidence": "Exact English Prize Pack checklist reproduction specifies 016/203 standard set. Existing Play! stamp non-holo is supported; original PDF URL remains inaccessible, so source status is checked secondary reproduction."
+    }
+  ],
+  "printings": [
+    {
+      "lang": "en",
+      "release": "xy9",
+      "number": "98a",
+      "entry_id": "research_entry_d70311bdd2bc512795e1964dfd064856",
+      "printing": {
+        "finish": "holo",
+        "pattern": "sheen",
+        "edition": "not_applicable",
+        "product_name": "Battle Arena Deck — Mega Blastoise",
+        "product_kind": "deck",
+        "release_date": "2018-09-21"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Delinquent_(BREAKpoint_98)",
+        "https://bulbapedia.bulbagarden.net/wiki/Battle_Arena_Decks%E2%80%94Mega_Charizard_X_vs._Mega_Blastoise_(TCG)",
+        "https://www.pokebeach.com/2018/07/new-configuration-for-charizard-blastoise-battle-arena-decks-delinquent-professors-letter-promos"
+      ],
+      "evidence": "Specific 98a alternate appears non-holo in one deck and Sheen Holofoil in the Mega Blastoise deck. The existing non-holo ID is retained; add only the separately documented foil target."
+    }
+  ],
+  "retirements": [
+    {
+      "lang": "de",
+      "release": "xy4",
+      "number": "24a",
+      "entry_id": "entry_c17f6834ab07585f828e6bd2b0ee8f55",
+      "reason": "unsupported_german_translation_of_english_only_product",
+      "source_urls": [
+        "https://pokezentrum.de/blog/die-10-wertvollsten-pokemon-karten-aus-xy-phantomkraefte/",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/mega-powers-collection",
+        "https://www.lotticards.de/Mega-Powers-Collection-Englisch"
+      ],
+      "evidence": "Native editorial explicitly says the Mega Powers alternate was never released in German. Manufacturer identifies the two alternate Full Art cards in that product; native retailer identifies the product as English. The imported German image depicts the ordinary unsuffixed original, not the alternate. Preserve IDs and user data in the retired catalog; do not substitute the original card."
+    },
+    {
+      "lang": "de",
+      "release": "xy3",
+      "number": "55a",
+      "entry_id": "entry_f932e9d4ab51509fa5146d7e607de0b9",
+      "reason": "unsupported_german_translation_of_english_only_product",
+      "source_urls": [
+        "https://pokezentrum.de/blog/die-10-wertvollsten-pokemon-karten-aus-xy-phantomkraefte/",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/mega-powers-collection",
+        "https://www.lotticards.de/Mega-Powers-Collection-Englisch"
+      ],
+      "evidence": "Native editorial explicitly says the Mega Powers alternate was never released in German. Manufacturer identifies the two alternate Full Art cards in that product; native retailer identifies the product as English. The imported German image depicts the ordinary unsuffixed original, not the alternate. Preserve IDs and user data in the retired catalog; do not substitute the original card."
+    },
+    {
+      "lang": "de",
+      "release": "xy6",
+      "number": "77a",
+      "entry_id": "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d",
+      "reason": "unsubstantiated_regional_identity",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/premium-trainers-xy-collection/",
+        "https://www.lotticards.de/Premium-Trainers-XY-Collection"
+      ],
+      "evidence": "English Premium Trainer product and exact 77a identity established, but the provider German record reuses the unsuffixed 77 image. Native retailer identifies an English product; no native 77a specimen establishes a German physical release. Withdraw unsupported active target, retain every ID and all user overlays. This is a held regional claim, not proof of universal non-existence."
+    }
+  ],
+  "limits": [
+    "Native language assertions, field checks, provider data, and unresolved conflicts are distinct. No whole-catalog accuracy estimate.",
+    "No physical variation is generated from rarity, artwork or another language. All existing IDs remain addressable, including withdrawn unsupported identities."
+  ]
+}

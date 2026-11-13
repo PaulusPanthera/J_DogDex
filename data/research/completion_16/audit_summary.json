@@ -1,0 +1,267 @@
+{
+  "version": "1.6.0",
+  "before": {
+    "en": {
+      "records": 997,
+      "printings": 1598,
+      "missing_date": 0,
+      "known_date_period": 0,
+      "provisional_date": 0,
+      "unclassified_artwork": 758,
+      "missing_image": 13,
+      "unresolved_rarity": 0,
+      "without_printings": 1,
+      "date_states": {
+        "provider_region_date": 813,
+        "manufacturer_press_reproduction": 29,
+        "community_chronology": 43,
+        "sourced_card": 95,
+        "manufacturer_sell_sheet": 8,
+        "sourced_regional": 5,
+        "sourced_card_year": 2,
+        "contemporary_announcement": 2
+      }
+    },
+    "de": {
+      "records": 908,
+      "printings": 1430,
+      "missing_date": 12,
+      "known_date_period": 12,
+      "provisional_date": 10,
+      "unclassified_artwork": 630,
+      "missing_image": 63,
+      "unresolved_rarity": 0,
+      "without_printings": 1,
+      "date_states": {
+        "regional_chronology": 679,
+        "sourced_regional": 111,
+        "parent_expansion_date": 29,
+        "sourced_card": 66,
+        "sourced_regional_period": 12,
+        "provider_reference": 10,
+        "sourced_card_year": 1
+      }
+    },
+    "ja": {
+      "records": 965,
+      "printings": 793,
+      "missing_date": 68,
+      "known_date_period": 0,
+      "provisional_date": 0,
+      "unclassified_artwork": 922,
+      "missing_image": 36,
+      "unresolved_rarity": 1,
+      "without_printings": 244,
+      "date_states": {
+        "provider_named_product": 66,
+        "manufacturer_region_date": 243,
+        "provider_region_date": 566,
+        "provider_definition": 20,
+        "unresolved": 68,
+        "sourced_card": 2
+      }
+    },
+    "ko": {
+      "records": 789,
+      "printings": 500,
+      "missing_date": 56,
+      "known_date_period": 0,
+      "provisional_date": 0,
+      "unclassified_artwork": 753,
+      "missing_image": 5,
+      "unresolved_rarity": 1,
+      "without_printings": 305,
+      "date_states": {
+        "manufacturer_region_date": 733,
+        "unresolved": 56
+      }
+    }
+  },
+  "after": {
+    "en": {
+      "records": 1005,
+      "printings": 1682,
+      "missing_date": 5,
+      "known_date_period": 0,
+      "provisional_date": 2,
+      "unclassified_artwork": 22,
+      "missing_image": 20,
+      "unresolved_rarity": 7,
+      "without_printings": 7,
+      "date_states": {
+        "provider_region_date": 810,
+        "manufacturer_press_reproduction": 29,
+        "community_chronology": 43,
+        "sourced_card": 95,
+        "manufacturer_sell_sheet": 8,
+        "sourced_regional": 5,
+        "sourced_card_year": 2,
+        "sourced_product": 4,
+        "contemporary_announcement": 2,
+        "unresolved": 5,
+        "provider_reference": 2
+      }
+    },
+    "de": {
+      "records": 954,
+      "printings": 1434,
+      "missing_date": 41,
+      "known_date_period": 12,
+      "provisional_date": 27,
+      "unclassified_artwork": 83,
+      "missing_image": 108,
+      "unresolved_rarity": 32,
+      "without_printings": 43,
+      "date_states": {
+        "regional_chronology": 679,
+        "sourced_regional": 111,
+        "parent_expansion_date": 29,
+        "sourced_card": 66,
+        "sourced_regional_period": 12,
+        "provider_reference": 27,
+        "sourced_card_year": 1,
+        "unresolved_regional_product": 7,
+        "unresolved": 22
+      }
+    },
+    "ja": {
+      "records": 965,
+      "printings": 793,
+      "missing_date": 68,
+      "known_date_period": 0,
+      "provisional_date": 0,
+      "unclassified_artwork": 922,
+      "missing_image": 36,
+      "unresolved_rarity": 1,
+      "without_printings": 244,
+      "date_states": {
+        "provider_named_product": 66,
+        "manufacturer_region_date": 243,
+        "provider_region_date": 566,
+        "provider_definition": 20,
+        "unresolved": 68,
+        "sourced_card": 2
+      }
+    },
+    "ko": {
+      "records": 789,
+      "printings": 500,
+      "missing_date": 56,
+      "known_date_period": 0,
+      "provisional_date": 0,
+      "unclassified_artwork": 753,
+      "missing_image": 5,
+      "unresolved_rarity": 1,
+      "without_printings": 305,
+      "date_states": {
+        "manufacturer_region_date": 733,
+        "unresolved": 56
+      }
+    }
+  },
+  "new_identity_states": {
+    "provisional": 35,
+    "documented": 16
+  },
+  "new_identities_by_language": {
+    "en": 8,
+    "de": 43
+  },
+  "restored_ids": [
+    "entry_c17f6834ab07585f828e6bd2b0ee8f55",
+    "entry_f932e9d4ab51509fa5146d7e607de0b9",
+    "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d"
+  ],
+  "new_printings": 85,
+  "pattern_refinements": 50,
+  "rarity_corrections": [
+    {
+      "entry_id": "entry_ce03c376e52957e582345f59d7da67d2",
+      "lang": "en",
+      "release": "ex7",
+      "number": "5",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known"
+      },
+      "kind": "rarity_value_corrected",
+      "source_urls": [
+        "https://pkmncards.com/card/dark-houndoom-team-rocket-returns-tr-5/"
+      ]
+    },
+    {
+      "entry_id": "entry_ad92f24ff5ff58a5a2706e71c138feca",
+      "lang": "en",
+      "release": "swsh11",
+      "number": "203",
+      "values": {
+        "rarity_code": "rainbow_rare",
+        "rarity_state": "known"
+      },
+      "kind": "rarity_value_corrected",
+      "source_urls": [
+        "https://pkmncards.com/card/hisuian-zoroark-vstar-lost-origin-lor-203/"
+      ]
+    }
+  ],
+  "confirmed_printings": {
+    "en": 1681,
+    "de": 1427,
+    "ja": 793,
+    "ko": 500
+  },
+  "new_reference_rows": {
+    "pokemon_tcg_api": 911,
+    "serebii": 942,
+    "cardcameos": 77,
+    "pokecameos": 103,
+    "prior_pokewiki_primary": 13,
+    "native_provider_cameo_candidate": 27,
+    "bisafans_native": 216
+  },
+  "inventory_dispositions": {
+    "bisafans_native": {
+      "matched": 214,
+      "excluded": 2
+    },
+    "cardcameos": {
+      "matched": 70,
+      "provisional": 7
+    },
+    "native_provider_cameo_candidate": {
+      "provisional": 27
+    },
+    "pokecameos": {
+      "other_or_unconfirmed_language": 36,
+      "matched": 67
+    },
+    "pokemon_tcg_api": {
+      "matched": 889,
+      "excluded": 21,
+      "disputed_identifier": 1
+    },
+    "prior_pokewiki_primary": {
+      "provisional": 13
+    },
+    "serebii": {
+      "matched": 791,
+      "other_or_unconfirmed_language": 143,
+      "excluded": 7,
+      "disputed_identifier": 1
+    }
+  },
+  "product_dispositions": {
+    "newly_documented_printing": 83,
+    "matched_printing": 117,
+    "provisional_printing_claim": 20,
+    "excluded_outside_roster": 37,
+    "excluded_form": 14
+  },
+  "artwork_missing_old_existing": 54,
+  "consolidated_evidence_claims": 20739,
+  "queue_items": 304,
+  "source_access": {
+    "cached": 448,
+    "unavailable": 47
+  }
+}

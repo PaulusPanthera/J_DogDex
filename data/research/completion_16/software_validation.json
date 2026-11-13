@@ -1,0 +1,40 @@
+{
+  "version": "1.6.0",
+  "python_tests": 72,
+  "python_duration_seconds": 225.109,
+  "javascript_tests": 12,
+  "javascript_failures": 0,
+  "all_prior_ids_preserved": true,
+  "roster_unchanged": true,
+  "ja_ko_entries_unchanged": true,
+  "upgrade_scenarios": [
+    "Two copies, costs, wish and printing image survive a new disputed hold",
+    "Existing copies can be edited while a target is held",
+    "Evidence can be supplied to the held printing picture without confirming it",
+    "Explicit promotion uses the same physical ID",
+    "Legacy metadata/physical confirmations take precedence over a new catalog hold",
+    "Backup and restoration preserve records and images"
+  ],
+  "offline_rebuild": {
+    "two_offline_builds_identical": true,
+    "sha256": {
+      "data/catalog.json": "4af5d62d42d6e0c69f952121accca3adcf0b14d50947ac70c25637a9c34191fe",
+      "data/catalog-collector.sqlite3": "bc5ed6bb65102cd8add14ea87f3a4f4765696f6827eccea77ae93a5c2dae6179"
+    },
+    "data/catalog.sqlite3": {
+      "quick_check": "ok",
+      "foreign_key_violations": []
+    },
+    "data/catalog-collector.sqlite3": {
+      "quick_check": "ok",
+      "foreign_key_violations": []
+    }
+  },
+  "logs": {
+    "python": "d28eb69ed8ddc6a9df6ddea19aa9fbe6b4514cfd09c9b772c138e7da5bf91faf",
+    "javascript": "98dba46eb832f6b6ee4cca8e7cf75ded88e3c1489215db04ff0a13a9fa86610e"
+  },
+  "package_validation": "package.py checks original/derived SQLite integrity, all manifest hashes and ZIP CRC; final receipt and extracted-package checks are supplied in the evidence archive.",
+  "native_windows_execution": false,
+  "limits": "Software checks do not establish factual accuracy or inventory completeness."
+}

@@ -1,0 +1,711 @@
+[
+  {
+    "kind": "prior_regional_cameo",
+    "disposition": "unresolved_no_positive_native_claim",
+    "raw": {
+      "english_entry_id": "research_entry_866476a07875526698023369479a84c4",
+      "german_entry_id": null,
+      "release": "xyp",
+      "number": "XY211",
+      "name": "Lucario Spirit Link",
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY211"
+      ]
+    },
+    "source_url": "https://api.tcgdex.net/v2/de/cards/xyp-XY211"
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:eb33444e-22fa-5745-be11-b2bd5ae8618e",
+      "lang_claim": "ja",
+      "english_name": "Ouch! At the Pokémon Mansion",
+      "set_claim": "Expansion Sheet 3",
+      "number_claim": "-",
+      "cameo_dex": [
+        37,
+        58
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617544_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/vulpix",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.tcgplayer.com/product/617544/pokemon-japan-vending-machine-cards-series-3-green-ouch-at-the-pokemon-mansion"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:60dfae28-2911-555d-ae90-72e2c762ac0d",
+      "lang_claim": "unknown",
+      "english_name": "Espeon ex",
+      "set_claim": "MEP Promos",
+      "number_claim": "108",
+      "cameo_dex": [
+        37,
+        38
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/vulpix",
+        "https://pokecameos.com/pokemon/ninetales",
+        "https://pokecameos.com/pokemon/eevee"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:8519813b-b5fc-5ab3-8b7a-bbfece9f365f",
+      "lang_claim": "ja",
+      "english_name": "Poncho-wearing Pikachu",
+      "set_claim": "SM-P Promos",
+      "number_claim": "38",
+      "cameo_dex": [
+        37
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/598115_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/vulpix",
+        "https://www.tcgplayer.com/product/598115/pokemon-japan-sm-p-sun-and-moon-promos-poncho-wearing-pikachu-038-sm-p"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:e285139a-64ef-5fe4-9379-049727df57f6",
+      "lang_claim": "unknown",
+      "english_name": "No.2 Trainer",
+      "set_claim": "Battle Road Promo",
+      "number_claim": "-",
+      "cameo_dex": [
+        58
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/growlithe"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:b787c639-5ea4-5213-88b8-a262752db547",
+      "lang_claim": "unknown",
+      "english_name": "No.1 Trainer",
+      "set_claim": "Battle Road Promo",
+      "number_claim": "-",
+      "cameo_dex": [
+        58
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/growlithe"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:810d9ffc-f2bd-57f3-b8ee-081cfcdfa7b2",
+      "lang_claim": "unknown",
+      "english_name": "No.3 Trainer",
+      "set_claim": "Battle Road Promo",
+      "number_claim": "-",
+      "cameo_dex": [
+        58
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/growlithe"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:e36a5d05-f935-50da-aa1c-43d8b91a7bd4",
+      "lang_claim": "unknown",
+      "english_name": "Legendary Lava Tube [right]",
+      "set_claim": "Storm Emeralda",
+      "number_claim": "76",
+      "cameo_dex": [
+        58
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/growlithe"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:e9995891-6bf8-5a21-9843-0e76a1f5d5a8",
+      "lang_claim": "ja",
+      "english_name": "Grookey",
+      "set_claim": "MEP Promos",
+      "number_claim": "52",
+      "cameo_dex": [
+        889
+      ],
+      "image_url": "https://archives.bulbagarden.net/media/upload/4/48/GrookeyMEPPromo52.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/zamazenta"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:8b5f2d9e-6691-5d33-b97c-648f315a7945",
+      "lang_claim": "unknown",
+      "english_name": "Umbreon ex",
+      "set_claim": "MEP Promos",
+      "number_claim": "110",
+      "cameo_dex": [
+        570,
+        571
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/zorua",
+        "https://pokecameos.com/pokemon/zoroark"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:2050e827-b83a-5753-9bc7-2e5e8ce5cbe6",
+      "lang_claim": "ja",
+      "english_name": "Sapporo's Pikachu",
+      "set_claim": "SM-P Promos",
+      "number_claim": "5",
+      "cameo_dex": [
+        653
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/598082_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/fennekin",
+        "https://www.tcgplayer.com/product/598082/pokemon-japan-sm-p-sun-and-moon-promos-sapporos-pikachu-005-sm-p"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:d0d32da3-ad77-5503-932f-1fad087391cd",
+      "lang_claim": "unknown",
+      "english_name": "Illusion's Zorua",
+      "set_claim": "2010 Card Design Contest",
+      "number_claim": "Pucchigumi",
+      "cameo_dex": [
+        261
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/umbreon",
+        "https://pokecameos.com/pokemon/poochyena"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:82c170eb-3d8b-5fe0-8d31-0004c38c3e2e",
+      "lang_claim": "ja",
+      "english_name": "Lt. Yoshida",
+      "set_claim": "Great Detective Pikachu",
+      "number_claim": "25",
+      "cameo_dex": [
+        209
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596464_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/snubbull",
+        "https://www.tcgplayer.com/product/596464/pokemon-japan-smp2-great-detective-pikachu-lt-yoshida"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:db29836f-c035-5307-a69d-99804c91b5c9",
+      "lang_claim": "ja",
+      "english_name": "Celebratory Fanfare",
+      "set_claim": "S-P Promos",
+      "number_claim": "254",
+      "cameo_dex": [
+        228
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/597427_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/houndour",
+        "https://www.tcgplayer.com/product/597427/pokemon-japan-s-p-sword-and-shield-promos-celebration-fanfare-254-s-p"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:a7a4a6e4-7635-5a25-bce3-c322da2b44b4",
+      "lang_claim": "ja",
+      "english_name": "Butler's Dusclops",
+      "set_claim": "Movie Commemoration VS Pack",
+      "number_claim": "10",
+      "cameo_dex": [
+        262
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/613834_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/mightyena",
+        "https://www.tcgplayer.com/product/613834/pokemon-japan-movie-commemoration-vs-pack-butlers-dusclops"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:862684ec-74a1-58c1-9d68-75ab1023a060",
+      "lang_claim": "ja",
+      "english_name": "Fennekin",
+      "set_claim": "MEP Promos",
+      "number_claim": "59",
+      "cameo_dex": [
+        263
+      ],
+      "image_url": "https://archives.bulbagarden.net/media/upload/5/5b/FennekinMEPPromo59.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/zigzagoon"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:ae11da9a-41d4-5c51-9b9f-30ec43f4b880",
+      "lang_claim": "ja",
+      "english_name": "Mewtwo",
+      "set_claim": "BW-P Promos",
+      "number_claim": "-",
+      "cameo_dex": [
+        447
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617380_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/riolu",
+        "https://www.tcgplayer.com/product/617380/pokemon-japan-unnumbered-promotional-cards-mewtwo"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:8beb0b58-52ec-54fc-8c97-eab7e5bc472d",
+      "lang_claim": "unknown",
+      "english_name": "Illusion's Zoroark",
+      "set_claim": "2010 Card Design Contest",
+      "number_claim": "4th Grade",
+      "cameo_dex": [
+        448
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/lucario"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:392c2e58-28ab-5ff3-b3ab-58fab255560f",
+      "lang_claim": "ja",
+      "english_name": "Pokémon Enterprise",
+      "set_claim": "EX Battle Boost",
+      "number_claim": "99",
+      "cameo_dex": [
+        448
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/603033_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/603033/pokemon-japan-ex-battle-boost-pokemon-enterprise-099-093"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:b4867fe6-4864-5ed2-a134-afcb2fb25f2f",
+      "lang_claim": "unknown",
+      "english_name": "Reshiram",
+      "set_claim": "BW-P Promos",
+      "number_claim": "JR",
+      "cameo_dex": [
+        508
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/stoutland"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:5af3e13f-8ec3-5b52-8249-072361d45e43",
+      "lang_claim": "ja",
+      "english_name": "Player's Ceremony",
+      "set_claim": "SM-P Promos",
+      "number_claim": "248",
+      "cameo_dex": [
+        570,
+        744
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/598325_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/zorua",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.tcgplayer.com/product/598325/pokemon-japan-sm-p-sun-and-moon-promos-players-ceremony-248-sm-p"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:214325a2-a1e4-5039-bc98-a1f83c64c185",
+      "lang_claim": "unknown",
+      "english_name": "Illusion's Zorua",
+      "set_claim": "2010 Card Design Contest",
+      "number_claim": "2nd Grade",
+      "cameo_dex": [
+        571
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/zoroark"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:3bbc4946-b94c-5de5-a4b5-c56e7e4047fa",
+      "lang_claim": "unknown",
+      "english_name": "Pikachu",
+      "set_claim": "SV-P Promos",
+      "number_claim": "153",
+      "cameo_dex": [
+        571
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/zoroark"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:1f6d4940-954f-5dac-b489-bc70cc575d38",
+      "lang_claim": "ja",
+      "english_name": "Pikachu",
+      "set_claim": "XY-P Promos",
+      "number_claim": "175",
+      "cameo_dex": [
+        571
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/602079_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.tcgplayer.com/product/602079/pokemon-japan-xy-p-xy-promos-pikachu-175-xy-p"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:12e4e56d-6336-5126-a623-f1613acb69b7",
+      "lang_claim": "ja",
+      "english_name": "Inkay",
+      "set_claim": "XY-P Promos",
+      "number_claim": "-",
+      "cameo_dex": [
+        653
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/602010_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/fennekin",
+        "https://www.tcgplayer.com/product/602010/pokemon-japan-xy-p-xy-promos-inkay-105-xy-p"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:d783266a-0186-5b95-864d-23f6df9cb89e",
+      "lang_claim": "unknown",
+      "english_name": "Victory Ring",
+      "set_claim": "XY-P Promos",
+      "number_claim": "2nd",
+      "cameo_dex": [
+        653
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/fennekin"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:4a86fcdc-8e5b-5a4c-932d-de763792f6a4",
+      "lang_claim": "unknown",
+      "english_name": "Pikachu",
+      "set_claim": "XY-P Promos",
+      "number_claim": "-",
+      "cameo_dex": [
+        653
+      ],
+      "image_url": null,
+      "source_urls": [
+        "https://pokecameos.com/pokemon/fennekin"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:f5d16ea7-c803-5b2d-ab7e-a8f6f3dd1ccc",
+      "lang_claim": "ja",
+      "english_name": "Paradise Resort",
+      "set_claim": "MEP Promos",
+      "number_claim": "92",
+      "cameo_dex": [
+        926
+      ],
+      "image_url": "https://archives.bulbagarden.net/media/upload/d/df/ParadiseResortMEPPromo92.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/sylveon",
+        "https://pokecameos.com/pokemon/fidough"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:3c33c87a-6c45-5c47-8190-c82daf2edfcd",
+      "lang_claim": "ja",
+      "english_name": "Scorbunny",
+      "set_claim": "MEP Promos",
+      "number_claim": "53",
+      "cameo_dex": [
+        888
+      ],
+      "image_url": "https://archives.bulbagarden.net/media/upload/e/e5/ScorbunnyMEPPromo53.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/zacian"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  },
+  {
+    "kind": "prior_special_candidate",
+    "disposition": "other_or_unconfirmed_language",
+    "raw": {
+      "source_id": "pokecameos:e544067d-cf13-5045-84a6-19eb3723d2d6",
+      "lang_claim": "ja",
+      "english_name": "Maschiff",
+      "set_claim": "Pitch Black",
+      "number_claim": "98",
+      "cameo_dex": [
+        943
+      ],
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695090_in_1000x1000.jpg",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/mabosstiff",
+        "https://www.tcgplayer.com/product/695090/pokemon-japan-m5-abyss-eye-maschiff"
+      ],
+      "printings": [],
+      "state": "research_candidate",
+      "reason": "Exact localized identity or physical printing not sufficiently established; do not count in progress.",
+      "subject_dex": []
+    },
+    "reason": "No EN/DE language assertion; retained without manufacturing a counterpart."
+  }
+]

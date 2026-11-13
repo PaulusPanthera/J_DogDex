@@ -1,0 +1,147 @@
+{
+  "category": "Pokémon",
+  "id": "me03-120",
+  "illustrator": "kantaro",
+  "image": "https://assets.tcgdex.net/de/me/me03/120",
+  "localId": "120",
+  "name": "Mega-Zygarde-ex",
+  "rarity": "Selten, besondere Illustration",
+  "set": {
+    "cardCount": {
+      "official": 88,
+      "total": 124
+    },
+    "id": "me03",
+    "logo": "https://assets.tcgdex.net/de/me/me03/logo",
+    "name": "Optimale Ordnung",
+    "symbol": "https://assets.tcgdex.net/univ/me/me03/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "Holo",
+      "size": "Standard",
+      "thirdParty": {
+        "tcgplayer": 684338,
+        "cardmarket": 877537
+      },
+      "variantId": "jr7oetx1mqug9",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-30T22:54:33.147Z",
+          "unit": "EUR",
+          "idProduct": 877537,
+          "avg": 42.75,
+          "low": 25,
+          "trend": 35.52,
+          "avg1": 28,
+          "avg7": 35.99,
+          "avg30": 40.21,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:13.679Z",
+          "holofoil": {
+            "productId": 684338,
+            "lowPrice": 38,
+            "midPrice": 48,
+            "highPrice": 1110.1,
+            "marketPrice": 40.42,
+            "directLowPrice": 43.09
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    718
+  ],
+  "cameoDexIds": [
+    718
+  ],
+  "hp": 310,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "suffix": "ex",
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Kampf",
+        "Kampf"
+      ],
+      "name": "Gaia-Welle",
+      "effect": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+      "damage": 200
+    },
+    {
+      "cost": [
+        "Kampf",
+        "Kampf",
+        "Kampf",
+        "Kampf",
+        "Kampf"
+      ],
+      "name": "Tilgendes Nichts",
+      "effect": "Wirf für jedes Pokémon deines Gegners 1 Münze. Bei Kopf fügt diese Attacke jenem Pokémon 150 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "×2"
+    }
+  ],
+  "retreat": 2,
+  "regulationMark": "J",
+  "legal": {
+    "standard": true,
+    "expanded": true
+  },
+  "updated": "2026-09-06T11:00:03+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-10-30T22:54:33.147Z",
+      "unit": "EUR",
+      "idProduct": 877537,
+      "avg": 42.75,
+      "low": 25,
+      "trend": 35.52,
+      "avg1": 28,
+      "avg7": 35.99,
+      "avg30": 40.21,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0,
+      "avg1-holo": null,
+      "avg7-holo": null,
+      "avg30-holo": null
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-10-14T22:55:13.679Z",
+      "holofoil": {
+        "productId": 684338,
+        "lowPrice": 38,
+        "midPrice": 48,
+        "highPrice": 1110.1,
+        "marketPrice": 40.42,
+        "directLowPrice": 43.09
+      }
+    }
+  }
+}

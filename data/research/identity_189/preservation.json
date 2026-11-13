@@ -1,0 +1,31 @@
+{
+  "version": "1.8.9",
+  "existing_identity_ids_preserved": 3820,
+  "existing_printing_ids_preserved": 4543,
+  "changed_existing_identities": [
+    "research_entry_1f60fd568a7c519cb3290f29518d4bc5",
+    "research_entry_1f9f7e9ccf57588e9558bb9badf04dc6",
+    "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+    "research_entry_76e47aa4bc1150d99a266eddd3b43727",
+    "research_entry_ab0768432f7554e1b9ff0bc2733a53ac"
+  ],
+  "new_printing_ids": [
+    "research_printing_4ad23c25079553a4bf87c4f3c20136e4",
+    "research_printing_f710ed1febea58428d22d9953c82018e"
+  ],
+  "removed_ids": [],
+  "japanese_korean_records_unchanged": true,
+  "before_confirmed_targets": {
+    "en": 1708,
+    "de": 1450,
+    "ja": 847,
+    "ko": 530
+  },
+  "after_confirmed_targets": {
+    "en": 1707,
+    "de": 1451,
+    "ja": 847,
+    "ko": 530
+  },
+  "collection_storage_in_patch": false
+}

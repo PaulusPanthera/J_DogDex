@@ -1,0 +1,522 @@
+{
+  "starting_candidates": 24,
+  "outcomes": {
+    "matched": 4,
+    "German_availability_unproven": 13,
+    "not_released_in_German": 7
+  },
+  "rows": [
+    {
+      "id": "inventory:de:37:Minun-Deck:7/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "tk-ex-m",
+      "number": "7/12",
+      "name": "Vulpix",
+      "source_urls": [
+        "https://www.pokewiki.de/Vulpix_%28TCG%29",
+        "https://www.pokewiki.de/Vulpix_(EX_Smaragd_72)",
+        "https://www.pokewiki.de/Minun-Deck_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "matched",
+      "active_entry_ids": [
+        "research_entry_594c67ca01ea5b96a89c3cfcde2a130c"
+      ],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:37:McDonald’s Kollektion 2016:1/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2016xy",
+      "number": "1/12",
+      "name": "Vulpix",
+      "source_urls": [
+        "https://www.pokewiki.de/Vulpix_%28TCG%29",
+        "https://www.pokewiki.de/Vulpix_(Protoschock_20)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2016_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": "International reference lists German, but no exact native specimen was obtained. Translated marketplace prices do not suffice."
+    },
+    {
+      "id": "inventory:de:38:Pokémon Rumble:3/16",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "ru1",
+      "number": "3/16",
+      "name": "Vulnona",
+      "source_urls": [
+        "https://www.pokewiki.de/Vulnona_%28TCG%29",
+        "https://www.pokewiki.de/Vulnona_(Pok%C3%A9mon_Rumble_3)",
+        "https://www.pokewiki.de/Pok%C3%A9mon_Rumble_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "not_released_in_German",
+      "active_entry_ids": [],
+      "availability_source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Rumble_(TCG)",
+      "decision": "Explicit release language inventory, not absence from provider",
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:38:BW Black Star Promos:BW66",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW66",
+      "name": "Vulnona",
+      "source_urls": [
+        "https://www.pokewiki.de/Vulnona_%28TCG%29",
+        "https://www.pokewiki.de/Vulnona_(Hoheit_der_Drachen_19)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:58:Minun-Deck:4/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "tk-ex-m",
+      "number": "4/12",
+      "name": "Fukano",
+      "source_urls": [
+        "https://www.pokewiki.de/Fukano_%28TCG%29",
+        "https://www.pokewiki.de/Fukano_(EX_Feuerrot_%26_Blattgr%C3%BCn_64)",
+        "https://www.pokewiki.de/Minun-Deck_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "matched",
+      "active_entry_ids": [
+        "research_entry_0c2d6355f1a15563aa498cdf2c2c8d4f"
+      ],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:58:McDonald’s Collection 2018:1/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2018sm",
+      "number": "1/12",
+      "name": "Fukano",
+      "source_urls": [
+        "https://www.pokewiki.de/Fukano_%28TCG%29",
+        "https://www.pokewiki.de/Fukano_(Sonne_%26_Mond_21)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Collection_2018_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": "International reference lists German, but no exact native specimen was obtained. Translated marketplace prices do not suffice."
+    },
+    {
+      "id": "inventory:de:59:Minun-Deck:1/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "tk-ex-m",
+      "number": "1/12",
+      "name": "Arkani",
+      "source_urls": [
+        "https://www.pokewiki.de/Arkani_%28TCG%29",
+        "https://www.pokewiki.de/Arkani_(EX_Feuerrot_%26_Blattgr%C3%BCn_18)",
+        "https://www.pokewiki.de/Minun-Deck_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "matched",
+      "active_entry_ids": [
+        "research_entry_1ba8ba27ae175bb0a57fa981ddabf880"
+      ],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:59:XY Black Star Promos:XY180",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "xyp",
+      "number": "XY180",
+      "name": "Arkani",
+      "source_urls": [
+        "https://www.pokewiki.de/Arkani_%28TCG%29",
+        "https://www.pokewiki.de/Arkani-TURBO_(XY_Black_Star_Promos_XY180)",
+        "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:59:SWSH Black Star Promos:SWSH304",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH304",
+      "name": "Arkani",
+      "source_urls": [
+        "https://www.pokewiki.de/Arkani_%28TCG%29",
+        "https://www.pokewiki.de/Arkani_(SWSH_Black_Star_Promos_SWSH304)",
+        "https://www.pokewiki.de/SWSH_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:209:McDonald’s Kollektion 2014:8/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2014xy",
+      "number": "8/12",
+      "name": "Snubbull",
+      "source_urls": [
+        "https://www.pokewiki.de/Snubbull_%28TCG%29",
+        "https://www.pokewiki.de/Snubbull_(Willkommen_in_Kalos_22)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2014_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "not_released_in_German",
+      "active_entry_ids": [],
+      "availability_source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2014_(TCG)",
+      "decision": "Explicit release language inventory, not absence from provider",
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:263:McDonald’s Kollektion 2015:11/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2015xy",
+      "number": "11/12",
+      "name": "Zigzachs",
+      "source_urls": [
+        "https://www.pokewiki.de/Zigzachs_%28TCG%29",
+        "https://www.pokewiki.de/Zigzachs_(Protoschock_111)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2015_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "not_released_in_German",
+      "active_entry_ids": [],
+      "availability_source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2015_(TCG)",
+      "decision": "Explicit release language inventory, not absence from provider",
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:309:Plusle-Deck:2/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "tk-ex-p",
+      "number": "2/12",
+      "name": "Frizelbliz",
+      "source_urls": [
+        "https://www.pokewiki.de/Frizelbliz_%28TCG%29",
+        "https://www.pokewiki.de/Frizelbliz_(EX_Deoxys_60)",
+        "https://www.pokewiki.de/Plusle-Deck_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "matched",
+      "active_entry_ids": [
+        "research_entry_366b04bc74895458acfcf4cff64d302f"
+      ],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:309:McDonald’s Kollektion 2015:7/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2015xy",
+      "number": "7/12",
+      "name": "Frizelbliz",
+      "source_urls": [
+        "https://www.pokewiki.de/Frizelbliz_%28TCG%29",
+        "https://www.pokewiki.de/Frizelbliz_(Protoschock_59)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2015_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "not_released_in_German",
+      "active_entry_ids": [],
+      "availability_source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2015_(TCG)",
+      "decision": "Explicit release language inventory, not absence from provider",
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:447:BW Black Star Promos:BW33",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW33",
+      "name": "Riolu",
+      "source_urls": [
+        "https://www.pokewiki.de/Riolu_%28TCG%29",
+        "https://www.pokewiki.de/Riolu_(BW_Black_Star_Promos_BW33)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:448:Pokémon Rumble:12/16",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "ru1",
+      "number": "12/16",
+      "name": "Lucario",
+      "source_urls": [
+        "https://www.pokewiki.de/Lucario_%28TCG%29",
+        "https://www.pokewiki.de/Lucario_(Pok%C3%A9mon_Rumble_12)",
+        "https://www.pokewiki.de/Pok%C3%A9mon_Rumble_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "not_released_in_German",
+      "active_entry_ids": [],
+      "availability_source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Rumble_(TCG)",
+      "decision": "Explicit release language inventory, not absence from provider",
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:448:BW Black Star Promos:BW85",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW85",
+      "name": "Lucario",
+      "source_urls": [
+        "https://www.pokewiki.de/Lucario_%28TCG%29",
+        "https://www.pokewiki.de/Lucario_(BW_Black_Star_Promos_BW85)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:448:XY Black Star Promos:XY140",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "xyp",
+      "number": "XY140",
+      "name": "Lucario",
+      "source_urls": [
+        "https://www.pokewiki.de/Lucario_%28TCG%29",
+        "https://www.pokewiki.de/Lucario_(XY_Black_Star_Promos_XY140)",
+        "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:506:BW Black Star Promos:BW52",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW52",
+      "name": "Yorkleff",
+      "source_urls": [
+        "https://www.pokewiki.de/Yorkleff_%28TCG%29",
+        "https://www.pokewiki.de/Yorkleff_(BW_Black_Star_Promos_BW52)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:570:BW Black Star Promos:BW12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW12",
+      "name": "Zorua",
+      "source_urls": [
+        "https://www.pokewiki.de/Zorua_%28TCG%29",
+        "https://www.pokewiki.de/Zorua_(BW_Black_Star_Promos_BW12)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:571:BW Black Star Promos:BW09",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW09",
+      "name": "Zoroark",
+      "source_urls": [
+        "https://www.pokewiki.de/Zoroark_%28TCG%29",
+        "https://www.pokewiki.de/Zoroark_(Schwarz_%26_Wei%C3%9F_71)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:653:McDonald’s Kollektion 2014:3/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2014xy",
+      "number": "3/12",
+      "name": "Fynx",
+      "source_urls": [
+        "https://www.pokewiki.de/Fynx_%28TCG%29",
+        "https://www.pokewiki.de/Fynx_(XY_Black_Star_Promos_XY02)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2014_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "not_released_in_German",
+      "active_entry_ids": [],
+      "availability_source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2014_(TCG)",
+      "decision": "Explicit release language inventory, not absence from provider",
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:653:McDonald’s Kollektion 2016:3/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2016xy",
+      "number": "3/12",
+      "name": "Fynx",
+      "source_urls": [
+        "https://www.pokewiki.de/Fynx_%28TCG%29",
+        "https://www.pokewiki.de/Fynx_(XY_24)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2016_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": "International reference lists German, but no exact native specimen was obtained. Translated marketplace prices do not suffice."
+    },
+    {
+      "id": "inventory:de:654:XY Black Star Promos:XY161",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "xyp",
+      "number": "XY161",
+      "name": "Rutena",
+      "source_urls": [
+        "https://www.pokewiki.de/Rutena_%28TCG%29",
+        "https://www.pokewiki.de/Rutena_(Schicksalsschmiede_12)",
+        "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "German_availability_unproven",
+      "active_entry_ids": [],
+      "availability_source": null,
+      "decision": null,
+      "blocker": null
+    },
+    {
+      "id": "inventory:de:676:McDonald’s Kollektion 2014:12/12",
+      "priority": 1,
+      "kind": "identity_reconciliation",
+      "status": "German_availability_unproven",
+      "lang": "de",
+      "release": "2014xy",
+      "number": "12/12",
+      "name": "Coiffwaff",
+      "source_urls": [
+        "https://www.pokewiki.de/Coiffwaff_%28TCG%29",
+        "https://www.pokewiki.de/Coiffwaff_(Willkommen_in_Kalos_32)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2014_(TCG)"
+      ],
+      "next_action": "Find exact native edition/specimen and product identity. Do not translate a listing into physical availability.",
+      "outcome": "not_released_in_German",
+      "active_entry_ids": [],
+      "availability_source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2014_(TCG)",
+      "decision": "Explicit release language inventory, not absence from provider",
+      "blocker": null
+    }
+  ]
+}

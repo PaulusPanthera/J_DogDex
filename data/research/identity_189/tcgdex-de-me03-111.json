@@ -1,0 +1,107 @@
+{
+  "category": "Trainer",
+  "id": "me03-111",
+  "illustrator": "MARINA Chikazawa",
+  "image": "https://assets.tcgdex.net/de/me/me03/111",
+  "localId": "111",
+  "name": "Illumina City",
+  "rarity": "Ultra Selten",
+  "set": {
+    "cardCount": {
+      "official": 88,
+      "total": 124
+    },
+    "id": "me03",
+    "logo": "https://assets.tcgdex.net/de/me/me03/logo",
+    "name": "Optimale Ordnung",
+    "symbol": "https://assets.tcgdex.net/univ/me/me03/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "Holo",
+      "size": "Standard",
+      "thirdParty": {
+        "tcgplayer": 684349,
+        "cardmarket": 877528
+      },
+      "variantId": "jr7oetx1mqug9",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-30T22:54:33.147Z",
+          "unit": "EUR",
+          "idProduct": 877528,
+          "avg": 2.34,
+          "low": 1,
+          "trend": 2.15,
+          "avg1": 1.69,
+          "avg7": 2.1,
+          "avg30": 2.28,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:13.679Z",
+          "holofoil": {
+            "productId": 684349,
+            "lowPrice": 0.6,
+            "midPrice": 1.81,
+            "highPrice": 91.62,
+            "marketPrice": 1.28,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "effect": "Einmal während des Zuges jedes Spielers kann jener Spieler sein Deck nach 1 Basis-Pokémon durchsuchen und es auf seine Bank legen. Jener Spieler mischt anschließend sein Deck. Wenn ein Spieler auf diese Weise sein Deck durchsucht, endet sein Zug. Du kannst während deines Zuges nur 1 Stadionkarte spielen. Lege sie neben die Aktive Position, und lege sie auf den Ablagestapel, wenn ein anderes Stadion ins Spiel kommt. Ein Stadion mit demselben Namen kann nicht gespielt werden.",
+  "trainerType": "Stadionkarte",
+  "regulationMark": "J",
+  "legal": {
+    "standard": true,
+    "expanded": true
+  },
+  "updated": "2026-08-20T08:34:47+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-10-30T22:54:33.147Z",
+      "unit": "EUR",
+      "idProduct": 877528,
+      "avg": 2.34,
+      "low": 1,
+      "trend": 2.15,
+      "avg1": 1.69,
+      "avg7": 2.1,
+      "avg30": 2.28,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0,
+      "avg1-holo": null,
+      "avg7-holo": null,
+      "avg30-holo": null
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-10-14T22:55:13.679Z",
+      "holofoil": {
+        "productId": 684349,
+        "lowPrice": 0.6,
+        "midPrice": 1.81,
+        "highPrice": 91.62,
+        "marketPrice": 1.28,
+        "directLowPrice": null
+      }
+    }
+  }
+}

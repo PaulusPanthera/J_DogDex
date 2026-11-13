@@ -1,0 +1,2022 @@
+{
+  "format": 1,
+  "observed_on": "2026-10-28",
+  "releases": [
+    {
+      "lang": "de",
+      "release": "xyp",
+      "name": "XY Black Star Promos",
+      "kind": "promo",
+      "date": "2013",
+      "source_url": "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)",
+        "https://www.lotticards.de/Fynx-XY02-Promo-Good"
+      ],
+      "series": "XY",
+      "card_total": null,
+      "evidence": "Native XY02 and XY19 specimens confirm the German promo series. Series year is not the release date of every individual card.",
+      "notes": "Native XY02 and XY19 specimens confirm the German promo series. Series year is not the release date of every individual card.",
+      "abbreviation": {
+        "official": "XYP"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "bwp",
+      "name": "BW Black Star Promos",
+      "kind": "promo",
+      "date": "2011",
+      "source_url": "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)",
+        "https://www.lotticards.de/Zoroark-BW19-Promo_1"
+      ],
+      "series": "Schwarz & Weiß",
+      "card_total": null,
+      "evidence": "German BW19 specimen confirms a physical native edition. Exact regional launch day remains unverified; retain year precision.",
+      "notes": "German BW19 specimen confirms a physical native edition. Exact regional launch day remains unverified; retain year precision.",
+      "abbreviation": {
+        "official": "BWP"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "tk-dp-l",
+      "name": "DP Trainer Kit – Lucario-Deck",
+      "kind": "deck",
+      "date": "2007",
+      "source_url": "https://www.pokewiki.de/Lucario-Deck_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/Lucario-Deck_(TCG)",
+        "https://www.pokewiki.de/Lucario_(Diamant_%26_Perl_6)"
+      ],
+      "series": "Diamant & Perl",
+      "card_total": 11,
+      "evidence": "Native Lucario 3/11 specimen and the numbered deck checklist corroborate the German DP Trainer Kit. Exact German day remains unverified.",
+      "notes": "Native Lucario 3/11 specimen and the numbered deck checklist corroborate the German DP Trainer Kit. Exact German day remains unverified.",
+      "abbreviation": {
+        "official": "TK-DP-L"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "en",
+      "release": "tk-ex-p",
+      "name": "EX Trainer Kit 2 (Plusle)",
+      "kind": "deck",
+      "date": "2006-03",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)",
+        "https://www.hobbydb.com/marketplaces/hobbydb/subjects/ex-trainer-kit-2-series"
+      ],
+      "series": "EX",
+      "card_total": 12,
+      "evidence": "The fixed Plusle half deck contains Electrike 2/12. Both independent product histories give March 2006; no unsupported first-of-month precision.",
+      "notes": "The fixed Plusle half deck contains Electrike 2/12. Both independent product histories give March 2006; no unsupported first-of-month precision.",
+      "abbreviation": {
+        "official": "TK-EX-P"
+      },
+      "tcg_online": null
+    }
+  ],
+  "release_dates": [
+    {
+      "lang": "en",
+      "release": "tk-dp-l",
+      "date": "2007-09-24",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Diamond_%26_Pearl_Trainer_Kit_(TCG)",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Diamond_%26_Pearl_Trainer_Kit_(TCG)",
+        "https://pokemon.trackingtcg.com/expansions/DPTK2"
+      ],
+      "evidence": "Two independent trainer-kit histories date the English kit to September 24, 2007. Correct both source chronology and inherited card dates."
+    },
+    {
+      "lang": "de",
+      "release": "2011bw",
+      "name": "McDonald’s Kollektion 2011",
+      "date": "2012-03-09",
+      "source_url": "https://www.brandora.de/de/archiv/spielwaren-insights/pokemon-startet-diesen-maerz-mit-der-mcdonald-s-happy-meal-aktion-in-deutschland",
+      "source_urls": [
+        "https://www.brandora.de/de/archiv/spielwaren-insights/pokemon-startet-diesen-maerz-mit-der-mcdonald-s-happy-meal-aktion-in-deutschland",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2011_(TCG)",
+        "https://www.lotticards.de/sammelkarten_s124",
+        "https://www.pokewiki.de/Zorua_(McDonald%E2%80%99s_Kollektion_2011_9)"
+      ],
+      "evidence": "A native German 9/12 physical card was visually reviewed, including KP, German attacks and square confetti foil. Contemporary manufacturer announcement reproduced by Brandora dates the German/Austrian Happy Meal campaign to 9 March–5 April 2012, independently corroborated by the native checklist. The set retains its international 2011 name; its German release is in 2012. This resolves the earlier language/distribution hold."
+    }
+  ],
+  "entries": [
+    {
+      "lang": "de",
+      "release": "xyp",
+      "number": "XY19",
+      "number_key": "XY19",
+      "name": "Fennexis-EX",
+      "english": "Delphox EX",
+      "dex": 655,
+      "release_date": "2014-09",
+      "rarity_code": "promo",
+      "rarity_label": "Promo",
+      "art_style": "standard",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/xy-tin-box-kalos-kraftpaket",
+        "https://www.pokewiki.de/Fennexis-EX_(XY_Black_Star_Promos_XY19)"
+      ],
+      "evidence": "Manufacturer dates the native Kalos-Kraftpaket tin to September 2014 and confirms a foil Fennexis-EX. Exact German XY19 specimen visually reviewed. Do not transfer the earlier English launch day.",
+      "notes": "Manufacturer dates the native Kalos-Kraftpaket tin to September 2014 and confirms a foil Fennexis-EX. Exact German XY19 specimen visually reviewed. Do not transfer the earlier English launch day.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "product_name": "Kalos-Kraftpaket – Fennexis-EX",
+          "product_kind": "box",
+          "release_date": "2014-09",
+          "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/xy-tin-box-kalos-kraftpaket"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "xyp",
+      "number": "XY02",
+      "number_key": "XY02",
+      "name": "Fynx",
+      "english": "Fennekin",
+      "dex": 653,
+      "release_date": "2013",
+      "rarity_code": "promo",
+      "rarity_label": "Promo",
+      "art_style": "standard",
+      "source_urls": [
+        "https://www.pokewiki.de/Fynx_(XY_Black_Star_Promos_XY02)",
+        "https://www.lotticards.de/Fynx-XY02-Promo-Good"
+      ],
+      "evidence": "Exact native XY02 specimen and physical German retailer entry confirm the card, foil and Promo star. German launch day remains unverified; not inferred from the separate Kalos Starter Set date.",
+      "notes": "Exact native XY02 specimen and physical German retailer entry confirm the card, foil and Promo star. German launch day remains unverified; not inferred from the separate Kalos Starter Set date.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW19",
+      "number_key": "BW19",
+      "name": "Zoroark",
+      "english": "Zoroark",
+      "dex": 571,
+      "release_date": "2011",
+      "rarity_code": "promo",
+      "rarity_label": "Promo",
+      "art_style": "standard",
+      "source_urls": [
+        "https://www.pokewiki.de/Zoroark_(BW_Black_Star_Promos_BW19)",
+        "https://www.lotticards.de/Zoroark-BW19-Promo_1"
+      ],
+      "evidence": "Exact native BW19 picture visibly confirms German rules, 100 KP, collector number and Promo star. Do not infer that the English oversized lenticular card also had a German edition.",
+      "notes": "Exact native BW19 picture visibly confirms German rules, 100 KP, collector number and Promo star. Do not infer that the English oversized lenticular card also had a German edition.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "sm2",
+      "number": "21a",
+      "number_key": "21a",
+      "name": "Alola-Vulpix",
+      "english": "Alolan Vulpix",
+      "dex": 37,
+      "release_date": "2018",
+      "rarity_code": "common",
+      "rarity_label": "Häufig",
+      "art_style": "standard",
+      "source_urls": [
+        "https://www.pokewiki.de/Alola-Vulpix_(Stunde_der_W%C3%A4chter_21)",
+        "https://recollectibles.de/collections/pokemon-guardians-rising",
+        "https://www.ricardo.ch/de/a/alola-vulpix-pokemon-karte-21a-145-holo-%F0%9F%87%A9%F0%9F%87%AA-1310061352/"
+      ],
+      "evidence": "Exact native 21a/145 alternate illustration has a common circle and foil treatment. German physical specimen listing dates it to 2018. Promo distribution does not replace its Common printed rarity.",
+      "notes": "Exact native 21a/145 alternate illustration has a common circle and foil treatment. German physical specimen listing dates it to 2018. Promo distribution does not replace its Common printed rarity.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "sm3.5",
+      "number": "77a",
+      "number_key": "77a",
+      "name": "Zoroark-GX",
+      "english": "Zoroark GX",
+      "dex": 571,
+      "release_date": "2019",
+      "rarity_code": "ultra_rare",
+      "rarity_label": "Ultraselten",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://www.pokewiki.de/Zoroark-GX_(Schimmernde_Legenden_53)",
+        "https://www.gate-to-the-games.de/Schimmernde-Legenden",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/2019"
+      ],
+      "evidence": "Exact German 77a/73 specimen has full-card alternate artwork and an Ultra Rare star. The 2019 native Kolossale Kräfte product is the later distribution, not the original 2017 expansion launch.",
+      "notes": "Exact German 77a/73 specimen has full-card alternate artwork and an Ultra Rare star. The 2019 native Kolossale Kräfte product is the later distribution, not the original 2017 expansion launch.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-dp-l",
+      "number": "3",
+      "number_key": "3",
+      "name": "Lucario",
+      "english": "Lucario",
+      "dex": 448,
+      "release_date": "2007",
+      "rarity_code": null,
+      "rarity_label": "No printed rarity",
+      "art_style": "standard",
+      "source_urls": [
+        "https://www.pokewiki.de/Lucario_(Diamant_%26_Perl_6)",
+        "https://www.pokewiki.de/Lucario-Deck_(TCG)"
+      ],
+      "evidence": "Exact native specimen clearly shows Lucario, German rules and 3/11. Fixed holo deck card has no printed rarity symbol. Retain only verified German year precision.",
+      "notes": "Exact native specimen clearly shows Lucario, German rules and 3/11. Fixed holo deck card has no printed rarity symbol. Retain only verified German year precision.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "tk-ex-p",
+      "number": "2",
+      "number_key": "2",
+      "name": "Electrike",
+      "english": "Electrike",
+      "dex": 309,
+      "release_date": "2006-03",
+      "rarity_code": null,
+      "rarity_label": "No printed rarity",
+      "art_style": "standard",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/EX_Trainer_Kit_2_(TCG)",
+        "https://www.hobbydb.com/marketplaces/hobbydb/subjects/ex-trainer-kit-2-series",
+        "https://www.pokewiki.de/Frizelbliz_(EX_Deoxys_60)"
+      ],
+      "evidence": "Plusle half-deck checklist identifies Electrike 2/12, fixed non-holo with no rarity symbol. No reverse or foil cross-product is inferred.",
+      "notes": "Plusle half-deck checklist identifies Electrike 2/12, fixed non-holo with no rarity symbol. No reverse or foil cross-product is inferred.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "tk-dp-l",
+      "number": "6",
+      "number_key": "6",
+      "name": "Riolu",
+      "english": "Riolu",
+      "dex": 447,
+      "release_date": "2007-09-24",
+      "rarity_code": null,
+      "rarity_label": "No printed rarity",
+      "art_style": "standard",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Diamond_%26_Pearl_Trainer_Kit_(TCG)",
+        "https://pokemon.trackingtcg.com/expansions/DPTK2",
+        "https://www.pokewiki.de/Riolu_(Diamant_%26_Perl_61)"
+      ],
+      "evidence": "English Lucario half-deck checklist explicitly includes Riolu 6/11 as a non-holo card without a rarity symbol. Date is the documented English trainer-kit launch, not a provider first-of-month placeholder.",
+      "notes": "English Lucario half-deck checklist explicitly includes Riolu 6/11 as a non-holo card without a rarity symbol. Date is the documented English trainer-kit launch, not a provider first-of-month placeholder.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "mep",
+      "number": "095",
+      "number_key": "95",
+      "name": "Lucario",
+      "english": "Lucario",
+      "dex": 448,
+      "release_date": "2026-09-16",
+      "rarity_code": "promo",
+      "rarity_label": "Promo",
+      "art_style": "standard",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/30th-celebration-tech-sticker-collection",
+        "https://www.pokewiki.de/Lucario_(30_Jahre_083)",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-release-von-kollektionen-verschoben/"
+      ],
+      "evidence": "Physical MEP095 with 30th CELEBRATION stamp. US manufacturer launch is 16 September; UK showcase lists a later November rollout. Date is regional US availability, not a universal English launch.",
+      "notes": "Physical MEP095 with 30th CELEBRATION stamp. US manufacturer launch is 16 September; UK showcase lists a later November rollout. Date is regional US availability, not a universal English launch.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "product_name": "30th Celebration Tech Sticker Collection",
+          "product_kind": "box",
+          "release_date": "2026-09-16",
+          "source_url": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/30th-celebration-tech-sticker-collection",
+          "stamps": [
+            "30th_CELEBRATION"
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "mep",
+      "number": "095",
+      "number_key": "95",
+      "name": "Lucario",
+      "english": "Lucario",
+      "dex": 448,
+      "release_date": "2026-10",
+      "rarity_code": "promo",
+      "rarity_label": "Promo",
+      "art_style": "standard",
+      "source_urls": [
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-oktober-2026-veroeffentlicht-werden",
+        "https://www.pokewiki.de/Lucario_(30_Jahre_083)",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-release-von-kollektionen-verschoben/"
+      ],
+      "evidence": "Physical MEP095 with 30th CELEBRATION stamp. German manufacturer places this product in October; native September delays are documented. Retain month precision rather than copying the US September day.",
+      "notes": "Physical MEP095 with 30th CELEBRATION stamp. German manufacturer places this product in October; native September delays are documented. Retain month precision rather than copying the US September day.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "product_name": "Tech-Sticker-Kollektion 30 Jahre",
+          "product_kind": "box",
+          "release_date": "2026-10",
+          "source_url": "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-oktober-2026-veroeffentlicht-werden",
+          "stamps": [
+            "30th_CELEBRATION"
+          ]
+        }
+      ]
+    }
+  ],
+  "entry_updates": [
+    {
+      "entry_id": "entry_eb8449da2d735abd9e33acfeef5c0300",
+      "lang": "de",
+      "release": "swsh12",
+      "number": "173",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "4dcca5b974fa5ddec659c2e262ecbcb8bb74e81038b67270c095be60c0dfd401.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh12-173"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh12-173"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_bcb3e58c968352fd89b99e005bc82c62",
+      "lang": "de",
+      "release": "g1",
+      "number": "13",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "d9c65f2f64702a213c3fa3ec2800351845e4624320c5d2ce7be42259dd0ad84d.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/g1-13"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/g1-13"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_c7adc804ba6450058e9c5ec35b22640e",
+      "lang": "de",
+      "release": "sm2",
+      "number": "22",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "d619edd7259626bb3606a0638d19e4bf7b50c9582e1d42feabc6fc52e6881b09.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm2-22"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm2-22"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_0bfb187968c951aeab9554443ee74af8",
+      "lang": "de",
+      "release": "sm8",
+      "number": "132",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "deb00dc9ac28ae2f0c15328effed0523515361239f3ddb36aae06c18cbf69b30.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm8-132"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm8-132"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_788dc806682c5cb19431a5452f0ac148",
+      "lang": "de",
+      "release": "xy12",
+      "number": "16",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "90f192be96d321244d01042734b850f06fec74f939efa6b977c1e7be73705390.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy12-16"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy12-16"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_51847ced09fa52109dc92db192c3717e",
+      "lang": "de",
+      "release": "swsh12",
+      "number": "179",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "972c4187cf369167a96e90e717baa2ec78435a306f27985642f35d7c816fa7ea.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh12-179"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh12-179"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_588a47a031455136bbd8e8716a617e2e",
+      "lang": "de",
+      "release": "swsh9",
+      "number": "159",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "1dd8a6ee181bdc608dd7e3a166c8e66601e0df371acc806387ee2788f7f8b9bb.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh9-159"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh9-159"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_08cf1fa7751d5134a414b7df7846d884",
+      "lang": "de",
+      "release": "swsh3",
+      "number": "178",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "54b6be47cb917bc97a6f70c7b66f8be0f288a2c928da7c6d2c685038ab2cb86f.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh3-178"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3-178"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_dc8bad0eae315ae0a1262563bd77bca1",
+      "lang": "de",
+      "release": "xy8",
+      "number": "21",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "a16ff9141a5bdb4ac92a0b1bcdaafe9369ead4335a2b282b7978eb3c37de8d3e.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy8-21"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-21"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_70ba15ab11fd56b3990a2045378818b2",
+      "lang": "de",
+      "release": "xy8",
+      "number": "22",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "3a6e0b17bdd342c1d38ff651289c89bb512e753f8fe82ab7bc1a042dee269156.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy8-22"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-22"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_32ba66d1a6e05dafabe338ee767e7f0e",
+      "lang": "de",
+      "release": "xy4",
+      "number": "23",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "91ece1c790290fd8e6a426b4ee2d3c93704bf8c67dbacebd9c7f918c65ade49f.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy4-23"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy4-23"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_0e642000bc59566e8db4be95cb22b640",
+      "lang": "de",
+      "release": "xy4",
+      "number": "24",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "a991ff156e7c584549af1d7741b5e8398bcb971cf0bbb4795eac35de92a80f8b.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy4-24"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy4-24"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_c2443a01dd9253b0a8b6d96ea45d3cc8",
+      "lang": "de",
+      "release": "sm10",
+      "number": "120",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "bb2e98772f85adb7ac185e8c5fab099354018cef71bf4e9d94b994785e2a157a.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm10-120"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm10-120"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_adc73fd9990e598dae87271596d6af7a",
+      "lang": "de",
+      "release": "xy3",
+      "number": "54",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "bcc53ec199c0d6675d480e5d95ad34aef45ea56ab8ffddafefd725eddecee21e.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy3-54"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy3-54"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_b4718a5723995772a49a644b878fc490",
+      "lang": "de",
+      "release": "xy3",
+      "number": "55",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "61841f3b453476833f073c087b6aba068515efb6a082889a42ca4a42f1a1f854.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy3-55"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy3-55"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_7dfed890c42a53a4b6042f7a197252d0",
+      "lang": "de",
+      "release": "swsh5",
+      "number": "157",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "900f79c4f71d6ae15e99119316a7ed45d94dbb131f1adf49fc3d92d254fdd0a8.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh5-157"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh5-157"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_e084cff6a1895dfcbca56097c6de949e",
+      "lang": "de",
+      "release": "sm10",
+      "number": "107",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "47ca454b2f79460a5a68be6f26cba1c0c9b541631185094b389b79cc98efa9de.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm10-107"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm10-107"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_92c5ba50eed057cfbd0a841c120072ea",
+      "lang": "de",
+      "release": "sm3.5",
+      "number": "53",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "6424d2032df9a7b4eddc0cf7342b69ead23850225e3a3d051fe79cedfe02806b.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm3.5-53"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm3.5-53"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_71b48a8798325ec5a7cf786b38569739",
+      "lang": "de",
+      "release": "swsh12.5gg",
+      "number": "GG56",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "de07960c413eee6122ee8c2b5c70b42201fd0ec02ae5787765a334ea9619d872.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh12.5gg-GG56",
+            "https://assets.tcgdex.net/datas.json"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh12.5gg-GG56",
+        "https://assets.tcgdex.net/datas.json"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_ec8eb0ce8c685ebbb2d11eb5f32c981b",
+      "lang": "de",
+      "release": "xy8",
+      "number": "92",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "673c62721e465749d7ab30345f9360ba9e03d143325a21472a56c5a3e2ce0452.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy8-92"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-92"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_c4dec6cbfbb8570f8c0967f08d68a0db",
+      "lang": "de",
+      "release": "sm12",
+      "number": "22",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "7ab58b53e96a61770c16f33151047c8e0c1886ce5c7b138db8e078b9501b1c40.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm12-22"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm12-22"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_62bf555b8b8b5bf997fe9e7976eef695",
+      "lang": "de",
+      "release": "swsh11",
+      "number": "173",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "91c70c4e8490e6549bc18a016ee95f1affaf3c17b1cc618ffee197651afe1dbf.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh11-173"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh11-173"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_94ad0c7fa3475a9cbd1b389a7ba22bd9",
+      "lang": "de",
+      "release": "xy10",
+      "number": "14",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "fb50aacdccd3ffe727f1c6e2f346abbca1eb128ebfa2d39f3337d4c4603d2451.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/xy10-14"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy10-14"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_e269bc46c4125b57acbba8bbb8f44007",
+      "lang": "de",
+      "release": "sm2",
+      "number": "74",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "42845609f29f152914a22ade97fbba1fca73f744cf3a8e105304a3b9a73be5c3.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm2-74"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm2-74"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_2e359e40dbca513f9f9512aa0f066b4d",
+      "lang": "de",
+      "release": "sm9",
+      "number": "82",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "f24118d0343876b61f0d78511a298f0dbb1fa181576f6e405d1f6203d2632255.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sm9-82"
+          ],
+          "note": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm9-82"
+      ],
+      "evidence": "Regular EX/GX/BREAK layout; being an Ultra Rare alone does not make this Full Art."
+    },
+    {
+      "entry_id": "entry_45ceeaaa961d5f29876d3602bd93b585",
+      "lang": "de",
+      "release": "swsh7",
+      "number": "187",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "0f34abf97e38e5924d271d7f269f11c80c8d76491ce84134d677ff190524bdae.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh7-187"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh7-187"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_a753fa55102a51669bccb107cd1bc229",
+      "lang": "de",
+      "release": "swsh8",
+      "number": "249",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "4cedc83d4c6d6a322e30c29e5fe0f9915799c0489b561dc5694a1e6e1aca1fc6.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh8-249"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh8-249"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_fd3eca8c17db5b278fafb68cdf7a433b",
+      "lang": "de",
+      "release": "swsh12.5gg",
+      "number": "GG48",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "bd9141f4c978dc5654483e2581d3a073076548265c95857228276178b757bac6.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh12.5gg-GG48",
+            "https://assets.tcgdex.net/datas.json"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh12.5gg-GG48",
+        "https://assets.tcgdex.net/datas.json"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_bec46d8b6d9a55c2904ce1caa0c6d7f2",
+      "lang": "de",
+      "release": "swsh12.5gg",
+      "number": "GG54",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "inferred",
+        "art_style_source": {
+          "method": "localized_artwork_inference_from_same_collector_identity",
+          "image": null,
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh12.5gg-GG54",
+            "https://assets.tcgdex.net/datas.json"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh12.5gg-GG54",
+        "https://assets.tcgdex.net/datas.json"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_bc085a65a3845729980d21d87515f271",
+      "lang": "de",
+      "release": "swsh9",
+      "number": "163",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "540e3d5859721a324cb528c4752f1911f5d5cc680cb07d2b9ee23357504dfa84.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh9-163"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh9-163"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_f198a64e2d525bb397acc73b8a304e1a",
+      "lang": "en",
+      "release": "swsh12",
+      "number": "173",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "15525c95b86059efb080a64cb25318886f0c7cde7aa8fc95be63cd1a42d52bc2.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/alolan-vulpix-v-silver-tempest-sit-173/",
+            "https://api.tcgdex.net/v2/en/cards/swsh12-173"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/alolan-vulpix-v-silver-tempest-sit-173/",
+        "https://api.tcgdex.net/v2/en/cards/swsh12-173"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_8acca86057fe5d67b821cd4e80e81c43",
+      "lang": "en",
+      "release": "swsh12",
+      "number": "179",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "f55600408e6a829864527dcde4349b07702c8442992c41596a2af04d476e7122.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/hisuian-arcanine-v-silver-tempest-sit-179/",
+            "https://api.tcgdex.net/v2/en/cards/swsh12-179"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/hisuian-arcanine-v-silver-tempest-sit-179/",
+        "https://api.tcgdex.net/v2/en/cards/swsh12-179"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_ff6e98ede5865e8ba3be48d05372f2bf",
+      "lang": "en",
+      "release": "swsh9",
+      "number": "159",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "6834ad202522b9cdfaad8aacbc87fede4856829944f2af8bad3048a374eecf87.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/granbull-v-brilliant-stars-brs-159/",
+            "https://api.tcgdex.net/v2/en/cards/swsh9-159"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/granbull-v-brilliant-stars-brs-159/",
+        "https://api.tcgdex.net/v2/en/cards/swsh9-159"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_9cfc29741b425026b178b698ff1633f9",
+      "lang": "en",
+      "release": "swsh3",
+      "number": "178",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "b8d2a282b5e10ec95921b3b03af49017a2f78b4ea8da391356805c2e92b9bfc2.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/houndoom-v-darkness-ablaze-daa-178/",
+            "https://api.tcgdex.net/v2/en/cards/swsh3-178"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndoom-v-darkness-ablaze-daa-178/",
+        "https://api.tcgdex.net/v2/en/cards/swsh3-178"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_15e0f7557d9c53bd8c0911969d0c370c",
+      "lang": "en",
+      "release": "xy4",
+      "number": "24a",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "6e2caedf630852d00b78c2a73b004cd40e6d02c7671d08c6033636f9ece729a1.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/m-manectric-ex-phantom-forces-phf-24a/",
+            "https://api.tcgdex.net/v2/en/cards/xy4-24a",
+            "https://api.tcgdex.net/v2/en/cards/xya-24a"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/m-manectric-ex-phantom-forces-phf-24a/",
+        "https://api.tcgdex.net/v2/en/cards/xy4-24a",
+        "https://api.tcgdex.net/v2/en/cards/xya-24a"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_0168d0f2c639522e8174d7b0783a429e",
+      "lang": "en",
+      "release": "xy3",
+      "number": "55a",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "7a18771422845566c4cda767348d11021d283ce2c8dfa3d3bcbba3a66e467c57.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/m-lucario-ex-furious-fists-ffi-55a/",
+            "https://api.tcgdex.net/v2/en/cards/xy3-55a",
+            "https://api.tcgdex.net/v2/en/cards/xya-55a"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/m-lucario-ex-furious-fists-ffi-55a/",
+        "https://api.tcgdex.net/v2/en/cards/xy3-55a",
+        "https://api.tcgdex.net/v2/en/cards/xya-55a"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_5679ef3091ee5f5a99856aadb83a7e96",
+      "lang": "en",
+      "release": "swsh5",
+      "number": "157",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "fa1e294298f035389a1476dc38519adab469b19b4a9f3937ac2141f970639660.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/stoutland-v-battle-styles-bst-157/",
+            "https://api.tcgdex.net/v2/en/cards/swsh5-157"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/stoutland-v-battle-styles-bst-157/",
+        "https://api.tcgdex.net/v2/en/cards/swsh5-157"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_22e9fe06471851959c4c3a45f3d0acb1",
+      "lang": "en",
+      "release": "sm3.5",
+      "number": "77a",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "6a3cb8d65bc360a362fb77a6206031d9357463b3e5dcc7c08ec782e9587db613.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/zoroark-gx-shining-legends-slg-77a/"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zoroark-gx-shining-legends-slg-77a/"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_4a637e25cfa659d6a220c42cef55a87d",
+      "lang": "en",
+      "release": "swsh12.5gg",
+      "number": "GG56",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "7e2d9abb67afccd3d948f16c12470a3d25ff20430d5860e82a19f27a1f42b810.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/hisuian-zoroark-vstar-crown-zenith-crz-gg56/",
+            "https://assets.tcgdex.net/datas.json",
+            "https://api.tcgdex.net/v2/en/cards/swsh12.5gg-GG56"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/hisuian-zoroark-vstar-crown-zenith-crz-gg56/",
+        "https://assets.tcgdex.net/datas.json",
+        "https://api.tcgdex.net/v2/en/cards/swsh12.5gg-GG56"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_1e5ea25aee2d5fc6a633cd7f38d67bbc",
+      "lang": "en",
+      "release": "swsh11",
+      "number": "173",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "e0ccc8b553806c395975733124361b9ab3ead81be7ac1e4329c8e07f3bd168d3.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/delphox-v-lost-origin-lor-173/",
+            "https://api.tcgdex.net/v2/en/cards/swsh11-173"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/delphox-v-lost-origin-lor-173/",
+        "https://api.tcgdex.net/v2/en/cards/swsh11-173"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_3a417a54f4725f0d929737bef2b546ab",
+      "lang": "en",
+      "release": "swsh7",
+      "number": "187",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "67a30263aeb1670068a2a6a6f5a271d4113a78714527600a5591ff5c42651409.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/lycanroc-v-evolving-skies-evs-187/",
+            "https://api.tcgdex.net/v2/en/cards/swsh7-187"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lycanroc-v-evolving-skies-evs-187/",
+        "https://api.tcgdex.net/v2/en/cards/swsh7-187"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_a1284920361158d38e16e4e38b4b0383",
+      "lang": "en",
+      "release": "swsh8",
+      "number": "249",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "8abbb7d84b7561a7ab878a10155c774d631b6dd9359291aff8711437f2cb7686.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/boltund-v-fusion-strike-fst-249/",
+            "https://api.tcgdex.net/v2/en/cards/swsh8-249"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/boltund-v-fusion-strike-fst-249/",
+        "https://api.tcgdex.net/v2/en/cards/swsh8-249"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_b90f3825d51f5fbbaf72240901787a30",
+      "lang": "en",
+      "release": "swsh12.5gg",
+      "number": "GG48",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "80f4e56c97d460c546983997ec76382621419867d0756c20e1b50f28d596e950.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/zacian-v-crown-zenith-crz-gg48/",
+            "https://assets.tcgdex.net/datas.json",
+            "https://api.tcgdex.net/v2/en/cards/swsh12.5gg-GG48"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zacian-v-crown-zenith-crz-gg48/",
+        "https://assets.tcgdex.net/datas.json",
+        "https://api.tcgdex.net/v2/en/cards/swsh12.5gg-GG48"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_90d75d4f4eb85afd81efce5625e094ed",
+      "lang": "en",
+      "release": "swsh12.5gg",
+      "number": "GG54",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "c04548c931961a6c7db450a74d0e7a6e7eed21aff1b90f98709143d56cbdaa5e.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/zamazenta-v-crown-zenith-crz-gg54/",
+            "https://assets.tcgdex.net/datas.json",
+            "https://api.tcgdex.net/v2/en/cards/swsh12.5gg-GG54"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zamazenta-v-crown-zenith-crz-gg54/",
+        "https://assets.tcgdex.net/datas.json",
+        "https://api.tcgdex.net/v2/en/cards/swsh12.5gg-GG54"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_40ad150ccc4452249417c0744dd36189",
+      "lang": "en",
+      "release": "swsh9",
+      "number": "163",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "48b63f8b93b94abe3b4f1b9878297d3d198c98bc69c4f602dade9d760edfdbbf.webp",
+          "source_urls": [
+            "https://pkmncards.com/card/zamazenta-v-brilliant-stars-brs-163/",
+            "https://api.tcgdex.net/v2/en/cards/swsh9-163"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zamazenta-v-brilliant-stars-brs-163/",
+        "https://api.tcgdex.net/v2/en/cards/swsh9-163"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_391e4f81792555efa9e85824f633125d",
+      "lang": "de",
+      "release": "swsh6",
+      "number": "185",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "b8967b739f414c021b61d066da43b6d63d8cb9b8e3aea33bcf238cf02366f427.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh6-185"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh6-185"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_15af939707bc5140859a2ce36635ce76",
+      "lang": "de",
+      "release": "swsh7",
+      "number": "182",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "078f3b54748f25e4ed6b01c232dc714032aaa4555a9e04d190c5dffdb64cdbc2.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh7-182"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh7-182"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_3b515e539c375038b060df0765f70b4a",
+      "lang": "de",
+      "release": "swsh8",
+      "number": "251",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "dd5928c88b3dadb5ccb473db06b65b1376d2db2545045906612e06d202d0bb60.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh8-251"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh8-251"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_49b2ba66582c5759a7ab45a58f01d8f3",
+      "lang": "de",
+      "release": "swsh8",
+      "number": "255",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "d66e76c65557f9922cfe3bb01241f5883edc57ef75af0cae876daa6baa0d120c.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/swsh8-255"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh8-255"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_a513167677705eadb389527843a08e22",
+      "lang": "en",
+      "release": "swsh3",
+      "number": "188",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "2c525ed3df8f23c51cb64057b3dabab94ca533b1ef721a13d81941d186b64ff1.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/swsh3-188",
+            "https://pokecameos.com/pokemon/yamper",
+            "https://www.tcgplayer.com/product/219311/pokemon-swsh03-darkness-ablaze-pokemon-breeders-nurturing-full-art"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh3-188",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.tcgplayer.com/product/219311/pokemon-swsh03-darkness-ablaze-pokemon-breeders-nurturing-full-art"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_324d6ded8a8753039ecb637a4ee43175",
+      "lang": "en",
+      "release": "swsh6",
+      "number": "185",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "3543905071ede1270ddf1494fa91c58bfc5cb04ec994a1d7a3806c0704f401a1.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/swsh6-185",
+            "https://pokecameos.com/pokemon/rockruff",
+            "https://www.tcgplayer.com/product/241805/pokemon-swsh06-chilling-reign-tornadus-v-alternate-full-art"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh6-185",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.tcgplayer.com/product/241805/pokemon-swsh06-chilling-reign-tornadus-v-alternate-full-art"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_4f3fc3129a5b52e0ac0f304531d9fc5e",
+      "lang": "en",
+      "release": "swsh7",
+      "number": "182",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "637e6423619061ee424fe09142ea16e4bac739d8e0a91bad6d1f53c732da9136.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/swsh7-182",
+            "https://pokecameos.com/pokemon/nickit",
+            "https://www.tcgplayer.com/product/246695/pokemon-swsh07-evolving-skies-golurk-v-alternate-full-art"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh7-182",
+        "https://pokecameos.com/pokemon/nickit",
+        "https://www.tcgplayer.com/product/246695/pokemon-swsh07-evolving-skies-golurk-v-alternate-full-art"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_68ec4801fbf55eeebcbb88d497266d89",
+      "lang": "en",
+      "release": "swsh8",
+      "number": "251",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "55aabe32be2fd19cc3e5b29d568e1882e49f992ae9f2881d469e3ae1051fe701.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/swsh8-251",
+            "https://pokecameos.com/pokemon/smeargle",
+            "https://www.tcgplayer.com/product/253147/pokemon-swsh08-fusion-strike-mew-v-alternate-full-art"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-251",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/253147/pokemon-swsh08-fusion-strike-mew-v-alternate-full-art"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_23843a3960e05ad3a270df4565128910",
+      "lang": "en",
+      "release": "swsh8",
+      "number": "255",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "3e1573573606be6b7fdb6e1f44187ba87f81853fe02c4d1fcca272e10da169d0.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/swsh8-255",
+            "https://pokecameos.com/pokemon/smeargle",
+            "https://www.tcgplayer.com/product/253155/pokemon-swsh08-fusion-strike-genesect-v-alternate-full-art"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-255",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/253155/pokemon-swsh08-fusion-strike-genesect-v-alternate-full-art"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "research_entry_b48d1fe8caed556eb2ad68e434eafd8f",
+      "lang": "en",
+      "release": "swsh8",
+      "number": "259",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "image": "ce5114f48300b9da3ee741f64b24b87fcfe42adf1d1f3fded549ca3348574c6a.webp",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/swsh8-259",
+            "https://pokecameos.com/pokemon/boltund",
+            "https://www.tcgplayer.com/product/253160/pokemon-swsh08-fusion-strike-dancer-full-art"
+          ],
+          "note": "Illustration extends behind the rules and across the card.",
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-259",
+        "https://pokecameos.com/pokemon/boltund",
+        "https://www.tcgplayer.com/product/253160/pokemon-swsh08-fusion-strike-dancer-full-art"
+      ],
+      "evidence": "Illustration extends behind the rules and across the card."
+    },
+    {
+      "entry_id": "entry_3ccade8482e65b4597c72831ad24d0f0",
+      "lang": "de",
+      "release": "basep",
+      "number": "6",
+      "values": {
+        "rarity_code": "promo",
+        "rarity_state": "known",
+        "rarity_label": "Promo",
+        "rarity_namespace": "de:basep:printed_black_star",
+        "rarity_family": "promo"
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/Datei:Arkani_(Wizards_Black_Star_Promos_6).jpg",
+        "https://api.tcgdex.net/v2/de/cards/basep-6",
+        "https://pokezentrum.de/blog/alle-wizards-black-star-promo-pokemon-karten-in-der-ubersicht/"
+      ],
+      "evidence": "Exact native card has the Black Star PROMO symbol. Correct a provider Common classification; retain its printing IDs."
+    },
+    {
+      "entry_id": "entry_b90f275c05c15e06a9638a3716ca1475",
+      "lang": "de",
+      "release": "basep",
+      "number": "32",
+      "values": {
+        "rarity_code": "promo",
+        "rarity_state": "known",
+        "rarity_label": "Promo",
+        "rarity_namespace": "de:basep:printed_black_star",
+        "rarity_family": "promo"
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/Datei:Farbeagle_(Wizards_Black_Star_Promos_32).jpg",
+        "https://api.tcgdex.net/v2/de/cards/basep-32",
+        "https://pokezentrum.de/blog/alle-wizards-black-star-promo-pokemon-karten-in-der-ubersicht/"
+      ],
+      "evidence": "Exact native card has the Black Star PROMO symbol. Correct a provider Common classification; retain its printing IDs."
+    },
+    {
+      "entry_id": "entry_2d8e3f14ccd75d1789266782a72abd22",
+      "lang": "de",
+      "release": "2011bw",
+      "number": "9",
+      "values": {
+        "metadata_state": "approved",
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card",
+          "source_urls": [
+            "https://www.brandora.de/de/archiv/spielwaren-insights/pokemon-startet-diesen-maerz-mit-der-mcdonald-s-happy-meal-aktion-in-deutschland",
+            "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2011_(TCG)",
+            "https://www.lotticards.de/sammelkarten_s124",
+            "https://www.pokewiki.de/Zorua_(McDonald%E2%80%99s_Kollektion_2011_9)"
+          ],
+          "observed_on": "2026-10-28"
+        }
+      },
+      "source_urls": [
+        "https://www.brandora.de/de/archiv/spielwaren-insights/pokemon-startet-diesen-maerz-mit-der-mcdonald-s-happy-meal-aktion-in-deutschland",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2011_(TCG)",
+        "https://www.lotticards.de/sammelkarten_s124",
+        "https://www.pokewiki.de/Zorua_(McDonald%E2%80%99s_Kollektion_2011_9)"
+      ],
+      "evidence": "A native German 9/12 physical card was visually reviewed, including KP, German attacks and square confetti foil. Contemporary manufacturer announcement reproduced by Brandora dates the German/Austrian Happy Meal campaign to 9 March–5 April 2012, independently corroborated by the native checklist. The set retains its international 2011 name; its German release is in 2012. This resolves the earlier language/distribution hold."
+    }
+  ],
+  "card_dates": [
+    {
+      "entry_id": "entry_ed9887bc5b1b5eb59777098921b64069",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH018",
+      "date": "2020-05-22",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/legends-of-galar-tin/"
+      ],
+      "evidence": "Specific Galar Legend tin release supersedes an incorrect June 29 provider date. German product availability is independently corroborated by the native retailer."
+    },
+    {
+      "entry_id": "entry_93d661f4d41a5c9ba4ec28131b9381c7",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH019",
+      "date": "2020-05-22",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/legends-of-galar-tin/"
+      ],
+      "evidence": "Specific Galar Legend tin release supersedes an incorrect June 29 provider date. German product availability is independently corroborated by the native retailer."
+    },
+    {
+      "entry_id": "entry_6970d3cfccec5f7e97c1eb7cc9d03397",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH018",
+      "date": "2020-05-22",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/legends-of-galar-tin/",
+        "https://www.wog.ch/de/index.cfm/details/product/98300-Pokemon-Tin-Box-Set-Galar-Legenden"
+      ],
+      "evidence": "Specific Galar Legend tin release supersedes the German 2019 promo-series start. German product availability is independently corroborated by the native retailer."
+    },
+    {
+      "entry_id": "entry_c9bdd2a3abe059eab884ad81e00770bb",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH019",
+      "date": "2020-05-22",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/legends-of-galar-tin/",
+        "https://www.wog.ch/de/index.cfm/details/product/98300-Pokemon-Tin-Box-Set-Galar-Legenden"
+      ],
+      "evidence": "Specific Galar Legend tin release supersedes the German 2019 promo-series start. German product availability is independently corroborated by the native retailer."
+    },
+    {
+      "entry_id": "entry_2b428b6fc1135e6a856d1d99d7ee3b6a",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH076",
+      "date": "2020-11-20",
+      "source_urls": [
+        "https://cardini-tcg.ch/products/pokemon-tcg-top-trainer-box-plus-zamazenta-zacian-2020",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/sword-shield-ultra-premium-collection-zacian-zamazenta"
+      ],
+      "evidence": "Native German Top-Trainer-Box Plus retailer explicitly gives 20 November 2020 and identifies the gold promo. Does not date the whole promo series."
+    },
+    {
+      "entry_id": "entry_c80e1bff00b854e395394b7a238fb175",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH077",
+      "date": "2020-11-20",
+      "source_urls": [
+        "https://cardini-tcg.ch/products/pokemon-tcg-top-trainer-box-plus-zamazenta-zacian-2020",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/sword-shield-ultra-premium-collection-zacian-zamazenta"
+      ],
+      "evidence": "Native German Top-Trainer-Box Plus retailer explicitly gives 20 November 2020 and identifies the gold promo. Does not date the whole promo series."
+    },
+    {
+      "entry_id": "entry_09bd3c633bc154359e3b49c0a6ad01f0",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH085",
+      "date": "2021-02-19",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-glaenzendes-schicksal"
+      ],
+      "evidence": "German manufacturer explicitly dates the foil Bellektro-V Shining Fates tin to 19 February 2021."
+    },
+    {
+      "entry_id": "entry_36dbce6d3dc45cd087540102d141f6b8",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH199",
+      "date": "2022-02-25",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/v-kampfdeck-wolwerock-vs-krarmor",
+        "https://www.wog.ch/de/index.cfm/details/product/134376-Pokemon-V-Kampf-Deck-Wolwerock-vs-Krarmor-DE/"
+      ],
+      "evidence": "Native German manufacturer and regional retailer both date the fixed Wolwerock-V battle deck to 25 February 2022."
+    },
+    {
+      "entry_id": "entry_3ccade8482e65b4597c72831ad24d0f0",
+      "lang": "de",
+      "release": "basep",
+      "number": "6",
+      "date": "2000-03",
+      "source_urls": [
+        "https://pokezentrum.de/blog/alle-wizards-black-star-promo-pokemon-karten-in-der-ubersicht/",
+        "https://www.pokewiki.de/Datei:Arkani_(Wizards_Black_Star_Promos_6).jpg",
+        "https://api.tcgdex.net/v2/de/cards/basep-6"
+      ],
+      "evidence": "Native German league guide specifies this promo distribution month and language. Supersedes the incorrect July 1999 series reference; no exact day inferred."
+    },
+    {
+      "entry_id": "entry_b90f275c05c15e06a9638a3716ca1475",
+      "lang": "de",
+      "release": "basep",
+      "number": "32",
+      "date": "2001-03",
+      "source_urls": [
+        "https://pokezentrum.de/blog/alle-wizards-black-star-promo-pokemon-karten-in-der-ubersicht/",
+        "https://www.pokewiki.de/Datei:Farbeagle_(Wizards_Black_Star_Promos_32).jpg",
+        "https://api.tcgdex.net/v2/de/cards/basep-32"
+      ],
+      "evidence": "Native German league guide specifies this promo distribution month and language. Supersedes the incorrect July 1999 series reference; no exact day inferred."
+    }
+  ],
+  "printings": [
+    {
+      "entry_id": "entry_ca9b079bf6ca53d7b1d26cac741a369d",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW19",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "print_state": "lenticular",
+        "release_date": "2011-10-05",
+        "product_name": "Zoroark Illusions Collection",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Black_%26_White_TCG_Series_merchandise"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Black_%26_White_TCG_Series_merchandise",
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(BW_Promo_19)"
+      ],
+      "evidence": "Specific product and card histories independently identify a regular Cosmos Holo BW19 and an oversized 3D lenticular BW19 in the October 5, 2011 English collection. No German oversized version inferred."
+    },
+    {
+      "entry_id": "entry_2d8e3f14ccd75d1789266782a72abd22",
+      "lang": "de",
+      "release": "2011bw",
+      "number": "9",
+      "source_urls": [
+        "https://www.brandora.de/de/archiv/spielwaren-insights/pokemon-startet-diesen-maerz-mit-der-mcdonald-s-happy-meal-aktion-in-deutschland",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2011_(TCG)",
+        "https://www.lotticards.de/sammelkarten_s124",
+        "https://www.pokewiki.de/Zorua_(McDonald%E2%80%99s_Kollektion_2011_9)"
+      ],
+      "evidence": "A native German 9/12 physical card was visually reviewed, including KP, German attacks and square confetti foil. Contemporary manufacturer announcement reproduced by Brandora dates the German/Austrian Happy Meal campaign to 9 March–5 April 2012, independently corroborated by the native checklist. The set retains its international 2011 name; its German release is in 2012. This resolves the earlier language/distribution hold.",
+      "printing": {
+        "finish": "holo",
+        "pattern": "confetti",
+        "edition": "not_applicable",
+        "release_date": "2012-03-09",
+        "source_url": "https://www.brandora.de/de/archiv/spielwaren-insights/pokemon-startet-diesen-maerz-mit-der-mcdonald-s-happy-meal-aktion-in-deutschland"
+      }
+    }
+  ],
+  "printing_updates": [
+    {
+      "entry_id": "entry_ca9b079bf6ca53d7b1d26cac741a369d",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW19",
+      "printing_id": "research_printing_5846f64c23875de3863ec628f72ff3a6",
+      "values": {
+        "pattern": "cosmos"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Black_%26_White_TCG_Series_merchandise"
+      ],
+      "evidence": "Regular BW19 in the documented English collection is Cosmos Holofoil. Refine the existing unspecified holo in place so ownership remains on its existing ID."
+    }
+  ],
+  "holds": [
+    {
+      "lang": "de",
+      "release": "bwp",
+      "number": "BW09",
+      "reason": "Available article illustration is English; German physical reference needs separate verification."
+    },
+    {
+      "lang": "de",
+      "release": "xyp",
+      "number": "XY161",
+      "reason": "English article specimen; German publication not established."
+    },
+    {
+      "lang": "de",
+      "release": "xyp",
+      "number": "XY180",
+      "reason": "Native article explicitly excludes a German release."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH304",
+      "reason": "Native article explicitly excludes a German release."
+    },
+    {
+      "lang": "de",
+      "release": "tk-dp-l",
+      "number": "6",
+      "reason": "Native Lucario 3/11 confirmed, but no exact German Riolu specimen independently verified in this pass."
+    },
+    {
+      "lang": "de",
+      "release": "tk-ex-p",
+      "number": "2",
+      "reason": "English kit documented; no native German Plusle kit specimen verified in this pass."
+    }
+  ],
+  "secondary_language_sha256": {
+    "ja": "d4e163051a3bc28641d83a18ef2240b956fa2662f11c93d2251486fbf89dbde0",
+    "ko": "26ca900971b24ea24418e237ba7e345da6bfcaad09716c3e576749b5918b0d7a"
+  }
+}

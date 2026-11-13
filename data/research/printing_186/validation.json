@@ -1,0 +1,33 @@
+{
+  "version": "1.8.6",
+  "checked_on": "2026-10-30",
+  "python": {
+    "tests": 69,
+    "failures": 0,
+    "seconds": 419.503,
+    "command": "python3 -m unittest tests.test_printing_corrections tests.test_printing_system tests.test_source_structure tests.test_collector tests.test_editor tests.test_publishing tests.test_marketplace -v"
+  },
+  "javascript_dom": {
+    "tests": 24,
+    "failures": 0,
+    "seconds": 140.049,
+    "command": "DOGDEX_QA_NODE_MODULES=<external-jsdom-directory> node --test --test-concurrency=1 tests/test_catalog.mjs tests/test_editor_dom.mjs tests/test_publishing.mjs tests/test_mobile_dom.mjs tests/test_card_ui.mjs tests/test_marketplace_dom.mjs tests/test_localization.mjs tests/test_printing_dom.mjs tests/test_source_navigation.mjs"
+  },
+  "replay": {
+    "original_raw_ids_preserved": 4517,
+    "added_ids": 26,
+    "removed_ids": 0,
+    "raw_total": 4543,
+    "accepted_total": 4535,
+    "json_byte_identical": true,
+    "derived_sqlite_byte_identical": true,
+    "asian_card_arrays_unchanged": true,
+    "source_ui_code_unchanged": true
+  },
+  "limitations": [
+    "Software checks validate specified data changes and preservation, not worldwide factual completeness.",
+    "No personal PC collection supplied; representative persistence and upgrade fixtures used.",
+    "No individual physical specimen inspected; representative art remains accepted.",
+    "Windows runtime unchanged; native Windows execution not tested in Linux."
+  ]
+}

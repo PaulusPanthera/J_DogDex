@@ -1,0 +1,85 @@
+{
+  "version": "1.8.6",
+  "rows": [
+    {
+      "id": "186-1",
+      "lang": "de",
+      "release": "swsh11",
+      "number": "084",
+      "claim": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lost_Origin_Build_%26_Battle_Box_(TCG)"
+      ],
+      "blocker": "Exact German Build & Battle Non-Holo specimen/language proof remains absent; English documented, not automatically German.",
+      "status": "unresolved_language_specific_printing"
+    },
+    {
+      "id": "186-2",
+      "lang": "de",
+      "release": "sv04",
+      "number": "136",
+      "claim": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(Paradox_Rift_136)"
+      ],
+      "blocker": "German Melmetal deck exists, but native exact Non-Holo Zacian 136 physical card remains unverified.",
+      "status": "unresolved_language_specific_printing"
+    },
+    {
+      "id": "186-3",
+      "lang": "de",
+      "release": "me02",
+      "number": "045",
+      "claim": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Mega_Diancie_ex_Mega_Battle_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)"
+      ],
+      "blocker": "Need native German Non-Holo 045 specimen or explicit language/finish contents for Mega Diancie / Build & Battle.",
+      "status": "unresolved_language_specific_printing"
+    },
+    {
+      "id": "186-4",
+      "lang": "de",
+      "release": "me02",
+      "number": "045",
+      "claim": {
+        "finish": "holo",
+        "pattern": "cosmos",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://lastsold.de/de/sets/phantasmal-flames/zacian-045-cosmos",
+        "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)"
+      ],
+      "blocker": "A German-localized price page does not prove a German-language Cosmos specimen. Existing English/Italian listings cannot establish German availability.",
+      "status": "unresolved_language_specific_printing"
+    },
+    {
+      "id": "186-5",
+      "lang": "en",
+      "release": "me02",
+      "number": "045",
+      "printing_id": "research_printing_1042452bcf835dc88a03645e0aa658cb",
+      "field": "first_availability_date",
+      "status": "unresolved_product_date",
+      "blocker": "Exact first availability of the English Chaos Rising Zacian Cosmos blister is not established. Do not inherit the original expansion date.",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)"
+      ]
+    }
+  ],
+  "continue_from": "Only the four native German variants and exact English Cosmos product date remain for this bounded pass. Do not repeat the 48-case audit or White Flare pattern additions."
+}

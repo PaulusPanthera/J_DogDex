@@ -1,0 +1,7 @@
+Growlithe illustration (Dream World asset)
+Source: PokeAPI/sprites repository
+https://github.com/PokeAPI/sprites
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/58.svg
+Retrieved: 2026-10-31
+Original SHA-256: a7414bdfa0fdf7b0cc2fc880542e6d3542010bfede24e457916ed71e7b904c19
+Pokémon characters and artwork belong to their respective rights holders.

@@ -1,0 +1,290 @@
+[
+  {
+    "name": "en_30th.json",
+    "url": "https://api.tcgdex.net/v2/en/sets/30th",
+    "bytes": 16833,
+    "sha256": "72c2ff0cb768db86c1810d9f30758b135ecbe53e22d58cd82e454e99c83d497d"
+  },
+  {
+    "name": "cards/en_30th-009.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-009",
+    "bytes": 1885,
+    "sha256": "7cfbf0d7fa3a95dd8666a8048b2cecb8678f05beee7ae43bfdc53f02b03efdb1"
+  },
+  {
+    "name": "cards/en_30th-010.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-010",
+    "bytes": 1816,
+    "sha256": "a6e7a1651c5486ef2dfaaf775cf27af28ee1719e47b8f105095a3b06a45f8047"
+  },
+  {
+    "name": "cards/en_30th-083.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-083",
+    "bytes": 2025,
+    "sha256": "e6d0f52878f57bec557b1ceeadb60fb391afde5fd36a149803405e2ecf7cba6c"
+  },
+  {
+    "name": "cards/en_30th-085.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-085",
+    "bytes": 2059,
+    "sha256": "0a48a96c65e782e2bd153ba05114ef9a303312a378f4918dbc3afffad35e4b01"
+  },
+  {
+    "name": "cards/en_30th-095.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-095",
+    "bytes": 1855,
+    "sha256": "a1e1059768f838adef2bf8610882a71e287ee13c0fec7c93be101b4c6c31348b"
+  },
+  {
+    "name": "cards/en_30th-096.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-096",
+    "bytes": 2058,
+    "sha256": "d399a1843c989e0bc8285a7e5d59ff77880d1f6d1774e75aa174419f741bbdd5"
+  },
+  {
+    "name": "cards/en_30th-106.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-106",
+    "bytes": 2161,
+    "sha256": "5fa38634023593e94e803343d060da901b5468b68531700f76000456038ea7ea"
+  },
+  {
+    "name": "cards/en_30th-107.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-107",
+    "bytes": 2222,
+    "sha256": "90238dea26a6537173ed997984c4c561d420bed320837ca796581b3a210117d0"
+  },
+  {
+    "name": "cards/en_30th-122.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-122",
+    "bytes": 1938,
+    "sha256": "d159f6bc0d039615ce98470da69c228f980a1f86671feae1277ed43603a4e11f"
+  },
+  {
+    "name": "cards/en_30th-123.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-123",
+    "bytes": 2119,
+    "sha256": "37afed5171c9efe7e0be7dd3e0206df7930eaa3be5943f5dc86ad0214a7362fc"
+  },
+  {
+    "name": "cards/en_30th-138.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-138",
+    "bytes": 2068,
+    "sha256": "619487719e966324369a546d9fa8c68cad0cfda0d94b53c9deacfa82b0130c36"
+  },
+  {
+    "name": "cards/en_30th-145.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-145",
+    "bytes": 1934,
+    "sha256": "72a28a316ea258da5882355a645a6474221e7886ff1a4813daeb9f31614f06df"
+  },
+  {
+    "name": "cards/en_30th-148.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-148",
+    "bytes": 2024,
+    "sha256": "e058dbb2e14687989a959dcdee0d65bcf61ea5191133672a784c8d9e30a752e5"
+  },
+  {
+    "name": "cards/en_30th-150.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-150",
+    "bytes": 2113,
+    "sha256": "b62f9c27d1055e84f4fc7002d62755bbd4f9db2ce42cff506e0717028dd024b4"
+  },
+  {
+    "name": "en_30th-c.json",
+    "url": "https://api.tcgdex.net/v2/en/sets/30th-c",
+    "bytes": 1985,
+    "sha256": "b0620ff1bb1e371667ffddafdc18dd24c37dbf002d8c3265c6f2b4970e9e120b"
+  },
+  {
+    "name": "cards/en_30th-c-028.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/30th-c-028",
+    "bytes": 2076,
+    "sha256": "b3cd2d3105ae9bdd7ceccbd4e7f213a895f5db5fce2e57e999a7dbf42df565cf"
+  },
+  {
+    "name": "en_me06.json",
+    "url": "https://api.tcgdex.net/v2/en/sets/me06",
+    "bytes": 7872,
+    "sha256": "90d69642204773514cf18f140d159dc9c94247c91770efaadc40053f253ec028"
+  },
+  {
+    "name": "cards/en_me06-018.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/me06-018",
+    "bytes": 1436,
+    "sha256": "9e03e6ea08eb859079cdda6a5a32aa2352486ed2de7fd8590e49e54398d545b9"
+  },
+  {
+    "name": "cards/en_me06-019.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/me06-019",
+    "bytes": 1516,
+    "sha256": "460ae067e28f3ead3067922c18b2222ba46a17886bf83bf14ef66a0d723a4028"
+  },
+  {
+    "name": "cards/en_me06-066.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/me06-066",
+    "bytes": 1317,
+    "sha256": "1680ffe692b890d3368c42324ca52dcc34c94544b09db4fb3569546d5c7fa40b"
+  },
+  {
+    "name": "cards/en_me06-067.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/me06-067",
+    "bytes": 1395,
+    "sha256": "c63e5febb73869192784b5d9e54f07a10b82e23eabf2ae0e8461262d9f86aae8"
+  },
+  {
+    "name": "cards/en_me06-106.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/me06-106",
+    "bytes": 1332,
+    "sha256": "ef9a8ac583706bb25e49f34c94c1cc0b092363e381f02a1cc0175e77aceba03c"
+  },
+  {
+    "name": "cards/en_me06-112.json",
+    "url": "https://api.tcgdex.net/v2/en/cards/me06-112",
+    "bytes": 1190,
+    "sha256": "1e615e56ff7a736690234299e712415eef39733054e7671da395338955df37b4"
+  },
+  {
+    "name": "de_30th.json",
+    "url": "https://api.tcgdex.net/v2/de/sets/30th",
+    "bytes": 16772,
+    "sha256": "6cae6b7788e915efa0be483353b32c050505e461e35f6f930682c58bbc4a3789"
+  },
+  {
+    "name": "cards/de_30th-009.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-009",
+    "bytes": 1784,
+    "sha256": "fab234f5b1c7e72af0a8b95c39518c570281ce285d56086ad7880d884b7880c1"
+  },
+  {
+    "name": "cards/de_30th-010.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-010",
+    "bytes": 1714,
+    "sha256": "c76f7992ee16f61b0b7b6841607379bb69a447a09efd8465ff754e69d83f2a8b"
+  },
+  {
+    "name": "cards/de_30th-083.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-083",
+    "bytes": 1912,
+    "sha256": "57853c1aaf2eebbad4fc08cd89fc3aa30651aa8f69e55e94d84c860fde590403"
+  },
+  {
+    "name": "cards/de_30th-085.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-085",
+    "bytes": 1943,
+    "sha256": "fb492d6fe7118d40f176178ff6aa4950aba013e049460a2ed870c6fe920fcb09"
+  },
+  {
+    "name": "cards/de_30th-095.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-095",
+    "bytes": 1731,
+    "sha256": "11934d439c5ce5712b7961cfde28fad773151056f5506b55c4baa3b5895dc52d"
+  },
+  {
+    "name": "cards/de_30th-096.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-096",
+    "bytes": 1964,
+    "sha256": "35f510a3c7cb2b97a0f7bb85e0a30cbfd2ac04abf6348f4f199a94edb68b7c6d"
+  },
+  {
+    "name": "cards/de_30th-106.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-106",
+    "bytes": 2070,
+    "sha256": "9f157257633879c3fae43587d57dec47dbe6cb43d7f1bdee3abaa633ec766e9a"
+  },
+  {
+    "name": "cards/de_30th-107.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-107",
+    "bytes": 2162,
+    "sha256": "bdbf628cb1e1e27732cf65b995ad397f908b3f6899c9547dac2283c1cb327cc5"
+  },
+  {
+    "name": "cards/de_30th-122.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-122",
+    "bytes": 1716,
+    "sha256": "9fce6f5e9bc3f437e00022c9a0687753981a22dca9f592178397a08023562dad"
+  },
+  {
+    "name": "cards/de_30th-123.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-123",
+    "bytes": 1913,
+    "sha256": "2a1d5351002efb803bfa585baf48ac488786a5c1d2a2056407ac05fd20fe2aa6"
+  },
+  {
+    "name": "cards/de_30th-138.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-138",
+    "bytes": 1954,
+    "sha256": "b801ad086b272d2f23e2586ecbaa953ba5b0c20978c917359c8b57dce4b6ceca"
+  },
+  {
+    "name": "cards/de_30th-145.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-145",
+    "bytes": 1714,
+    "sha256": "e485ba90e75916dd4903043336b0d326582abf61199d0487bc10bb054bde4716"
+  },
+  {
+    "name": "cards/de_30th-148.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-148",
+    "bytes": 2043,
+    "sha256": "df389b7698026be6abbf9b610a49f3f41eb4c03d4a10970f764f91e3579e4863"
+  },
+  {
+    "name": "cards/de_30th-150.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-150",
+    "bytes": 2109,
+    "sha256": "594f9bbecd2d3388f430cba77e3a563b68eeec3db6f58f65c3d0a702a90cbba6"
+  },
+  {
+    "name": "de_30th-c.json",
+    "url": "https://api.tcgdex.net/v2/de/sets/30th-c",
+    "bytes": 1999,
+    "sha256": "3235225dc3898efa80a950ab66b423c50718017fe8b284f132f2c06eced2060f"
+  },
+  {
+    "name": "cards/de_30th-c-028.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/30th-c-028",
+    "bytes": 2167,
+    "sha256": "7c98ecab0ee23eff5202fcfbd89b5478c0999e4d3dfdb98087197a8897b1762c"
+  },
+  {
+    "name": "de_me06.json",
+    "url": "https://api.tcgdex.net/v2/de/sets/me06",
+    "bytes": 7873,
+    "sha256": "e3fe88443f61c94e98b3cef78101052b851c17e56b33a3d39b0fffcf584610e2"
+  },
+  {
+    "name": "cards/de_me06-018.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/me06-018",
+    "bytes": 1451,
+    "sha256": "003d2a63ff0fc35f4cbcfade4f400076ff55f9fd85f5781179e8d9ed9530a264"
+  },
+  {
+    "name": "cards/de_me06-019.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/me06-019",
+    "bytes": 1559,
+    "sha256": "27e3562199d7087a69d5f4b3b2759da5f9e10da7977e0ad46d5ca4e8188ce1f3"
+  },
+  {
+    "name": "cards/de_me06-066.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/me06-066",
+    "bytes": 1324,
+    "sha256": "9e963432ceace2e9a93fd27ad70d1e9401de7b844d2f45d42ec398ae1bd52576"
+  },
+  {
+    "name": "cards/de_me06-067.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/me06-067",
+    "bytes": 1444,
+    "sha256": "a32423d35974797aab286ef62cb146a88d8a547455926453636fb03c9837ba9b"
+  },
+  {
+    "name": "cards/de_me06-106.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/me06-106",
+    "bytes": 1349,
+    "sha256": "10f278ed4360639b728829816f25e8d682445b2b2829a0c0168e142aebedb587"
+  },
+  {
+    "name": "cards/de_me06-112.json",
+    "url": "https://api.tcgdex.net/v2/de/cards/me06-112",
+    "bytes": 1199,
+    "sha256": "7996ddc324643c923ffb719698b080856abc944d318575d65164d7f266f73e4e"
+  }
+]

@@ -1,0 +1,4522 @@
+{
+  "observed_on": "2026-10-28",
+  "release_dates": [
+    {
+      "lang": "de",
+      "release": "ecard1",
+      "date": "2003",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/e-card/expedition.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2003",
+        "page_sha256": "3081f098ebbe05bc3c91619d200ee1812df3c52e18e83d82e19044bb0f6e58eb"
+      },
+      "note": "German release year; 2003. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ecard2",
+      "date": "2003",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/e-card/aquapolis.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "Sommer 2003",
+        "page_sha256": "c5c37478d57ece07b234bbd8c7a94bf840c96f2a82e2923a7782c4740b9e8a3d"
+      },
+      "note": "German release year; Sommer 2003. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ex8",
+      "date": "2005",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/ex/ex-deoxys.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2005",
+        "page_sha256": "7665aa4dc404a3404fc4765812687ae70c3c9e3af9027d9ae107b4ef30df5241"
+      },
+      "note": "German release year; 2005. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ex9",
+      "date": "2005",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/ex/ex-smaragd.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2005",
+        "page_sha256": "3353564ee9233ff19bc4770f001685aa5baf990e9d87e7e233a08f39bd828434"
+      },
+      "note": "German release year; 2005. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ex11",
+      "date": "2006",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/ex/ex-delta-species.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2006",
+        "page_sha256": "a9cbe9642366f5c8be44f2680955afc8c4a9e0c058d63a219161724458750265"
+      },
+      "note": "German release year; 2006. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ex12",
+      "date": "2006",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/ex/ex-legend-maker.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2006",
+        "page_sha256": "acbf2c1c5d196addd869593a20f551a6ce5f98b060629036b2f5ce099988a097"
+      },
+      "note": "German release year; 2006. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ex13",
+      "date": "2006",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/ex/ex-holon-phantoms.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2006",
+        "page_sha256": "f9e10990a26423169bcb17228793e0f9ef4ace98fc4e434b7e42ec2242b3150b"
+      },
+      "note": "German release year; 2006. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ex15",
+      "date": "2007",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/ex/ex-dragon-frontiers.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2007",
+        "page_sha256": "a7625d10e2d506944b27f2ce1b84d249e30512e50965d136fa32bd1ac1785c80"
+      },
+      "note": "German release year; 2007. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "ex16",
+      "date": "2007",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/ex/ex-power-keepers.php",
+      "evidence": {
+        "region": "Germany",
+        "printed_date": "2007",
+        "page_sha256": "7c712004ee5250a2a0ea9d55fc9146103394386c3111d118f0454ea21c8271b5"
+      },
+      "note": "German release year; 2007. Day/month are not established."
+    },
+    {
+      "lang": "de",
+      "release": "xy0",
+      "date": "2013-11-08",
+      "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/xy-willkommen-in-kalos",
+      "evidence": {
+        "region": "Germany",
+        "method": "explicit_regional_product_date"
+      },
+      "name": "Willkommen in Kalos",
+      "note": "Regional date established for the German product."
+    },
+    {
+      "lang": "de",
+      "release": "xy5",
+      "date": "2015-02-04",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/xy/protoschock/",
+      "evidence": {
+        "region": "Germany",
+        "method": "explicit_regional_product_date"
+      },
+      "name": "Protoschock",
+      "note": "Regional date established for the German product."
+    },
+    {
+      "lang": "de",
+      "release": "2021swsh",
+      "date": "2021-03-11",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2021.php",
+      "evidence": {
+        "region": "Germany",
+        "method": "explicit_regional_product_date"
+      },
+      "name": "McDonald’s Collection 2021",
+      "note": "German flag date; normal and confetti holo versions are independently documented."
+    },
+    {
+      "lang": "de",
+      "release": "2022swsh",
+      "date": "2022-08-18",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2022.php",
+      "evidence": {
+        "region": "Germany",
+        "method": "explicit_regional_product_date"
+      },
+      "name": "McDonald’s Collection 2022",
+      "note": "German launch date, distinct from Austria and Switzerland; Growlithe 4 and Smeargle 15 are holo-only."
+    },
+    {
+      "lang": "en",
+      "release": "30th-c",
+      "date": "2026-11",
+      "source_url": "https://www.pokemon.com/uk/news/pokemon-tcg-30th-celebration-product-showcase",
+      "evidence": {
+        "product": "30th Celebration Ultra-Premium Collection—Day & Night",
+        "availability": "November 2026"
+      },
+      "note": "Classic Collection is tied to the November Ultra-Premium Collection, rather than the September base expansion. Month precision; not yet released as of this research pass."
+    },
+    {
+      "lang": "de",
+      "release": "30th-c",
+      "date": "2026-11",
+      "source_url": "https://www.pokemon.com/uk/news/pokemon-tcg-30th-celebration-product-showcase",
+      "evidence": {
+        "product": "30th Celebration Ultra-Premium Collection—Day & Night",
+        "availability": "November 2026"
+      },
+      "note": "Classic Collection is tied to the November Ultra-Premium Collection, rather than the September base expansion. Month precision; not yet released as of this research pass."
+    }
+  ],
+  "entry_updates": [
+    {
+      "entry_id": "entry_c1c2229036275185850eac7e5bc8ffbb",
+      "lang": "de",
+      "release": "30th",
+      "number": "145",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "method": "exact_illustration_card_and_official_rarity",
+          "inference": true
+        }
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+      ],
+      "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+    },
+    {
+      "entry_id": "entry_df398a76e7f1576385f92221139c60da",
+      "lang": "de",
+      "release": "30th",
+      "number": "138",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "method": "exact_illustration_card_and_official_rarity",
+          "inference": true
+        }
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+      ],
+      "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+    },
+    {
+      "entry_id": "entry_ac50192dabbc56128488e294592a308e",
+      "lang": "en",
+      "release": "30th",
+      "number": "145",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "method": "exact_illustration_card_and_official_rarity",
+          "inference": true
+        }
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+      ],
+      "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+    },
+    {
+      "entry_id": "entry_810f8e3f77225c7cb77cbd7480cef117",
+      "lang": "en",
+      "release": "30th",
+      "number": "138",
+      "values": {
+        "metadata_state": "approved"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/lycanroc-30th-celebration-30c-138/",
+        "https://pkmncards.com/card/zacian-v-30th-celebration-30c-138/",
+        "https://api.tcgdex.net/v2/en/cards/30th-138"
+      ],
+      "evidence": "Exact name and collector number agree between regional record, scan index and regional wiki artwork."
+    },
+    {
+      "entry_id": "entry_810f8e3f77225c7cb77cbd7480cef117",
+      "lang": "en",
+      "release": "30th",
+      "number": "138",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "method": "exact_illustration_card_and_official_rarity",
+          "inference": true
+        }
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+      ],
+      "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+    },
+    {
+      "entry_id": "research_entry_61e945dd701f5ca283d714b3d2e862d9",
+      "lang": "en",
+      "release": "30th",
+      "number": "148",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "method": "exact_illustration_card_and_official_rarity",
+          "inference": true
+        }
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+      ],
+      "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "lang": "en",
+      "release": "30th",
+      "number": "150",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "method": "exact_illustration_card_and_official_rarity",
+          "inference": true
+        }
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+      ],
+      "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+    },
+    {
+      "entry_id": "research_entry_433e9bba302e547bb1eea97fb19ced92",
+      "lang": "en",
+      "release": "xy6",
+      "number": "77a",
+      "values": {
+        "rarity_code": "ultra_rare",
+        "rarity_state": "known",
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "exact_printed_full_art_reference",
+          "source_url": "https://pkmncards.com/card/shaymin-ex-roaring-skies-ros-77a/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/shaymin-ex-roaring-skies-ros-77a/"
+      ],
+      "evidence": "Shaymin-EX 77a is the full-art ultra rare alternate, not an ordinary Rare."
+    },
+    {
+      "entry_id": "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d",
+      "lang": "de",
+      "release": "xy6",
+      "number": "77a",
+      "values": {
+        "rarity_code": "ultra_rare",
+        "rarity_state": "known",
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "exact_printed_full_art_reference",
+          "source_url": "https://pkmncards.com/card/shaymin-ex-roaring-skies-ros-77a/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/shaymin-ex-roaring-skies-ros-77a/"
+      ],
+      "evidence": "Shaymin-EX 77a is the full-art ultra rare alternate, not an ordinary Rare."
+    },
+    {
+      "entry_id": "research_entry_f4356b06dd2e54c8aa20f44406d7748d",
+      "lang": "en",
+      "release": "xy9",
+      "number": "98b",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "exact_full_art_alternate",
+          "source_url": "https://bulbapedia.bulbagarden.net/wiki/Delinquent_(BREAKpoint_98)"
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Delinquent_(BREAKpoint_98)"
+      ],
+      "evidence": "Full Art does not require changing the printed Uncommon tier."
+    },
+    {
+      "entry_id": "entry_389d3e08d2f55fcd90f9c2b3b14d6309",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH135",
+      "values": {
+        "name": "Zacian LV.X",
+        "english": "Zacian LV.X"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_LV.X_(SWSH_Promo_135)"
+      ],
+      "evidence": "Restore the printed LV.X suffix omitted by the provider name."
+    },
+    {
+      "entry_id": "entry_7e6b893139005887a422160454f38579",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH135",
+      "values": {
+        "name": "Zacian LV.X",
+        "english": "Zacian LV.X"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_LV.X_(SWSH_Promo_135)"
+      ],
+      "evidence": "Restore the printed LV.X suffix omitted by the provider name."
+    },
+    {
+      "entry_id": "entry_2d8e3f14ccd75d1789266782a72abd22",
+      "lang": "de",
+      "release": "2011bw",
+      "number": "9",
+      "values": {
+        "metadata_state": "review"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/2011bw-9"
+      ],
+      "evidence": "German physical distribution remains uncorroborated; the available gallery scan is English. A localized API name alone does not verify availability."
+    },
+    {
+      "entry_id": "entry_86755e0c8a60549c8f889d96e8ee7588",
+      "lang": "en",
+      "release": "mfb",
+      "number": "11",
+      "values": {
+        "metadata_state": "approved",
+        "number": "Unnumbered",
+        "number_key": "11",
+        "identifier_namespace": "provider_index"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle"
+      ],
+      "evidence": "The provider 11–14 values are checklist indexes, not printed collector numbers. Retain index for stable sorting; display Unnumbered."
+    },
+    {
+      "entry_id": "entry_d3b1c6266b095fa4b5935ae10c28a124",
+      "lang": "en",
+      "release": "mfb",
+      "number": "12",
+      "values": {
+        "metadata_state": "approved",
+        "number": "Unnumbered",
+        "number_key": "12",
+        "identifier_namespace": "provider_index"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle"
+      ],
+      "evidence": "The provider 11–14 values are checklist indexes, not printed collector numbers. Retain index for stable sorting; display Unnumbered."
+    },
+    {
+      "entry_id": "entry_695d4e077d4d5c10aff68c3048e14275",
+      "lang": "en",
+      "release": "mfb",
+      "number": "13",
+      "values": {
+        "metadata_state": "approved",
+        "number": "Unnumbered",
+        "number_key": "13",
+        "identifier_namespace": "provider_index"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle"
+      ],
+      "evidence": "The provider 11–14 values are checklist indexes, not printed collector numbers. Retain index for stable sorting; display Unnumbered."
+    },
+    {
+      "entry_id": "entry_ba6f6f5f3ed05d7ba7926a1c5418ee35",
+      "lang": "en",
+      "release": "mfb",
+      "number": "14",
+      "values": {
+        "metadata_state": "approved",
+        "number": "Unnumbered",
+        "number_key": "14",
+        "identifier_namespace": "provider_index"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle"
+      ],
+      "evidence": "The provider 11–14 values are checklist indexes, not printed collector numbers. Retain index for stable sorting; display Unnumbered."
+    }
+  ],
+  "card_dates": [
+    {
+      "entry_id": "entry_6a2c7722b6a1558d8b4ca2a93c83c86c",
+      "lang": "en",
+      "number": "21a",
+      "date": "2018-02-02",
+      "source_url": "https://pkmncards.com/card/alolan-vulpix-guardians-rising-gri-21a/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_39f9872ac9005f02bfaef247b8d9d08f",
+      "lang": "en",
+      "number": "BW66",
+      "date": "2013-02-06",
+      "source_url": "https://pkmncards.com/card/ninetales-black-white-promos-bwp-bw66/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_61b425c87b77592db515da1accb19aa3",
+      "lang": "en",
+      "number": "96",
+      "date": "2004-06-14",
+      "source_url": "https://pkmncards.com/card/ninetales-ex-hidden-legends-hl-96/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_bd49871d31c8588a9065ac50f69ec177",
+      "lang": "en",
+      "number": "SM128",
+      "date": "2018-05-09",
+      "source_url": "https://pkmncards.com/card/alolan-ninetales-sun-moon-promos-smp-sm128/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_7dd5b2e264555ebb9f16f74a75521546",
+      "lang": "en",
+      "number": "024",
+      "date": "2023-06-09",
+      "source_url": "https://pkmncards.com/card/growlithe-scarlet-violet-promos-svp-024/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+      "lang": "en",
+      "number": "6",
+      "date": "2000-03-01",
+      "source_url": "https://pkmncards.com/card/arcanine-wizards-black-star-promos-6/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_6e8a05dd54b75b8ea1dfc434f73fd481",
+      "lang": "en",
+      "number": "SWSH304",
+      "date": "2023-02-28",
+      "source_url": "https://pkmncards.com/card/arcanine-sword-shield-promos-swsh304/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_52c6bc1c3adb5293a938015bceda429e",
+      "lang": "en",
+      "number": "XY180",
+      "date": "2017-01-06",
+      "source_url": "https://pkmncards.com/card/arcanine-break-xy-promos-xyp-xy180/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_86a43e5a38225f1abec1068ddefd61be",
+      "lang": "en",
+      "number": "SM200",
+      "date": "2019-05-18",
+      "source_url": "https://pkmncards.com/card/snubbull-sun-moon-promos-smp-sm200/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_6e3594f662d15d1baf9e8bd9aa73b6cb",
+      "lang": "en",
+      "number": "103",
+      "date": "2024-04-05",
+      "source_url": "https://pkmncards.com/card/houndoom-ex-scarlet-violet-promos-svp-103/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_c141e83172a155cea3469a0194898d1d",
+      "lang": "en",
+      "number": "SWSH090",
+      "date": "2021-03-19",
+      "source_url": "https://pkmncards.com/card/houndoom-sword-shield-promos-swsh090/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_9791b59503a95d41b6326d0f50c8631c",
+      "lang": "en",
+      "number": "32",
+      "date": "2001-03-01",
+      "source_url": "https://pkmncards.com/card/smeargle-wizards-black-star-promos-32/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_cedea551fe68565faa5210f00a66039e",
+      "lang": "en",
+      "number": "7",
+      "date": "2004-06-04",
+      "source_url": "https://pkmncards.com/card/zigzagoon-ex-trainer-kit-latios-tk1o-7/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_46d66ee56ede5856a83f007d6091bf62",
+      "lang": "en",
+      "number": "1",
+      "date": "2004-06-04",
+      "source_url": "https://pkmncards.com/card/electrike-ex-trainer-kit-latios-tk1o-1/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_1aabe1b6f56658c8b217e7a32ce853d1",
+      "lang": "en",
+      "number": "SM130",
+      "date": "2018-08-04",
+      "source_url": "https://pkmncards.com/card/manectric-sun-moon-promos-smp-sm130/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_15e0f7557d9c53bd8c0911969d0c370c",
+      "lang": "en",
+      "number": "24a",
+      "date": "2017-05-19",
+      "source_url": "https://pkmncards.com/card/m-manectric-ex-phantom-forces-phf-24a/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_a72fdea86689594ea963efd0e762d3c7",
+      "lang": "en",
+      "number": "BW33",
+      "date": "2012-02-08",
+      "source_url": "https://pkmncards.com/card/riolu-black-white-promos-bwp-bw33/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_03e0c876bf2055dd9101dc6d9faded15",
+      "lang": "en",
+      "number": "BW85",
+      "date": "2013-08-14",
+      "source_url": "https://pkmncards.com/card/lucario-black-white-promos-bwp-bw85/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "lang": "en",
+      "number": "DP12",
+      "date": "2007-11-02",
+      "source_url": "https://pkmncards.com/card/lucario-lv-x-diamond-pearl-promos-dp12/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_eb113aa9d0605e478028fb843bc57967",
+      "lang": "en",
+      "number": "012",
+      "date": "2025-11-07",
+      "source_url": "https://pkmncards.com/card/mega-lucario-ex-mega-evolution-promos-mep-012/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_887d510655565be19582c92c291fb083",
+      "lang": "en",
+      "number": "033",
+      "date": "2026-03-20",
+      "source_url": "https://pkmncards.com/card/mega-lucario-ex-mega-evolution-promos-mep-033/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_0305f6bce00f5f7581254d8bda86cfdb",
+      "lang": "en",
+      "number": "SM100",
+      "date": "2018-04-30",
+      "source_url": "https://pkmncards.com/card/lucario-gx-sun-moon-promos-smp-sm100/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_61eb5486e31c5ffcba52d0e910169db9",
+      "lang": "en",
+      "number": "SM192",
+      "date": "2019-08-23",
+      "source_url": "https://pkmncards.com/card/lucario-melmetal-gx-sun-moon-promos-smp-sm192/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_32522a1c833950df8e9cdb367fc8a339",
+      "lang": "en",
+      "number": "SM54",
+      "date": "2017-11-03",
+      "source_url": "https://pkmncards.com/card/lucario-sun-moon-promos-smp-sm54/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_6d32527a63685a26b9a772fb18ad3b7a",
+      "lang": "en",
+      "number": "SM95",
+      "date": "2018-02-02",
+      "source_url": "https://pkmncards.com/card/lucario-sun-moon-promos-smp-sm95/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_43398c7a572b50508fbbd1ecfb1606bf",
+      "lang": "en",
+      "number": "017",
+      "date": "2023-05-05",
+      "source_url": "https://pkmncards.com/card/lucario-ex-scarlet-violet-promos-svp-017/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_c744fb8291545cbab49c66db12a4abdb",
+      "lang": "en",
+      "number": "SWSH186",
+      "date": "2022-02-25",
+      "source_url": "https://pkmncards.com/card/lucario-sword-shield-promos-swsh186/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_f3e6d7c5b7555bb4b068f58b20e70ea6",
+      "lang": "en",
+      "number": "SWSH213",
+      "date": "2022-04-08",
+      "source_url": "https://pkmncards.com/card/lucario-v-sword-shield-promos-swsh213/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_289c9a4d7120588c947c4c117cb02b87",
+      "lang": "en",
+      "number": "SWSH214",
+      "date": "2022-04-08",
+      "source_url": "https://pkmncards.com/card/lucario-vstar-sword-shield-promos-swsh214/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_94c9c9e50c9951ceadec8bc56f11efe0",
+      "lang": "en",
+      "number": "SWSH291",
+      "date": "2023-01-20",
+      "source_url": "https://pkmncards.com/card/lucario-vstar-sword-shield-promos-swsh291/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_0168d0f2c639522e8174d7b0783a429e",
+      "lang": "en",
+      "number": "55a",
+      "date": "2017-05-19",
+      "source_url": "https://pkmncards.com/card/m-lucario-ex-furious-fists-ffi-55a/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_b96ce51da6735fb58d3982bc7e6a2858",
+      "lang": "en",
+      "number": "XY140",
+      "date": "2016-08-03",
+      "source_url": "https://pkmncards.com/card/lucario-xy-promos-xyp-xy140/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_79c14e4d11a35842abc0c7a1443bd154",
+      "lang": "en",
+      "number": "1",
+      "date": "2011-09-15",
+      "source_url": "https://pkmncards.com/card/lillipup-black-white-trainer-kit-excadrill-tk5e-1/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_bb2697191de35d57af92d50205a6a2c7",
+      "lang": "en",
+      "number": "27",
+      "date": "2011-09-15",
+      "source_url": "https://pkmncards.com/card/lillipup-black-white-trainer-kit-excadrill-tk5e-27/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_0f8ae4b4e47f5e4793499a04a5fb4263",
+      "lang": "en",
+      "number": "19",
+      "date": "2011-09-15",
+      "source_url": "https://pkmncards.com/card/herdier-black-white-trainer-kit-excadrill-tk5e-19/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_0c2c83746d605fc79fc10d8fd5fd64bf",
+      "lang": "en",
+      "number": "BW12",
+      "date": "2011-08-31",
+      "source_url": "https://pkmncards.com/card/zorua-black-white-promos-bwp-bw12/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_2c518d858a97510291a2cf56f49abb88",
+      "lang": "en",
+      "number": "SM83",
+      "date": "2017-11-26",
+      "source_url": "https://pkmncards.com/card/zorua-sun-moon-promos-smp-sm83/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_f12fbf9e2ea45c3bb9f44492d5e0190b",
+      "lang": "en",
+      "number": "189",
+      "date": "2025-03-28",
+      "source_url": "https://pkmncards.com/card/ns-zorua-scarlet-violet-promos-svp-189/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_fc5c416953a1549bbfe060fa0e7f6f50",
+      "lang": "en",
+      "number": "13",
+      "date": "2011-09-15",
+      "source_url": "https://pkmncards.com/card/zorua-black-white-trainer-kit-zoroark-tk5z-13/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_f01bd96a9d555f2292268de4e7c40625",
+      "lang": "en",
+      "number": "23",
+      "date": "2011-09-15",
+      "source_url": "https://pkmncards.com/card/zorua-black-white-trainer-kit-zoroark-tk5z-23/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_eff0bd77f3125a89b6e990f568d66e77",
+      "lang": "en",
+      "number": "BW09",
+      "date": "2011-04-25",
+      "source_url": "https://pkmncards.com/card/zoroark-black-white-promos-bwp-bw09/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_ca9b079bf6ca53d7b1d26cac741a369d",
+      "lang": "en",
+      "number": "BW19",
+      "date": "2011-10-05",
+      "source_url": "https://pkmncards.com/card/zoroark-black-white-promos-bwp-bw19/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_22e9fe06471851959c4c3a45f3d0acb1",
+      "lang": "en",
+      "number": "77a",
+      "date": "2019-10-04",
+      "source_url": "https://pkmncards.com/card/zoroark-gx-shining-legends-slg-77a/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_a2f88ee5109550b99c0fba88ed1bf03e",
+      "lang": "en",
+      "number": "SM84",
+      "date": "2017-11-26",
+      "source_url": "https://pkmncards.com/card/zoroark-gx-sun-moon-promos-smp-sm84/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_fb9c0f0f32f35c63a1b2d5a449ac27eb",
+      "lang": "en",
+      "number": "SM89",
+      "date": "2017-12-01",
+      "source_url": "https://pkmncards.com/card/zoroark-sun-moon-promos-smp-sm89/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_b538c4ffb9ca5e44a66ce867799efff0",
+      "lang": "en",
+      "number": "SWSH297",
+      "date": "2022-10-28",
+      "source_url": "https://pkmncards.com/card/hisuian-zoroark-v-sword-shield-promos-swsh297/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_75e1827359f0553bb69112e5930e2d0e",
+      "lang": "en",
+      "number": "SWSH298",
+      "date": "2022-10-28",
+      "source_url": "https://pkmncards.com/card/hisuian-zoroark-vstar-sword-shield-promos-swsh298/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_effbb93b5b6e5f09904ab8d0dd757c5b",
+      "lang": "en",
+      "number": "17",
+      "date": "2011-09-15",
+      "source_url": "https://pkmncards.com/card/zoroark-black-white-trainer-kit-zoroark-tk5z-17/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_f81650b9f14f5dbe9dbf638c577d9315",
+      "lang": "en",
+      "number": "30",
+      "date": "2011-09-15",
+      "source_url": "https://pkmncards.com/card/zoroark-black-white-trainer-kit-zoroark-tk5z-30/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_58256ba9ef7e55f8a3a9fcd1a1ca88da",
+      "lang": "en",
+      "number": "080",
+      "date": "2026-05-22",
+      "source_url": "https://pkmncards.com/card/fennekin-mega-evolution-promos-mep-080/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_c71e7d1827a85929b689883e44dade5a",
+      "lang": "en",
+      "number": "SM230",
+      "date": "2019-11-22",
+      "source_url": "https://pkmncards.com/card/charizard-braixen-gx-sun-moon-promos-smp-sm230/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_0e887284cbd758babbd88105a5b950e1",
+      "lang": "en",
+      "number": "XY161",
+      "date": "2016-11-03",
+      "source_url": "https://pkmncards.com/card/braixen-xy-promos-xyp-xy161/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_84437414936e5e0faff465c22c192d1c",
+      "lang": "en",
+      "number": "XY19",
+      "date": "2014-06-30",
+      "source_url": "https://pkmncards.com/card/delphox-ex-xy-promos-xyp-xy19/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_a15a89f26a5a5088a491eaa4a267f170",
+      "lang": "en",
+      "number": "SM06",
+      "date": "2017-02-05",
+      "source_url": "https://pkmncards.com/card/rockruff-sun-moon-promos-smp-sm06/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_bfe842510ace526586e29157058c6ca4",
+      "lang": "en",
+      "number": "SM120",
+      "date": "2018-05-04",
+      "source_url": "https://pkmncards.com/card/rockruff-sun-moon-promos-smp-sm120/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_2e3644c52567568392bd23bc5cf2b34b",
+      "lang": "en",
+      "number": "SM105",
+      "date": "2018-05-07",
+      "source_url": "https://pkmncards.com/card/lycanroc-sun-moon-promos-smp-sm105/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_c8ba9288b102522cac6d860631b13e12",
+      "lang": "en",
+      "number": "SM118",
+      "date": "2018-05-07",
+      "source_url": "https://pkmncards.com/card/lycanroc-sun-moon-promos-smp-sm118/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_1b6ed01050d55684864fa3a3600a8cc8",
+      "lang": "en",
+      "number": "SM14",
+      "date": "2017-02-20",
+      "source_url": "https://pkmncards.com/card/lycanroc-gx-sun-moon-promos-smp-sm14/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_4bc4386dd6ed5e5987856d518cb7cc81",
+      "lang": "en",
+      "number": "SWSH199",
+      "date": "2022-02-25",
+      "source_url": "https://pkmncards.com/card/lycanroc-v-sword-shield-promos-swsh199/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_00cb767efd545f4fa8bc4716c94805d0",
+      "lang": "en",
+      "number": "SWSH085",
+      "date": "2021-02-19",
+      "source_url": "https://pkmncards.com/card/boltund-v-sword-shield-promos-swsh085/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_74eece45dbce5443ae1d6acda92d035f",
+      "lang": "en",
+      "number": "SWSH219",
+      "date": "2022-04-22",
+      "source_url": "https://pkmncards.com/card/boltund-v-sword-shield-promos-swsh219/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_a4900385e62a529594dd39b9db382166",
+      "lang": "en",
+      "number": "015",
+      "date": "2025-11-14",
+      "source_url": "https://pkmncards.com/card/zacian-mega-evolution-promos-mep-015/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_1b6cc2b4d2495301ae5f83d178fd14bc",
+      "lang": "en",
+      "number": "193",
+      "date": "2025-03-28",
+      "source_url": "https://pkmncards.com/card/hops-zacian-ex-scarlet-violet-promos-svp-193/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_90055faf75c2551fadee9b20de65dee1",
+      "lang": "en",
+      "number": "198",
+      "date": "2025-05-16",
+      "source_url": "https://pkmncards.com/card/zacian-ex-scarlet-violet-promos-svp-198/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_ed9887bc5b1b5eb59777098921b64069",
+      "lang": "en",
+      "number": "SWSH018",
+      "date": "2020-06-29",
+      "source_url": "https://pkmncards.com/card/zacian-v-sword-shield-promos-swsh018/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_17e40a41fdfc5cb0b4822aa8a4b72a9f",
+      "lang": "en",
+      "number": "SWSH033",
+      "date": "2020-08-14",
+      "source_url": "https://pkmncards.com/card/zacian-sword-shield-promos-swsh033/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_5dbbd8c1517a5878891684c7f8764d01",
+      "lang": "en",
+      "number": "SWSH076",
+      "date": "2020-11-20",
+      "source_url": "https://pkmncards.com/card/zacian-v-sword-shield-promos-swsh076/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_389d3e08d2f55fcd90f9c2b3b14d6309",
+      "lang": "en",
+      "number": "SWSH135",
+      "date": "2021-10-08",
+      "source_url": "https://pkmncards.com/card/zacian-lv-x-sword-shield-promos-swsh135/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_8ae68399fa1752b5bddd5b935c3bb9ee",
+      "lang": "en",
+      "number": "SWSH163",
+      "date": "2021-09-24",
+      "source_url": "https://pkmncards.com/card/zacian-v-union-sword-shield-promos-swsh163/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_4c18bbcc4f1b560793d1a8422f3c1089",
+      "lang": "en",
+      "number": "SWSH164",
+      "date": "2021-09-24",
+      "source_url": "https://pkmncards.com/card/zacian-v-union-sword-shield-promos-swsh164/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_fceb06a308335c788a67e516eec9df49",
+      "lang": "en",
+      "number": "SWSH165",
+      "date": "2021-09-24",
+      "source_url": "https://pkmncards.com/card/zacian-v-union-sword-shield-promos-swsh165/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_1bd40c7ec29059b49ca254ecb26be8f7",
+      "lang": "en",
+      "number": "SWSH166",
+      "date": "2021-09-24",
+      "source_url": "https://pkmncards.com/card/zacian-v-union-sword-shield-promos-swsh166/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_39502d7678885cfabd3132f51b024eeb",
+      "lang": "en",
+      "number": "SWSH292",
+      "date": "2023-05-05",
+      "source_url": "https://pkmncards.com/card/zacian-v-sword-shield-promos-swsh292/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_93d661f4d41a5c9ba4ec28131b9381c7",
+      "lang": "en",
+      "number": "SWSH019",
+      "date": "2020-06-29",
+      "source_url": "https://pkmncards.com/card/zamazenta-v-sword-shield-promos-swsh019/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_6ef3c8be444b5346a80e8b59b59356ee",
+      "lang": "en",
+      "number": "SWSH034",
+      "date": "2020-08-14",
+      "source_url": "https://pkmncards.com/card/zamazenta-sword-shield-promos-swsh034/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_88b4abf265f95193b51af19378ee58c3",
+      "lang": "en",
+      "number": "SWSH077",
+      "date": "2020-11-20",
+      "source_url": "https://pkmncards.com/card/zamazenta-v-sword-shield-promos-swsh077/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_9de06ab3bf485257b63af172531f9c93",
+      "lang": "en",
+      "number": "SWSH293",
+      "date": "2023-05-05",
+      "source_url": "https://pkmncards.com/card/zamazenta-v-sword-shield-promos-swsh293/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_f171f76f07a954e7bcc5c01ec61c519d",
+      "lang": "en",
+      "number": "069",
+      "date": "2024-01-26",
+      "source_url": "https://pkmncards.com/card/fidough-scarlet-violet-promos-svp-069/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_57ece4ebed2952439cdef87cf93e5c80",
+      "lang": "en",
+      "number": "071",
+      "date": "2024-01-26",
+      "source_url": "https://pkmncards.com/card/maschiff-scarlet-violet-promos-svp-071/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_344f87d37ac9570fa9934fd4a2c98207",
+      "lang": "en",
+      "number": "086",
+      "date": "2024-02-23",
+      "source_url": "https://pkmncards.com/card/mabosstiff-ex-scarlet-violet-promos-svp-086/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_116af9dde7685636ae20430c05e6ba5d",
+      "lang": "en",
+      "number": "070",
+      "date": "2024-01-26",
+      "source_url": "https://pkmncards.com/card/greavard-scarlet-violet-promos-svp-070/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_faee69bba9c957f08a96fd39dcb02d55",
+      "lang": "en",
+      "number": "162",
+      "date": "2024-10-04",
+      "source_url": "https://pkmncards.com/card/houndstone-ex-scarlet-violet-promos-svp-162/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_c57cfc33fbf752ee9492b05e3d43ae52",
+      "lang": "en",
+      "number": "042",
+      "date": "2023-08-12",
+      "source_url": "https://pkmncards.com/card/houndstone-scarlet-violet-promos-svp-042/",
+      "evidence": "Exact card page publication/release date; does not date the entire promo series."
+    },
+    {
+      "entry_id": "entry_949937b7d2be552d918d33bd5ed64309",
+      "lang": "en",
+      "number": "074",
+      "date": "2026-05-09",
+      "source_url": "https://press.pokemon.com/en-NZ/MEDIA-ALERT-New-Pokemon-Trading-Card-Game-Mega-EvolutionChaos-Rising-E",
+      "evidence": "Manufacturer confirms May 9 prerelease availability; May 22 is the wider expansion launch. This promo belongs to that exact Build & Battle product."
+    },
+    {
+      "entry_id": "entry_fa91b391d6505408b8fb936325f13409",
+      "lang": "de",
+      "number": "074",
+      "date": "2026-05-09",
+      "source_url": "https://www.pokemon.com/de/news/erhalte-fruehzeitig-eine-build-battle-box-mega-entwicklung-wachsendes-chaos-des-pokemon-sammelkartenspiels",
+      "evidence": "Manufacturer confirms May 9 prerelease availability; May 22 is the wider expansion launch. This promo belongs to that exact Build & Battle product."
+    },
+    {
+      "entry_id": "entry_cadc9ad99e895f0993b1b5d3f16cf4fd",
+      "lang": "de",
+      "number": "015",
+      "date": "2025",
+      "source_url": "https://www.pokemon.com/de/pokemon-news/pokemon-sammelkartenspiel-produktvorschau-mega-entwicklung-fatale-flammen",
+      "evidence": "Regional manufacturer confirms the 2025 Phantasmal Flames Build & Battle product. Earliest German prerelease day remains unestablished here; retain year precision instead of inheriting September from the broad promo series."
+    },
+    {
+      "entry_id": "entry_a23c55e240095e5fa2e886893b3273e2",
+      "lang": "en",
+      "number": "BW52",
+      "date": "2012-09",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Lillipup_(BW_Promo_52)",
+      "evidence": "Emerging Challenges Box; two reviewed sources differ September 18 versus 19, so month precision is retained."
+    }
+  ],
+  "printings": [
+    {
+      "entry_id": "entry_375cfeef79325746b2b1cad70dd3a8f4",
+      "lang": "de",
+      "release": "30th",
+      "number": "009",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-009"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_d36b5d2c1d3b58a7b1144d4a19015a7c",
+      "lang": "de",
+      "release": "30th",
+      "number": "010",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-010"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_9be8108830a752d99e8a71e625ea4f32",
+      "lang": "de",
+      "release": "30th",
+      "number": "083",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-083"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_6f73a28501dd5199b9cdce1f419763fd",
+      "lang": "de",
+      "release": "30th",
+      "number": "122",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-122"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_c1c2229036275185850eac7e5bc8ffbb",
+      "lang": "de",
+      "release": "30th",
+      "number": "145",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-145"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_29fa21c90efe5e26b854ad54a8cd659b",
+      "lang": "de",
+      "release": "30th",
+      "number": "095",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-095"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_24eafd74f5a353c499278e5510ec69bf",
+      "lang": "de",
+      "release": "30th",
+      "number": "123",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-123"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_0cdaf2b8dca551938cb3b3a0cfe9de32",
+      "lang": "de",
+      "release": "30th",
+      "number": "096",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-096"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_df398a76e7f1576385f92221139c60da",
+      "lang": "de",
+      "release": "30th",
+      "number": "138",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-138"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_30b94465c0965942b06225ccff127988",
+      "lang": "de",
+      "release": "30th",
+      "number": "085",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-085"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_74131c279cf858a8bbd7a9b52025a4c2",
+      "lang": "de",
+      "release": "30th",
+      "number": "106",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-106"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_d7921e977bef54668810fdda4b1cdb6c",
+      "lang": "de",
+      "release": "30th",
+      "number": "107",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/de/cards/30th-107"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_9260d1d51df35424bb0fde8dcd1b0c52",
+      "lang": "en",
+      "release": "30th",
+      "number": "009",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/vulpix-30th-celebration-30c-009/",
+        "https://api.tcgdex.net/v2/en/cards/30th-009"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_c0a18182205551deacd514b0b346b6af",
+      "lang": "en",
+      "release": "30th",
+      "number": "010",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/ninetales-30th-celebration-30c-010/",
+        "https://api.tcgdex.net/v2/en/cards/30th-010"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_aa7e41b50b5d5f92adc08015a695549e",
+      "lang": "en",
+      "release": "30th",
+      "number": "083",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/lucario-30th-celebration-30c-083/",
+        "https://api.tcgdex.net/v2/en/cards/30th-083"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_062907e6048a57f58bbfdfbbc4b60601",
+      "lang": "en",
+      "release": "30th",
+      "number": "122",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/hisuian-zorua-30th-celebration-30c-122/",
+        "https://api.tcgdex.net/v2/en/cards/30th-122"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_ac50192dabbc56128488e294592a308e",
+      "lang": "en",
+      "release": "30th",
+      "number": "145",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/hisuian-zorua-30th-celebration-30c-145/",
+        "https://api.tcgdex.net/v2/en/cards/30th-145"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_a6ded44c4b365792a5e36667db3ab1f2",
+      "lang": "en",
+      "release": "30th",
+      "number": "095",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/zorua-30th-celebration-30c-095/",
+        "https://api.tcgdex.net/v2/en/cards/30th-095"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_74bc27cbc42952d0bfc338ee29465eff",
+      "lang": "en",
+      "release": "30th",
+      "number": "123",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/hisuian-zoroark-30th-celebration-30c-123/",
+        "https://api.tcgdex.net/v2/en/cards/30th-123"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_cbfb799ab77052f999342182d18d8276",
+      "lang": "en",
+      "release": "30th",
+      "number": "096",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/zoroark-30th-celebration-30c-096/",
+        "https://api.tcgdex.net/v2/en/cards/30th-096"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_810f8e3f77225c7cb77cbd7480cef117",
+      "lang": "en",
+      "release": "30th",
+      "number": "138",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/lycanroc-30th-celebration-30c-138/",
+        "https://pkmncards.com/card/zacian-v-30th-celebration-30c-138/",
+        "https://api.tcgdex.net/v2/en/cards/30th-138"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_9298d9899e5a588a822ace964edf2d6b",
+      "lang": "en",
+      "release": "30th",
+      "number": "085",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/lycanroc-30th-celebration-30c-085/",
+        "https://api.tcgdex.net/v2/en/cards/30th-085"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_8fb391c5df2155e2948665d89d5bb5cd",
+      "lang": "en",
+      "release": "30th",
+      "number": "106",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/zacian-30th-celebration-30c-106/",
+        "https://api.tcgdex.net/v2/en/cards/30th-106"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_3a319a9e8052519cb377ef16ba7175ee",
+      "lang": "en",
+      "release": "30th",
+      "number": "107",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://pkmncards.com/card/zamazenta-30th-celebration-30c-107/",
+        "https://api.tcgdex.net/v2/en/cards/30th-107"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "research_entry_61e945dd701f5ca283d714b3d2e862d9",
+      "lang": "en",
+      "release": "30th",
+      "number": "148",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/en/cards/30th-148"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "lang": "en",
+      "release": "30th",
+      "number": "150",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://api.tcgdex.net/v2/en/cards/30th-150"
+      ],
+      "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+    },
+    {
+      "entry_id": "entry_220e4cc5469c5c0fa99a2e362419a38c",
+      "lang": "en",
+      "release": "det1",
+      "number": "6",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Detective_Pikachu_(TCG)",
+        "https://pkmncards.com/card/arcanine-detective-pikachu-det-6/",
+        "https://api.tcgdex.net/v2/en/cards/det1-6"
+      ],
+      "evidence": "Exact set print; all four cards in these special boosters are holofoil. Provider normal flag is a generic placeholder."
+    },
+    {
+      "entry_id": "entry_ea3e432d0cdc5b7b9c358713a5e62aa2",
+      "lang": "en",
+      "release": "det1",
+      "number": "15",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Detective_Pikachu_(TCG)",
+        "https://pkmncards.com/card/snubbull-detective-pikachu-det-15/",
+        "https://api.tcgdex.net/v2/en/cards/det1-15"
+      ],
+      "evidence": "Exact set print; all four cards in these special boosters are holofoil. Provider normal flag is a generic placeholder."
+    },
+    {
+      "entry_id": "entry_7d26e72cf38554a7a803fbc33e346eb3",
+      "lang": "de",
+      "release": "det1",
+      "number": "6",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Detective_Pikachu_(TCG)",
+        "https://api.tcgdex.net/v2/de/cards/det1-6"
+      ],
+      "evidence": "Exact set print; all four cards in these special boosters are holofoil. Provider normal flag is a generic placeholder."
+    },
+    {
+      "entry_id": "entry_88821763001c5f6b8a9f5ffe889edc52",
+      "lang": "de",
+      "release": "det1",
+      "number": "15",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Detective_Pikachu_(TCG)",
+        "https://api.tcgdex.net/v2/de/cards/det1-15"
+      ],
+      "evidence": "Exact set print; all four cards in these special boosters are holofoil. Provider normal flag is a generic placeholder."
+    },
+    {
+      "entry_id": "entry_39f9872ac9005f02bfaef247b8d9d08f",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW66",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/ninetales-black-white-promos-bwp-bw66/",
+        "https://bulbapedia.bulbagarden.net/wiki/Ninetales_(BW_Promo_66)",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW66"
+      ],
+      "evidence": "Reviewed exact English promo release/foil evidence; the generic normal fallback is not used."
+    },
+    {
+      "entry_id": "entry_a72fdea86689594ea963efd0e762d3c7",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW33",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/riolu-black-white-promos-bwp-bw33/",
+        "https://bulbapedia.bulbagarden.net/wiki/Riolu_(BW_Promo_33)",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW33"
+      ],
+      "evidence": "Reviewed exact English promo release/foil evidence; the generic normal fallback is not used."
+    },
+    {
+      "entry_id": "entry_a72fdea86689594ea963efd0e762d3c7",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW33",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard",
+        "release_date": "2012-05-09"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Riolu_(BW_Promo_33)",
+        "https://pkmncards.com/card/riolu-black-white-promos-bwp-bw33/",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW33"
+      ],
+      "evidence": "Riolu BW33 was also distributed non-holo in Dark Explorers blisters; distinct from the earlier Cosmos Holo."
+    },
+    {
+      "entry_id": "entry_03e0c876bf2055dd9101dc6d9faded15",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW85",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lucario-black-white-promos-bwp-bw85/",
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(BW_Promo_85)",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW85"
+      ],
+      "evidence": "Reviewed exact English promo release/foil evidence; the generic normal fallback is not used."
+    },
+    {
+      "entry_id": "entry_a23c55e240095e5fa2e886893b3273e2",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW52",
+      "printing": {
+        "finish": "reverse_holo",
+        "edition": "not_applicable",
+        "pattern": "mirror",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lillipup-black-white-promos-bwp-bw52/",
+        "https://bulbapedia.bulbagarden.net/wiki/Lillipup_(BW_Promo_52)",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW52"
+      ],
+      "evidence": "Reviewed exact English promo release/foil evidence; the generic normal fallback is not used."
+    },
+    {
+      "entry_id": "entry_0c2c83746d605fc79fc10d8fd5fd64bf",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW12",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zorua-black-white-promos-bwp-bw12/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zorua_(BW_Promo_12)",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW12"
+      ],
+      "evidence": "Reviewed exact English promo release/foil evidence; the generic normal fallback is not used."
+    },
+    {
+      "entry_id": "entry_eff0bd77f3125a89b6e990f568d66e77",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW09",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zoroark-black-white-promos-bwp-bw09/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(BW_Promo_9)",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW09"
+      ],
+      "evidence": "Reviewed exact English promo release/foil evidence; the generic normal fallback is not used."
+    },
+    {
+      "entry_id": "entry_ca9b079bf6ca53d7b1d26cac741a369d",
+      "lang": "en",
+      "release": "bwp",
+      "number": "BW19",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zoroark-black-white-promos-bwp-bw19/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(BW_Promo_19)",
+        "https://api.tcgdex.net/v2/en/cards/bwp-BW19"
+      ],
+      "evidence": "Reviewed exact English promo release/foil evidence; the generic normal fallback is not used."
+    },
+    {
+      "entry_id": "entry_52c6bc1c3adb5293a938015bceda429e",
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY180",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/arcanine-break-xy-promos-xyp-xy180/",
+        "https://bulbapedia.bulbagarden.net/wiki/Arcanine_BREAK_(XY_Promo_180)",
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY180"
+      ],
+      "evidence": "Exact English promo/product print. Holo card surface is separate from its Promo rarity."
+    },
+    {
+      "entry_id": "entry_b96ce51da6735fb58d3982bc7e6a2858",
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY140",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lucario-xy-promos-xyp-xy140/",
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(XY_Promo_140)",
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY140"
+      ],
+      "evidence": "Exact English promo/product print. Holo card surface is separate from its Promo rarity."
+    },
+    {
+      "entry_id": "entry_9e76b95eb14a5b4bbe791bbf4c3f2890",
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY02",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/fennekin-xy-promos-xyp-xy02/",
+        "https://bulbapedia.bulbagarden.net/wiki/Fennekin_(XY_Promo_2)",
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY02"
+      ],
+      "evidence": "Exact English promo/product print. Holo card surface is separate from its Promo rarity."
+    },
+    {
+      "entry_id": "entry_0e887284cbd758babbd88105a5b950e1",
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY161",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/braixen-xy-promos-xyp-xy161/",
+        "https://bulbapedia.bulbagarden.net/wiki/Braixen_(XY_Promo_161)",
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY161"
+      ],
+      "evidence": "Exact English promo/product print. Holo card surface is separate from its Promo rarity."
+    },
+    {
+      "entry_id": "entry_84437414936e5e0faff465c22c192d1c",
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY19",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/delphox-ex-xy-promos-xyp-xy19/",
+        "https://bulbapedia.bulbagarden.net/wiki/Delphox-EX_(XY_Promo_19)",
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY19"
+      ],
+      "evidence": "Exact English promo/product print. Holo card surface is separate from its Promo rarity."
+    },
+    {
+      "entry_id": "research_entry_866476a07875526698023369479a84c4",
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY211",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY211"
+      ],
+      "evidence": "Exact English promo/product print. Holo card surface is separate from its Promo rarity."
+    },
+    {
+      "entry_id": "entry_61b425c87b77592db515da1accb19aa3",
+      "lang": "en",
+      "release": "ex5",
+      "number": "96",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/ninetales-ex-hidden-legends-hl-96/",
+        "https://api.tcgdex.net/v2/en/cards/ex5-96"
+      ],
+      "evidence": "Ninetales ex 96 is an EX holo. The provider cracked-ice annotation lacks matching product evidence and is not accepted as a separate pattern."
+    },
+    {
+      "entry_id": "entry_c71e7d1827a85929b689883e44dade5a",
+      "lang": "en",
+      "release": "smp",
+      "number": "SM230",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Charizard_%26_Braixen-GX_(SM_Promo_230)",
+        "https://pkmncards.com/card/charizard-braixen-gx-sun-moon-promos-smp-sm230/",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM230"
+      ],
+      "evidence": "The TAG TEAM Generations Premium Collection contains this textured alternate-art GX foil; the upstream normal type conflicts with its actual surface."
+    },
+    {
+      "entry_id": "entry_0c0b148707c45c50bccd74b928e3c57f",
+      "lang": "en",
+      "release": "swsh5",
+      "number": "179",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "gold",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndoom-battle-styles-bst-179/",
+        "https://api.tcgdex.net/v2/en/cards/swsh5-179"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_a693ea6c29025fa6a06abba436d8d366",
+      "lang": "en",
+      "release": "sv09",
+      "number": "189",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "gold",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/ns-zoroark-ex-journey-together-jtg-189/",
+        "https://api.tcgdex.net/v2/en/cards/sv09-189"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_19ec201950145f30b0a256cb88e2474a",
+      "lang": "en",
+      "release": "swsh7",
+      "number": "213",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "rainbow",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lycanroc-vmax-evolving-skies-evs-213/",
+        "https://api.tcgdex.net/v2/en/cards/swsh7-213"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_2878a85e71b55bdf95aadcb978b08f98",
+      "lang": "en",
+      "release": "swsh8",
+      "number": "267",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "rainbow",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/boltund-vmax-fusion-strike-fst-267/",
+        "https://api.tcgdex.net/v2/en/cards/swsh8-267"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_2fcd91f55a9a566b823780b6f1f4380b",
+      "lang": "en",
+      "release": "sm12",
+      "number": "248",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Stoutland_(Cosmic_Eclipse_248)",
+        "https://pkmncards.com/card/stoutland-cosmic-eclipse-cec-248/",
+        "https://api.tcgdex.net/v2/en/cards/sm12-248"
+      ],
+      "evidence": "Exact textured character-art secret printing; upstream normal fallback is contradicted by the artwork."
+    },
+    {
+      "entry_id": "entry_5df73a76a4fa506894eeebe841571e70",
+      "lang": "en",
+      "release": "bw4",
+      "number": "102",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Next_Destinies_102)",
+        "https://pkmncards.com/card/zoroark-next-destinies-nxd-102/",
+        "https://api.tcgdex.net/v2/en/cards/bw4-102"
+      ],
+      "evidence": "Exact shiny secret Zoroark 102; this is not a non-holo copy of the ordinary Zoroark artwork."
+    },
+    {
+      "entry_id": "entry_15e0f7557d9c53bd8c0911969d0c370c",
+      "lang": "en",
+      "release": "xy4",
+      "number": "24a",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/m-manectric-ex-phantom-forces-phf-24a/",
+        "https://api.tcgdex.net/v2/en/cards/xy4-24a"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "entry_0168d0f2c639522e8174d7b0783a429e",
+      "lang": "en",
+      "release": "xy3",
+      "number": "55a",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/m-lucario-ex-furious-fists-ffi-55a/",
+        "https://api.tcgdex.net/v2/en/cards/xy3-55a"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "research_entry_433e9bba302e547bb1eea97fb19ced92",
+      "lang": "en",
+      "release": "xy6",
+      "number": "77a",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy6-77a"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "research_entry_37da22e2c86354f9807fad07f35ff78d",
+      "lang": "en",
+      "release": "xy8",
+      "number": "163",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy8-163"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "entry_28bf06c12d615d9190a3b428aa692f90",
+      "lang": "de",
+      "release": "swsh5",
+      "number": "179",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "gold",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh5-179"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_6bc0d983e0475a72ad3a22fc262ef7aa",
+      "lang": "de",
+      "release": "sv09",
+      "number": "189",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "gold",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv09-189"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_dcde77acdf975642b4ef14bae521ba10",
+      "lang": "de",
+      "release": "swsh7",
+      "number": "213",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "rainbow",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh7-213"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_3eb6afdc88885aae89e8bfe5bd19924b",
+      "lang": "de",
+      "release": "swsh8",
+      "number": "267",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "rainbow",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh8-267"
+      ],
+      "evidence": "Regional card number/name and gold or rainbow finish agree with the localized card record and exact artwork."
+    },
+    {
+      "entry_id": "entry_ae26d2aaf90b554db6fa6f78b8c24b92",
+      "lang": "de",
+      "release": "sm12",
+      "number": "248",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Stoutland_(Cosmic_Eclipse_248)",
+        "https://api.tcgdex.net/v2/de/cards/sm12-248"
+      ],
+      "evidence": "Exact textured character-art secret printing; upstream normal fallback is contradicted by the artwork."
+    },
+    {
+      "entry_id": "entry_dc2ebcf831935a49a968cd0fd619f2ec",
+      "lang": "de",
+      "release": "bw4",
+      "number": "102",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Next_Destinies_102)",
+        "https://api.tcgdex.net/v2/de/cards/bw4-102"
+      ],
+      "evidence": "Exact shiny secret Zoroark 102; this is not a non-holo copy of the ordinary Zoroark artwork."
+    },
+    {
+      "entry_id": "entry_c17f6834ab07585f828e6bd2b0ee8f55",
+      "lang": "de",
+      "release": "xy4",
+      "number": "24a",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy4-24a"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "entry_f932e9d4ab51509fa5146d7e607de0b9",
+      "lang": "de",
+      "release": "xy3",
+      "number": "55a",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy3-55a"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d",
+      "lang": "de",
+      "release": "xy6",
+      "number": "77a",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy6-77a"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "research_entry_83b91d6fc54e55cbac87939f1dc99ad1",
+      "lang": "de",
+      "release": "xy8",
+      "number": "163",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-163"
+      ],
+      "evidence": "Reviewed exact full-art alternate/secret print, rather than the provider-generated non-holo fallback."
+    },
+    {
+      "entry_id": "entry_ab593fd261da5aa3ab46f5033f857da4",
+      "lang": "de",
+      "release": "xy0",
+      "number": "22",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-22"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_9ecbda4ace1557a8b381a8a584be41ff",
+      "lang": "de",
+      "release": "xy0",
+      "number": "23",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-23"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_c535d5a0ddbd5ab6bbaa244d04d3390c",
+      "lang": "de",
+      "release": "xy0",
+      "number": "16",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-16"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_30a80d0b67ea54ce9f298b671ca80bfe",
+      "lang": "de",
+      "release": "xy0",
+      "number": "17",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-17"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_e42301cb49225aa2a3c72f064d3d891f",
+      "lang": "de",
+      "release": "xy0",
+      "number": "8",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-8"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_cd2789d9f15658e8a091a3e1e4a4bb33",
+      "lang": "de",
+      "release": "xy0",
+      "number": "9",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-9"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_74f50db96afe51539a2ffa8c5961ea61",
+      "lang": "de",
+      "release": "xy0",
+      "number": "10",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-10"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_e387c45913a35b3e9885dc2c3ac19451",
+      "lang": "de",
+      "release": "xy0",
+      "number": "32",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-32"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_bf3f87a9e09a5ab2a18f4158cc311502",
+      "lang": "de",
+      "release": "xy0",
+      "number": "33",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy0_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy0-33"
+      ],
+      "evidence": "Regional numbered deck card confirmed by the German manufacturer checklist and gallery. No booster reverse variant generated."
+    },
+    {
+      "entry_id": "entry_2f1423dddb2254d7954c95a3e539611b",
+      "lang": "en",
+      "release": "dc1",
+      "number": "16",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/team-aquas-poochyena-double-crisis-dcr-16/",
+        "https://api.tcgdex.net/v2/en/cards/dc1-16"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "entry_994586813e415142bb53500d8db3db8e",
+      "lang": "en",
+      "release": "dc1",
+      "number": "17",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/team-magmas-poochyena-double-crisis-dcr-17/",
+        "https://api.tcgdex.net/v2/en/cards/dc1-17"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "entry_b3164272cdff59ac8c72d24b70445fc4",
+      "lang": "en",
+      "release": "dc1",
+      "number": "18",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/team-aquas-mightyena-double-crisis-dcr-18/",
+        "https://api.tcgdex.net/v2/en/cards/dc1-18"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "entry_fc4ce28cc2365214a5d978b32573252d",
+      "lang": "en",
+      "release": "dc1",
+      "number": "19",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/team-magmas-mightyena-double-crisis-dcr-19/",
+        "https://api.tcgdex.net/v2/en/cards/dc1-19"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_a1f15ebb203e5012808b47739931cf65",
+      "lang": "en",
+      "release": "dc1",
+      "number": "22",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/dc1-22"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_bf9da969f0375e31899bf486b84eb591",
+      "lang": "en",
+      "release": "bw7",
+      "number": "127",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/bw7-127"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_eabf2f239cee53f580284c7eef1744fc",
+      "lang": "en",
+      "release": "sm3.5",
+      "number": "63",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sm3.5-63"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_8e6f18cbb3ef5bc8bdab67be2c02b609",
+      "lang": "en",
+      "release": "sm8",
+      "number": "100",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sm8-100"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_520707cc24e350a681d5a70e5919f966",
+      "lang": "de",
+      "release": "sm8",
+      "number": "100",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm8-100"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy10-105"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_5d2a8ff129ee5e07a02318805838a0b3",
+      "lang": "en",
+      "release": "xy4",
+      "number": "100",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy4-100"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_2100ffb73c195f4a9a403317676d277b",
+      "lang": "en",
+      "release": "xy4",
+      "number": "108",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy4-108"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_0387516a54f358a88ee3f7910eaede85",
+      "lang": "de",
+      "release": "xy4",
+      "number": "100",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy4-100"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_66538109729e547c9638b672f3b064c2",
+      "lang": "en",
+      "release": "xy8",
+      "number": "102",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy8-102"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_a7b20f64fe7b585abdd32520572e46fd",
+      "lang": "en",
+      "release": "xy8",
+      "number": "142",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy8-142"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_de30fe7924695bf2b2f8dd84a99a8c00",
+      "lang": "de",
+      "release": "xy8",
+      "number": "102",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-102"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_1f6ad9d102ce546f9cc47054524e1a67",
+      "lang": "de",
+      "release": "xy8",
+      "number": "142",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-142"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_708c198064655f24a5514a5b24b3ab03",
+      "lang": "en",
+      "release": "xy9",
+      "number": "1",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy9-1"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_d70311bdd2bc512795e1964dfd064856",
+      "lang": "en",
+      "release": "xy9",
+      "number": "98a",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy9-98a"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_b890b68816e95925bb0e9ba5d21b530b",
+      "lang": "de",
+      "release": "xy9",
+      "number": "1",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy9-1"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "entry_becd8d5477e7572f8a2752e4ee0915bc",
+      "lang": "de",
+      "release": "sm3.5",
+      "number": "52",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm3.5-52"
+      ],
+      "evidence": "Exact ordinary numbered non-holo print, corroborated by the regional card and set/card reference. Only this finish is added in this record."
+    },
+    {
+      "entry_id": "research_entry_f4356b06dd2e54c8aa20f44406d7748d",
+      "lang": "en",
+      "release": "xy9",
+      "number": "98b",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Delinquent_(BREAKpoint_98)",
+        "https://api.tcgdex.net/v2/en/cards/xy9-98b"
+      ],
+      "evidence": "The full-art Delinquent 98b from Premium Trainer’s XY Collection is foil; its printed Uncommon rarity remains unchanged."
+    },
+    {
+      "entry_id": "entry_dd18979b31a95856a5c59bdd76ea9f39",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "6",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-6"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_dd18979b31a95856a5c59bdd76ea9f39",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "6",
+      "printing": {
+        "finish": "reverse_holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-6"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_00a78f3646565a639a36a1688ae6089a",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "35",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-35"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_00a78f3646565a639a36a1688ae6089a",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "35",
+      "printing": {
+        "finish": "reverse_holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-35"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_c13824820a235e17919a6b5d7f7880f2",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "29",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-29"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_c13824820a235e17919a6b5d7f7880f2",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "29",
+      "printing": {
+        "finish": "reverse_holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-29"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_5cbd07d9c8a0544fae405ca872e7e4d1",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "30",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-30"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_5cbd07d9c8a0544fae405ca872e7e4d1",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "30",
+      "printing": {
+        "finish": "reverse_holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-30"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_f6bb24d4e93f55f68e35aed0b70630b8",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "46",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-46"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_f6bb24d4e93f55f68e35aed0b70630b8",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "46",
+      "printing": {
+        "finish": "reverse_holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-46"
+      ],
+      "evidence": "Regional finish pair corroborated by the exact German card record and expansion checklist. No English edition combinations transferred."
+    },
+    {
+      "entry_id": "entry_7dd5b2e264555ebb9f16f74a75521546",
+      "lang": "en",
+      "release": "svp",
+      "number": "024",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/growlithe-scarlet-violet-promos-svp-024/",
+        "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(SVP_Promo_24)",
+        "https://api.tcgdex.net/v2/en/cards/svp-024"
+      ],
+      "evidence": "Cosmos Holo promo in the corresponding regional blister product; no Japanese gym stamp transferred."
+    },
+    {
+      "entry_id": "entry_b2eea243424c5399bc1e68faeac123b7",
+      "lang": "en",
+      "release": "svp",
+      "number": "011",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/arcanine-scarlet-violet-promos-svp-011/",
+        "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(SVP_Promo_11)",
+        "https://api.tcgdex.net/v2/en/cards/svp-011"
+      ],
+      "evidence": "Cosmos Holo promo in the corresponding regional blister product; no Japanese gym stamp transferred."
+    },
+    {
+      "entry_id": "entry_c57cfc33fbf752ee9492b05e3d43ae52",
+      "lang": "en",
+      "release": "svp",
+      "number": "042",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndstone-scarlet-violet-promos-svp-042/",
+        "https://bulbapedia.bulbagarden.net/wiki/Houndstone_(SVP_Promo_42)",
+        "https://api.tcgdex.net/v2/en/cards/svp-042"
+      ],
+      "evidence": "Cosmos Holo promo in the corresponding regional blister product; no Japanese gym stamp transferred."
+    },
+    {
+      "entry_id": "entry_17e40a41fdfc5cb0b4822aa8a4b72a9f",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH033",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(SWSH_Promo_33)",
+        "https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(SWSH_Promo_34)",
+        "https://pkmncards.com/card/zacian-sword-shield-promos-swsh033/",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH033"
+      ],
+      "evidence": "True Steel Premium Collection regional Cosmos Holo promo."
+    },
+    {
+      "entry_id": "entry_6ef3c8be444b5346a80e8b59b59356ee",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH034",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(SWSH_Promo_33)",
+        "https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(SWSH_Promo_34)",
+        "https://pkmncards.com/card/zamazenta-sword-shield-promos-swsh034/",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH034"
+      ],
+      "evidence": "True Steel Premium Collection regional Cosmos Holo promo."
+    },
+    {
+      "entry_id": "entry_389d3e08d2f55fcd90f9c2b3b14d6309",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH135",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "25th_anniversary"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_LV.X_(SWSH_Promo_135)",
+        "https://pkmncards.com/card/zacian-lv-x-sword-shield-promos-swsh135/",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH135"
+      ],
+      "evidence": "Celebrations Deluxe Pin Collection Zacian LV.X with the 25th anniversary logo."
+    },
+    {
+      "entry_id": "entry_c141e83172a155cea3469a0194898d1d",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH090",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndoom-sword-shield-promos-swsh090/",
+        "https://bulbapedia.bulbagarden.net/wiki/Houndoom_(SWSH_Promo_90)",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH090"
+      ],
+      "evidence": "Exact Build & Battle prerelease promo with expansion-logo stamp. Unverified staff distribution is kept separate."
+    },
+    {
+      "entry_id": "entry_c744fb8291545cbab49c66db12a4abdb",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH186",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lucario-sword-shield-promos-swsh186/",
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SWSH_Promo_186)",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH186"
+      ],
+      "evidence": "Exact Build & Battle prerelease promo with expansion-logo stamp. Unverified staff distribution is kept separate."
+    },
+    {
+      "entry_id": "entry_949937b7d2be552d918d33bd5ed64309",
+      "lang": "en",
+      "release": "mep",
+      "number": "074",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/delphox-mega-evolution-promos-mep-074/",
+        "https://bulbapedia.bulbagarden.net/wiki/Delphox_(MEP_Promo_74)",
+        "https://api.tcgdex.net/v2/en/cards/mep-074"
+      ],
+      "evidence": "Exact regional Build & Battle prerelease card; logo-stamped regular promo is accepted independently of staff coverage."
+    },
+    {
+      "entry_id": "entry_949937b7d2be552d918d33bd5ed64309",
+      "lang": "en",
+      "release": "mep",
+      "number": "074",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo",
+          "staff"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Delphox_(MEP_Promo_74)",
+        "https://pkmncards.com/card/delphox-mega-evolution-promos-mep-074/",
+        "https://api.tcgdex.net/v2/en/cards/mep-074"
+      ],
+      "evidence": "Staff print is explicitly documented for this prerelease promo."
+    },
+    {
+      "entry_id": "entry_a4900385e62a529594dd39b9db382166",
+      "lang": "en",
+      "release": "mep",
+      "number": "015",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zacian-mega-evolution-promos-mep-015/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(MEP_Promo_15)",
+        "https://api.tcgdex.net/v2/en/cards/mep-015"
+      ],
+      "evidence": "Exact regional Build & Battle prerelease card; logo-stamped regular promo is accepted independently of staff coverage."
+    },
+    {
+      "entry_id": "entry_a4900385e62a529594dd39b9db382166",
+      "lang": "en",
+      "release": "mep",
+      "number": "015",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo",
+          "staff"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(MEP_Promo_15)",
+        "https://pkmncards.com/card/zacian-mega-evolution-promos-mep-015/",
+        "https://api.tcgdex.net/v2/en/cards/mep-015"
+      ],
+      "evidence": "Staff print is explicitly documented for this prerelease promo."
+    },
+    {
+      "entry_id": "entry_c67438e5edfd53d1969a54cd81083f18",
+      "lang": "en",
+      "release": "2021swsh",
+      "number": "14",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "25th_anniversary"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2021.php",
+        "https://pkmncards.com/card/fennekin-mcdonalds-collection-2021-mcd21-14/",
+        "https://api.tcgdex.net/v2/en/cards/2021swsh-14"
+      ],
+      "evidence": "The exact 25th anniversary McDonald’s card has normal and confetti foil forms; German release is verified separately."
+    },
+    {
+      "entry_id": "entry_c67438e5edfd53d1969a54cd81083f18",
+      "lang": "en",
+      "release": "2021swsh",
+      "number": "14",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "confetti",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "25th_anniversary"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2021.php",
+        "https://pkmncards.com/card/fennekin-mcdonalds-collection-2021-mcd21-14/",
+        "https://api.tcgdex.net/v2/en/cards/2021swsh-14"
+      ],
+      "evidence": "The exact 25th anniversary McDonald’s card has normal and confetti foil forms; German release is verified separately."
+    },
+    {
+      "entry_id": "entry_c6f2bf1dd7d75fb1959a5f8657ca51c3",
+      "lang": "de",
+      "release": "svp",
+      "number": "024",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/svp-024"
+      ],
+      "evidence": "Cosmos Holo promo in the corresponding regional blister product; no Japanese gym stamp transferred."
+    },
+    {
+      "entry_id": "entry_2fe7a4b928625a4fb9b42c6d8aa0a23b",
+      "lang": "de",
+      "release": "svp",
+      "number": "011",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/svp-011"
+      ],
+      "evidence": "Cosmos Holo promo in the corresponding regional blister product; no Japanese gym stamp transferred."
+    },
+    {
+      "entry_id": "entry_f7ad535e92985eb480e4da464839ce61",
+      "lang": "de",
+      "release": "svp",
+      "number": "042",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/svp-042"
+      ],
+      "evidence": "Cosmos Holo promo in the corresponding regional blister product; no Japanese gym stamp transferred."
+    },
+    {
+      "entry_id": "entry_d762315e9a335ae3a306353621a439b5",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH033",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(SWSH_Promo_33)",
+        "https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(SWSH_Promo_34)",
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH033"
+      ],
+      "evidence": "True Steel Premium Collection regional Cosmos Holo promo."
+    },
+    {
+      "entry_id": "entry_183f5cf70a365addaa4f6324631c41b0",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH034",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "cosmos",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(SWSH_Promo_33)",
+        "https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(SWSH_Promo_34)",
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH034"
+      ],
+      "evidence": "True Steel Premium Collection regional Cosmos Holo promo."
+    },
+    {
+      "entry_id": "entry_7e6b893139005887a422160454f38579",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH135",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "25th_anniversary"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_LV.X_(SWSH_Promo_135)",
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH135"
+      ],
+      "evidence": "Celebrations Deluxe Pin Collection Zacian LV.X with the 25th anniversary logo."
+    },
+    {
+      "entry_id": "entry_ac71f9b4b56a5787a88373b69b64cf84",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH090",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH090"
+      ],
+      "evidence": "Exact Build & Battle prerelease promo with expansion-logo stamp. Unverified staff distribution is kept separate."
+    },
+    {
+      "entry_id": "entry_8b041c8fb3ac5e169b15385fd26ddb40",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH186",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH186"
+      ],
+      "evidence": "Exact Build & Battle prerelease promo with expansion-logo stamp. Unverified staff distribution is kept separate."
+    },
+    {
+      "entry_id": "entry_fa91b391d6505408b8fb936325f13409",
+      "lang": "de",
+      "release": "mep",
+      "number": "074",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/mep-074"
+      ],
+      "evidence": "Exact regional Build & Battle prerelease card; logo-stamped regular promo is accepted independently of staff coverage."
+    },
+    {
+      "entry_id": "entry_cadc9ad99e895f0993b1b5d3f16cf4fd",
+      "lang": "de",
+      "release": "mep",
+      "number": "015",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/mep-015"
+      ],
+      "evidence": "Exact regional Build & Battle prerelease card; logo-stamped regular promo is accepted independently of staff coverage."
+    },
+    {
+      "entry_id": "entry_efadb93c5c84578d909f00d2afe1b792",
+      "lang": "de",
+      "release": "2021swsh",
+      "number": "14",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "25th_anniversary"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2021.php",
+        "https://api.tcgdex.net/v2/de/cards/2021swsh-14"
+      ],
+      "evidence": "The exact 25th anniversary McDonald’s card has normal and confetti foil forms; German release is verified separately."
+    },
+    {
+      "entry_id": "entry_efadb93c5c84578d909f00d2afe1b792",
+      "lang": "de",
+      "release": "2021swsh",
+      "number": "14",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "confetti",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "25th_anniversary"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2021.php",
+        "https://api.tcgdex.net/v2/de/cards/2021swsh-14"
+      ],
+      "evidence": "The exact 25th anniversary McDonald’s card has normal and confetti foil forms; German release is verified separately."
+    },
+    {
+      "entry_id": "entry_c744fb8291545cbab49c66db12a4abdb",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH186",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "set_logo",
+          "staff"
+        ],
+        "print_state": "standard",
+        "release_date": "2023"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SWSH_Promo_186)",
+        "https://pkmncards.com/card/lucario-sword-shield-promos-swsh186/",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH186"
+      ],
+      "evidence": "Staff copies were retroactively distributed in early 2023; year precision is preserved."
+    },
+    {
+      "entry_id": "entry_6e8a05dd54b75b8ea1dfc434f73fd481",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH304",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "illustration_contest_2022"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(SWSH_Promo_304)",
+        "https://pkmncards.com/card/arcanine-sword-shield-promos-swsh304/",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH304"
+      ],
+      "evidence": "Illustration Contest 2022 regional Pokémon Center distribution; logo is integral to this promo."
+    },
+    {
+      "entry_id": "entry_0d0687d68c1c54ceadcccd88e4fc184b",
+      "lang": "en",
+      "release": "2014xy",
+      "number": "8",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "confetti",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "mcdonalds"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/2014xy-8"
+      ],
+      "evidence": "McDonald’s Collection 2014 exact confetti foil cards; logo is present in this regional release."
+    },
+    {
+      "entry_id": "entry_6e8f40db5a2d576bbc2c3825dc80ca57",
+      "lang": "en",
+      "release": "2014xy",
+      "number": "3",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "confetti",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "mcdonalds"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/2014xy-3"
+      ],
+      "evidence": "McDonald’s Collection 2014 exact confetti foil cards; logo is present in this regional release."
+    },
+    {
+      "entry_id": "entry_3d07ed070f355151b218be01858ce2b1",
+      "lang": "en",
+      "release": "2014xy",
+      "number": "12",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "confetti",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "mcdonalds"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/2014xy-12"
+      ],
+      "evidence": "McDonald’s Collection 2014 exact confetti foil cards; logo is present in this regional release."
+    },
+    {
+      "entry_id": "entry_884c879c222c547ebbc8e4a0690990d4",
+      "lang": "de",
+      "release": "2022swsh",
+      "number": "4",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "confetti",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2022.php",
+        "https://api.tcgdex.net/v2/de/cards/2022swsh-4"
+      ],
+      "evidence": "German gallery explicitly lists Growlithe 4 and Smeargle 15 among the six holo-only cards."
+    },
+    {
+      "entry_id": "entry_4798f13c0cda59e288221526a57def7f",
+      "lang": "de",
+      "release": "2022swsh",
+      "number": "15",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "confetti",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/promos-specials/swsh-mcdonalds-2022.php",
+        "https://api.tcgdex.net/v2/de/cards/2022swsh-15"
+      ],
+      "evidence": "German gallery explicitly lists Growlithe 4 and Smeargle 15 among the six holo-only cards."
+    },
+    {
+      "entry_id": "entry_3ccade8482e65b4597c72831ad24d0f0",
+      "lang": "de",
+      "release": "basep",
+      "number": "6",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/basep-6"
+      ],
+      "evidence": "Exact German Wizards promo identity and non-holo surface; no English-only stamp or finish inferred."
+    },
+    {
+      "entry_id": "entry_b90f275c05c15e06a9638a3716ca1475",
+      "lang": "de",
+      "release": "basep",
+      "number": "32",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/basep-32"
+      ],
+      "evidence": "Exact German Wizards promo identity and non-holo surface; no English-only stamp or finish inferred."
+    },
+    {
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "lang": "de",
+      "release": "dpp",
+      "number": "DP12",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/dpp-DP12"
+      ],
+      "evidence": "Exact regional Lucario DP12 promotional holo print."
+    },
+    {
+      "entry_id": "entry_86755e0c8a60549c8f889d96e8ee7588",
+      "lang": "en",
+      "release": "mfb",
+      "number": "11",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "charmander_deck"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle",
+        "https://api.tcgdex.net/v2/en/cards/mfb-11"
+      ],
+      "evidence": "Charmander 17-card beginner deck contains Vulpix, Ninetales, Growlithe and Arcanine; simplified unnumbered cards carry the Charmander deck mark."
+    },
+    {
+      "entry_id": "entry_d3b1c6266b095fa4b5935ae10c28a124",
+      "lang": "en",
+      "release": "mfb",
+      "number": "12",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "charmander_deck"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle",
+        "https://api.tcgdex.net/v2/en/cards/mfb-12"
+      ],
+      "evidence": "Charmander 17-card beginner deck contains Vulpix, Ninetales, Growlithe and Arcanine; simplified unnumbered cards carry the Charmander deck mark."
+    },
+    {
+      "entry_id": "entry_695d4e077d4d5c10aff68c3048e14275",
+      "lang": "en",
+      "release": "mfb",
+      "number": "13",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "charmander_deck"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle",
+        "https://api.tcgdex.net/v2/en/cards/mfb-13"
+      ],
+      "evidence": "Charmander 17-card beginner deck contains Vulpix, Ninetales, Growlithe and Arcanine; simplified unnumbered cards carry the Charmander deck mark."
+    },
+    {
+      "entry_id": "entry_ba6f6f5f3ed05d7ba7926a1c5418ee35",
+      "lang": "en",
+      "release": "mfb",
+      "number": "14",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [
+          "charmander_deck"
+        ],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/My_First_Battle",
+        "https://api.tcgdex.net/v2/en/cards/mfb-14"
+      ],
+      "evidence": "Charmander 17-card beginner deck contains Vulpix, Ninetales, Growlithe and Arcanine; simplified unnumbered cards carry the Charmander deck mark."
+    },
+    {
+      "entry_id": "entry_cedea551fe68565faa5210f00a66039e",
+      "lang": "en",
+      "release": "tk-ex-latio",
+      "number": "7",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zigzagoon-ex-trainer-kit-latios-tk1o-7/"
+      ],
+      "evidence": "Exact numbered trainer-kit deck insert, confirmed by the individual scan/checklist. No reverse, first edition or holo option is inferred."
+    },
+    {
+      "entry_id": "entry_46d66ee56ede5856a83f007d6091bf62",
+      "lang": "en",
+      "release": "tk-ex-latio",
+      "number": "1",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/electrike-ex-trainer-kit-latios-tk1o-1/"
+      ],
+      "evidence": "Exact numbered trainer-kit deck insert, confirmed by the individual scan/checklist. No reverse, first edition or holo option is inferred."
+    },
+    {
+      "entry_id": "entry_94957e1e125a5cfd8e0d79e42e3272ca",
+      "lang": "en",
+      "release": "tk-xy-p",
+      "number": "11",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/electrike-xy-trainer-kit-pikachu-libre-tk9p-11/"
+      ],
+      "evidence": "Exact numbered trainer-kit deck insert, confirmed by the individual scan/checklist. No reverse, first edition or holo option is inferred."
+    },
+    {
+      "entry_id": "entry_bed0222c86c252f3918a67872bb6f873",
+      "lang": "en",
+      "release": "tk-xy-p",
+      "number": "13",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/manectric-xy-trainer-kit-pikachu-libre-tk9p-13/",
+        "https://api.tcgdex.net/v2/en/cards/tk-xy-p-13"
+      ],
+      "evidence": "Exact numbered trainer-kit deck insert, confirmed by the individual scan/checklist. No reverse, first edition or holo option is inferred."
+    },
+    {
+      "entry_id": "entry_08c9d0e6c44752808bd44dce95706c39",
+      "lang": "en",
+      "release": "tk-xy-p",
+      "number": "22",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/manectric-xy-trainer-kit-pikachu-libre-tk9p-22/",
+        "https://api.tcgdex.net/v2/en/cards/tk-xy-p-22"
+      ],
+      "evidence": "Exact numbered trainer-kit deck insert, confirmed by the individual scan/checklist. No reverse, first edition or holo option is inferred."
+    },
+    {
+      "entry_id": "entry_521d6dd9e8275b3fb46cc03a4eb32617",
+      "lang": "en",
+      "release": "tk-xy-n",
+      "number": "20",
+      "printing": {
+        "finish": "non_holo",
+        "edition": "not_applicable",
+        "pattern": "none",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/furfrou-xy-trainer-kit-noivern-tk6n-20/"
+      ],
+      "evidence": "Exact numbered trainer-kit deck insert, confirmed by the individual scan/checklist. No reverse, first edition or holo option is inferred."
+    },
+    {
+      "entry_id": "entry_6a2c7722b6a1558d8b4ca2a93c83c86c",
+      "lang": "en",
+      "release": "sm2",
+      "number": "21a",
+      "printing": {
+        "finish": "holo",
+        "edition": "not_applicable",
+        "pattern": "unspecified",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Alolan_Vulpix_(Guardians_Rising_21a)",
+        "https://pkmncards.com/card/alolan-vulpix-guardians-rising-gri-21a/"
+      ],
+      "evidence": "Alternate-art Alolan Vulpix 21a was the English Ultra Prism three-pack blister promo released February 2018. Its foil promo is distinct from the ordinary Guardians Rising 21."
+    }
+  ],
+  "aliases": [
+    {
+      "entry_id": "entry_7fe8e38df53f54b388e3286c8605185d",
+      "canonical_id": "entry_15e0f7557d9c53bd8c0911969d0c370c",
+      "source_urls": [
+        "https://pkmncards.com/card/m-manectric-ex-phantom-forces-phf-24a/",
+        "https://api.tcgdex.net/v2/en/cards/xy4-24a"
+      ],
+      "evidence": "Same printed number, artwork and release product appear under both Yellow A grouping and original printed expansion. Keep one active identity."
+    },
+    {
+      "entry_id": "entry_112f3416c8995f1aa9f1e7ab6e537200",
+      "canonical_id": "entry_0168d0f2c639522e8174d7b0783a429e",
+      "source_urls": [
+        "https://pkmncards.com/card/m-lucario-ex-furious-fists-ffi-55a/",
+        "https://api.tcgdex.net/v2/en/cards/xy3-55a"
+      ],
+      "evidence": "Same printed number, artwork and release product appear under both Yellow A grouping and original printed expansion. Keep one active identity."
+    }
+  ],
+  "retirements": [
+    {
+      "entry_id": "entry_0d8b342d3ea559e8bde8a1a3a1e8ce41",
+      "reason": "outside_10_percent_form_scope",
+      "source_url": "https://pkmncards.com/card/zygarde-ex-fates-collide-fco-54a/",
+      "policy": "confirmed_10_percent_only",
+      "evidence": "Exact reference artwork visually reviewed: Complete Forme or Mega Zygarde, not the canine 10% Forme. No remaining tracked cameo is present."
+    },
+    {
+      "entry_id": "entry_e1220ded539653bca3f73c65b89e4363",
+      "reason": "outside_10_percent_form_scope",
+      "source_url": "https://limitlesstcg.com/cards/de/MEP/71",
+      "policy": "confirmed_10_percent_only",
+      "evidence": "Exact reference artwork visually reviewed: Complete Forme or Mega Zygarde, not the canine 10% Forme. No remaining tracked cameo is present."
+    }
+  ],
+  "holds": [
+    {
+      "entry_id": "entry_2d8e3f14ccd75d1789266782a72abd22",
+      "lang": "de",
+      "release": "2011bw",
+      "number": "9",
+      "reason": "Requires independent exact physical/identity evidence; generic provider fallback is not accepted."
+    },
+    {
+      "entry_id": "entry_e27713fdcd665ae28ad189d5b484c7b8",
+      "lang": "de",
+      "release": "30th-c",
+      "number": "028",
+      "reason": "Requires independent exact physical/identity evidence; generic provider fallback is not accepted."
+    },
+    {
+      "entry_id": "entry_7505c0d299d857cca8a88eaa81a74542",
+      "lang": "en",
+      "release": "30th-c",
+      "number": "028",
+      "reason": "Requires independent exact physical/identity evidence; generic provider fallback is not accepted."
+    }
+  ]
+}

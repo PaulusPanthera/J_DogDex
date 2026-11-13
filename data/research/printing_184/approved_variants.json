@@ -1,0 +1,981 @@
+{
+  "format": "dogdex-reviewed-printings-1",
+  "reviewed_on": "2026-10-30",
+  "scope": "Regular pack printings of ten existing DogDex identities in EN/DE me02.5 only; product-exclusive claims separate.",
+  "rows": [
+    {
+      "entry_id": "entry_d9bb4b0939d05824ace4f018a8eee482",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "128",
+      "name": "Fiffyen",
+      "english": "Poochyena",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_aed261014f7a52a4bba5f98ceb3f2003"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_128",
+            "checklist_de",
+            "de_energy_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870337,
+          "provider_claim_locator": "variant_claims/760756734c17d4d3405f6e8908c8fd32af1a0e412778b6d47e1891f599aa44da",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-128"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "dusk_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_128",
+            "checklist_de",
+            "de_ball_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870338,
+          "provider_claim_locator": "variant_claims/380ff9b57ce4d04d16c84aaf69f1830e2d3f54bbfc218bf38bc6463d1d312280",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-128"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_61b670240f7952e8b1188b539499a110",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "129",
+      "name": "Magnayen",
+      "english": "Mightyena",
+      "rarity_code": "uncommon",
+      "existing_ids": [
+        "variant_d95909e0466653dd8b404cdcdd8b87e8"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_129",
+            "checklist_de",
+            "de_energy_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870339,
+          "provider_claim_locator": "variant_claims/46435fb6bf7ccc89622fcdef263eaf35d8c00f7b0ba13c4e2f4442cbee121119",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-129"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "dusk_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_129",
+            "checklist_de",
+            "de_ball_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870340,
+          "provider_claim_locator": "variant_claims/0f5bf2c0ebe1af4767fbca0350ae9c3856e3a1779f550703d431740a8e35c2ac",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-129"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_007830b049e05bafadc687380eaadc7f",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "243",
+      "name": "Magnayen",
+      "english": "Mightyena",
+      "rarity_code": "illustration_rare",
+      "existing_ids": [
+        "variant_8ad167f4f054564397f816fefbd5b009"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_e59808946b275b8ea419f979be2e8ca7",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "130",
+      "name": "Galar-Zigzachs",
+      "english": "Galarian Zigzagoon",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_7a4005d5a9b65f4db732368640d91702"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_130",
+            "checklist_de",
+            "de_energy_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870341,
+          "provider_claim_locator": "variant_claims/2dcc76bc6f2c0d74da1ab1814c8f53cd365dc0bbd453363da23ec94e0f0b13ad",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-130"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "dusk_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_130",
+            "checklist_de",
+            "de_ball_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870342,
+          "provider_claim_locator": "variant_claims/432609eae7f8293cc79d8321b5470a122bb411f903ddffc352b2da405f2d3b17",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-130"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_e0b9ecda8e9d51da9551f3895781e83f",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "112",
+      "name": "Riolu",
+      "english": "Riolu",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_70a706ac637e5e7ab85a2df8452135cf"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_112",
+            "checklist_de",
+            "de_112_energy"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870315,
+          "provider_claim_locator": "variant_claims/fbb941141ae4ff4ce9c2928367b3c1677771c30070fb24442cfe1b989597e525",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-112"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "friend_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_112",
+            "checklist_de",
+            "de_112_friend"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870316,
+          "provider_claim_locator": "variant_claims/790f0464921d04777501e265ce9afff9a29bfe4e2d98278733344b89465d2e5c",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-112"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_6698a5538e3a5e0eae1e0667e0913b40",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "113",
+      "name": "Mega-Lucario-ex",
+      "english": "Mega Lucario ex",
+      "rarity_code": "double_rare",
+      "existing_ids": [
+        "variant_93a944714fdd538a8c4e274c10b751cb"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_9dad703d728a5f66841909d5d0aba9f2",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "136",
+      "name": "Ns Zorua",
+      "english": "N's Zorua",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_9af7cefcf59b5f249e4b3bc60b67cfc3"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "checklist_de",
+            "de_energy_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870351,
+          "provider_claim_locator": "variant_claims/05fbd1e276b412fba964ced6211805b1b823649f2783e3c87d246eeef6a2abac",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-136"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "poke_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "checklist_de",
+            "de_136_ball"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870352,
+          "provider_claim_locator": "variant_claims/8738683267f0b7187a3e054c2a79b716476b1cd67a49a4d4a9d21d1c4c2ada28",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-136"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_d679807336815f7b9bd1c9d6b02a1f4c",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "137",
+      "name": "Ns Zoroark-ex",
+      "english": "N's Zoroark ex",
+      "rarity_code": "double_rare",
+      "existing_ids": [
+        "variant_92831d296eb05b77880674d090c7dd35"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_8664e1e8f0555faea905cfc0a70f535e",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "286",
+      "name": "Ns Zoroark-ex",
+      "english": "N's Zoroark ex",
+      "rarity_code": "special_illustration_rare",
+      "existing_ids": [
+        "variant_23c70159e4c45da5aef46575abec5c28"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_9229b0b9c1195b75a7c18f694ba985c9",
+      "lang": "de",
+      "release": "me02.5",
+      "number": "122",
+      "name": "Boninu",
+      "english": "Okidogi",
+      "rarity_code": "rare",
+      "existing_ids": [
+        "variant_ee0b81745ac254f58e92ecd649f2c3aa"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_122",
+            "checklist_de",
+            "de_122_energy"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870327,
+          "provider_claim_locator": "variant_claims/715a43a141b2ca1e5c958f3cad984b28753016c7865b53bf9ef327ea6400a464",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-122"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "friend_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_122",
+            "checklist_de",
+            "de_122_friend"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870328,
+          "provider_claim_locator": "variant_claims/1377f4675974d08f31c2bfdee0f625d866590b2d9398103b4406b8369f5eaa47",
+          "provider_url": "https://api.tcgdex.net/v2/de/cards/me02.5-122"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_61864c5f801851bb81c583e2d026a633",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "128",
+      "name": "Poochyena",
+      "english": "Poochyena",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_721c0b66711b5653a06e75e38f83cd01"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_128"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870337,
+          "provider_claim_locator": "variant_claims/4b8b4e1c50eb376c4732ec637493b1c2c198e4cf5b221d9f61274136e85ede1e",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-128"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "dusk_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_128"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870338,
+          "provider_claim_locator": "variant_claims/96bb0b7aa66614e3c1e67ed86203416e39078bf81486374bbbf542e2c213534c",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-128"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_cf775838a96558f08f73449a30fbc961",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "129",
+      "name": "Mightyena",
+      "english": "Mightyena",
+      "rarity_code": "uncommon",
+      "existing_ids": [
+        "variant_39570b15927a54fc993838d0cc4c822f"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_129"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870339,
+          "provider_claim_locator": "variant_claims/c4007a61ac2f09255362564e0cdf7ad82a1de58a764fa56729b9a856b5af4ee0",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-129"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "dusk_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_129"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870340,
+          "provider_claim_locator": "variant_claims/aef88945ba5371f36f1272fcb388776842d87363511ead0e8fc6833afb19f175",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-129"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_00b765dac4515c4ba770f4d35f041d3e",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "243",
+      "name": "Mightyena",
+      "english": "Mightyena",
+      "rarity_code": "illustration_rare",
+      "existing_ids": [
+        "variant_e009de2f31255fe38376936080eb3396"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_87b99321eb1558fbb309cd8e7443fdbd",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "130",
+      "name": "Galarian Zigzagoon",
+      "english": "Galarian Zigzagoon",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_5f641b86fab05f57b41c05e676c30731"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_130"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870341,
+          "provider_claim_locator": "variant_claims/d22615856f9847852078364ee55d339214cfc78708e207d3ecd43f3e4aa7517f",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-130"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "dusk_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_130"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870342,
+          "provider_claim_locator": "variant_claims/6ee7356c99e973d1a48a3ce486143438796986f615021b2535806faabee837fe",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-130"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_d982269ac4255dfd8352f06c551ed14e",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "112",
+      "name": "Riolu",
+      "english": "Riolu",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_7df5b418bb7056649b982895eb3dfdaf"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_112"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870315,
+          "provider_claim_locator": "variant_claims/aa6243cc6e462bb9b28937ffaa83c07c8c928990dae66f22c9dc7d7f8711c97d",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-112"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "friend_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_112"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870316,
+          "provider_claim_locator": "variant_claims/9f48fad4e041130b3db9650753ff6e68120996a5dad9ee15b41d3374fbfc379c",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-112"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_520c9f519a735efe9d098f7a995e97dc",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "113",
+      "name": "Mega Lucario ex",
+      "english": "Mega Lucario ex",
+      "rarity_code": "double_rare",
+      "existing_ids": [
+        "variant_8524a4acfe4d56b18914dcd34c310e3e"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_b597516c1f0251678a51911f9a7846b6",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "136",
+      "name": "N's Zorua",
+      "english": "N's Zorua",
+      "rarity_code": "common",
+      "existing_ids": [
+        "variant_6f9e7f10ae405d8e83e9b871c4baeee2"
+      ],
+      "expected": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870351,
+          "provider_claim_locator": "variant_claims/53330217997773a371267e8fba52f23e7f4bdf0fac7a933ad6f8d375b9762797",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-136"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "poke_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870352,
+          "provider_claim_locator": "variant_claims/9dd27edcf6a57bc1335d63dc9fb6dea03b74ab491eda1de8f186b184ef2a7923",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-136"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_cbd880507a9455bcb58d24ec40a498a6",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "137",
+      "name": "N's Zoroark ex",
+      "english": "N's Zoroark ex",
+      "rarity_code": "double_rare",
+      "existing_ids": [
+        "variant_93a205d5179a54fcb2b6aec699fac321"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_cd52ee6d07d65b0b94bba114325f6aa8",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "286",
+      "name": "N's Zoroark ex",
+      "english": "N's Zoroark ex",
+      "rarity_code": "special_illustration_rare",
+      "existing_ids": [
+        "variant_2bcf4fd9e3ee51898a117f797c0e5a8e"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_5e2a4391c7a753b3bec110746aaf3a80",
+      "lang": "en",
+      "release": "me02.5",
+      "number": "122",
+      "name": "Okidogi",
+      "english": "Okidogi",
+      "rarity_code": "rare",
+      "existing_ids": [
+        "variant_d9e1899de7b0564ebe94dfbc8fa83b36"
+      ],
+      "expected": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "evidence": [
+            "checklist_de",
+            "set_reporting"
+          ],
+          "status": "documented",
+          "scope": "regular_set"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "energy",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_122"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870327,
+          "provider_claim_locator": "variant_claims/61f31f33c49bde5676202027dd162217dc154b444f63d17c2f390014a5f4084e",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-122"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "friend_ball",
+          "evidence": [
+            "set_reporting",
+            "pattern_inventory",
+            "bulba_122"
+          ],
+          "status": "documented",
+          "scope": "regular_set",
+          "provider_candidate_id": 870328,
+          "provider_claim_locator": "variant_claims/e87b0bc08782e66581f528d3ea6c8171f57cffdcc0a471955d82de5fabb05c6e",
+          "provider_url": "https://api.tcgdex.net/v2/en/cards/me02.5-122"
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "manufacturer_en": {
+      "url": "https://press.pokemon.com/en-AU/MEDIA-ALERT-Pokemon-Trading-Card-Game-Mega-EvolutionAscended-Heroes-Av",
+      "family": "pokemon_company",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "manufacturer_de": {
+      "url": "https://www.pokemon.com/de/news/sieh-dir-die-komplette-aufstellung-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-erhabene-helden-an",
+      "family": "pokemon_company",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "checklist_de": {
+      "url": "https://pokezentrum.de/wp-content/uploads/Pokemon-Erhabene-Helden-Kartenliste-Checkliste-PDF-Deutsch.pdf",
+      "family": "pokemon_company_mirror",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator.",
+      "sha256": "13c9386393d8491e0c9220e0fe3144447ee11069663a48825ba0489c838c367b",
+      "summary": "Manufacturer-branded mirrored checklist visually checked at rows 112,113,122,128,129,130,136,137,243,286. Black box = standard; red box = standard holographic. It does NOT enumerate reverse patterns."
+    },
+    "set_reporting": {
+      "url": "https://www.pokebeach.com/2026/01/ascended-heroes-set-guide-full-set-list-god-packs-reverse-holos-product-lineup-and-more",
+      "family": "pokebeach_reporting",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator.",
+      "summary": "Regular non-ex Pokemon have Energy and assigned-ball reverse printings; Okidogi is explicitly a base holo. Ex and illustration identities are not covered by the regular reverse rule."
+    },
+    "pattern_inventory": {
+      "url": "https://bindertracker.co.uk/pokemon/ascended-heroes/",
+      "family": "bindertracker_lineage_unconfirmed",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Assigned ball discovery; upstream lineage is unknown, not independent specimen proof."
+    },
+    "bulba_128": {
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Poochyena_(Temporal_Forces_105)",
+      "family": "bulbapedia_editorial",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "bulba_129": {
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Mightyena_(Temporal_Forces_106)",
+      "family": "bulbapedia_editorial",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "bulba_130": {
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Galarian_Zigzagoon_(Ascended_Heroes_130)",
+      "family": "bulbapedia_editorial",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "bulba_112": {
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Riolu_(Ascended_Heroes_112)",
+      "family": "bulbapedia_editorial",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "bulba_122": {
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Okidogi_(Ascended_Heroes_122)",
+      "family": "bulbapedia_editorial",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "de_ball_inventory": {
+      "url": "https://www.ebay.de/itm/178210619640",
+      "family": "native_seller_inventory",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "de_energy_inventory": {
+      "url": "https://www.ebay.de/itm/178077684321",
+      "family": "native_seller_inventory",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "de_122_friend": {
+      "url": "https://holoncardshop.com/product/boninu-asc-122-217-friend-ball-reverse-holo-deutsch/",
+      "family": "native_retailer_inventory",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "de_122_energy": {
+      "url": "https://cardmex-shop.de/Boninu-ASCxEnergie-122-Reverse-Pokemon-Reverse-Holo-Karte-mit-Energie-Muster-aus-Erhabene-Helden-in-deutsch/ASCxEnergie-122-Reverse",
+      "family": "native_retailer_inventory",
+      "retrieved_on": "2026-10-30",
+      "status": "search_capture_direct_page_timed_out",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "de_112_friend": {
+      "url": "https://www.ebay.de/itm/820100237661",
+      "family": "native_seller_inventory",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "de_112_energy": {
+      "url": "https://cardmex-shop.de/Riolu-ASCxEnergie-112-Reverse-Pokemon-Reverse-Holo-Karte-mit-Energie-Muster-aus-Erhabene-Helden-in-deutsch/ASCxEnergie-112-Reverse",
+      "family": "native_retailer_inventory",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "de_136_ball": {
+      "url": "https://cardmex-shop.de/Ns-Zorua-ASCxBall-136-Reverse-Pokemon-Reverse-Holo-Karte-mit-Pokeball-Muster-aus-Erhabene-Helden-in-deutsch/ASCxBall-136-Reverse",
+      "family": "native_retailer_inventory",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    },
+    "english_122_market": {
+      "url": "https://www.tcgplayer.com/search/pokemon/product?productLineName=pokemon&q=okidogi+ascended+heroes+122",
+      "family": "tcgplayer_catalogue",
+      "retrieved_on": "2026-10-30",
+      "status": "retrieved_and_assessed",
+      "scope": "Specific card/field assertion only; not a complete set denominator."
+    }
+  },
+  "limits": [
+    "Existence corroborated; no collector personally inspected a physical specimen in this pass.",
+    "Representative artwork reused; no exact foil photograph asserted.",
+    "Marketplace IDs remain unconfirmed provider candidates.",
+    "No JA/KO counterpart or printing generation.",
+    "Generic Ball retail labels do not by themselves identify a specific ball subtype."
+  ]
+}

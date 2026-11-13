@@ -1,0 +1,54 @@
+{
+  "format": "dogdex-printing-validation-1",
+  "app_version": "1.8.4",
+  "reviewed_on": "2026-10-30",
+  "software": {
+    "existing_python_checks": 96,
+    "affected_python_suites_rerun": [
+      19,
+      7,
+      8
+    ],
+    "new_printing_python_checks": 9,
+    "existing_javascript_checks": 19,
+    "new_javascript_checks": 3,
+    "full_offline_rebuild": "catalogue JSON and derived SQLite byte-identical",
+    "windows_native_execution": "not_available",
+    "native_stamp_name_checks": "Japanese/Korean script and kana voicing remain distinct; Latin pattern aliases coalesce"
+  },
+  "facts": {
+    "reviewed_identity_language_rows": 20,
+    "expected_regular_printings_per_language": {
+      "en": 22,
+      "de": 22
+    },
+    "added_printing_records": 24,
+    "new_identity_records": 0,
+    "old_printing_ids_preserved": 4493,
+    "unreviewed_entry_hashes_unchanged": true,
+    "ja_ko_raw_entries_unchanged": true,
+    "personal_specimens_inspected": 0,
+    "exact_printing_images_verified": 0,
+    "marketplace_ids_automatically_confirmed": 0
+  },
+  "saved_claim_scan": {
+    "identities": 3820,
+    "species": 41,
+    "confirmed_errors": 0,
+    "review_items": 771,
+    "information": 9018,
+    "unresolved_source_claims": 514,
+    "reviewed_identities": 20
+  },
+  "limits": [
+    "Expected counts exist only for reviewed named specifications.",
+    "Other source claims require review, not automatic import.",
+    "Images and unmatched prices are information gaps, not missing verified printings.",
+    "All 41 species/four ledgers scanned; this is not new worldwide specimen research."
+  ],
+  "hashes": {
+    "data/catalog.json": "9cde13d943893ad559ecd165098f642a84eed32f3dfe4900830d06b153294a01",
+    "data/catalog-collector.sqlite3": "27f2c65c11541a3023b3e5a22b8bcff291f0f7906422c43f855d8b339cd3eae3",
+    "data/catalog.sqlite3": "e79d48ff8d056d88fa0d6b1f0771f220d79f62d82797c886183e20ada9c22da0"
+  }
+}

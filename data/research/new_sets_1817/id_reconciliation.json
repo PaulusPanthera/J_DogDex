@@ -1,0 +1,616 @@
+{
+  "version": "1.8.17",
+  "old_entries": 3820,
+  "new_entries": 3832,
+  "old_printings": 4572,
+  "new_printings": 4594,
+  "unchanged_entries": 3790,
+  "all_prior_ids_retained": true,
+  "ja_ko_identical": true,
+  "rows": [
+    {
+      "entry_id": "entry_9260d1d51df35424bb0fde8dcd1b0c52",
+      "lang": "en",
+      "release": "30th",
+      "name": "Vulpix",
+      "old_number": "009",
+      "number": "009",
+      "old_printing_ids": [
+        "research_printing_34384e16f3225de7b51ccead10ba3060"
+      ],
+      "printing_ids": [
+        "research_printing_34384e16f3225de7b51ccead10ba3060"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_c0a18182205551deacd514b0b346b6af",
+      "lang": "en",
+      "release": "30th",
+      "name": "Ninetales",
+      "old_number": "010",
+      "number": "010",
+      "old_printing_ids": [
+        "research_printing_f9775e3838935d558d9123a02f11c2eb"
+      ],
+      "printing_ids": [
+        "research_printing_f9775e3838935d558d9123a02f11c2eb"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_aa7e41b50b5d5f92adc08015a695549e",
+      "lang": "en",
+      "release": "30th",
+      "name": "Lucario",
+      "old_number": "083",
+      "number": "083",
+      "old_printing_ids": [
+        "research_printing_b4e167129acd55938d996344ad03beca"
+      ],
+      "printing_ids": [
+        "research_printing_b4e167129acd55938d996344ad03beca"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_9298d9899e5a588a822ace964edf2d6b",
+      "lang": "en",
+      "release": "30th",
+      "name": "Lycanroc",
+      "old_number": "085",
+      "number": "085",
+      "old_printing_ids": [
+        "research_printing_50ac7eca58925b5cabfd01a27581125a"
+      ],
+      "printing_ids": [
+        "research_printing_50ac7eca58925b5cabfd01a27581125a"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_a6ded44c4b365792a5e36667db3ab1f2",
+      "lang": "en",
+      "release": "30th",
+      "name": "Zorua",
+      "old_number": "095",
+      "number": "095",
+      "old_printing_ids": [
+        "research_printing_4da9d232a9625067bd4fa8d2750ec26e"
+      ],
+      "printing_ids": [
+        "research_printing_4da9d232a9625067bd4fa8d2750ec26e"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_cbfb799ab77052f999342182d18d8276",
+      "lang": "en",
+      "release": "30th",
+      "name": "Zoroark",
+      "old_number": "096",
+      "number": "096",
+      "old_printing_ids": [
+        "research_printing_eab45b0bef1b513a9d67745ba4abfef0"
+      ],
+      "printing_ids": [
+        "research_printing_eab45b0bef1b513a9d67745ba4abfef0"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_8fb391c5df2155e2948665d89d5bb5cd",
+      "lang": "en",
+      "release": "30th",
+      "name": "Zacian",
+      "old_number": "106",
+      "number": "106",
+      "old_printing_ids": [
+        "research_printing_8e722e1d1c465ecca5823f74211fca4d"
+      ],
+      "printing_ids": [
+        "research_printing_8e722e1d1c465ecca5823f74211fca4d"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_3a319a9e8052519cb377ef16ba7175ee",
+      "lang": "en",
+      "release": "30th",
+      "name": "Zamazenta",
+      "old_number": "107",
+      "number": "107",
+      "old_printing_ids": [
+        "research_printing_319f2f338f4358009f98e5a82cd4e0d8"
+      ],
+      "printing_ids": [
+        "research_printing_319f2f338f4358009f98e5a82cd4e0d8"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_062907e6048a57f58bbfdfbbc4b60601",
+      "lang": "en",
+      "release": "30th",
+      "name": "Hisuian Zorua",
+      "old_number": "122",
+      "number": "122",
+      "old_printing_ids": [
+        "research_printing_a7f45bf01f70575ba818e620fd1b3801"
+      ],
+      "printing_ids": [
+        "research_printing_a7f45bf01f70575ba818e620fd1b3801"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_74bc27cbc42952d0bfc338ee29465eff",
+      "lang": "en",
+      "release": "30th",
+      "name": "Hisuian Zoroark",
+      "old_number": "123",
+      "number": "123",
+      "old_printing_ids": [
+        "research_printing_5ba62d679e4d5f55983848e7d23ff056"
+      ],
+      "printing_ids": [
+        "research_printing_5ba62d679e4d5f55983848e7d23ff056"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_810f8e3f77225c7cb77cbd7480cef117",
+      "lang": "en",
+      "release": "30th",
+      "name": "Lycanroc",
+      "old_number": "138",
+      "number": "138",
+      "old_printing_ids": [
+        "research_printing_ce6b858381555c9ea54fe71794a05e68"
+      ],
+      "printing_ids": [
+        "research_printing_ce6b858381555c9ea54fe71794a05e68"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_ac50192dabbc56128488e294592a308e",
+      "lang": "en",
+      "release": "30th",
+      "name": "Hisuian Zorua",
+      "old_number": "145",
+      "number": "145",
+      "old_printing_ids": [
+        "research_printing_8d8c688400385fcbb238664cd43796b7"
+      ],
+      "printing_ids": [
+        "research_printing_8d8c688400385fcbb238664cd43796b7"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "research_entry_61e945dd701f5ca283d714b3d2e862d9",
+      "lang": "en",
+      "release": "30th",
+      "name": "Greninja ex",
+      "old_number": "148",
+      "number": "148",
+      "old_printing_ids": [
+        "research_printing_fc6ae572afd15f96a98c0a620a5fd30b"
+      ],
+      "printing_ids": [
+        "research_printing_fc6ae572afd15f96a98c0a620a5fd30b"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "lang": "en",
+      "release": "30th",
+      "name": "Pikachu ex",
+      "old_number": "150",
+      "number": "150",
+      "old_printing_ids": [
+        "research_printing_035f794ee9915e58bcfe62a2471206f7"
+      ],
+      "printing_ids": [
+        "research_printing_035f794ee9915e58bcfe62a2471206f7"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_7505c0d299d857cca8a88eaa81a74542",
+      "lang": "en",
+      "release": "30th-c",
+      "name": "Zacian V",
+      "old_number": "028",
+      "number": "138",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_825b4125da8959dfbfd55bf26f329aa3"
+      ],
+      "action": "completed released identity"
+    },
+    {
+      "entry_id": "entry_375cfeef79325746b2b1cad70dd3a8f4",
+      "lang": "de",
+      "release": "30th",
+      "name": "Vulpix",
+      "old_number": "009",
+      "number": "009",
+      "old_printing_ids": [
+        "research_printing_63e81fda07c45a3782bd2c02064d7950"
+      ],
+      "printing_ids": [
+        "research_printing_63e81fda07c45a3782bd2c02064d7950"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_d36b5d2c1d3b58a7b1144d4a19015a7c",
+      "lang": "de",
+      "release": "30th",
+      "name": "Vulnona",
+      "old_number": "010",
+      "number": "010",
+      "old_printing_ids": [
+        "research_printing_42d6151a2bb65f86a73c467d75f5ba50"
+      ],
+      "printing_ids": [
+        "research_printing_42d6151a2bb65f86a73c467d75f5ba50"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_9be8108830a752d99e8a71e625ea4f32",
+      "lang": "de",
+      "release": "30th",
+      "name": "Lucario",
+      "old_number": "083",
+      "number": "083",
+      "old_printing_ids": [
+        "research_printing_2aacf58569055bafa6916a3000fc3dae"
+      ],
+      "printing_ids": [
+        "research_printing_2aacf58569055bafa6916a3000fc3dae"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_30b94465c0965942b06225ccff127988",
+      "lang": "de",
+      "release": "30th",
+      "name": "Wolwerock",
+      "old_number": "085",
+      "number": "085",
+      "old_printing_ids": [
+        "research_printing_2d2efa402bde538cb00414b31891419b"
+      ],
+      "printing_ids": [
+        "research_printing_2d2efa402bde538cb00414b31891419b"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_29fa21c90efe5e26b854ad54a8cd659b",
+      "lang": "de",
+      "release": "30th",
+      "name": "Zorua",
+      "old_number": "095",
+      "number": "095",
+      "old_printing_ids": [
+        "research_printing_cb1a31aef9ff521a85bc13f7acbf81fb"
+      ],
+      "printing_ids": [
+        "research_printing_cb1a31aef9ff521a85bc13f7acbf81fb"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_0cdaf2b8dca551938cb3b3a0cfe9de32",
+      "lang": "de",
+      "release": "30th",
+      "name": "Zoroark",
+      "old_number": "096",
+      "number": "096",
+      "old_printing_ids": [
+        "research_printing_a92ae53ca0c65bd59c29e63679e3367a"
+      ],
+      "printing_ids": [
+        "research_printing_a92ae53ca0c65bd59c29e63679e3367a"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_74131c279cf858a8bbd7a9b52025a4c2",
+      "lang": "de",
+      "release": "30th",
+      "name": "Zacian",
+      "old_number": "106",
+      "number": "106",
+      "old_printing_ids": [
+        "research_printing_83143a9be7fe54149da24ca468b557b4"
+      ],
+      "printing_ids": [
+        "research_printing_83143a9be7fe54149da24ca468b557b4"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_d7921e977bef54668810fdda4b1cdb6c",
+      "lang": "de",
+      "release": "30th",
+      "name": "Zamazenta",
+      "old_number": "107",
+      "number": "107",
+      "old_printing_ids": [
+        "research_printing_26626de389ef5fc89f26719119c0fd1e"
+      ],
+      "printing_ids": [
+        "research_printing_26626de389ef5fc89f26719119c0fd1e"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_6f73a28501dd5199b9cdce1f419763fd",
+      "lang": "de",
+      "release": "30th",
+      "name": "Hisui-Zorua",
+      "old_number": "122",
+      "number": "122",
+      "old_printing_ids": [
+        "research_printing_3250169da7d253c0b247f5c4c8f01e33"
+      ],
+      "printing_ids": [
+        "research_printing_3250169da7d253c0b247f5c4c8f01e33"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_24eafd74f5a353c499278e5510ec69bf",
+      "lang": "de",
+      "release": "30th",
+      "name": "Hisui-Zoroark",
+      "old_number": "123",
+      "number": "123",
+      "old_printing_ids": [
+        "research_printing_82c530f968f158cc90e236401a32367c"
+      ],
+      "printing_ids": [
+        "research_printing_82c530f968f158cc90e236401a32367c"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_df398a76e7f1576385f92221139c60da",
+      "lang": "de",
+      "release": "30th",
+      "name": "Wolwerock",
+      "old_number": "138",
+      "number": "138",
+      "old_printing_ids": [
+        "research_printing_e2b764a01b525077bbd659b28ea660e6"
+      ],
+      "printing_ids": [
+        "research_printing_e2b764a01b525077bbd659b28ea660e6"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "entry_c1c2229036275185850eac7e5bc8ffbb",
+      "lang": "de",
+      "release": "30th",
+      "name": "Hisui-Zorua",
+      "old_number": "145",
+      "number": "145",
+      "old_printing_ids": [
+        "research_printing_10996ccd8bff54568afce8251a796080"
+      ],
+      "printing_ids": [
+        "research_printing_10996ccd8bff54568afce8251a796080"
+      ],
+      "action": "qualified existing printing"
+    },
+    {
+      "entry_id": "research_entry_4a92b14594d05a548833e1de331be5f2",
+      "lang": "de",
+      "release": "30th",
+      "name": "Quajutsu-ex",
+      "old_number": "148",
+      "number": "148",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_464795a7fff95d1dae4807cee031696d"
+      ],
+      "action": "completed released identity"
+    },
+    {
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "lang": "de",
+      "release": "30th",
+      "name": "Pikachu-ex",
+      "old_number": "150",
+      "number": "150",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_c32e933a434553959adb6b8b50c479b7"
+      ],
+      "action": "completed released identity"
+    },
+    {
+      "entry_id": "entry_e27713fdcd665ae28ad189d5b484c7b8",
+      "lang": "de",
+      "release": "30th-c",
+      "name": "Zacian-V",
+      "old_number": "028",
+      "number": "138",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_f7d6167ba81a5a238ebd1d1aeaba5635"
+      ],
+      "action": "completed released identity"
+    },
+    {
+      "entry_id": "research_entry_5f1087a23ca050c7aaa1e33df78445d6",
+      "lang": "en",
+      "release": "me06",
+      "name": "Growlithe",
+      "old_number": null,
+      "number": "018",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_d0c3ef7c2095586f9eaa4747ec3a731d",
+        "research_printing_5a47149b907a5464aca493cb83895c1f"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_10b6090f6cac520d8bb45baf5f88de0f",
+      "lang": "en",
+      "release": "me06",
+      "name": "Arcanine",
+      "old_number": null,
+      "number": "019",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_44a123b1233a59888418708e860847d3",
+        "research_printing_e3b5e0c1e30e5612808316a838d37ebf"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_10d96f13ae2d5d7da2cd34d78fd7004f",
+      "lang": "en",
+      "release": "me06",
+      "name": "Zorua",
+      "old_number": null,
+      "number": "066",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_1fc0c8860ee759e191fb3063d16a1f4f",
+        "research_printing_4fb857714896594bb79f759764c467d7"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_0f5fef67240b573c9601547772406545",
+      "lang": "en",
+      "release": "me06",
+      "name": "Zoroark ex",
+      "old_number": null,
+      "number": "067",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_7e4ac7fe4ab6575cbfcfda8a0ff42717"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_6b3f48d589a459818ac07c7eb91f097c",
+      "lang": "en",
+      "release": "me06",
+      "name": "Growlithe",
+      "old_number": null,
+      "number": "106",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_2cfe0d88fb3053bf880e2a0a8afbdd88"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_0458aa7fb12f5f79af70fc10ef97de78",
+      "lang": "en",
+      "release": "me06",
+      "name": "Zorua",
+      "old_number": null,
+      "number": "112",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_d3ad6021dfa851148589bbec616a135d"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_7a53a4ac48075cb588ec5080fe86647a",
+      "lang": "de",
+      "release": "me06",
+      "name": "Fukano",
+      "old_number": null,
+      "number": "018",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_84120822fdf05097b8ad0003199a3d96",
+        "research_printing_061be680001c5540b8cad35a03185506"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_ad057d3466755ad0b7cf78430a3919a2",
+      "lang": "de",
+      "release": "me06",
+      "name": "Arkani",
+      "old_number": null,
+      "number": "019",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_bd0e98a7b6ec58b0b129543fb7d6b9bd",
+        "research_printing_2ac4bcdb0c705ec9b7a82f228d16204f"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_ebc275611a0653d9bed74fb7a884cb2c",
+      "lang": "de",
+      "release": "me06",
+      "name": "Zorua",
+      "old_number": null,
+      "number": "066",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_9a3f6945fbd05806a5e4242548c36b04",
+        "research_printing_0b033888c8805261a4fcb7417714259b"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_6f50df5d61b558af820932c55cc972d0",
+      "lang": "de",
+      "release": "me06",
+      "name": "Zoroark-ex",
+      "old_number": null,
+      "number": "067",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_6f95c923cfc75f4eaebc76c9e57b44ca"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_7a789da35e195224beaaaa5b3c34af18",
+      "lang": "de",
+      "release": "me06",
+      "name": "Fukano",
+      "old_number": null,
+      "number": "106",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_ae34f6b84e825993b4fb7f4f5295a60b"
+      ],
+      "action": "added"
+    },
+    {
+      "entry_id": "research_entry_05d1cbbdb05955f9a7131b53af7f2a83",
+      "lang": "de",
+      "release": "me06",
+      "name": "Zorua",
+      "old_number": null,
+      "number": "112",
+      "old_printing_ids": [],
+      "printing_ids": [
+        "research_printing_52015c556325534ab9d30bf1d8a170c5"
+      ],
+      "action": "added"
+    }
+  ]
+}

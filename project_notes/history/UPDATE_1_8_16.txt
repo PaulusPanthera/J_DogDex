@@ -1,0 +1,30 @@
+DogDex 1.8.16 - Select cards and edit artwork / rarity in bulk
+
+INSTALL
+1. Close the DogDex app and its Python server window.
+2. Merge the contents of this update directly into J_DogDex, replacing the listed files.
+   Apply over DogDex 1.8.14 or 1.8.15. Earlier versions need the full current package.
+3. Start DogDex again and refresh the browser (Ctrl+F5 if necessary).
+4. To update the public viewer, Export mobile view, then commit and push docs.
+
+USE
+Data health > Cards > Artwork not classified > Select cards.
+Click individual card thumbnails / checkboxes; no cards are selected automatically.
+Optionally select all matching cards, including later pages, then untick exceptions.
+Set artwork > Standard artwork > Review changes > Apply to the selected cards.
+Use Set rarity for a reviewed group with the same card-level rarity.
+Only unclassified cards are changed by default; classified cards are listed as skipped.
+Clear that checkbox only when you intend to replace existing classifications.
+
+UNDO
+Use Undo in the saved-change message, or Backup & Trash > Recent bulk edits.
+Undo restores only the edited fields and refuses to replace a newer classification.
+Bulk changes and their Undo records are included in collection backups.
+
+The patch does not replace data/, my_collection/, runtime/ or docs/.
+It does not classify any cards on installation. Collection IDs, ownership quantities,
+purchase costs, misprint notes, pictures, source evidence and Cardmarket mappings stay intact.
+Artwork / rarity changes do not confirm a card identity or a physical printing.
+Japanese and Korean keep their own rarity codes and the legacy LV.X S distinction.
+The previous Guide-suffix and English Base Set sequence fixes are included.
+See BULK_HEALTH_1_8_16.md for scope and validation.

@@ -1,0 +1,152 @@
+{
+  "bwp": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/bwp.json",
+    "sha256": "272fce3a53f0200c1b5c11d43db1733e385fe1a20dabbc07f3a201493126665d",
+    "bytes": 135948,
+    "count": 101
+  },
+  "xyp": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/xyp.json",
+    "sha256": "bed52292a6f8e6c9fa2c2aef17dfb9d7daaaaa8f894142d578a86b9e2bae4060",
+    "bytes": 296679,
+    "count": 216
+  },
+  "smp": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/smp.json",
+    "sha256": "b4fe571ede1a36c42f79089a38843a8b8ab43c0560f01cddb91897fe2f658591",
+    "bytes": 387684,
+    "count": 251
+  },
+  "swshp": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/swshp.json",
+    "sha256": "5fbdd6b5ecdd6a3c6cf923be51995f361863da30049cb495d4ffd185688b60a3",
+    "bytes": 454227,
+    "count": 304
+  },
+  "svp": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/svp.json",
+    "sha256": "70ee6fc81734c813435e3ee55a13849424c46d521a09d825959c0b5ed09661eb",
+    "bytes": 228345,
+    "count": 165
+  },
+  "ex5": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/ex5.json",
+    "sha256": "4afa892fac4d41386c8815b2f6e739790299de3664f57d66fb29e06965a2598f",
+    "bytes": 130694,
+    "count": 102
+  },
+  "sm12": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/sm12.json",
+    "sha256": "9f86a62979ddde683dfc3e3c0b531420acf43d6640cd540bda02e47991cde956",
+    "bytes": 370983,
+    "count": 272
+  },
+  "bw4": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/bw4.json",
+    "sha256": "50819e059562a74bb6eb1e5897e87a7f2ccad674fcc8c3402dc4a18c91528869",
+    "bytes": 136205,
+    "count": 103
+  },
+  "dc1": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/dc1.json",
+    "sha256": "3586804090398edc4d46797f4d5abcad8752631fb4190447f50db1233448b005",
+    "bytes": 39753,
+    "count": 34
+  },
+  "det1": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/det1.json",
+    "sha256": "cbdbb4b0cff8d2a26d73bc08531d930c7c44f1f78304c13b244ba752d57d41ec",
+    "bytes": 23046,
+    "count": 18
+  },
+  "xy0": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/xy0.json",
+    "sha256": "feff6ddc1fdfb1fd36ea79bc24b260b3b45784fe4ad4fc0f30628b578ae8e58e",
+    "bytes": 44559,
+    "count": 39
+  },
+  "xy3": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/xy3.json",
+    "sha256": "5466976fff23e412f297fec3fc619d036ab093b5f02f83cbfbaee0b7a3f9bc79",
+    "bytes": 145997,
+    "count": 114
+  },
+  "xy4": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/xy4.json",
+    "sha256": "8be84b3ac207e8276ffe93367cc0bf3a8d33b4f53ec7b406fee2cf98acf34482",
+    "bytes": 156576,
+    "count": 124
+  },
+  "xy6": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/xy6.json",
+    "sha256": "7ca9db2a39e74fa4d07dd457b73f378d66f810a764deaf73f5ff4ebe91318bce",
+    "bytes": 143995,
+    "count": 112
+  },
+  "xy8": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/xy8.json",
+    "sha256": "e71a761e7dbc581ca176081061b8888ac9c2e4d1ecd21d616a0ed1e80c0f2097",
+    "bytes": 210231,
+    "count": 165
+  },
+  "xy9": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/xy9.json",
+    "sha256": "8bdc87b5fe1b9de068ceea537d04d64353da6aaaa2c539dcced667d41eb7213f",
+    "bytes": 155710,
+    "count": 126
+  },
+  "sm3": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/sm3.json",
+    "sha256": "ac0a63a3c363dd9f3b974b869597bf4843c36bf0a68e686ae8139f2c92325fe7",
+    "bytes": 234305,
+    "count": 177
+  },
+  "sm35": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/sm35.json",
+    "sha256": "84dd32837cf89080a07f25b6d293dbe86b245f4cfdf816c3a60a31d8ab711dbe",
+    "bytes": 104027,
+    "count": 81
+  },
+  "sm8": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/sm8.json",
+    "sha256": "9e59c6440a3f06eb985eac8e9a2876be1b0688ecc90d654a90822a219bd3ac0a",
+    "bytes": 314816,
+    "count": 240
+  },
+  "bw7": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/bw7.json",
+    "sha256": "60a0feae0c210531b4a93d8ed58673f0c8985da2d95c67937f7a839a3835a24d",
+    "bytes": 194953,
+    "count": 153
+  },
+  "sm2": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/sm2.json",
+    "sha256": "d2ce80581eed34722a4b5535c3e3548f89c5a2a54f8bdafbe2a68854d2fbc73e",
+    "bytes": 242591,
+    "count": 180
+  },
+  "swsh35": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/swsh35.json",
+    "sha256": "2605a4a51ee210d9d0fd0bc9fad5ab0e3dee68464788fbd6536f58f3af11875c",
+    "bytes": 93155,
+    "count": 80
+  },
+  "swsh5": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/swsh5.json",
+    "sha256": "92797db83aff4520f915bab1e45c8f49910007188b5ad57f54d572bbdf236ebd",
+    "bytes": 233329,
+    "count": 183
+  },
+  "swsh7": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/swsh7.json",
+    "sha256": "900d931363ce0e654848468005ed60f0301633e1932758dacfa09f246d77cace",
+    "bytes": 301832,
+    "count": 237
+  },
+  "swsh8": {
+    "source_url": "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master/cards/en/swsh8.json",
+    "sha256": "30b1d1bf641fb41e79f089cdb1d43755a7b8de36cb11cf98c86d6f9ed07e5ffb",
+    "bytes": 360034,
+    "count": 284
+  }
+}

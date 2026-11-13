@@ -1,0 +1,1751 @@
+{
+  "version": "1.8.17",
+  "reviewed_on": "2026-11-11",
+  "scope": "Existing 41-species roster; EN and DE only. No new JA/KO inventory.",
+  "entries": [
+    {
+      "entry_id": "entry_9260d1d51df35424bb0fde8dcd1b0c52",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "009",
+      "number": "009",
+      "name": "Vulpix",
+      "english": "Vulpix",
+      "dex": 37,
+      "subject_dex": [
+        37
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-009",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-009",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-009",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_c0a18182205551deacd514b0b346b6af",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "010",
+      "number": "010",
+      "name": "Ninetales",
+      "english": "Ninetales",
+      "dex": 38,
+      "subject_dex": [
+        38
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-010",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-010",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-010",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_aa7e41b50b5d5f92adc08015a695549e",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "083",
+      "number": "083",
+      "name": "Lucario",
+      "english": "Lucario",
+      "dex": 448,
+      "subject_dex": [
+        448
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-083",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-083",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-083",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_9298d9899e5a588a822ace964edf2d6b",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "085",
+      "number": "085",
+      "name": "Lycanroc",
+      "english": "Lycanroc",
+      "dex": 745,
+      "subject_dex": [
+        745
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-085",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-085",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-085",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_a6ded44c4b365792a5e36667db3ab1f2",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "095",
+      "number": "095",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-095",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-095",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-095",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_cbfb799ab77052f999342182d18d8276",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "096",
+      "number": "096",
+      "name": "Zoroark",
+      "english": "Zoroark",
+      "dex": 571,
+      "subject_dex": [
+        571
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-096",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-096",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-096",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_8fb391c5df2155e2948665d89d5bb5cd",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "106",
+      "number": "106",
+      "name": "Zacian",
+      "english": "Zacian",
+      "dex": 888,
+      "subject_dex": [
+        888
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-106",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-106",
+      "rarity_code": "rare",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-106",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_3a319a9e8052519cb377ef16ba7175ee",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "107",
+      "number": "107",
+      "name": "Zamazenta",
+      "english": "Zamazenta",
+      "dex": 889,
+      "subject_dex": [
+        889
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-107",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-107",
+      "rarity_code": "rare",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-107",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_062907e6048a57f58bbfdfbbc4b60601",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "122",
+      "number": "122",
+      "name": "Hisuian Zorua",
+      "english": "Hisuian Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-122",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-122",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-122",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_74bc27cbc42952d0bfc338ee29465eff",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "123",
+      "number": "123",
+      "name": "Hisuian Zoroark",
+      "english": "Hisuian Zoroark",
+      "dex": 571,
+      "subject_dex": [
+        571
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-123",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-123",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-123",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_810f8e3f77225c7cb77cbd7480cef117",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "138",
+      "number": "138",
+      "name": "Lycanroc",
+      "english": "Lycanroc",
+      "dex": 745,
+      "subject_dex": [
+        745
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-138",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-138",
+      "rarity_code": "illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-138",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_ac50192dabbc56128488e294592a308e",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "145",
+      "number": "145",
+      "name": "Hisuian Zorua",
+      "english": "Hisuian Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-145",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-145",
+      "rarity_code": "illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-145",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_61e945dd701f5ca283d714b3d2e862d9",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "148",
+      "number": "148",
+      "name": "Greninja ex",
+      "english": "Greninja ex",
+      "dex": 448,
+      "subject_dex": [],
+      "cameo_dex": [
+        448
+      ],
+      "category": "cameo",
+      "provider_id": "30th-148",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-148",
+      "rarity_code": "special_illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-148",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ],
+      "cameo_note": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained."
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "lang": "en",
+      "release": "30th",
+      "previous_number": "150",
+      "number": "150",
+      "name": "Pikachu ex",
+      "english": "Pikachu ex",
+      "dex": 448,
+      "subject_dex": [],
+      "cameo_dex": [
+        448
+      ],
+      "category": "cameo",
+      "provider_id": "30th-150",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-150",
+      "rarity_code": "special_illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-150",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ],
+      "cameo_note": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained."
+    },
+    {
+      "entry_id": "entry_7505c0d299d857cca8a88eaa81a74542",
+      "lang": "en",
+      "release": "30th-c",
+      "previous_number": "028",
+      "number": "138",
+      "name": "Zacian V",
+      "english": "Zacian V",
+      "dex": 888,
+      "subject_dex": [
+        888
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-c-028",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/30th-c-028",
+      "rarity_code": "rare_holo_v",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-c-028",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list",
+        "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ],
+      "printed_identifier": "138/202",
+      "image": {
+        "filename": "2af908b1eb9675d9663e79686737b7ab0d61f3e936ff36f092e678eb77724afe.webp",
+        "source_url": "https://www.card-corner.de/media/image/opc/xl//1%20Pokemon/Gen%209%20-%20MEGA/DE%20und%20EN/8%2030%20Jahre%20-%2030th%20Celebration/Kartenliste/Secret%20Rares/card-corner%2056.webp",
+        "source_sha256": "59d461ef79a9edcffaebb449fc59f4998181cc4cd549247ec314051f8daf72d1",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "number_note": "028 is a provider checklist position; the face retains printed collector number 138/202. This is separate from main-set Lycanroc 138.",
+      "rarity_note": "Provider None/Keine is retained in raw evidence; the inspected anniversary face retains its original white rarity star and V designation."
+    },
+    {
+      "entry_id": "entry_375cfeef79325746b2b1cad70dd3a8f4",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "009",
+      "number": "009",
+      "name": "Vulpix",
+      "english": "Vulpix",
+      "dex": 37,
+      "subject_dex": [
+        37
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-009",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-009",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-009",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_d36b5d2c1d3b58a7b1144d4a19015a7c",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "010",
+      "number": "010",
+      "name": "Vulnona",
+      "english": "Ninetales",
+      "dex": 38,
+      "subject_dex": [
+        38
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-010",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-010",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-010",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_9be8108830a752d99e8a71e625ea4f32",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "083",
+      "number": "083",
+      "name": "Lucario",
+      "english": "Lucario",
+      "dex": 448,
+      "subject_dex": [
+        448
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-083",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-083",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-083",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_30b94465c0965942b06225ccff127988",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "085",
+      "number": "085",
+      "name": "Wolwerock",
+      "english": "Lycanroc",
+      "dex": 745,
+      "subject_dex": [
+        745
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-085",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-085",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-085",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_29fa21c90efe5e26b854ad54a8cd659b",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "095",
+      "number": "095",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-095",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-095",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-095",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_0cdaf2b8dca551938cb3b3a0cfe9de32",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "096",
+      "number": "096",
+      "name": "Zoroark",
+      "english": "Zoroark",
+      "dex": 571,
+      "subject_dex": [
+        571
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-096",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-096",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-096",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_74131c279cf858a8bbd7a9b52025a4c2",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "106",
+      "number": "106",
+      "name": "Zacian",
+      "english": "Zacian",
+      "dex": 888,
+      "subject_dex": [
+        888
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-106",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-106",
+      "rarity_code": "rare",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-106",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_d7921e977bef54668810fdda4b1cdb6c",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "107",
+      "number": "107",
+      "name": "Zamazenta",
+      "english": "Zamazenta",
+      "dex": 889,
+      "subject_dex": [
+        889
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-107",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-107",
+      "rarity_code": "rare",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-107",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_6f73a28501dd5199b9cdce1f419763fd",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "122",
+      "number": "122",
+      "name": "Hisui-Zorua",
+      "english": "Hisuian Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-122",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-122",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-122",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_24eafd74f5a353c499278e5510ec69bf",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "123",
+      "number": "123",
+      "name": "Hisui-Zoroark",
+      "english": "Hisuian Zoroark",
+      "dex": 571,
+      "subject_dex": [
+        571
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-123",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-123",
+      "rarity_code": "common",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-123",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_df398a76e7f1576385f92221139c60da",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "138",
+      "number": "138",
+      "name": "Wolwerock",
+      "english": "Lycanroc",
+      "dex": 745,
+      "subject_dex": [
+        745
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-138",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-138",
+      "rarity_code": "illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-138",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "entry_c1c2229036275185850eac7e5bc8ffbb",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "145",
+      "number": "145",
+      "name": "Hisui-Zorua",
+      "english": "Hisuian Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-145",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-145",
+      "rarity_code": "illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-145",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_4a92b14594d05a548833e1de331be5f2",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "148",
+      "number": "148",
+      "name": "Quajutsu-ex",
+      "english": "Greninja ex",
+      "dex": 448,
+      "subject_dex": [],
+      "cameo_dex": [
+        448
+      ],
+      "category": "cameo",
+      "provider_id": "30th-148",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-148",
+      "rarity_code": "special_illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-148",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ],
+      "image": {
+        "filename": "89c55bceda9bea59d680ffabe975ac4507b811a0d3a601c584fa53aec4f96393.webp",
+        "source_url": "https://assets.tcgdex.net/de/me/30th/148/high.webp",
+        "source_sha256": "66d1db97d8e36535f13448e732a852769c0b85a9902791d7ad16a206d885c44d",
+        "image_language": "de",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "cameo_note": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained."
+    },
+    {
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "lang": "de",
+      "release": "30th",
+      "previous_number": "150",
+      "number": "150",
+      "name": "Pikachu-ex",
+      "english": "Pikachu ex",
+      "dex": 448,
+      "subject_dex": [],
+      "cameo_dex": [
+        448
+      ],
+      "category": "cameo",
+      "provider_id": "30th-150",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-150",
+      "rarity_code": "special_illustration_rare",
+      "art_style": "full_art",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-150",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ],
+      "image": {
+        "filename": "23bdb234a1ac6e30650311259339888456c37487a8a09fa39d5bae08f501048e.webp",
+        "source_url": "https://assets.tcgdex.net/de/me/30th/150/high.webp",
+        "source_sha256": "61d10a229bcbecfef6dfbb49151b6c4deb6d99a75fc09c51e68d940f95d79914",
+        "image_language": "de",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "cameo_note": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained."
+    },
+    {
+      "entry_id": "entry_e27713fdcd665ae28ad189d5b484c7b8",
+      "lang": "de",
+      "release": "30th-c",
+      "previous_number": "028",
+      "number": "138",
+      "name": "Zacian-V",
+      "english": "Zacian V",
+      "dex": 888,
+      "subject_dex": [
+        888
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "provider_id": "30th-c-028",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/30th-c-028",
+      "rarity_code": "rare_holo_v",
+      "art_style": "standard",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-c-028",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list",
+        "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection"
+      ],
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": [
+            "30th_anniversary"
+          ]
+        }
+      ],
+      "printed_identifier": "138/202",
+      "image": {
+        "filename": "2af908b1eb9675d9663e79686737b7ab0d61f3e936ff36f092e678eb77724afe.webp",
+        "source_url": "https://www.card-corner.de/media/image/opc/xl//1%20Pokemon/Gen%209%20-%20MEGA/DE%20und%20EN/8%2030%20Jahre%20-%2030th%20Celebration/Kartenliste/Secret%20Rares/card-corner%2056.webp",
+        "source_sha256": "59d461ef79a9edcffaebb449fc59f4998181cc4cd549247ec314051f8daf72d1",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "number_note": "028 is a provider checklist position; the face retains printed collector number 138/202. This is separate from main-set Lycanroc 138.",
+      "rarity_note": "Provider None/Keine is retained in raw evidence; the inspected anniversary face retains its original white rarity star and V designation."
+    },
+    {
+      "lang": "en",
+      "release": "me06",
+      "number": "018",
+      "name": "Growlithe",
+      "english": "Growlithe",
+      "dex": 58,
+      "subject_dex": [
+        58
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "common",
+      "provider_id": "me06-018",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/me06-018",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-018",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726516",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "9a83342347b586bdee5abd0936b07ecd54b655badab130af162520aedff65093.webp",
+        "source_url": "https://tcgplayer-cdn.tcgplayer.com/product/726516_in_1000x1000.jpg",
+        "source_sha256": "6da6f953da0ada606ee92aca146df0a4c63c6732a2ea8796f50a851a3039e38a",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918832,
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": []
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "en",
+      "release": "me06",
+      "number": "019",
+      "name": "Arcanine",
+      "english": "Arcanine",
+      "dex": 59,
+      "subject_dex": [
+        59
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "rare",
+      "provider_id": "me06-019",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/me06-019",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-019",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726517",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "51bbf08bef0d91e8873a95ab1d7b2a8b5a59a5a01517e3265458ea19de7ed088.webp",
+        "source_url": "https://tcgplayer-cdn.tcgplayer.com/product/726517_in_1000x1000.jpg",
+        "source_sha256": "b8c1e6dc452db60c0f42b359472dfa0ccc6b0725c60881fbacccba46a529f5f0",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918833,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "en",
+      "release": "me06",
+      "number": "066",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "common",
+      "provider_id": "me06-066",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/me06-066",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-066",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/728039",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "a8545e89d20a7a3a3c67081a06ea8fe0795e4b9887c31f07f465cd596a341491.webp",
+        "source_url": "https://tcgplayer-cdn.tcgplayer.com/product/728039_in_1000x1000.jpg",
+        "source_sha256": "0a536a553c392afc6e1ec20f123f6ae059682804a43030818cf92492ce83f757",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918891,
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": []
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "en",
+      "release": "me06",
+      "number": "067",
+      "name": "Zoroark ex",
+      "english": "Zoroark ex",
+      "dex": 571,
+      "subject_dex": [
+        571
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "double_rare",
+      "provider_id": "me06-067",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/me06-067",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-067",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/728040",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "13fc1cecd3d845e0a590bece6d55525991e6a8f53480d8177cc67c2be0d28927.webp",
+        "source_url": "https://tcgplayer-cdn.tcgplayer.com/product/728040_in_1000x1000.jpg",
+        "source_sha256": "007c034167246c6094e946093db135104c820b982d467c1c5e485350ca91f207",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918892,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "en",
+      "release": "me06",
+      "number": "106",
+      "name": "Growlithe",
+      "english": "Growlithe",
+      "dex": 58,
+      "subject_dex": [
+        58
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "full_art",
+      "rarity_code": "illustration_rare",
+      "provider_id": "me06-106",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/me06-106",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-106",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726559",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "b569f5bd4ec62916d65c313d377dc0dbd3d3a6dfebeec530760a395199958d3c.webp",
+        "source_url": "https://tcgplayer-cdn.tcgplayer.com/product/726559_in_1000x1000.jpg",
+        "source_sha256": "b1eb93ac61ab1f2e674ce980c51174c21b28eff7aa14fbbaabe0ee90f8ee3576",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918832,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "en",
+      "release": "me06",
+      "number": "112",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "full_art",
+      "rarity_code": "illustration_rare",
+      "provider_id": "me06-112",
+      "provider_url": "https://api.tcgdex.net/v2/en/cards/me06-112",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-112",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726564",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "98fc40e9686889c131441c10771582fe3ce5f4742a5b4621ba645bba0bdf5129.webp",
+        "source_url": "https://tcgplayer-cdn.tcgplayer.com/product/726564_in_1000x1000.jpg",
+        "source_sha256": "e7a46cfcb366b899d27c0d45a6c6ca9b9d726d703e2130557047d20f9f33132a",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918891,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "de",
+      "release": "me06",
+      "number": "018",
+      "name": "Fukano",
+      "english": "Growlithe",
+      "dex": 58,
+      "subject_dex": [
+        58
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "common",
+      "provider_id": "me06-018",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/me06-018",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-018",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726516",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "e98834e32c076462282fd6d38436e6646e62c0c1c3613c5dee5f34a4667efc99.webp",
+        "source_url": "https://www.card-corner.de/media/image/opc/xl//1%20Pokemon/Gen%209%20-%20MEGA/DE%20und%20EN/9%20Delta%20Herrschaft%20-%20Delta%20Reign/Kartenliste/Main/card-corner%2018.webp",
+        "source_sha256": "9bba790a322e70590cfc13b11dfc5f8ba3e8dff4462a1dc7a716328db176b9c6",
+        "image_language": "de",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918832,
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": []
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "de",
+      "release": "me06",
+      "number": "019",
+      "name": "Arkani",
+      "english": "Arcanine",
+      "dex": 59,
+      "subject_dex": [
+        59
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "rare",
+      "provider_id": "me06-019",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/me06-019",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-019",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726517",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "0c42eff560b68cc979851bfdd8179c2fafd323b1aea06aaa5681ac8faba99854.webp",
+        "source_url": "https://www.card-corner.de/media/image/opc/xl//1%20Pokemon/Gen%209%20-%20MEGA/DE%20und%20EN/9%20Delta%20Herrschaft%20-%20Delta%20Reign/Kartenliste/Main/card-corner%2019.webp",
+        "source_sha256": "0c12a8a5a694b17730c4747c1a44a3fc12f6df484f9a716a802acb8557a69282",
+        "image_language": "de",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918833,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "de",
+      "release": "me06",
+      "number": "066",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "common",
+      "provider_id": "me06-066",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/me06-066",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-066",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/728039",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "c521eba96f5197d38c5d5a2980c4c53870c4493adc9934e69879f26848cc2c94.webp",
+        "source_url": "https://www.card-corner.de/media/image/opc/xl//1%20Pokemon/Gen%209%20-%20MEGA/DE%20und%20EN/9%20Delta%20Herrschaft%20-%20Delta%20Reign/Kartenliste/Main/card-corner%2066.webp",
+        "source_sha256": "251d7d672b46b475eda7c10ded91c1937e65e58dff5ac08a831221f979bd2cfd",
+        "image_language": "de",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918891,
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": []
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "de",
+      "release": "me06",
+      "number": "067",
+      "name": "Zoroark-ex",
+      "english": "Zoroark ex",
+      "dex": 571,
+      "subject_dex": [
+        571
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "standard",
+      "rarity_code": "double_rare",
+      "provider_id": "me06-067",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/me06-067",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-067",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/728040",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "dd9dbb91303672eaf96e18906c479c4ad601db7999a05d5e3019bd2f447f9682.webp",
+        "source_url": "https://www.card-corner.de/media/image/opc/xl//1%20Pokemon/Gen%209%20-%20MEGA/DE%20und%20EN/9%20Delta%20Herrschaft%20-%20Delta%20Reign/Kartenliste/Main/card-corner%2067.webp",
+        "source_sha256": "9f8cb21b33291fd8d120771507c8659ee1360cfd68df338a12c87fcf5a2b83c5",
+        "image_language": "de",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918892,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "de",
+      "release": "me06",
+      "number": "106",
+      "name": "Fukano",
+      "english": "Growlithe",
+      "dex": 58,
+      "subject_dex": [
+        58
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "full_art",
+      "rarity_code": "illustration_rare",
+      "provider_id": "me06-106",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/me06-106",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-106",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726559",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "b569f5bd4ec62916d65c313d377dc0dbd3d3a6dfebeec530760a395199958d3c.webp",
+        "source_url": "https://tcgplayer-cdn.tcgplayer.com/product/726559_in_1000x1000.jpg",
+        "source_sha256": "b1eb93ac61ab1f2e674ce980c51174c21b28eff7aa14fbbaabe0ee90f8ee3576",
+        "image_language": "en",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918832,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    },
+    {
+      "lang": "de",
+      "release": "me06",
+      "number": "112",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "category": "standard",
+      "art_style": "full_art",
+      "rarity_code": "illustration_rare",
+      "provider_id": "me06-112",
+      "provider_url": "https://api.tcgdex.net/v2/de/cards/me06-112",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-112",
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://www.tcgplayer.com/product/726564",
+        "https://pokezentrum.de/wp-content/uploads/Pokemon-Delta-Herrschaft-Kartenliste-Checkliste-PDF-TCG-Deutsch.pdf"
+      ],
+      "image": {
+        "filename": "7e032f89cb67f4b99db5d7846bed67d1f87c8aeb28c956689cbd7a47387abe01.webp",
+        "source_url": "https://www.card-corner.de/media/image/opc/xl//1%20Pokemon/Gen%209%20-%20MEGA/DE%20und%20EN/9%20Delta%20Herrschaft%20-%20Delta%20Reign/Kartenliste/Secret/card-corner%209.webp",
+        "source_sha256": "335b63ec73100a21f91c3d1ef867eec63691a4e7fdb3767b8efee60c383de02a",
+        "image_language": "de",
+        "kind": "representative",
+        "status": "unverified"
+      },
+      "market_candidate": 918891,
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "stamps": []
+        }
+      ],
+      "physical_note": "Card-specific normal/holo/reverse inventory checked separately from rarity. The generated TCGdex variants booleans conflict with native checklist and price-inventory finish types; these booleans are not used to generate printings."
+    }
+  ],
+  "baseline_entry_ids": [
+    "entry_062907e6048a57f58bbfdfbbc4b60601",
+    "entry_0cdaf2b8dca551938cb3b3a0cfe9de32",
+    "entry_24eafd74f5a353c499278e5510ec69bf",
+    "entry_29fa21c90efe5e26b854ad54a8cd659b",
+    "entry_30b94465c0965942b06225ccff127988",
+    "entry_375cfeef79325746b2b1cad70dd3a8f4",
+    "entry_3a319a9e8052519cb377ef16ba7175ee",
+    "entry_6f73a28501dd5199b9cdce1f419763fd",
+    "entry_74131c279cf858a8bbd7a9b52025a4c2",
+    "entry_74bc27cbc42952d0bfc338ee29465eff",
+    "entry_7505c0d299d857cca8a88eaa81a74542",
+    "entry_810f8e3f77225c7cb77cbd7480cef117",
+    "entry_8fb391c5df2155e2948665d89d5bb5cd",
+    "entry_9260d1d51df35424bb0fde8dcd1b0c52",
+    "entry_9298d9899e5a588a822ace964edf2d6b",
+    "entry_9be8108830a752d99e8a71e625ea4f32",
+    "entry_a6ded44c4b365792a5e36667db3ab1f2",
+    "entry_aa7e41b50b5d5f92adc08015a695549e",
+    "entry_ac50192dabbc56128488e294592a308e",
+    "entry_c0a18182205551deacd514b0b346b6af",
+    "entry_c1c2229036275185850eac7e5bc8ffbb",
+    "entry_cbfb799ab77052f999342182d18d8276",
+    "entry_d36b5d2c1d3b58a7b1144d4a19015a7c",
+    "entry_d7921e977bef54668810fdda4b1cdb6c",
+    "entry_df398a76e7f1576385f92221139c60da",
+    "entry_e27713fdcd665ae28ad189d5b484c7b8",
+    "research_entry_324f42fe54945d9da47aa0264b9c2599",
+    "research_entry_4a92b14594d05a548833e1de331be5f2",
+    "research_entry_61e945dd701f5ca283d714b3d2e862d9",
+    "research_entry_d2bdcd2350eb5ee8b5618fb104347351"
+  ],
+  "baseline_printing_ids": [
+    "research_printing_035f794ee9915e58bcfe62a2471206f7",
+    "research_printing_10996ccd8bff54568afce8251a796080",
+    "research_printing_26626de389ef5fc89f26719119c0fd1e",
+    "research_printing_2aacf58569055bafa6916a3000fc3dae",
+    "research_printing_2d2efa402bde538cb00414b31891419b",
+    "research_printing_319f2f338f4358009f98e5a82cd4e0d8",
+    "research_printing_3250169da7d253c0b247f5c4c8f01e33",
+    "research_printing_34384e16f3225de7b51ccead10ba3060",
+    "research_printing_42d6151a2bb65f86a73c467d75f5ba50",
+    "research_printing_4da9d232a9625067bd4fa8d2750ec26e",
+    "research_printing_50ac7eca58925b5cabfd01a27581125a",
+    "research_printing_5ba62d679e4d5f55983848e7d23ff056",
+    "research_printing_63e81fda07c45a3782bd2c02064d7950",
+    "research_printing_82c530f968f158cc90e236401a32367c",
+    "research_printing_83143a9be7fe54149da24ca468b557b4",
+    "research_printing_8d8c688400385fcbb238664cd43796b7",
+    "research_printing_8e722e1d1c465ecca5823f74211fca4d",
+    "research_printing_a7f45bf01f70575ba818e620fd1b3801",
+    "research_printing_a92ae53ca0c65bd59c29e63679e3367a",
+    "research_printing_b4e167129acd55938d996344ad03beca",
+    "research_printing_cb1a31aef9ff521a85bc13f7acbf81fb",
+    "research_printing_ce6b858381555c9ea54fe71794a05e68",
+    "research_printing_e2b764a01b525077bbd659b28ea660e6",
+    "research_printing_eab45b0bef1b513a9d67745ba4abfef0",
+    "research_printing_f9775e3838935d558d9123a02f11c2eb",
+    "research_printing_fc6ae572afd15f96a98c0a620a5fd30b"
+  ],
+  "releases": [
+    {
+      "lang": "en",
+      "release": "30th",
+      "name": "30th Celebration",
+      "date": "2026-09-16",
+      "market_code": "30C",
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection",
+        "https://api.tcgdex.net/v2/en/sets/30th"
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "30th-c",
+      "name": "30th Classic Collection",
+      "date": "2026-09-16",
+      "market_code": "30C",
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection",
+        "https://api.tcgdex.net/v2/en/sets/30th-c"
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "me06",
+      "name": "Delta Reign",
+      "date": "2026-11-06",
+      "market_code": "DLR",
+      "source_urls": [
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://api.tcgdex.net/v2/en/sets/me06"
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "30th",
+      "name": "30 Jahre",
+      "date": "2026-09-16",
+      "market_code": "30C",
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection",
+        "https://api.tcgdex.net/v2/de/sets/30th"
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "30th-c",
+      "name": "30 Jahre – Classic Collection",
+      "date": "2026-09-16",
+      "market_code": "30C",
+      "source_urls": [
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection",
+        "https://api.tcgdex.net/v2/de/sets/30th-c"
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "me06",
+      "name": "Delta-Herrschaft",
+      "date": "2026-11-06",
+      "market_code": "DLR",
+      "source_urls": [
+        "https://www.card-corner.de/delta-herrschaft-kartenliste",
+        "https://api.tcgdex.net/v2/de/sets/me06"
+      ]
+    }
+  ],
+  "limits": [
+    "Bounded new-set update, not a replacement for the historical printing audit.",
+    "Every explicit physical tuple remains distinct; product distributions do not create extra collectibles.",
+    "Existing all-foil 30th IDs are qualified with the visible anniversary mark. No unstamped extra is inferred.",
+    "DE Growlithe 106 and Classic Zacian V use labelled English reference artwork. Images do not certify exact specimens.",
+    "Some Delta preview images show a 102 denominator; native release lists state 103. This conflict does not create another collectible.",
+    "IR provider Cardmarket IDs repeat ordinary-card IDs. All new price candidates remain unconfirmed.",
+    "MEP095 Lucario stays in the independent numbered promo series.",
+    "JA/KO inventories and historical non-target cards are unchanged."
+  ],
+  "gallery_review": {
+    "delta_inventory": 141,
+    "thirtieth_inventory": 161,
+    "classic_inventory": 30,
+    "method": "Complete native inventory lists compared with the fixed roster. Delta faces and crowded 30th faces inspected in the preceding research run; both native Lucario cameo faces checked. This is not a claim of exhaustive background-character detection.",
+    "confirmed_cameos": [
+      "30th:148:Lucario",
+      "30th:150:Lucario"
+    ]
+  }
+}

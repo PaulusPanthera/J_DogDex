@@ -1,0 +1,65 @@
+{
+  "raw_before": 4517,
+  "raw_after": 4543,
+  "accepted_before": 4509,
+  "accepted_after": 4535,
+  "unchanged_held_claims": 8,
+  "added_printings": 26,
+  "changed_existing_entries": 43,
+  "counts": [
+    {
+      "label": "White Flare / Weiße Flammen (10 Identitäten)",
+      "release": "sv10.5w",
+      "number": null,
+      "en_before": 15,
+      "en_after": 26,
+      "de_before": 15,
+      "de_after": 25
+    },
+    {
+      "label": "Hisui-Arkani, Verlorener Ursprung 084",
+      "release": "swsh11",
+      "number": "084",
+      "en_before": 4,
+      "en_after": 4,
+      "de_before": 2,
+      "de_after": 3
+    },
+    {
+      "label": "Zacian, Paradox Rift 136",
+      "release": "sv04",
+      "number": "136",
+      "en_before": 2,
+      "en_after": 3,
+      "de_before": 2,
+      "de_after": 2
+    },
+    {
+      "label": "Zacian, Phantasmal Flames 045",
+      "release": "me02",
+      "number": "045",
+      "en_before": 3,
+      "en_after": 4,
+      "de_before": 2,
+      "de_after": 2
+    },
+    {
+      "label": "Houndoom, Scarlet & Violet 034",
+      "release": "sv01",
+      "number": "034",
+      "en_before": 2,
+      "en_after": 3,
+      "de_before": 2,
+      "de_after": 2
+    },
+    {
+      "label": "Fidough, Paldean Fates 038",
+      "release": "sv04.5",
+      "number": "038",
+      "en_before": 2,
+      "en_after": 3,
+      "de_before": 2,
+      "de_after": 2
+    }
+  ]
+}

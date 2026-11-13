@@ -1,0 +1,701 @@
+{
+  "version": "1.8.6",
+  "reviewed_on": "2026-10-30",
+  "basis": "Completed 48-case manual audit and previously completed targeted follow-up, recovered without repeating broad research.",
+  "white_flare_sources": [
+    "https://inpoke.com/de/sets/WHT/poke-ball",
+    "https://inpoke.com/de/sets/WHT/master-ball",
+    "https://binderboss.io/sets/rsv10pt5",
+    "https://www.pokecardex.com/en/carte/24600"
+  ],
+  "printings": [
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "074",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "074",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "075",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "075",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "076",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "076",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "061",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "061",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "062",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "062",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "074",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "074",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "075",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "075",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "076",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "076",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "061",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "061",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "062",
+      "finish": "reverse_holo",
+      "pattern": "poke_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Poke Ball"
+      }
+    },
+    {
+      "lang": "de",
+      "release": "sv10.5w",
+      "number": "062",
+      "finish": "reverse_holo",
+      "pattern": "master_ball",
+      "source_urls": [
+        "https://inpoke.com/de/sets/WHT/poke-ball",
+        "https://inpoke.com/de/sets/WHT/master-ball",
+        "https://binderboss.io/sets/rsv10pt5",
+        "https://www.pokecardex.com/en/carte/24600"
+      ],
+      "evidence": "Explicit positive finding supplied from completed 48-case audit. Existing ordinary reverse remains distinct; no rarity-to-finish inference.",
+      "evidence_origin": "recovered_user_confirmed_manual_audit",
+      "original_terms": {
+        "finish": "Reverse Holo",
+        "foil_pattern": "Master Ball"
+      }
+    },
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "062",
+      "finish": "holo",
+      "pattern": "unspecified",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(White_Flare_143)"
+      ],
+      "evidence": "White Flare-logo stamped 062/086, US Costco Unova Heavy Hitters Premium Collection; November 20, 2025. Not the Illustration Rare 143.",
+      "evidence_origin": "completed_manual_audit_with_targeted_reference_check",
+      "stamps": [
+        "white_flare"
+      ],
+      "products": [
+        "Unova Heavy Hitters Premium Collection (Costco, US)"
+      ],
+      "release_date": "2025-11-20"
+    },
+    {
+      "lang": "de",
+      "release": "swsh11",
+      "number": "084",
+      "finish": "non_holo",
+      "pattern": "none",
+      "source_urls": [
+        "https://sleevee.de/en/hisuian-arcanine-pps3-lor-084/"
+      ],
+      "evidence": "German Standard version explicitly selectable, seller SKU 728209.German; completed audit identifies stamped Non-Holo. Seller Promo label is not selected as printed rarity.",
+      "evidence_origin": "completed_manual_audit_with_targeted_reference_check",
+      "stamps": [
+        "play_pokemon"
+      ],
+      "products": [
+        "Play! Pokémon Prize Pack Series Three"
+      ],
+      "release_date": "2023-08-11"
+    },
+    {
+      "lang": "en",
+      "release": "sv04",
+      "number": "136",
+      "finish": "non_holo",
+      "pattern": "none",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(Paradox_Rift_136)"
+      ],
+      "evidence": "Non-Holo 136/182 distributed in Melmetal ex Battle Deck, April 5, 2024.",
+      "evidence_origin": "completed_manual_audit_with_targeted_reference_check",
+      "products": [
+        "Melmetal ex Battle Deck"
+      ],
+      "release_date": "2024-04-05"
+    },
+    {
+      "lang": "en",
+      "release": "me02",
+      "number": "045",
+      "finish": "non_holo",
+      "pattern": "none",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Mega_Diancie_ex_Mega_Battle_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)"
+      ],
+      "evidence": "Existing Non-Holo 045/094: one physical printing distributed in both Mega Diancie ex Mega Battle Deck and Phantasmal Flames Build & Battle. Deck first released October 24, 2025.",
+      "evidence_origin": "completed_manual_audit_with_targeted_reference_check",
+      "products": [
+        "Mega Diancie ex Mega Battle Deck",
+        "Phantasmal Flames Build & Battle Box"
+      ]
+    },
+    {
+      "lang": "en",
+      "release": "me02",
+      "number": "045",
+      "finish": "holo",
+      "pattern": "cosmos",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)",
+        "https://lastsold.de/de/sets/phantasmal-flames/zacian-045-cosmos"
+      ],
+      "evidence": "English Cosmos Holo 045/094, Chaos Rising Zacian blister. Expansion table has an erroneous 044 row label but links Zacian; regular 044 is Alcremie. Exact printing date not established.",
+      "evidence_origin": "completed_manual_audit_with_targeted_reference_check",
+      "products": [
+        "Chaos Rising Zacian blister"
+      ],
+      "date_state": "unresolved_product_date"
+    },
+    {
+      "lang": "en",
+      "release": "sv01",
+      "number": "034",
+      "finish": "holo",
+      "pattern": "mirage",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Houndoom_(Scarlet_%26_Violet_34)"
+      ],
+      "evidence": "English Trick or Trade BOOster Bundle 2023; Mirage Holo, Pikachu jack-o’-lantern stamp, September 1, 2023.",
+      "evidence_origin": "completed_manual_audit_with_targeted_reference_check",
+      "stamps": [
+        "pikachu_jack_o_lantern"
+      ],
+      "products": [
+        "Trick or Trade BOOster Bundle 2023"
+      ],
+      "release_date": "2023-09-01"
+    },
+    {
+      "lang": "en",
+      "release": "sv04.5",
+      "number": "038",
+      "finish": "reverse_holo",
+      "pattern": "cosmos",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Fidough_(Paldean_Fates_38)",
+        "https://bulbapedia.bulbagarden.net/wiki/Scarlet_%26_Violet_TCG_Series_merchandise"
+      ],
+      "evidence": "English Cosmos Parallel Holofoil 038/091 in Costco Paldean Fates Mini Tin 5-Pack, early October 2024. Parallel is represented as reverse_holo + cosmos. Not SVP 069.",
+      "evidence_origin": "completed_manual_audit_with_targeted_reference_check",
+      "products": [
+        "Paldean Fates Mini Tin 5-Pack (Costco, US)"
+      ],
+      "release_date": "2024-10",
+      "original_terms": {
+        "finish": "Cosmos Parallel Holofoil",
+        "availability": "early October 2024"
+      }
+    }
+  ],
+  "printing_metadata": [
+    {
+      "printing_id": "research_printing_29d38408e8c553dc85802e38778e515f",
+      "values": {
+        "release_date": "2022-08-27",
+        "date_precision": "day",
+        "year": 2022,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lost_Origin_Build_%26_Battle_Box_(TCG)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lost_Origin_Build_%26_Battle_Box_(TCG)"
+      ],
+      "reason": "Box available at prerelease stores August 27; distinguish from expansion September 9 and general product retail date."
+    },
+    {
+      "printing_id": "research_printing_bc0f6351aff85a3fbaa44804395a43df",
+      "values": {
+        "release_date": "2023-08-11",
+        "date_precision": "day",
+        "year": 2023,
+        "date_state": "sourced_product",
+        "date_source": "https://www.pocketmonsters.net/news/6878"
+      },
+      "source_urls": [
+        "https://www.pocketmonsters.net/news/6878",
+        "https://www.pokemon.com/us/pokemon-news/visit-your-local-game-store-to-receive-play-pokemon-prize-packs"
+      ],
+      "reason": "Contemporary August 7 manufacturer-news reprint: early League distribution August 11–13, general distribution August 14. One manufacturer source family, not independent confirmation."
+    },
+    {
+      "printing_id": "variant_329df756e0de5185be7a6a5e90b28fe3",
+      "values": {
+        "release_date": "2025-10-24",
+        "date_precision": "day",
+        "year": 2025,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Mega_Diancie_ex_Mega_Battle_Deck_(TCG)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Mega_Diancie_ex_Mega_Battle_Deck_(TCG)"
+      ],
+      "reason": "Already-present Non-Holo: first Mega Diancie deck availability precedes November 14 expansion; Build & Battle is an additional distribution, not a second physical identity."
+    }
+  ],
+  "release_metadata": [
+    {
+      "lang": "en",
+      "release": "sv10.5w",
+      "values": {
+        "date": "2025-07-18",
+        "date_precision": "day",
+        "date_state": "manufacturer_verified",
+        "source_url": "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-white-flare"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-white-flare"
+      ],
+      "reason": "Previous literal 2025-07-17 is in release_dates.json provider assertion. Browser date-only formatting already uses UTC. Keep historical reference_date 2025-07-17, select official July 18 only for EN expansion, preserving product dates."
+    },
+    {
+      "lang": "de",
+      "release": "sv03",
+      "values": {
+        "name": "Obsidianflammen",
+        "aliases": [
+          "Obsidian Flammen"
+        ]
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/Erweiterung"
+      ],
+      "reason": "Existing cached regional evidence already says Obsidianflammen; selected name had an extra space. Preserve old name as search alias and keep all IDs."
+    }
+  ],
+  "source_metadata": {
+    "research_product_3e9cee427f56564699f68b6eb9869132": {
+      "name": "Play! Pokémon Prize Pack Series Three",
+      "source_role": "numbered_series",
+      "canonical_set_id": "western:prize_pack_series_3",
+      "aliases": [
+        "Play Pokemon Prize Pack Series 3"
+      ],
+      "release_date": "2023-08-11",
+      "date_precision": "day",
+      "year": 2023,
+      "date_state": "sourced_product",
+      "date_source": "https://www.pocketmonsters.net/news/6878"
+    },
+    "research_product_128e8bbc969353a38b984e95c4208423": {
+      "name": "Play! Pokémon Prize Pack Series Three",
+      "source_role": "numbered_series",
+      "canonical_set_id": "western:prize_pack_series_3",
+      "aliases": [
+        "Play Pokemon Prize Pack Series 3"
+      ],
+      "release_date": "2023-08-11",
+      "date_precision": "day",
+      "year": 2023,
+      "date_state": "sourced_product",
+      "date_source": "https://www.pocketmonsters.net/news/6878"
+    },
+    "release:en:sv03": {
+      "aliases": [
+        "Obsidianflammen",
+        "Obsidian Flammen"
+      ]
+    }
+  },
+  "unresolved": [
+    {
+      "lang": "de",
+      "release": "swsh11",
+      "number": "084",
+      "claim": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lost_Origin_Build_%26_Battle_Box_(TCG)"
+      ],
+      "blocker": "Exact German Build & Battle Non-Holo specimen/language proof remains absent; English documented, not automatically German.",
+      "status": "unresolved_language_specific_printing"
+    },
+    {
+      "lang": "de",
+      "release": "sv04",
+      "number": "136",
+      "claim": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_(Paradox_Rift_136)"
+      ],
+      "blocker": "German Melmetal deck exists, but native exact Non-Holo Zacian 136 physical card remains unverified.",
+      "status": "unresolved_language_specific_printing"
+    },
+    {
+      "lang": "de",
+      "release": "me02",
+      "number": "045",
+      "claim": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Mega_Diancie_ex_Mega_Battle_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)"
+      ],
+      "blocker": "Need native German Non-Holo 045 specimen or explicit language/finish contents for Mega Diancie / Build & Battle.",
+      "status": "unresolved_language_specific_printing"
+    },
+    {
+      "lang": "de",
+      "release": "me02",
+      "number": "045",
+      "claim": {
+        "finish": "holo",
+        "pattern": "cosmos",
+        "stamps": []
+      },
+      "source_urls": [
+        "https://lastsold.de/de/sets/phantasmal-flames/zacian-045-cosmos",
+        "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)"
+      ],
+      "blocker": "A German-localized price page does not prove a German-language Cosmos specimen. Existing English/Italian listings cannot establish German availability.",
+      "status": "unresolved_language_specific_printing"
+    }
+  ],
+  "limits": [
+    "No individual physical specimen/image inspected in this implementation.",
+    "Twenty patterned reverse findings recovered from user-confirmed audit, not twenty new independent checks.",
+    "German translated pages alone are not German release proof.",
+    "New marketplace product IDs not inferred or attached.",
+    "Exact English Zacian 045 Cosmos product date remains unresolved."
+  ]
+}

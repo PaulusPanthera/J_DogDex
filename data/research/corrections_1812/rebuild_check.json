@@ -1,0 +1,12 @@
+{
+  "catalogue_json_byte_identical": true,
+  "derived_sqlite_byte_identical": true,
+  "before": [
+    "11633264b9a74df87e99a938811790114f6834173cde51c020872ddcf5b34c32",
+    "96e661dc8e6942c53173d5b886eb4e0ee5e927db172cb4baf5117f48875d8b60"
+  ],
+  "after": [
+    "11633264b9a74df87e99a938811790114f6834173cde51c020872ddcf5b34c32",
+    "96e661dc8e6942c53173d5b886eb4e0ee5e927db172cb4baf5117f48875d8b60"
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "seed": "DogDex-1.7-native-sample-v1",
+  "selection": "Two stable SHA256-ranked existing identities in each available language/era stratum; source images viewed separately from metadata extraction.",
+  "size": 18,
+  "by_language": {
+    "ja": 10,
+    "ko": 8
+  },
+  "core_observed_disagreements_after_review": 0,
+  "extra_date_assertions_removed_or_replaced": 1,
+  "physical_stamp_qualifiers_assessed": 1,
+  "physical_stamp_errors_corrected": 1,
+  "rows": [
+    {
+      "sample_position": 1,
+      "entry_id": "entry_25b680817e045463bf21a2e591178e23",
+      "lang": "ja",
+      "stratum": "DP-BW",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/27867",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/BW5-Brz/027867_P_KYUUKON.jpg",
+      "specimen_sha256": "d591f448fcecd984b8b8633ec2d694beea13f78a1bcdbcfcb9fe73a8319db9ee",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 2,
+      "entry_id": "entry_7c3fa76744ed5ce087571a64d93727fa",
+      "lang": "ja",
+      "stratum": "DP-BW",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/25691",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/L2-B/025691_P_DOBURU.jpg",
+      "specimen_sha256": "89d9c55aa3ea89de4d38d15d55c50bbf032d6e5102790e0ec13aaf311368ab7a",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 3,
+      "entry_id": "entry_d85ffb3d69df5e419bf5d74a5b288a62",
+      "lang": "ja",
+      "stratum": "XY-SM",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/35089",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035089_P_IWANKO.jpg",
+      "specimen_sha256": "5b663b483732ac8d1a49551408ae6c47c85313db425734ee4f22420b06c8de16",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 4,
+      "entry_id": "entry_46cfa726c0f65bcb8814d1e1d7f4f554",
+      "lang": "ja",
+      "stratum": "XY-SM",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/33159",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMA/033159_P_HADERIA.jpg",
+      "specimen_sha256": "1c1afe6b944524419f274111fe84d6a9c705dad74531a1ab21a76e02649aa16e",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 5,
+      "entry_id": "entry_1c56a2798e7b5ee8933a9fcc3066aece",
+      "lang": "ja",
+      "stratum": "Sword-Shield",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/37714",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S1H/037714_P_ZAMAZENTAV.jpg",
+      "specimen_sha256": "c854a5913cc871ec3203c477304f83dbbe4a610833333e31b912c8ad09d6d4b0",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 6,
+      "entry_id": "entry_d3df3b9c3b7a54a6817e8d4ed8f7a3be",
+      "lang": "ja",
+      "stratum": "Sword-Shield",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/39009",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S4a/039009_P_GARARUJIGUZAGUMA.jpg",
+      "specimen_sha256": "ee0417842920c4baa72e33b2b3b40005a334e0d8dcb572f633b5dde74b5aa665",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 7,
+      "entry_id": "entry_04fa4f0c29195edba324c31e4f319f32",
+      "lang": "ja",
+      "stratum": "SV-Mega",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/47251",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047251_P_NNOZOROAKUEX.jpg",
+      "specimen_sha256": "791e732cd4bdea5b9a52192b2b8517d22717371448830050fcfba8b45258683a",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 8,
+      "entry_id": "entry_0b0a38cf573153dfa1a8f7d82488fc23",
+      "lang": "ja",
+      "stratum": "SV-Mega",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/48614",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M2a/048614_P_MRUKARIOEX.jpg",
+      "specimen_sha256": "7e48a969187d84ff0eca71cfb44e315d45280ca0f507890fa9d4d8b9f4404942",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 9,
+      "entry_id": "entry_97b42feb2c4850e380f4d70df3a8f07b",
+      "lang": "ja",
+      "stratum": "promo",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/30593",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XYP/030593_P_FOKKO.jpg",
+      "specimen_sha256": "2182c5d93e45f1dac2a8e496c68ae8b529bf2695d187ff233c56a3b1161c5cf4",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 10,
+      "entry_id": "entry_ac4fcd8fcbed5a9791b8727687686ada",
+      "lang": "ja",
+      "stratum": "promo",
+      "source_url": "https://www.pokemon-card.com/card-search/details.php/card/44214",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/044214_P_RIORU.jpg",
+      "specimen_sha256": "a5112d314b78ec9c6ac770d11e55dc2b434ae57f06b4a4876e69d8a80e1327f2",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [
+        {
+          "field": "individual card date",
+          "value": "2022-11-29",
+          "problem": "Inherited promo-series date does not establish this distribution date."
+        },
+        {
+          "field": "physical stamp",
+          "problem": "Exact manufacturer specimen and product page show TANTO; inherited blank stamp was not evidence of a separate unstamped issue."
+        }
+      ],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 11,
+      "entry_id": "entry_f77aef0bc154502898a9678dfbcad43f",
+      "lang": "ko",
+      "stratum": "XY-SM",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/BS2019009010",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/SM/SMN/SMN_010.png?w=512",
+      "specimen_sha256": "0da9c9436b30dff1735b2d658375ef31dadc0754f20558c706e95072bfb0ff3c",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 12,
+      "entry_id": "entry_b6da12183cdc59568ead017cce9f74b3",
+      "lang": "ko",
+      "stratum": "XY-SM",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/BS2019018043",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/SM/SM30A/SM30A_043.png?w=512",
+      "specimen_sha256": "ef5f6bf2d50901779cd1fce0f4a4ef500739ec3339d00359cc46814066e12800",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 13,
+      "entry_id": "entry_7e865d3b148f596fba149bee4190bde1",
+      "lang": "ko",
+      "stratum": "Sword-Shield",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/BS2022003154",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/S/SI/SI_154.png?w=512",
+      "specimen_sha256": "323d366485fa64f68665145f3634c5a58218d94dd46bf14a9bd5ee7f711fe52b",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 14,
+      "entry_id": "entry_3313318500935efb86c83e6e25ae8dfe",
+      "lang": "ko",
+      "stratum": "Sword-Shield",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/BS2023001081m",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/S/S12a/S12a_081_m.png?w=512",
+      "specimen_sha256": "b36c3d76560b58ccc2b1d35b3b67ed05581111cfb8598b50ff92b54aa20c0525",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 15,
+      "entry_id": "entry_dd33364c2dc055a79dd10f8bc4de402b",
+      "lang": "ko",
+      "stratum": "SV-Mega",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/BS2023014037",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/SV/SV2a/SV2a_037.png?w=512",
+      "specimen_sha256": "5413948f858fe52ef01b9c9c034b9791109c357ce4b5d95367ad7f3c521537a5",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 16,
+      "entry_id": "entry_0d5d9a065355511db109d7b89db68e52",
+      "lang": "ko",
+      "stratum": "SV-Mega",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/BS2026003008",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/MEGA/M4/M4_008.png?w=512",
+      "specimen_sha256": "6d55a5f8f4e5691bc995addfdb5286903652c0730aeb04aa71f8fa235d8315be",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 17,
+      "entry_id": "entry_374dbdbf374455588cb02be7aca2f6ce",
+      "lang": "ko",
+      "stratum": "promo",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/PR2015001104",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/XY/PROMO/XYpromo_104.png?w=512",
+      "specimen_sha256": "fba7124b414e4b8b060665e625753293b99ec277c2b95d11d76fd69fb32c6938",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    },
+    {
+      "sample_position": 18,
+      "entry_id": "entry_26c71f32a0a25ab3ad2602f31af917ca",
+      "lang": "ko",
+      "stratum": "promo",
+      "source_url": "https://pokemoncard.co.kr/cards/detail/PR2015001151",
+      "image_url": "https://pokemoncard.co.kr/public-assets/home/data/cards.image_www/data/wmimages/XY/PROMO/XYpromo_151.png?w=512",
+      "specimen_sha256": "aea5661710d6e5fc2a64382ddbb3acb69f539cc4eade118d973538834333673d",
+      "assessed_fields": [
+        "native card label",
+        "identifier",
+        "primary species",
+        "native language",
+        "printed rarity symbol / no symbol"
+      ],
+      "core_result": "agrees_after_direct_specimen_review",
+      "baseline_extra_findings": [],
+      "not_assessed": [
+        "complete finish/edition inventory",
+        "all dates",
+        "artwork style",
+        "marketplace products"
+      ]
+    }
+  ],
+  "limits": "No overall accuracy estimate. Japanese pre-DP inventories are outside the native sample frame; no Korean DP/BW main-set stratum was available. Physical-variant completeness, other dates, artwork and marketplace products were not sampled."
+}

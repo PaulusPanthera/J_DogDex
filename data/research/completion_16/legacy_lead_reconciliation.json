@@ -1,0 +1,2686 @@
+[
+  {
+    "original_id": "lead_92caab7013ce5284ba93745e150534e9",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Growlithe",
+      "host_card": "Pokémon Fan Club",
+      "host_number": null,
+      "host_set": "Aquapolis",
+      "host_type": "Supporter",
+      "id": "f2129b51bb59bb24",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/growlithe"
+    },
+    "source_url": "https://staiz.io/cameos/growlithe",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_f6cdd2225bc853cea7a02e3ae323f3fd"
+    ]
+  },
+  {
+    "original_id": "lead_09325d47d438506bae5699e93b98c242",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Growlithe",
+      "host_card": "Erika’s Kindness",
+      "host_number": null,
+      "host_set": "Gym Challenge",
+      "host_type": "Trainer",
+      "id": "43af174f33542f56",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/growlithe"
+    },
+    "source_url": "https://staiz.io/cameos/growlithe",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_d793b4c72a0e54d8b725191fbca96421"
+    ]
+  },
+  {
+    "original_id": "lead_649f576946b65de09a3a4cc2842b70d4",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Growlithe",
+      "host_card": "Pikachu",
+      "host_number": "173",
+      "host_set": "151",
+      "host_type": "Pokémon",
+      "id": "9f46953133acd07f",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/growlithe"
+    },
+    "source_url": "https://staiz.io/cameos/growlithe",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_3ec77172373455ad92f95d36267a825f"
+    ]
+  },
+  {
+    "original_id": "lead_34cc0ec0f6ae5d8ea0aba3181f480c30",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Growlithe",
+      "host_card": "Scorbunny",
+      "host_number": null,
+      "host_set": "SWSH Black Star Promos",
+      "host_type": "Pokémon",
+      "id": "4de3a19603617dfd",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/growlithe"
+    },
+    "source_url": "https://staiz.io/cameos/growlithe",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_679a06e459635d9182f3be2ca3472b47"
+    ]
+  },
+  {
+    "original_id": "lead_98355b1ea2ac5bb8803d4104fea8e9ac",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Rockruff",
+      "host_card": "Pokémon Breeder",
+      "host_number": null,
+      "host_set": "Shining Legends",
+      "host_type": "Supporter",
+      "id": "31794df8e374e2e6",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/rockruff"
+    },
+    "source_url": "https://staiz.io/cameos/rockruff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_eabf2f239cee53f580284c7eef1744fc"
+    ]
+  },
+  {
+    "original_id": "lead_c9979791f45f5fa3b84f9471c6eb957b",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Rockruff",
+      "host_card": "Garganacl",
+      "host_number": null,
+      "host_set": "Paradox Rift",
+      "host_type": "Pokémon",
+      "id": "fa064cdbf2228ee2",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/rockruff"
+    },
+    "source_url": "https://staiz.io/cameos/rockruff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_d6111b6ade83596e814d9da635421453"
+    ]
+  },
+  {
+    "original_id": "lead_fdbdaebbfcfc58f6b9809789a6ec09c6",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Rockruff",
+      "host_card": "Lycanroc",
+      "host_number": null,
+      "host_set": "Journey Together",
+      "host_type": "Pokémon",
+      "id": "d07fd3bcac444603",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/rockruff"
+    },
+    "source_url": "https://staiz.io/cameos/rockruff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "entry_a55794364de851e3981bbc5da3708e97"
+    ]
+  },
+  {
+    "original_id": "lead_55336acba4345302b70ed03aa6ca37de",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Rockruff",
+      "host_card": "Tornadus V",
+      "host_number": null,
+      "host_set": "Chilling Reign",
+      "host_type": "Pokémon",
+      "id": "4fe89065ee88d593",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/rockruff"
+    },
+    "source_url": "https://staiz.io/cameos/rockruff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_324d6ded8a8753039ecb637a4ee43175"
+    ]
+  },
+  {
+    "original_id": "lead_b9e8266cc9e850beb825d4acb8f90b0a",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Lucario",
+      "host_card": "Switch",
+      "host_number": null,
+      "host_set": "Diamond & Pearl",
+      "host_type": "Item",
+      "id": "9a35d7bde61ef670",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/lucario"
+    },
+    "source_url": "https://staiz.io/cameos/lucario",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_98c6d5c6a8715700bf2e2565589a2064"
+    ]
+  },
+  {
+    "original_id": "lead_574ae56ba9b758209ef50c638c46eaee",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Lucario",
+      "host_card": "Poké Drawer +",
+      "host_number": null,
+      "host_set": "Stormfront",
+      "host_type": "Item",
+      "id": "58c5e750a33d081b",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/lucario"
+    },
+    "source_url": "https://staiz.io/cameos/lucario",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_97d58cdeaf53501486f7456f33a41964"
+    ]
+  },
+  {
+    "original_id": "lead_a77983bd95275e22844fca2e3559ca7d",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Lucario",
+      "host_card": "Mega Lucario ex",
+      "host_number": null,
+      "host_set": "Mega Evolution",
+      "host_type": "Pokémon",
+      "id": "39c5152e4ea46f52",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/lucario"
+    },
+    "source_url": "https://staiz.io/cameos/lucario",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_primary_group",
+    "entry_ids": [
+      "entry_58cb50a96f01505a9756356d6b8fb29c",
+      "entry_1495530a1d8951539040d315a3bac9be",
+      "entry_65ab8c984a115c9cb199c7d6476da504",
+      "entry_f35c63b8856353f9896065d91ed24616"
+    ]
+  },
+  {
+    "original_id": "lead_865d45ed5d7857cc96b45e4a0a91d092",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Lucario",
+      "host_card": "Passimian",
+      "host_number": null,
+      "host_set": "Burning Shadows",
+      "host_type": "Pokémon",
+      "id": "bdf4a3b29b75f0cc",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/lucario"
+    },
+    "source_url": "https://staiz.io/cameos/lucario",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_7528c87ffcd15e40875d68e6f03400a9"
+    ]
+  },
+  {
+    "original_id": "lead_22fff6d124c25358bd3908697fff17e6",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Lucario",
+      "host_card": "Cynthia",
+      "host_number": null,
+      "host_set": "Hidden Fates Shiny Vault",
+      "host_type": "Supporter",
+      "id": "ad0be902d81cd469",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/lucario"
+    },
+    "source_url": "https://staiz.io/cameos/lucario",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_767b71dae81352f69c96e3ce265764c1"
+    ]
+  },
+  {
+    "original_id": "lead_3ed8a060a89855e68cba59fa0682448d",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Lucario",
+      "host_card": "Riolu",
+      "host_number": null,
+      "host_set": "Scarlet & Violet",
+      "host_type": "Pokémon",
+      "id": "378edf648bb16a3b",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/lucario"
+    },
+    "source_url": "https://staiz.io/cameos/lucario",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "entry_b0185c7495f6567ca2a0f032fb99732f"
+    ]
+  },
+  {
+    "original_id": "lead_d4f4c8e6579d555996768e5b104bf8f3",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Lucario",
+      "host_card": "Eri",
+      "host_number": "210",
+      "host_set": "Temporal Forces",
+      "host_type": "Supporter",
+      "id": "cd36456ed3e29fde",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/lucario"
+    },
+    "source_url": "https://staiz.io/cameos/lucario",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_b181a275d19d5ca0be7fe601d2b392d1"
+    ]
+  },
+  {
+    "original_id": "lead_3a2e4faf35255269a01069455c3d05d6",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zoroark",
+      "host_card": "Greninja & Zoroark-GX",
+      "host_number": null,
+      "host_set": "Unbroken Bonds",
+      "host_type": "Pokémon",
+      "id": "f3ec0bd1f69f1c76",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/zoroark"
+    },
+    "source_url": "https://staiz.io/cameos/zoroark",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_primary_group",
+    "entry_ids": [
+      "entry_6ae57e1b82d9533a849f133a6645658f",
+      "entry_89b764da8d2058a1b362da012634e829",
+      "entry_4ec1aefa3d4559b5b8012658e7bf90c8",
+      "entry_16af50474f315ca185212f2e1285a6b4"
+    ]
+  },
+  {
+    "original_id": "lead_bbd71332537d51fb9b2eddaff1f26bec",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zoroark",
+      "host_card": "Zorua",
+      "host_number": null,
+      "host_set": "Shining Legends",
+      "host_type": "Pokémon",
+      "id": "e31610d387a30ee2",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/zoroark"
+    },
+    "source_url": "https://staiz.io/cameos/zoroark",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "entry_44d137b91fb7552e9d326764f223c1f7"
+    ]
+  },
+  {
+    "original_id": "lead_e839a978e85b5ae0865d9567bdb470b6",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zoroark",
+      "host_card": "Zorua",
+      "host_number": null,
+      "host_set": "SM Black Star Promos",
+      "host_type": "Pokémon",
+      "id": "cd156e22d1cc0c2c",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/zoroark"
+    },
+    "source_url": "https://staiz.io/cameos/zoroark",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "entry_2c518d858a97510291a2cf56f49abb88"
+    ]
+  },
+  {
+    "original_id": "lead_3b41146d58fd5d14aa160a2388ae2053",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zoroark",
+      "host_card": "Trick Coin",
+      "host_number": null,
+      "host_set": "Phantom Forces",
+      "host_type": "Item",
+      "id": "41f67b8fd66fbcf4",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/zoroark"
+    },
+    "source_url": "https://staiz.io/cameos/zoroark",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_2100ffb73c195f4a9a403317676d277b"
+    ]
+  },
+  {
+    "original_id": "lead_c4b63f35e42659caa5dbf545882abd10",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zoroark",
+      "host_card": "Mewtwo-EX",
+      "host_number": null,
+      "host_set": "BREAKthrough",
+      "host_type": "Pokémon",
+      "id": "f3e9b197c4c2cd78",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/zoroark"
+    },
+    "source_url": "https://staiz.io/cameos/zoroark",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_37da22e2c86354f9807fad07f35ff78d"
+    ]
+  },
+  {
+    "original_id": "lead_cab265852c21547e83d7e8283a50f333",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Umbreon",
+      "host_card": "Oracle",
+      "host_number": null,
+      "host_set": "Skyridge",
+      "host_type": "Supporter",
+      "id": "7154be19b72e48c7",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/umbreon"
+    },
+    "source_url": "https://staiz.io/cameos/umbreon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_b55693a91e1c521fb7550a893b032d74",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Umbreon",
+      "host_card": "Darkness Energy",
+      "host_number": null,
+      "host_set": "HeartGold & SoulSilver",
+      "host_type": "Energy",
+      "id": "358ce59860a69dd2",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/umbreon"
+    },
+    "source_url": "https://staiz.io/cameos/umbreon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_6745557538d6587d97941440563853e0",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Umbreon",
+      "host_card": "Penny",
+      "host_number": null,
+      "host_set": "Paldean Fates",
+      "host_type": "Supporter",
+      "id": "4ce3afb49ad9899d",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/umbreon"
+    },
+    "source_url": "https://staiz.io/cameos/umbreon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_ecfbf9636810590585eea3d40c39dcf0",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Umbreon",
+      "host_card": "Alakazam-EX",
+      "host_number": null,
+      "host_set": "Fates Collide",
+      "host_type": "Pokémon",
+      "id": "9bd257cd81d74aca",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/umbreon"
+    },
+    "source_url": "https://staiz.io/cameos/umbreon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_3abfa1564e5057518df59c1b8897515a",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Umbreon",
+      "host_card": "All-Night Party",
+      "host_number": null,
+      "host_set": "BREAKpoint",
+      "host_type": "Stadium",
+      "id": "337f75d24a11f6d7",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/umbreon"
+    },
+    "source_url": "https://staiz.io/cameos/umbreon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_d7a125b3124b5fc9b98ca4206fc5fafc",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Umbreon",
+      "host_card": "Karen",
+      "host_number": "XY177a",
+      "host_set": "XY Black Star Promos",
+      "host_type": "Supporter",
+      "id": "2ba4b39d2f8e62ca",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/umbreon"
+    },
+    "source_url": "https://staiz.io/cameos/umbreon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_fbe952e188c05b96a409ec1ce30b92a0",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Umbreon",
+      "host_card": "Karen",
+      "host_number": null,
+      "host_set": "XY Black Star Promos",
+      "host_type": "Supporter",
+      "id": "4097fdd9610f1e98",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/umbreon"
+    },
+    "source_url": "https://staiz.io/cameos/umbreon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_f0f2a741760b5c9aa0d378a5f56fa349",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Bebe’s Search",
+      "host_number": null,
+      "host_set": "Secret Wonders",
+      "host_type": "Supporter",
+      "id": "8ad417901a0136ef",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_0f8fc658970f580dbdc0d4cb7bd574c0",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Sylveon-EX",
+      "host_number": null,
+      "host_set": "Generations",
+      "host_type": "Pokémon",
+      "id": "133d263bebea7fc6",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_8a3c64016be75161bd64a27d1633e463",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Shaymin",
+      "host_number": null,
+      "host_set": "HS—Unleashed",
+      "host_type": "Pokémon",
+      "id": "92e33e35e4975cb3",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_e44fbeea422c56db94c10b9a7996e390",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Munna",
+      "host_number": null,
+      "host_set": "Unified Minds",
+      "host_type": "Pokémon",
+      "id": "4e2c678c3a97c42f",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_0e7b70ae3d805a73baf42406b3645de8",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Champions Festival",
+      "host_number": "SM231",
+      "host_set": "SM Black Star Promos",
+      "host_type": "Trainer",
+      "id": "3ffaf1b96122a0bd",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_c7a373e965ca5b3e936611b46c1fd9d3",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Penny",
+      "host_number": "183",
+      "host_set": "Scarlet & Violet",
+      "host_type": "Supporter",
+      "id": "efa901d6cef50859",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_619ecd41217858258d0d6dfb3f194f13",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Penny",
+      "host_number": "239",
+      "host_set": "Scarlet & Violet",
+      "host_type": "Supporter",
+      "id": "b8a0eaa5501de4df",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_50616b6f67b25c21a2d83060b051eb90",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Penny",
+      "host_number": "252",
+      "host_set": "Scarlet & Violet",
+      "host_type": "Supporter",
+      "id": "5e2d8fb05c9346a1",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_9a37ace72a5c5ae3b26bc3b6abf897fa",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Iono",
+      "host_number": "269",
+      "host_set": "Paldea Evolved",
+      "host_type": "Supporter",
+      "id": "853f26b5ed69c2a2",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_fabfe6adde0b5a3c9fe53a9209546e7f",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Clive",
+      "host_number": "236",
+      "host_set": "Paldean Fates",
+      "host_type": "Supporter",
+      "id": "492a24cc46983b6e",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_5cb68c626fbc5322a41230527cfd576c",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Penny",
+      "host_number": "239",
+      "host_set": "Paldean Fates",
+      "host_type": "Supporter",
+      "id": "5347eb1f9f8289f1",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_c4549088ff4a5644a91f59ef1de44aac",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Cassiopeia",
+      "host_number": "056",
+      "host_set": "Shrouded Fable",
+      "host_type": "Supporter",
+      "id": "353f98ccc86d9f27",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_6c1e5a119032547f8fe2df345f44c914",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Eevee",
+      "host_card": "Cassiopeia",
+      "host_number": "086",
+      "host_set": "Shrouded Fable",
+      "host_type": "Supporter",
+      "id": "1f5045c34f91f0f5",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/eevee"
+    },
+    "source_url": "https://staiz.io/cameos/eevee",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_5ea2c9efef105dc0b4a2dd50c7b402d1",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Vulpix",
+      "host_card": "Pikachu",
+      "host_number": null,
+      "host_set": "Pokémon Rumble",
+      "host_type": "Pokémon",
+      "id": "418e7de87236896c",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/vulpix"
+    },
+    "source_url": "https://staiz.io/cameos/vulpix",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_e253b1ac80b75c67a8cd0b29c7e7f48b"
+    ]
+  },
+  {
+    "original_id": "lead_b29547bf672155a1b82c377d9b8aaeef",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Houndour",
+      "host_card": "Houndour",
+      "host_number": null,
+      "host_set": "Dragon",
+      "host_type": "Pokémon",
+      "id": "8d9114ac5bf732c2",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/houndour"
+    },
+    "source_url": "https://staiz.io/cameos/houndour",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_primary_group",
+    "entry_ids": [
+      "entry_af9cd66d59105e81a5dd343d60877727"
+    ]
+  },
+  {
+    "original_id": "lead_043a5b56c8a15e9aaaf0d77f50bebc00",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Smeargle",
+      "host_card": "Bibarel",
+      "host_number": null,
+      "host_set": "Pokémon GO",
+      "host_type": "Pokémon",
+      "id": "e38678b5c611d169",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/smeargle"
+    },
+    "source_url": "https://staiz.io/cameos/smeargle",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_36f4d87edbd65cb6a84345decca732ae"
+    ]
+  },
+  {
+    "original_id": "lead_61e093c15549570fb99458e20e35d70e",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Smeargle",
+      "host_card": "Mew V",
+      "host_number": null,
+      "host_set": "Fusion Strike",
+      "host_type": "Pokémon",
+      "id": "ef019aa4c830c4d8",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/smeargle"
+    },
+    "source_url": "https://staiz.io/cameos/smeargle",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_68ec4801fbf55eeebcbb88d497266d89"
+    ]
+  },
+  {
+    "original_id": "lead_4735fc24871d5ef9baf7430dca06d2c9",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Smeargle",
+      "host_card": "Genesect V",
+      "host_number": null,
+      "host_set": "Fusion Strike",
+      "host_type": "Pokémon",
+      "id": "0d11e15984e8b8b9",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/smeargle"
+    },
+    "source_url": "https://staiz.io/cameos/smeargle",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_23843a3960e05ad3a270df4565128910"
+    ]
+  },
+  {
+    "original_id": "lead_d24d2b089a295cde80127858e47bda36",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Okidogi",
+      "host_card": "Clefairy",
+      "host_number": null,
+      "host_set": "Twilight Masquerade",
+      "host_type": "Pokémon",
+      "id": "a274eceb98ad72b3",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/okidogi"
+    },
+    "source_url": "https://staiz.io/cameos/okidogi",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_842039108fdc527dbbe7a100c2c136dc"
+    ]
+  },
+  {
+    "original_id": "lead_970c8bc7cee4555aa1dfc82f31c6dde1",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Okidogi",
+      "host_card": "Caretaker",
+      "host_number": null,
+      "host_set": "Twilight Masquerade",
+      "host_type": "Supporter",
+      "id": "b36aa8e985cb24e7",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/okidogi"
+    },
+    "source_url": "https://staiz.io/cameos/okidogi",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_f74c5bfb1f275e3e8effc5ba18e76df7"
+    ]
+  },
+  {
+    "original_id": "lead_c3060a9e48f65052a2a18c282e0a8f07",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Okidogi",
+      "host_card": "Community Center",
+      "host_number": null,
+      "host_set": "Twilight Masquerade",
+      "host_type": "Stadium",
+      "id": "a219c845a3da51d0",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/okidogi"
+    },
+    "source_url": "https://staiz.io/cameos/okidogi",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_c23b8aabf55250db9d4f3f59afcdf8d2"
+    ]
+  },
+  {
+    "original_id": "lead_6c09761a5b245923b16a948d9a8ced41",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Okidogi",
+      "host_card": "Kieran",
+      "host_number": null,
+      "host_set": "Twilight Masquerade",
+      "host_type": "Supporter",
+      "id": "1c0665b847dcebd8",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/okidogi"
+    },
+    "source_url": "https://staiz.io/cameos/okidogi",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_4615268359af5adcb36f78b36d970295"
+    ]
+  },
+  {
+    "original_id": "lead_3d0fe7070a42580c984eaa5a0c66826e",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Yamper",
+      "host_card": "Joltik",
+      "host_number": null,
+      "host_set": "Paradox Rift",
+      "host_type": "Pokémon",
+      "id": "93ec98453297c714",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/yamper"
+    },
+    "source_url": "https://staiz.io/cameos/yamper",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_db996b41bb3353a18da1e99e5d9ba748"
+    ]
+  },
+  {
+    "original_id": "lead_12a71009c74752d3afd36e6913e25e96",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Yamper",
+      "host_card": "Pokémon Breeder’s Nurturing",
+      "host_number": null,
+      "host_set": "Darkness Ablaze",
+      "host_type": "Supporter",
+      "id": "f4c6ca916aee7eb3",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/yamper"
+    },
+    "source_url": "https://staiz.io/cameos/yamper",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_60054912c520540fbdce2d33efe9667d",
+      "research_entry_a513167677705eadb389527843a08e22",
+      "research_entry_8a82e7f67f225960a635b98a67ae2c72"
+    ]
+  },
+  {
+    "original_id": "lead_173b4eec442b526f8176d4e5f2d1c18a",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Sylveon",
+      "host_card": "Altaria",
+      "host_number": null,
+      "host_set": "Generations",
+      "host_type": "Pokémon",
+      "id": "6d45e50fc1f1f24e",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/sylveon"
+    },
+    "source_url": "https://staiz.io/cameos/sylveon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_5e55aab17a9a570b9a3ba1dfd5bd04f4",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Sylveon",
+      "host_card": "Iono",
+      "host_number": null,
+      "host_set": "Paldea Evolved",
+      "host_type": "Supporter",
+      "id": "488d625df3b41afa",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/sylveon"
+    },
+    "source_url": "https://staiz.io/cameos/sylveon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_d950cf2b08155603b20ee6b65fbb1cfa",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Sylveon",
+      "host_card": "Clive",
+      "host_number": null,
+      "host_set": "Paldean Fates",
+      "host_type": "Supporter",
+      "id": "e7bffd3190d8e860",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/sylveon"
+    },
+    "source_url": "https://staiz.io/cameos/sylveon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_1baec805cc075edbbc1ef437b2dea7cb",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Sylveon",
+      "host_card": "Cassiopeia",
+      "host_number": null,
+      "host_set": "Shrouded Fable",
+      "host_type": "Supporter",
+      "id": "574202b36c429302",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/sylveon"
+    },
+    "source_url": "https://staiz.io/cameos/sylveon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_6bac78cfab2b55c6a20c4b05146a7bf9",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Sylveon",
+      "host_card": "Pikachu",
+      "host_number": null,
+      "host_set": "XY Black Star Promos",
+      "host_type": "Pokémon",
+      "id": "f7d33b67ffef8414",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/sylveon"
+    },
+    "source_url": "https://staiz.io/cameos/sylveon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_7f1ad9dafe6e5862a99648473ea01489",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Maschiff",
+      "host_card": "Kieran",
+      "host_number": null,
+      "host_set": "Twilight Masquerade",
+      "host_type": "Supporter",
+      "id": "5b6951467f312b44",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/maschiff"
+    },
+    "source_url": "https://staiz.io/cameos/maschiff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_4615268359af5adcb36f78b36d970295"
+    ]
+  },
+  {
+    "original_id": "lead_622d2406c2e153a9af0b62fbef97279c",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Maschiff",
+      "host_card": "Lacey",
+      "host_number": null,
+      "host_set": "Stellar Crown",
+      "host_type": "Supporter",
+      "id": "86b7e940ea6d70cf",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/maschiff"
+    },
+    "source_url": "https://staiz.io/cameos/maschiff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_37a2e268b896557b9caaf4315e78d804"
+    ]
+  },
+  {
+    "original_id": "lead_5e45169fd7cf52a68b3de6b2e7bf41ee",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Maschiff",
+      "host_card": "Drayton",
+      "host_number": null,
+      "host_set": "Prismatic Evolutions",
+      "host_type": "Supporter",
+      "id": "d7a30a983164e650",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/maschiff"
+    },
+    "source_url": "https://staiz.io/cameos/maschiff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_09f2d9610c9f594cb2eddc4f5d9c331c"
+    ]
+  },
+  {
+    "original_id": "lead_cd095f8ba16755f790a6b5aa6f648829",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Maschiff",
+      "host_card": "Drayton",
+      "host_number": null,
+      "host_set": "Surging Sparks",
+      "host_type": "Supporter",
+      "id": "398048139a5a3b99",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/maschiff"
+    },
+    "source_url": "https://staiz.io/cameos/maschiff",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_ea0674cf724d55438440db536dbee9dd",
+      "research_entry_5251c82dd68952e6a2a9a6160512293e",
+      "research_entry_44030505179a5bc6909f96575f5ecbd8"
+    ]
+  },
+  {
+    "original_id": "lead_b325fe4ac95b57618b419057116dfb22",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Riolu",
+      "host_card": "Cofagrigus",
+      "host_number": null,
+      "host_set": "Lost Thunder",
+      "host_type": "Pokémon",
+      "id": "cfbe477ec7470201",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Do not assume all alternate artwork, printings, or languages share the depicted scene.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/riolu"
+    },
+    "source_url": "https://staiz.io/cameos/riolu",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_8e6f18cbb3ef5bc8bdab67be2c02b609"
+    ]
+  },
+  {
+    "original_id": "lead_cf18822d2abf50ec885a04b4a89e19f0",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Vaporeon",
+      "host_card": "Flareon-EX",
+      "host_number": null,
+      "host_set": "Generations",
+      "host_type": "Pokémon",
+      "id": "98a4b59463c6ed29",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/vaporeon"
+    },
+    "source_url": "https://staiz.io/cameos/vaporeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_6e9332b296dd5ee98be1afedb057ced8",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Vaporeon",
+      "host_card": "Blaine’s Quiz #1",
+      "host_number": null,
+      "host_set": "Gym Heroes",
+      "host_type": "Trainer",
+      "id": "b4043c6e99b359dc",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/vaporeon"
+    },
+    "source_url": "https://staiz.io/cameos/vaporeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_921cef5a7f6c5bfb97551e8447cadb4b",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Vaporeon",
+      "host_card": "Sylveon VMAX",
+      "host_number": null,
+      "host_set": "Evolving Skies",
+      "host_type": "Pokémon",
+      "id": "d1b06857eb956ee3",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/vaporeon"
+    },
+    "source_url": "https://staiz.io/cameos/vaporeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_6626e885d7ba571f8aacf57bad76331f",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Vaporeon",
+      "host_card": "Blastoise-EX",
+      "host_number": null,
+      "host_set": "XY Black Star Promos",
+      "host_type": "Pokémon",
+      "id": "5ee4bcdfb2a53f79",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/vaporeon"
+    },
+    "source_url": "https://staiz.io/cameos/vaporeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_4032e93450075878aa0c456c822f7826",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Espeon",
+      "host_card": "Psychic Energy",
+      "host_number": null,
+      "host_set": "HeartGold & SoulSilver",
+      "host_type": "Energy",
+      "id": "c4bf6ea6b3e5c90e",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/espeon"
+    },
+    "source_url": "https://staiz.io/cameos/espeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_ab104329de0b5aa28be11294e4f7ad55",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Espeon",
+      "host_card": "Drapion",
+      "host_number": null,
+      "host_set": "BREAKpoint",
+      "host_type": "Pokémon",
+      "id": "75737beed55cea19",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/espeon"
+    },
+    "source_url": "https://staiz.io/cameos/espeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_59e69fa78f255661bf5d5105fab1b312",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Flareon",
+      "host_card": "Umbreon V",
+      "host_number": null,
+      "host_set": "Evolving Skies",
+      "host_type": "Pokémon",
+      "id": "fa9725231cad7944",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/flareon"
+    },
+    "source_url": "https://staiz.io/cameos/flareon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_e54529ca265052a9916896721a0e8c99",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Flareon",
+      "host_card": "Charizard-EX",
+      "host_number": null,
+      "host_set": "XY Black Star Promos",
+      "host_type": "Pokémon",
+      "id": "47cca3c55eafea40",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/flareon"
+    },
+    "source_url": "https://staiz.io/cameos/flareon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_05c141ca18ad5e07ad3d121aafd453da",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Leafeon",
+      "host_card": "Dawn Stadium",
+      "host_number": null,
+      "host_set": "Majestic Dawn",
+      "host_type": "Stadium",
+      "id": "3362dd1c22e6848f",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/leafeon"
+    },
+    "source_url": "https://staiz.io/cameos/leafeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_959997c425825626b8e77ba8f281bdd7",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Leafeon",
+      "host_card": "Interviewer’s Questions",
+      "host_number": null,
+      "host_set": "HS—Unleashed",
+      "host_type": "Supporter",
+      "id": "d86232206bd2f3d5",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/leafeon"
+    },
+    "source_url": "https://staiz.io/cameos/leafeon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_daccfd2084ce54b3a8eb5d246a4c970b",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Glaceon",
+      "host_card": "Dawn Stadium",
+      "host_number": null,
+      "host_set": "Majestic Dawn",
+      "host_type": "Stadium",
+      "id": "31aefc261cf59012",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/glaceon"
+    },
+    "source_url": "https://staiz.io/cameos/glaceon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_8c49ad1869fc515f9f7fd282cb4ff709",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Glaceon",
+      "host_card": "Grusha",
+      "host_number": null,
+      "host_set": "Paldea Evolved",
+      "host_type": "Supporter",
+      "id": "a7cdd565dda33275",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/glaceon"
+    },
+    "source_url": "https://staiz.io/cameos/glaceon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_dbc9b248fe1d521f852be10a702971dd",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Jolteon",
+      "host_card": "Flareon-EX",
+      "host_number": null,
+      "host_set": "Generations",
+      "host_type": "Pokémon",
+      "id": "71306081c7c3a62e",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/jolteon"
+    },
+    "source_url": "https://staiz.io/cameos/jolteon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_86bd0e811ca557dfa99d93eceaebbb6c",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Jolteon",
+      "host_card": "Pikachu-EX",
+      "host_number": null,
+      "host_set": "XY Black Star Promos",
+      "host_type": "Pokémon",
+      "id": "85a7a94b01c00502",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/jolteon"
+    },
+    "source_url": "https://staiz.io/cameos/jolteon",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_efae1b84c3995719943198ab952980f2",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Poochyena",
+      "host_card": "Team Aqua’s Poochyena",
+      "host_number": null,
+      "host_set": "Double Crisis",
+      "host_type": "Pokémon",
+      "id": "431086115d69ec49",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/poochyena"
+    },
+    "source_url": "https://staiz.io/cameos/poochyena",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_primary_group",
+    "entry_ids": [
+      "entry_2f1423dddb2254d7954c95a3e539611b"
+    ]
+  },
+  {
+    "original_id": "lead_7522189f2a1b57f3bd3ccd6ecb6ad9a7",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Poochyena",
+      "host_card": "Delinquent",
+      "host_number": null,
+      "host_set": "BREAKpoint",
+      "host_type": "Supporter",
+      "id": "261724227cf37a29",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/poochyena"
+    },
+    "source_url": "https://staiz.io/cameos/poochyena",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_d70311bdd2bc512795e1964dfd064856"
+    ]
+  },
+  {
+    "original_id": "lead_714fc2233be5574e9f5e448c6b1aded3",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Mightyena",
+      "host_card": "Team Magma’s Zangoose",
+      "host_number": null,
+      "host_set": "Double Crisis",
+      "host_type": "Pokémon",
+      "id": "9952bd7d42f95f50",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/mightyena"
+    },
+    "source_url": "https://staiz.io/cameos/mightyena",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_a1f15ebb203e5012808b47739931cf65"
+    ]
+  },
+  {
+    "original_id": "lead_8ff416241d455bff9280bc1f049fb13f",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Mightyena",
+      "host_card": "Delinquent",
+      "host_number": null,
+      "host_set": "BREAKpoint",
+      "host_type": "Supporter",
+      "id": "e3aacced3441a510",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/mightyena"
+    },
+    "source_url": "https://staiz.io/cameos/mightyena",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_f4356b06dd2e54c8aa20f44406d7748d"
+    ]
+  },
+  {
+    "original_id": "lead_88c68d1163685754872906a96e7b754b",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Shinx",
+      "host_card": "Bench Shield",
+      "host_number": null,
+      "host_set": "Arceus",
+      "host_type": "Item",
+      "id": "7e8c83286bc4d209",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/shinx"
+    },
+    "source_url": "https://staiz.io/cameos/shinx",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_e830e1f07ffb57eaa0fdd95f6219c7a6",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Luxio",
+      "host_card": "Iono",
+      "host_number": null,
+      "host_set": "Paldean Fates",
+      "host_type": "Supporter",
+      "id": "b7070cf24fe88ae7",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/luxio"
+    },
+    "source_url": "https://staiz.io/cameos/luxio",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "excluded_roster"
+  },
+  {
+    "original_id": "lead_c3a22eb0e19355ad881d42f559c69564",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Manectric",
+      "host_card": "Mega Manectric ex",
+      "host_number": null,
+      "host_set": "Mega Evolution",
+      "host_type": "Pokémon",
+      "id": "21ac259a359a65be",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/manectric"
+    },
+    "source_url": "https://staiz.io/cameos/manectric",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_primary_group",
+    "entry_ids": [
+      "entry_c493ea6999fa53e59e1b480194425f78",
+      "entry_74babca524ca572bb6d585df5c349f01"
+    ]
+  },
+  {
+    "original_id": "lead_61b86c9fd48e59ec9d216a377ea92249",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Boltund",
+      "host_card": "Probopass",
+      "host_number": null,
+      "host_set": "Twilight Masquerade",
+      "host_type": "Pokémon",
+      "id": "e97740cfc4fa9da6",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/boltund"
+    },
+    "source_url": "https://staiz.io/cameos/boltund",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_e67a324a236556ad9dea4e6273b88942"
+    ]
+  },
+  {
+    "original_id": "lead_babc78868fa15bfea9491fba748d225e",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Boltund",
+      "host_card": "Sinistcha ex",
+      "host_number": null,
+      "host_set": "Twilight Masquerade",
+      "host_type": "Pokémon",
+      "id": "99b16d89fa2a7efc",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/boltund"
+    },
+    "source_url": "https://staiz.io/cameos/boltund",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_95ec0b5c02155c6f8bfa6388bd11a93e"
+    ]
+  },
+  {
+    "original_id": "lead_020cbf4773be53c6a3ff1eb619bfaaf1",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Nickit",
+      "host_card": "Golurk V",
+      "host_number": null,
+      "host_set": "Evolving Skies",
+      "host_type": "Pokémon",
+      "id": "cca1d870d57bf0ac",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/nickit"
+    },
+    "source_url": "https://staiz.io/cameos/nickit",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_4f3fc3129a5b52e0ac0f304531d9fc5e"
+    ]
+  },
+  {
+    "original_id": "lead_fdbfd91d3e6d5a18babc5a06ae5bfed9",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Nickit",
+      "host_card": "Morpeko",
+      "host_number": null,
+      "host_set": "SWSH Black Star Promos",
+      "host_type": "Pokémon",
+      "id": "f731a883424281e2",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/nickit"
+    },
+    "source_url": "https://staiz.io/cameos/nickit",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_267ad75676d55267aa082e197e08911a"
+    ]
+  },
+  {
+    "original_id": "lead_d7f8e69742555eadab31c315f1230756",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zacian",
+      "host_card": "Rusted Sword",
+      "host_number": null,
+      "host_set": "Shining Fates",
+      "host_type": "Item",
+      "id": "76d3099ccc5051bd",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/zacian"
+    },
+    "source_url": "https://staiz.io/cameos/zacian",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_433ca343a3305814ba564c5c6b7f88c6"
+    ]
+  },
+  {
+    "original_id": "lead_ba2ad09c859b50d79aa251f68d544f20",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zamazenta",
+      "host_card": "Rusted Shield",
+      "host_number": null,
+      "host_set": "Shining Fates",
+      "host_type": "Item",
+      "id": "e460b87383165c32",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/zamazenta"
+    },
+    "source_url": "https://staiz.io/cameos/zamazenta",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_dc48cf27153a5361b2591c57f273bb70"
+    ]
+  },
+  {
+    "original_id": "lead_11792a20b5275e958af31045fa33aa3e",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Dachsbun",
+      "host_card": "Miraidon ex",
+      "host_number": null,
+      "host_set": "Scarlet & Violet",
+      "host_type": "Pokémon",
+      "id": "27748ef79d59b5c3",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/dachsbun"
+    },
+    "source_url": "https://staiz.io/cameos/dachsbun",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_c2cafe7a5c5c55f588af2b7de37e186b"
+    ]
+  },
+  {
+    "original_id": "lead_5c1fbe22f8255f619248e2423a5b8409",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Fennekin",
+      "host_card": "Chikorita",
+      "host_number": null,
+      "host_set": "BREAKpoint",
+      "host_type": "Pokémon",
+      "id": "f63ad37df3a4ebb4",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/fennekin"
+    },
+    "source_url": "https://staiz.io/cameos/fennekin",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_708c198064655f24a5514a5b24b3ab03"
+    ]
+  },
+  {
+    "original_id": "lead_5714c9a2b1555964a091122b90d6a1ee",
+    "kind": "cameo",
+    "raw": {
+      "confidence": "source_reported",
+      "depicted_species": "Zoroark",
+      "host_card": "Pikachu",
+      "host_number": null,
+      "host_set": "Crown Zenith",
+      "host_type": "Pokémon",
+      "id": "56238c27870444d2",
+      "illustration_specific": true,
+      "language": "source_en",
+      "note": "Form-specific on the host art where applicable; confirm collector number, artwork and localized printings.",
+      "review_status": "image_check_required",
+      "source_url": "https://staiz.io/cameos/hisuian-zoroark"
+    },
+    "source_url": "https://staiz.io/cameos/hisuian-zoroark",
+    "reason": "Host identity and artwork require review; no language propagation.",
+    "disposition": "matched_existing_appearance",
+    "entry_ids": [
+      "research_entry_52f84b173a5155d4ad1d9e38d792c48b"
+    ]
+  },
+  {
+    "original_id": "lead_c5df1b64db645cdc83aeeed6901f849b",
+    "kind": "manufacturer_foil_presence_subtype_unresolved",
+    "raw": {
+      "entry_id": "entry_f095846302ef53938f28426fe99bf7ce",
+      "evidence": {
+        "kind": "manufacturer_korean_all_foil_statement",
+        "sha256": "0dd1caa3cf8c38b2c04076d4ad7eed42dec8399bfd373eec40dc0c79a2ebf4e4"
+      },
+      "url": "https://pokemoncard.co.kr/card/436"
+    },
+    "source_url": "https://pokemoncard.co.kr/card/436",
+    "reason": "Manufacturer foil presence is known; physical finish subtype still needs Korean evidence.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "lead_eb611d4899dc57adaa4f78550ab3549b",
+    "kind": "manufacturer_foil_presence_subtype_unresolved",
+    "raw": {
+      "entry_id": "entry_d3c1e2be038d5b5c8981a5e4225d1831",
+      "evidence": {
+        "kind": "manufacturer_korean_all_foil_statement",
+        "sha256": "0dd1caa3cf8c38b2c04076d4ad7eed42dec8399bfd373eec40dc0c79a2ebf4e4"
+      },
+      "url": "https://pokemoncard.co.kr/card/436"
+    },
+    "source_url": "https://pokemoncard.co.kr/card/436",
+    "reason": "Manufacturer foil presence is known; physical finish subtype still needs Korean evidence.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "lead_e1352e4e5a2052cebf6289334a6866d9",
+    "kind": "manufacturer_foil_presence_subtype_unresolved",
+    "raw": {
+      "entry_id": "entry_24de4b7babae5049a7ff38cd7e9fa258",
+      "evidence": {
+        "kind": "manufacturer_korean_all_foil_statement",
+        "sha256": "0dd1caa3cf8c38b2c04076d4ad7eed42dec8399bfd373eec40dc0c79a2ebf4e4"
+      },
+      "url": "https://pokemoncard.co.kr/card/436"
+    },
+    "source_url": "https://pokemoncard.co.kr/card/436",
+    "reason": "Manufacturer foil presence is known; physical finish subtype still needs Korean evidence.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "lead_b39f3c1bde4a5a999231e552f0b6749e",
+    "kind": "manufacturer_foil_presence_subtype_unresolved",
+    "raw": {
+      "entry_id": "entry_dd49929689b652a78fb3c2e3663f82c0",
+      "evidence": {
+        "kind": "manufacturer_korean_all_foil_statement",
+        "sha256": "0dd1caa3cf8c38b2c04076d4ad7eed42dec8399bfd373eec40dc0c79a2ebf4e4"
+      },
+      "url": "https://pokemoncard.co.kr/card/436"
+    },
+    "source_url": "https://pokemoncard.co.kr/card/436",
+    "reason": "Manufacturer foil presence is known; physical finish subtype still needs Korean evidence.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_94d5f88f46b456848762fb9130dccd2d",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "1fcfe1b8b4af99ccd8fb405258f258cb94ff3537328c9f2feb9f732dbf6158c3",
+        "d7436f3c0a9e5d9e41838353b79489e491cbafda2021ef44db6a5378645b5dfc"
+      ],
+      "entry_id": "entry_d538e514d51c54ba8aa7e91d96fb0c07",
+      "key": [
+        "ja",
+        "DP1",
+        "DPBP#506"
+      ],
+      "observation": "Same artwork in expansion/starter and Entry Pack records; legacy finish/edition and printed-rarity differences remain printing research.",
+      "record_ids": [
+        "cb7bc55b271fa79b6206838d851f005222b7cdef1178b6305690aca2a7ab940c",
+        "78d1cf0b0837ce93586d058ed0d21e7db36feb60a51b43a2e7080ba8c03b1c06"
+      ]
+    },
+    "source_url": null,
+    "reason": "Same artwork in expansion/starter and Entry Pack records; legacy finish/edition and printed-rarity differences remain printing research.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_ef91f29cab6a5b499b1ef838c3624bca",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "103cee26c620d4d8ec13349db1ad652c8305de6ac0e37413df610991662f80d0",
+        "c9fda04119c9e76032a9d70b91c20e8912bdaa8dad71db97979b294e239cd95e"
+      ],
+      "entry_id": "entry_39b6fd71c5615082aa352a2684e2b6c1",
+      "key": [
+        "ja",
+        "El",
+        "004"
+      ],
+      "observation": "The two 162x226 legacy images cannot certify a rarity glyph or its absence. Rarity remains unresolved.",
+      "record_ids": [
+        "a3c23f67cd24a7ca5523ae28d638fa07114e31253b512d68c2aae7333c737247",
+        "f1757e3962804cf5c553c065107a2cc04f3e22f42c709682bdffd6364cdee247"
+      ]
+    },
+    "source_url": null,
+    "reason": "The two 162x226 legacy images cannot certify a rarity glyph or its absence. Rarity remains unresolved.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_452fccc641e15cb782953ee80c945c1f",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "aeee4bed96c62e9f6bb3e9abdd28796b430f1569b9041129dda58cd10a163f0e",
+        "b8b3eab7b0d53c45d685273a2339dff94e92392edfcd7c9f7ba436c53b04929a"
+      ],
+      "entry_id": "entry_213019d6d5615fb7830fe0cbccd12968",
+      "key": [
+        "ja",
+        "SVI",
+        "028"
+      ],
+      "observation": "Same 028/066 artwork in Battle Academy and portable Battle Academy; keep both product records without imposing one finish on ex cards.",
+      "record_ids": [
+        "1e335dd4b8dfb77e2f71e6dec6a9fa3eeb6ec21d4622ca6f3c3caa909944eaf4",
+        "5ff3a7b03079f4e097ba64cdc2610b4fa75b65d034510733d263fd6766d7b016"
+      ]
+    },
+    "source_url": null,
+    "reason": "Same 028/066 artwork in Battle Academy and portable Battle Academy; keep both product records without imposing one finish on ex cards.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_b1e1b3e7793d5bff952b9344a52a97f4",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "1519781a03677858b5393a9429a7d539ba4fba55812422584bae9e17d28fa25e",
+        "0e1e769936d34a863a8012e838d7070efe04f496e2ec094a1a6cf9191f9154d4"
+      ],
+      "entry_id": "entry_955e6fc50ee756fc832cad999abbc0e7",
+      "key": [
+        "ja",
+        "XYP",
+        "035"
+      ],
+      "observation": "Same 035/XY-P artwork. Second image has red Pokemon Pan stamp and 2015 copyright; first is unstamped with 2014 copyright. Retain both sources; no finish inferred.",
+      "record_ids": [
+        "45237ca63465850685ec1d855130b3a601e13157ea50f4c6a21106a7150a446d",
+        "8f20abe4bd27a59ccafb91caeacb707db203a9e9622f5ce79a1ac94dc5c75a41"
+      ]
+    },
+    "source_url": null,
+    "reason": "Same 035/XY-P artwork. Second image has red Pokemon Pan stamp and 2015 copyright; first is unstamped with 2014 copyright. Retain both sources; no finish inferred.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_40aa5c878399527683f6e0b4cd1566e4",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "8b700d7e96a15a838980b69db6cc7186225dcca0b7c78c67a692c5835d52fdbc",
+        "dc0db5e2e988d9cd89851746f966216dbbd484ba4dc076cddb15a463984299fd"
+      ],
+      "entry_id": "entry_028578af5d0a534f90482ed76b46b10c",
+      "key": [
+        "ko",
+        "S12a",
+        "069"
+      ],
+      "observation": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+      "record_ids": [
+        "04e3fc2d28f27d46e0795762465681b8c844f060e0f1f0ad8fe36425efbcc64b",
+        "5feb0ad8fbd56a92716eb3170dcd07ce6e7fb55dc2c54c8334f43af0bbf9e8f3"
+      ]
+    },
+    "source_url": null,
+    "reason": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_fab1cd6089a55c89927d1887f4c2de8e",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "b31004fce56ae868505d50ed6da9eead4563274a3b04e46baef6d74af802f014",
+        "94db1daecb1f9cb374d424c02e7a59cc1ed957cfe17370927fbc47523e772667"
+      ],
+      "entry_id": "entry_5c330c5811b358529925728594b3a270",
+      "key": [
+        "ko",
+        "S12a",
+        "076"
+      ],
+      "observation": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+      "record_ids": [
+        "d622852807521dc232047db1caf41811bdf76e9542f1818b1c03330519c1b14f",
+        "e42c693a5527f5021ac4a9d4bc79191e4154dace8bff1d9014d4d2947822a5b8"
+      ]
+    },
+    "source_url": null,
+    "reason": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_bf1e926f13925030812f2bca06c8a02c",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "59ce8125023212e1e9917a782cad45d27e9f3a6735d86d3449224e630c1070b7",
+        "b36c3d76560b58ccc2b1d35b3b67ed05581111cfb8598b50ff92b54aa20c0525"
+      ],
+      "entry_id": "entry_3313318500935efb86c83e6e25ae8dfe",
+      "key": [
+        "ko",
+        "S12a",
+        "081"
+      ],
+      "observation": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+      "record_ids": [
+        "ee43180c99fa21adaa54b1908029faf45f54aa9a246a4dedd5f1ed3af2944e53",
+        "b1a1382855436f916c606b6dad6dc511b4965ce69f9b06d4b5f8162948c1158f"
+      ]
+    },
+    "source_url": null,
+    "reason": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_0b1512cd23ed535da7c737304e2e660c",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "c4286eca438e873f8408cf8b78b348f5d6267b477124605bd5d63bd781b693e5",
+        "078720c23b4fc7a637309ca8f14a1829f63d950532c61ee087f7ba386900409c"
+      ],
+      "entry_id": "entry_9eddea026c5757e99348109aafd7ed52",
+      "key": [
+        "ko",
+        "S12a",
+        "082"
+      ],
+      "observation": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+      "record_ids": [
+        "bb085fe0d7625dd7c53307e6244806ab8d887916cd8b3081d4c742308f9dda10",
+        "64fc66af4323f41247bd20c54cb8294440563697316ce8ee8b45b9639af35e8e"
+      ]
+    },
+    "source_url": null,
+    "reason": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_83ef2fa8d0295dd19de15780edb15148",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "1e9c50de32bf652bcec44e54b8e0cfde2da0110e45203fbf1e18e39d49d59621",
+        "280ce87c0c40dfe5162c6b9906e6363eb59873575b2cca424e36cf5721ffcd47"
+      ],
+      "entry_id": "entry_bbf5a84ba8495169a40934b4eec3b6dd",
+      "key": [
+        "ko",
+        "S12a",
+        "090"
+      ],
+      "observation": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+      "record_ids": [
+        "3a5ec5b2fe65a6454ad31938d6d45c035a549e10212de9b55224e0bb075282d0",
+        "e0b070efd73a0b46153bb971759a2537f071d696ad8434857900da52e0453aef"
+      ]
+    },
+    "source_url": null,
+    "reason": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_ab392ab19b155815beb2f1b36641a9ec",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "32b3e1098d819eec8ec31b7b963f5699bb8600c867d4f7a2d7eecb8367a9ffe4",
+        "e563185cae9317e650e7fa80b2ce54d0e365d623f9c34057bfc396a519c189f9"
+      ],
+      "entry_id": "entry_2cc70fe878cb5ae0ab7231fe2a9055e7",
+      "key": [
+        "ko",
+        "S12a",
+        "092"
+      ],
+      "observation": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+      "record_ids": [
+        "b89d2a853f38082a405849362535fac55f548d4305f047ca5d9f48c2e34b8563",
+        "d89dbd8440eea3490368a5cd02689c5c59d5571d23da8f5683cace233fad7bb2"
+      ]
+    },
+    "source_url": null,
+    "reason": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_f8ee3c709b1055ec89cb29e4d5b9472c",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "317955442fde16eec860575c81a190f7ca31e3e7bb84285cff18adc6ba1a44a3",
+        "c90021a4c98218e6b32eeb29b695643c9a8374d8298d8e30c8d27673ab337467"
+      ],
+      "entry_id": "entry_3c1256d5ea0f55adb24be163b9471708",
+      "key": [
+        "ko",
+        "S12a",
+        "093"
+      ],
+      "observation": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+      "record_ids": [
+        "efe929f58835a9c0be0f1730573549dcda1897e25c24739d2df1bf61546591b6",
+        "9c200dcefa992f787284b7e9cd5abb0e4f33700771d1b931bd76eefc77abef8a"
+      ]
+    },
+    "source_url": null,
+    "reason": "Archived C/U labels are absent from both manufacturer footers. Preserve imported claims; use reviewed no-printed-rarity state.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_2dff91e072e65ef2a202cfeafce3aadb",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "6e2e6e82c2835a188ca131ae399599b68c0dcc7c4f9b8b1656cf4fd3c9a6f87f",
+        "082a2dd7040713fcde8fa0fab5493b9b482fffe6dd41bac7bfa7a36a5a8f4163"
+      ],
+      "entry_id": "entry_d5b75c60f52a56b7bcdd2f95d95e1148",
+      "key": [
+        "ko",
+        "SV8a",
+        "002"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "513a10c6d14ba6c6c7823ed94e74335e3bb07867387e945fdbbd6643e31709e9",
+        "5c4ac1271a55af88d294ca2d421d71bd9229881390507b0fb22d8db60fb95780"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_b4b15cf57bc157cc968c227d1af83226",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "b91e646445dac378810ef8f2e03d373944425355bc388978c9f228e7c18c14b1",
+        "b6875095fa560527cda15af6deb030c095496c4f4fc96cd51b9141c7d84d32af"
+      ],
+      "entry_id": "entry_7fac8eda43af5f26937cac365330ef78",
+      "key": [
+        "ko",
+        "SV8a",
+        "021"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "f30327c7b1c66e819623e463b5fa311e87d83db2549a0f9cbcaaff97b69e31d6",
+        "f1921b809b975ec95a181b8337ca965b7996ec690998ef6f090b2d3305c16cbe"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_7bf5e56fd79850a9b3530d98cbd74892",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "9482dfdd0de02afb73ecae05b1676b11649e4bbde9276a5d0438a15f6bea1a6f",
+        "9f6b4627a6d3da50fe7dfa09410f175d459c6cf8015a5ff24f397eb877bc2ea0"
+      ],
+      "entry_id": "entry_5ce3f56484ff5f6ead908093b32800e4",
+      "key": [
+        "ko",
+        "SV8a",
+        "030"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "dfac557cf3f23677ccd176a1a3b241f50578bf1bbd7aa4e7e058624102d40bab",
+        "228cb0205bffaae0ddb68d0a3812e73904b040b5dac0474356b61591eeb0d5f5"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_52e16c9a9da35efe94fd40b59df228e7",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "ad8b3caf397dc0f2e0f4f17b5468f299c46180e0f4b4c7d44fbf1f309d01b912",
+        "9ef560c5beb2fab75df87a4fe29684f4cd77dca7bdd0449e3cb99d11b8434823"
+      ],
+      "entry_id": "entry_5d70ace8ec7b520e9ad6e91c279bf069",
+      "key": [
+        "ko",
+        "SV8a",
+        "040"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "108a28dc1fae41d61b41ff964b3c0e88a61777dc7a84a0d2e62e7a7f848842c4",
+        "99dadd2142b2c0549c9fc453dfc5b08fada2812ccd351888049783b890726f76"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_9148aa656da95dde9a2af48bae9f7e79",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "dd72df9fcbbfcceaa3550ce5d0a0d323f6b757a4bf2a26d3c41ab11ebcad3b2f",
+        "b01655bf843e994cb9d1c43e282be36d708abd84e568730a3259b06cf567481a"
+      ],
+      "entry_id": "entry_c82f2540370750e588e51bcedb1a8cce",
+      "key": [
+        "ko",
+        "SV8a",
+        "051"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "672f6bd190714c3eeab48ed8557b0cd8634f1f716d73a09135fa66cd1258c30b",
+        "ba5f0ac4210bf72d46592cce762f8ab0f92259eee9c6db60cfc8e61e66506541"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_869f8c2cfb655b11a8c49b5682194ff6",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "471a4334d1d57cdfa615771478678a2524453f0735dfbc47ecab880f84684f23",
+        "9c175c2a670ab11f897ca39b6dfe876458e884ac6a3970f4bd3a0066d26786f3"
+      ],
+      "entry_id": "entry_390e5b293bd753fd952e0938b21eb6d2",
+      "key": [
+        "ko",
+        "SV8a",
+        "062"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "0e05383ee4f20be384d8bc936c27f80e955ef14f3a61771e770d315f1a2d488f",
+        "c497a9105dac9b1bf050faec5c49d4d686c2431336e4294c6f601a522e61c664"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_81448c9b3f9e5330bb403ceb68d5f1a9",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "e50f81e011ab1ecb83584e868f8afd2abffeffd59a60f2e28b4f37045cdf26c7",
+        "cf54fb659abebea96749611368fe0ecee83bc9f8c3078a2717a871560af6786b"
+      ],
+      "entry_id": "entry_75688042d37c5bcd8bd64882f0c0dc54",
+      "key": [
+        "ko",
+        "SV8a",
+        "068"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "da1699656333feff1ee98f792c86396c9ef1253c195fb7c5b2e5fef0f03adee1",
+        "ae2ef9b40806dd9aabd614bfd5047669fb5f87a4cc24392ec7d567e061c6dcae"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_6d5821b4cba15fbbbf14f76c0006b410",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "3269b3ef8a964967116859aa527f2191c57c034316c164cd67f5de2bb9040b68",
+        "8e7629b9cbbc4586f84a444374d0f68a6f0771efd71065ce559324bb44b4d534"
+      ],
+      "entry_id": "entry_9b3df29c0c2257768df778b33acad0d4",
+      "key": [
+        "ko",
+        "SV8a",
+        "090"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "68cb77fd9541994664c8db628d1a7290b977a50731f046579eca04cceda17979",
+        "dffd1411fc293f617960e94646a9ddff444a0b03f66143be7399accb46af06e4"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_6875b96ea54d5214b363958d6cd5b288",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "eb47861a4214cdc0eb9e16a45473facda4779f242755867f97e58b17d3fe46a2",
+        "612638e2f2ba019261bc269f61dc3bbd4542317190287e78cda74121cd06f0a2"
+      ],
+      "entry_id": "entry_49bd4313317b53d8a5c74ce13885e7b5",
+      "key": [
+        "ko",
+        "SV8a",
+        "092"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "a7c76227cf9a39061f489730d0bd7def8ef5c9d4bb623f3c04b3455bd2a37422",
+        "2c67dfc9aded827d6098bd1bbcd52531bba8251ef1e8fa719b80f8926a3cc71f"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_c877c01e52405f279867b289ae11c2b2",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "695524fde5835c97562dee28685d0cb11699b0574e9e3e267cb67b0159fb4773",
+        "a84a008eae473e48a52c9633b0dff7720233e5e198b8360f1c74d5ad6745f7fc"
+      ],
+      "entry_id": "entry_9d4492e6813a5490ac09f2ef2726277b",
+      "key": [
+        "ko",
+        "SV8a",
+        "096"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "6663a101de93547186744473b1e2139ee86012813dfb20ffe1fb1a14365c7bb8",
+        "064eb09d21554338bf7163f958fe9b29f5924e26f563fe5f8a56a134c357f131"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_018ce4254b735f2da11a5d21ee9de75c",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "c0ad1d8fa7e821024cb9922e1478984108cdca5e4d9ee423c7fe93e446fdc336",
+        "9c588ad9732eea33e9000228ef235134214fce2cf6f0e4bd4e53e54b650d309a"
+      ],
+      "entry_id": "entry_dfc437ff6c665cb29570471de0e50aba",
+      "key": [
+        "ko",
+        "SV8a",
+        "097"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "fa899a3cc679e7a96f50544ae8e5274146941fd0fb07dd5e0aef2abb118b40a6",
+        "74dfff1c46e044abd22124800cabf6cf4864a504607110b517091c946b84a7cf"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  },
+  {
+    "original_id": "phase11_observation_a08f809fe233572397cf794862c04197",
+    "kind": "reviewed_printing_or_metadata_observation",
+    "raw": {
+      "asset_sha256": [
+        "782a3b8a09f7683ab1d70228d58f923aed3549cf3919bc4c477ed25f69a29c9e",
+        "d1653c8ec74033044a9c28f43ed40dd7c15d5f7850f4405f5e1b0c87a41cd229"
+      ],
+      "entry_id": "entry_3dac94a1dbcc5feebc5d9c68682795cc",
+      "key": [
+        "ko",
+        "SV8a",
+        "125"
+      ],
+      "observation": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+      "record_ids": [
+        "b92108cdf3ce22f9bf222c6ebd3019ab7f8df8b43c71c58a439d8f8a7355e817",
+        "b984530c532f85bf9086f2600d7c3c10577807167253650b719ffbd53a16a883"
+      ]
+    },
+    "source_url": null,
+    "reason": "Geometric ball-pattern image retained; exact named subtype not approved. Do not transfer Japanese printings or infer a base finish.",
+    "disposition": "outside_EN_DE_research_or_excluded_scope"
+  }
+]

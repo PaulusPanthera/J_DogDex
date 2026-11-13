@@ -1,0 +1,55 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import os from 'node:os';
+import {spawn} from 'node:child_process';
+import {createRequire} from 'node:module';
+import {fileURLToPath} from 'node:url';
+const require=createRequire(import.meta.url),{JSDOM}=require(process.env.DOGDEX_QA_NODE_MODULES?path.join(process.env.DOGDEX_QA_NODE_MODULES,'jsdom'):'jsdom');
+const root=fileURLToPath(new URL('../',import.meta.url));
+
+test('product finder searches, confirms, prices and unlinks the exact Japanese printing over real HTTP',{timeout:90000},async()=>{
+ const temp=fs.mkdtempSync(path.join(os.tmpdir(),'dogdex-market-dom-')),today=new Date().toISOString();
+ const catalogue=JSON.parse(fs.readFileSync(path.join(root,'data/catalog.json'),'utf8'));
+ const ja=catalogue.entries.find(e=>e.lang==='ja'&&e.release==='SV3'&&e.number==='115'),pid=ja.printings[0].id;
+ const de=catalogue.entries.find(e=>e.lang==='de'&&e.release==='swsh12tg'&&e.number==='TG07');
+ fs.writeFileSync(path.join(temp,'market_products.json'),JSON.stringify({format:'dogdex-cardmarket-products-1',source_created_at:today,fetched_at:today,products:{724971:{product_id:724971,name:'Houndour [Coordinated Pack | Focus Fangs]',id_expansion:5409},682271:{product_id:682271,name:'Rockruff [Crunch]',id_expansion:5142},987654:{product_id:987654,name:'Houndour <img src=x onerror=alert(1)>',id_expansion:9000}}}));
+ fs.writeFileSync(path.join(temp,'market_prices.json'),JSON.stringify({format:'dogdex-cardmarket-prices-1',source_created_at:today,fetched_at:today,products:{724971:{trend:2.76,avg30:2.84},682271:{trend:4.03}}}));
+ const server=spawn('python3',[path.join(root,'app.py'),'--port','0','--no-browser','--user-dir',temp],{stdio:['ignore','pipe','pipe']});let stderr='',dom;
+ server.stderr.on('data',b=>stderr+=b.toString());
+ try{
+  const base=await new Promise((resolve,reject)=>{let log='';const timer=setTimeout(()=>reject(new Error(stderr||'Server did not start')),15000);server.stdout.on('data',b=>{log+=b.toString();const match=/http:\/\/127\.0\.0\.1:\d+/.exec(log);if(match){clearTimeout(timer);resolve(match[0]);}});server.once('error',reject);});
+  dom=new JSDOM('<html><head><style>'+fs.readFileSync(path.join(root,'static/app.css'),'utf8')+'</style></head><body><div id="app"></div><dialog id="dialog"></dialog><div id="toast"></div></body></html>',{url:base,runScripts:'outside-only',pretendToBeVisual:true});
+  const w=dom.window;w.scrollTo=()=>{};w.HTMLDialogElement.prototype.showModal=function(){this.open=true;};w.HTMLDialogElement.prototype.close=function(){this.open=false;this.dispatchEvent(new w.Event('close'));};
+  const requests=[];w.fetch=(url,options)=>{requests.push(String(url));return fetch(new URL(url,base),options);};
+  const script=['set-symbols.mjs','source-ui.mjs','localization.mjs','catalog.mjs','prices.mjs','appearance.mjs','market-ui.mjs','editor-ui.mjs','app.js'].map(f=>fs.readFileSync(path.join(root,'static',f),'utf8').replace(/^import[^\n]*\n/gm,'').replace(/\bexport /g,'')).join('\n')+'\nwindow.qa={ui,render,detail,post,get entries(){return entries},get user(){return user}};';w.eval(script);
+  const $=s=>w.document.querySelector(s),wait=async(fn,label)=>{const start=Date.now();while(Date.now()-start<18000){if(fn())return;await new Promise(r=>setTimeout(r,20));}throw new Error(label+'; '+($('#dialog .form-error')?.textContent||'')+'; '+$('#dialog').textContent.slice(0,800));};
+  const click=async selector=>{assert.ok($(selector),selector);$(selector).click();await new Promise(r=>setTimeout(r,20));};
+  await wait(()=>w.qa.entries.length,'boot');
+  await w.qa.post('copy/add',{printing_id:pid,quantity:1,condition:'mint',price:'4',currency:'EUR',notes:'Preserved owner note',purchased_on:'2026-10-22'});
+  await w.qa.post('wishlist',{printing_id:pid,wanted:true});const copiesBefore=JSON.stringify(w.qa.user.copies),wishesBefore=JSON.stringify(w.qa.user.wishlist);
+  w.qa.ui.lang='ja';w.qa.ui.pokemon='228';w.qa.render();w.qa.detail(pid);
+  assert.equal($('#dialog .modal-context .rarity-name').textContent,'AR · Art Rare');assert.ok($('#dialog .modal-context'));assert.ok($('#dialog .copy-item'));
+  await click('#dialog [data-action="market-find"]');await wait(()=>$('#dialog [data-action="market-select"][data-id="724971"]'),'native reference');
+  assert.equal($('#dialog').dataset.kind,'market-finder');assert.equal($('#market-query').value,'Houndour');assert.match($('.finder-context').textContent,/Japanese/);assert.match($('.finder-context').textContent,/SV3/);
+  assert.equal($('#dialog .market-candidates img'),null,'candidate names must be escaped');assert.ok(requests.some(u=>u.endsWith('market/search')));
+  assert.ok(!w.qa.entries.find(e=>e.id===ja.id).printings[0].market_confirmed);
+  await click('[data-action="market-select"][data-id="724971"]');let form=$('#market-confirm-form');
+  assert.equal($('.finder-browse').hidden,true,'confirmation must have a focused layout');assert.ok($('[data-action="market-reselect"]'));
+  assert.equal(form.elements.price_series.value,'standard','Holo uses regular product price, not reverse');assert.equal(form.elements.confirmed.checked,false);
+  form.dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}));await new Promise(r=>setTimeout(r,30));assert.ok(!requests.some(u=>u.endsWith('market/confirm')),'unchecked match must not save');
+  form.elements.confirmed.checked=true;form.dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}));await wait(()=>$('#dialog').dataset.kind==='detail'&&$('#dialog .market-primary')?.textContent.includes('2.76'),'confirmed price');
+  const saved=w.qa.entries.find(e=>e.id===ja.id).printings[0];assert.equal(saved.id,pid);assert.equal(saved.price_product_id,724971);assert.equal(saved.market_match.method,'collector_product_search');
+  assert.equal(JSON.stringify(w.qa.user.copies),copiesBefore);assert.equal(JSON.stringify(w.qa.user.wishlist),wishesBefore);
+  assert.equal(new URL($('#dialog .market-section a').href).searchParams.get('idProduct'),'724971');assert.match($('#dialog .copy-cost').textContent,/€4\.00/);
+  const tile=[...w.document.querySelectorAll('.card')].find(el=>el.querySelector('.card-visual')?.dataset.id===pid);assert.equal(tile.querySelector('.card-price strong').textContent,'€2.76');assert.doesNotMatch(tile.querySelector('.card-price').textContent,/CM|trend/);
+  await click('#dialog [data-action="market-find"]');await wait(()=>$('#market-query'),'reopen finder');
+  $('#market-query').value='https://www.cardmarket.com/en/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Houndour-V2-sv3115';$('#market-search-form').dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}));await wait(()=>$('.finder-notice')?.textContent.includes('Saved references'),'pretty URL handling');assert.ok($('[data-action="market-select"][data-id="724971"]'));assert.equal($('[data-action="market-select"][data-id="115"]'),null);
+  await click('[data-action="market-unlink"]');await wait(()=>$('#dialog').dataset.kind==='detail'&&!$('#dialog .market-primary'),'unlink');assert.equal(JSON.stringify(w.qa.user.copies),copiesBefore);
+  w.qa.detail(de.printings[0].id);assert.equal($('#dialog .modal-context .rarity-name').textContent,'Holo Rare');
+  await click('#dialog [data-action="market-find"]');await wait(()=>$('[data-action="market-select"][data-id="682271"]'),'German reference');assert.match($('.finder-context').textContent,/German/);
+  await click('[data-action="market-back"]');assert.equal($('#dialog').dataset.kind,'detail');assert.ok(!w.qa.entries.find(e=>e.id===de.id).printings[0].market_confirmed);
+  console.log('Verified native reference recovery, exact-printing confirmation, price display, URL handling, cancellation, unlink, and preserved owned-copy records.');
+ }finally{dom?.window.close();server.kill('SIGTERM');fs.rmSync(temp,{recursive:true,force:true});}
+});

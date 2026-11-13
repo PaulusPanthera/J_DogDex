@@ -1,0 +1,36 @@
+✔ compact captions preserve exact printing selection, colour, copies and indexed search (6839.632515ms)
+✔ chronology compares full dates before alphabetical set names (2.481605ms)
+✔ unknown dates sort last in both directions and partial precision stays visible (0.379048ms)
+✔ Pokémon numeric and alphabetical sorts use dates as secondary order (2.075423ms)
+✔ full art is explicit and secret rarity alone is insufficient (0.474388ms)
+✔ a reviewed artwork correction overrides a legacy filter classification (0.158555ms)
+✔ researched promo chronology and complete V-UNION use actual independent targets (285.688411ms)
+✔ cameos exclude tracked primary subjects, and duplicate copies do not inflate progress (0.348115ms)
+✔ Cardmarket uses exact known query or card name and respects manual corrections (0.874978ms)
+✔ printing-specific marketplace queries retain World Championships identity (0.228279ms)
+✔ catalog UI exposes exact rarities, independent artwork, two editor sections and complete forms (4474.206099ms)
+✔ a sourced regional period stays visible without inventing a sortable day (0.344906ms)
+{"ok":true,"checks":["visible provisional research tiles and evidence","sidebar species and exclusive cameo navigation","jumbo physical-size filter","scoped Sources and Data health","removable active filters and reset","filtered collection costs","two-section editor","source create","card with initial printing","exact Double Rare filter","two owned copies","printing edit keeps ID","real FileReader and HTTP picture upload","source rename and month date","source removal and restore","card removal and restore","source cover FileReader upload and backup restore","backup export and restore includes all records"],"card_id":"manual_entry_e442df99db4b413b828760e833628aa3","printing_id":"manual_printing_0d876ea7817841e0bf55155f7af0149b","errors":null}
+✔ direct catalog editor, scope, images and backup through DOM and real HTTP (36371.320885ms)
+✔ localized set prefixes and exact numbered identities preserve language boundaries (2.558282ms)
+✔ physical matching ignores entry ID and progress counts physical identities once (1.055876ms)
+Verified native reference recovery, exact-printing confirmation, price display, URL handling, cancellation, unlink, and preserved owned-copy records.
+✔ product finder searches, confirms, prices and unlinks the exact Japanese printing over real HTTP (19089.328336ms)
+✔ public viewer works at a GitHub project subpath and exposes no edit controls (3882.93251ms)
+Verified real language flags, source/prefix scope, exact and missing counterparts, contextual controls, two added patterns, duplicate rejection, evidence/image separation, preserved collection and server restart.
+✔ localized navigation, scoped printing controls, duplicate rejection and independent checks through real HTTP (31666.96894ms)
+✔ source chronology uses regional dates and expansion sequence without adding precision (2.084857ms)
+✔ market searches include set and meaningful collector numbering, while overrides win (0.505318ms)
+✔ compact guide retains context and selects one clearly labelled gallery price (1.287906ms)
+✔ rarity symbols respect regional codes, era and printing overrides (0.635921ms)
+✔ all languages, explicit subsets, product memberships and canonical progress (9082.644672ms)
+Real HTTP/DOM: combined 22, Main16/GG6, flags, links, owned copies/costs/wishlist, products without bars, editor relationships, exhaustive CSV and all 4 languages.
+✔ real application: source tabs, sections, language flags, card links, saved copies and full inventory (25445.9577ms)
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 140049.310092

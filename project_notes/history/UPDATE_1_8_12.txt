@@ -1,0 +1,17 @@
+DogDex data update 1.8.12
+
+Close DogDex. Extract this ZIP directly into J_DogDex, merge directories and
+replace matching supplied files. Keep your existing my_collection folder.
+Restart and refresh (Ctrl+F5 if needed).
+
+32 English First Edition-era identities checked; 27 missing Unlimited printings
+added across Gym and Neo, including five Vulpix cards and both Snubbull cards.
+Existing physical IDs and matching manual records survive. German Skyridge
+displays 15 August 2003 with its date-source conflict retained in Data health.
+
+The 1.8.11 UI and Growlithe logo are retained. No personal collection database,
+picture override or runtime files are supplied.
+
+For GitHub/mobile: export the mobile viewer, commit docs changes and push.
+Only this update is needed for the current 1.8.11 installation.
+Files/evidence: DATA_CORRECTIONS_1_8_12.md.

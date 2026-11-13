@@ -1,0 +1,1276 @@
+{
+  "format": 1,
+  "observed_on": "2026-10-28",
+  "releases": [
+    {
+      "lang": "de",
+      "release": "tk-bw-e",
+      "name": "Trainer Kit Schwarz & Weiß – Stalobor-Deck",
+      "kind": "deck",
+      "series": "Schwarz & Weiß",
+      "card_total": 30,
+      "date": "2011",
+      "source_url": "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://kartenarena.de/die-pokemon-sets/",
+        "https://recollectibles.de/collections/pokemon-bw-trainer-kit"
+      ],
+      "evidence": "German numbered deck checklist and physical German trainer-kit cards corroborate the 2011 product. Exact German release day remains unverified.",
+      "notes": "German numbered deck checklist and physical German trainer-kit cards corroborate the 2011 product. Exact German release day remains unverified.",
+      "abbreviation": {
+        "official": "TK5E"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "tk-bw-z",
+      "name": "Trainer Kit Schwarz & Weiß – Zoroark-Deck",
+      "kind": "deck",
+      "series": "Schwarz & Weiß",
+      "card_total": 30,
+      "date": "2011",
+      "source_url": "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://kartenarena.de/die-pokemon-sets/",
+        "https://www.ebay.de/itm/168130069146"
+      ],
+      "evidence": "German numbered deck checklist and an actual German Zoroark 30/30 holo from 2011. No English day is copied to German.",
+      "notes": "German numbered deck checklist and an actual German Zoroark 30/30 holo from 2011. No English day is copied to German.",
+      "abbreviation": {
+        "official": "TK5Z"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-sy",
+      "name": "XY Trainer Kit – Feelinara-Deck",
+      "kind": "deck",
+      "series": "XY",
+      "card_total": 30,
+      "date": "2014",
+      "source_url": "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://kartenarena.de/die-pokemon-sets/",
+        "https://www.ricardo.ch/de/a/feelinara-30-30-%E2%80%9Exy-trainer-kit%E2%80%9C-1310410116/"
+      ],
+      "evidence": "Native German deck checklist and German 2014 physical kit-card evidence. Product name retained; the excluded Eevee-family cards are not imported.",
+      "notes": "Native German deck checklist and German 2014 physical kit-card evidence. Product name retained; the excluded Eevee-family cards are not imported.",
+      "abbreviation": {
+        "official": "TK6S"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-n",
+      "name": "XY Trainer Kit – UHaFnir-Deck",
+      "kind": "deck",
+      "series": "XY",
+      "card_total": 30,
+      "date": "2014",
+      "source_url": "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://kartenarena.de/die-pokemon-sets/"
+      ],
+      "evidence": "Native German product/deck checklist. The 2014 year is corroborated; exact regional day remains unverified.",
+      "notes": "Native German product/deck checklist. The 2014 year is corroborated; exact regional day remains unverified.",
+      "abbreviation": {
+        "official": "TK6N"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-p",
+      "name": "Trainer Kit XY – Wrestler-Pikachu-Deck",
+      "kind": "deck",
+      "series": "XY",
+      "card_total": 30,
+      "date": "2016-04-27",
+      "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainer-kit-xy-wrestler-pikachu-und-suicune/",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainer-kit-xy-wrestler-pikachu-und-suicune/",
+        "https://www.pokewiki.de/Trainer_Kit_XY:_Wrestler-Pikachu_und_Suicune_(TCG)",
+        "https://www.poketon.shop/products/pokemon-full-set-frizelbliz-11-30-voltenso-13-30-wrestler-pikachu-set-2016"
+      ],
+      "evidence": "German manufacturer launch date 27 April 2016; native checklist independently identifies Frizelbliz 11/28 and Voltenso 13/22.",
+      "notes": "German manufacturer launch date 27 April 2016; native checklist independently identifies Frizelbliz 11/28 and Voltenso 13/22.",
+      "abbreviation": {
+        "official": "TK9P"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "tk-sm-l",
+      "name": "Trainer Kit Sonne & Mond – Wolwerock-Deck",
+      "kind": "deck",
+      "series": "Sonne & Mond",
+      "card_total": 30,
+      "date": "2017",
+      "source_url": "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Wolwerock_%26_Alola-Raichu_(TCG)",
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Wolwerock_%26_Alola-Raichu_(TCG)",
+        "https://www.wog.ch/de/index.cfm/details/product/56359-Pokemon-Sonne-und-Mond-Trainer-Kit-Wolwerock-Alola-Raichu"
+      ],
+      "evidence": "Native German deck checklist and sealed German two-player product. Retailer gives 10 May 2017, whereas English launch is 21 April; only the corroborated German year is accepted.",
+      "notes": "Native German deck checklist and sealed German two-player product. Retailer gives 10 May 2017, whereas English launch is 21 April; only the corroborated German year is accepted.",
+      "abbreviation": {
+        "official": "TK10L"
+      },
+      "tcg_online": null
+    },
+    {
+      "lang": "de",
+      "release": "mfb",
+      "name": "Mein erstes Spiel",
+      "kind": "deck",
+      "series": "Karmesin & Purpur",
+      "card_total": null,
+      "date": "2023",
+      "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel",
+        "https://www.pokewiki.de/Mein_erstes_Spiel_(TCG)",
+        "https://www.goodgamesbern.ch/pokemon/pokemon-tcg-mein-erstes-spiel-glumanda-schiggy-de/"
+      ],
+      "evidence": "German manufacturer gives Q3 2023; date stored at supported year precision. Four named cards are in the Glumanda deck; the cards have no printed collector number or rarity.",
+      "notes": "German manufacturer gives Q3 2023; date stored at supported year precision. Four named cards are in the Glumanda deck; the cards have no printed collector number or rarity.",
+      "abbreviation": null,
+      "tcg_online": null
+    }
+  ],
+  "entries": [
+    {
+      "lang": "de",
+      "release": "tk-bw-e",
+      "number": "1",
+      "number_key": "1",
+      "name": "Yorkleff",
+      "english": "Lillipup",
+      "dex": 506,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://www.pokewiki.de/Yorkleff_(Stalobor-Deck_1)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-bw-e",
+      "number": "27",
+      "number_key": "27",
+      "name": "Yorkleff",
+      "english": "Lillipup",
+      "dex": 506,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://www.pokewiki.de/Yorkleff_(Stalobor-Deck_27)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-bw-e",
+      "number": "19",
+      "number_key": "19",
+      "name": "Terribark",
+      "english": "Herdier",
+      "dex": 507,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://www.pokewiki.de/Terribark_(Stalobor-Deck_19)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-bw-z",
+      "number": "13",
+      "number_key": "13",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://www.pokewiki.de/Zorua_(Zoroark-Deck_13)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-bw-z",
+      "number": "23",
+      "number_key": "23",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://www.pokewiki.de/Zorua_(Zoroark-Deck_23)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-bw-z",
+      "number": "17",
+      "number_key": "17",
+      "name": "Zoroark",
+      "english": "Zoroark",
+      "dex": 571,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://www.pokewiki.de/Zoroark_(Zoroark-Deck_17)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-bw-z",
+      "number": "30",
+      "number_key": "30",
+      "name": "Zoroark",
+      "english": "Zoroark",
+      "dex": 571,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+        "https://www.pokewiki.de/Zoroark_(Zoroark-Deck_30)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. Number 30 is the selected holographic face card; the separately numbered non-holo copy remains a different identity. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-sy",
+      "number": "11",
+      "number_key": "11",
+      "name": "Snubbull",
+      "english": "Snubbull",
+      "dex": 209,
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://www.pokewiki.de/Snubbull_(Feelinara-Deck_11)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-sy",
+      "number": "27",
+      "number_key": "27",
+      "name": "Snubbull",
+      "english": "Snubbull",
+      "dex": 209,
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://www.pokewiki.de/Snubbull_(Feelinara-Deck_27)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-sy",
+      "number": "14",
+      "number_key": "14",
+      "name": "Granbull",
+      "english": "Granbull",
+      "dex": 210,
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://www.pokewiki.de/Granbull_(Feelinara-Deck_14)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-sy",
+      "number": "29",
+      "number_key": "29",
+      "name": "Granbull",
+      "english": "Granbull",
+      "dex": 210,
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://www.pokewiki.de/Granbull_(Feelinara-Deck_29)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-sy",
+      "number": "16",
+      "number_key": "16",
+      "name": "Coiffwaff",
+      "english": "Furfrou",
+      "dex": 676,
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://www.pokewiki.de/Coiffwaff_(Feelinara-Deck_16)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-sy",
+      "number": "22",
+      "number_key": "22",
+      "name": "Coiffwaff",
+      "english": "Furfrou",
+      "dex": 676,
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://www.pokewiki.de/Coiffwaff_(Feelinara-Deck_22)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-n",
+      "number": "20",
+      "number_key": "20",
+      "name": "Coiffwaff",
+      "english": "Furfrou",
+      "dex": 676,
+      "source_urls": [
+        "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+        "https://www.pokewiki.de/Coiffwaff_(UHaFnir-Deck_20)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-p",
+      "number": "11",
+      "number_key": "11",
+      "name": "Frizelbliz",
+      "english": "Electrike",
+      "dex": 309,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_XY:_Wrestler-Pikachu_und_Suicune_(TCG)",
+        "https://www.pokewiki.de/Frizelbliz_(Wrestler-Pikachu-Deck_11)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-p",
+      "number": "28",
+      "number_key": "28",
+      "name": "Frizelbliz",
+      "english": "Electrike",
+      "dex": 309,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_XY:_Wrestler-Pikachu_und_Suicune_(TCG)",
+        "https://www.pokewiki.de/Frizelbliz_(Wrestler-Pikachu-Deck_28)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-p",
+      "number": "13",
+      "number_key": "13",
+      "name": "Voltenso",
+      "english": "Manectric",
+      "dex": 310,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_XY:_Wrestler-Pikachu_und_Suicune_(TCG)",
+        "https://www.pokewiki.de/Voltenso_(Wrestler-Pikachu-Deck_13)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-xy-p",
+      "number": "22",
+      "number_key": "22",
+      "name": "Voltenso",
+      "english": "Manectric",
+      "dex": 310,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_XY:_Wrestler-Pikachu_und_Suicune_(TCG)",
+        "https://www.pokewiki.de/Voltenso_(Wrestler-Pikachu-Deck_22)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-sm-l",
+      "number": "14",
+      "number_key": "14",
+      "name": "Wuffels",
+      "english": "Rockruff",
+      "dex": 744,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Wolwerock_%26_Alola-Raichu_(TCG)",
+        "https://www.pokewiki.de/Wuffels_(Wolwerock-Deck_14)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-sm-l",
+      "number": "29",
+      "number_key": "29",
+      "name": "Wuffels",
+      "english": "Rockruff",
+      "dex": 744,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Wolwerock_%26_Alola-Raichu_(TCG)",
+        "https://www.pokewiki.de/Wuffels_(Wolwerock-Deck_29)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-sm-l",
+      "number": "16",
+      "number_key": "16",
+      "name": "Wolwerock",
+      "english": "Lycanroc",
+      "dex": 745,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Wolwerock_%26_Alola-Raichu_(TCG)",
+        "https://www.pokewiki.de/Wolwerock_(Wolwerock-Deck_16)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. A fixed non-holo deck insert; no reverse, first-edition or extra foil is inferred. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "tk-sm-l",
+      "number": "30",
+      "number_key": "30",
+      "name": "Wolwerock",
+      "english": "Lycanroc",
+      "dex": 745,
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Wolwerock_%26_Alola-Raichu_(TCG)",
+        "https://www.pokewiki.de/Wolwerock_(Wolwerock-Deck_30)"
+      ],
+      "evidence": "Native German deck checklist explicitly identifies this numbered card. Number 30 is the selected holographic face card; the separately numbered non-holo copy remains a different identity. No printed rarity symbol.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "mfb",
+      "number": "Unnumbered",
+      "number_key": "11",
+      "identifier_namespace": "provider_index",
+      "name": "Vulpix",
+      "english": "Vulpix",
+      "dex": 37,
+      "source_urls": [
+        "https://www.pokewiki.de/Mein_erstes_Spiel_(TCG)",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel"
+      ],
+      "evidence": "The native Glumanda deck checklist names this unnumbered, non-holo card. The 11–14 values are provider sorting indexes, not printed numbers. The printed Glumanda deck emblem is kept as a physical stamp.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": [
+            "charmander_deck"
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "mfb",
+      "number": "Unnumbered",
+      "number_key": "12",
+      "identifier_namespace": "provider_index",
+      "name": "Vulnona",
+      "english": "Ninetales",
+      "dex": 38,
+      "source_urls": [
+        "https://www.pokewiki.de/Mein_erstes_Spiel_(TCG)",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel"
+      ],
+      "evidence": "The native Glumanda deck checklist names this unnumbered, non-holo card. The 11–14 values are provider sorting indexes, not printed numbers. The printed Glumanda deck emblem is kept as a physical stamp.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": [
+            "charmander_deck"
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "mfb",
+      "number": "Unnumbered",
+      "number_key": "13",
+      "identifier_namespace": "provider_index",
+      "name": "Fukano",
+      "english": "Growlithe",
+      "dex": 58,
+      "source_urls": [
+        "https://www.pokewiki.de/Mein_erstes_Spiel_(TCG)",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel"
+      ],
+      "evidence": "The native Glumanda deck checklist names this unnumbered, non-holo card. The 11–14 values are provider sorting indexes, not printed numbers. The printed Glumanda deck emblem is kept as a physical stamp.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": [
+            "charmander_deck"
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "mfb",
+      "number": "Unnumbered",
+      "number_key": "14",
+      "identifier_namespace": "provider_index",
+      "name": "Arkani",
+      "english": "Arcanine",
+      "dex": 59,
+      "source_urls": [
+        "https://www.pokewiki.de/Mein_erstes_Spiel_(TCG)",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel"
+      ],
+      "evidence": "The native Glumanda deck checklist names this unnumbered, non-holo card. The 11–14 values are provider sorting indexes, not printed numbers. The printed Glumanda deck emblem is kept as a physical stamp.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "stamps": [
+            "charmander_deck"
+          ]
+        }
+      ]
+    }
+  ],
+  "card_dates": [
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM100",
+      "entry_id": "entry_0305f6bce00f5f7581254d8bda86cfdb",
+      "date": "2018-03-09",
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/lucario-gx-box"
+      ],
+      "evidence": "The regional manufacturer product page explicitly launches the Lucario-GX Box on 9 March 2018. It supersedes the conflicting English card-index date and the broad German promo-series date."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM100",
+      "entry_id": "entry_56a0edc6d0c4565c9090d714e9be7301",
+      "date": "2018-03-09",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-lucario-gx"
+      ],
+      "evidence": "The regional manufacturer product page explicitly launches the Lucario-GX Box on 9 March 2018. It supersedes the conflicting English card-index date and the broad German promo-series date."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_2c518d858a97510291a2cf56f49abb88",
+      "date": "2017-11-03",
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+      ],
+      "evidence": "The manufacturer launches the collection containing foil Zorua SM83 and full-art Zoroark-GX SM84 on 3 November 2017; it supersedes the card-index date."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+      "date": "2017",
+      "source_urls": [
+        "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+        "https://www.ebay.com/itm/186444321770"
+      ],
+      "evidence": "The actual German 2017 collection contains these promos. Exact German launch day is not corroborated, so the English day is not imported."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM84",
+      "entry_id": "entry_a2f88ee5109550b99c0fba88ed1bf03e",
+      "date": "2017-11-03",
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+      ],
+      "evidence": "The manufacturer launches the collection containing foil Zorua SM83 and full-art Zoroark-GX SM84 on 3 November 2017; it supersedes the card-index date."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM84",
+      "entry_id": "entry_321556de204e5f01b31811719eee8ce5",
+      "date": "2017",
+      "source_urls": [
+        "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+        "https://www.ebay.com/itm/186444321770"
+      ],
+      "evidence": "The actual German 2017 collection contains these promos. Exact German launch day is not corroborated, so the English day is not imported."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH219",
+      "entry_id": "entry_884de6d775f15ffaaf3abc199961a303",
+      "date": "2022-04-22",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-bellektro-v"
+      ],
+      "evidence": "German manufacturer explicitly dates the Bellektro-V collection 22 April 2022, replacing the Sword & Shield promo-series reference."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH297",
+      "entry_id": "entry_aca30dc8380d54f18314b929928f736a",
+      "date": "2022",
+      "source_urls": [
+        "https://cardcat.de/produkt/hisui-zoroark-vstar-kollektion-de/",
+        "https://pokezentrum.de/blog/grosse-pokemon-karten-alle-aktuellen-jumbo-karten-im-ueberblick/"
+      ],
+      "evidence": "The German 2022 collection and jumbo checklist corroborate the release year; exact German day remains unverified."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH298",
+      "entry_id": "entry_49ff89cbc2245193a0dca61c2b372084",
+      "date": "2022",
+      "source_urls": [
+        "https://cardcat.de/produkt/hisui-zoroark-vstar-kollektion-de/",
+        "https://pokezentrum.de/blog/grosse-pokemon-karten-alle-aktuellen-jumbo-karten-im-ueberblick/"
+      ],
+      "evidence": "The German 2022 collection and jumbo checklist corroborate the release year; exact German day remains unverified."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM14",
+      "entry_id": "entry_c886ea2a3d09544ca4981af886713e7f",
+      "date": "2017",
+      "source_urls": [
+        "https://www.battle-bear.de/products/pokemon-wolwerock-gx-kollektion-deutsch",
+        "https://www.wog.ch/de/index.cfm/details/product/55937-Pokemon-Wolwerock-GX-Kollektion"
+      ],
+      "evidence": "German product/release evidence corroborates 2017. The Swiss retail date is not asserted as an exact universal German launch day."
+    },
+    {
+      "lang": "de",
+      "release": "svp",
+      "number": "086",
+      "entry_id": "entry_869f1700a1ba50aa962e18b5891f3351",
+      "date": "2024",
+      "source_urls": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-mastifioso-ex-box/",
+        "https://cardmex-shop.de/Mastifioso-EX-SVP-086-XXL-XXL-Pokemon-Jumbo-Karte-in-Deutsch/SVP-086-XXL"
+      ],
+      "evidence": "The German 2024 product and exact German SVP086 oversized specimen corroborate the year. Conflicting retailer launch days are not imported."
+    },
+    {
+      "lang": "de",
+      "release": "mep",
+      "number": "012",
+      "entry_id": "entry_b94688631cce5e18a48a4a437978a162",
+      "date": "2025-11-07",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-figuren-kollektion-mega-lucario-ex-deutsch",
+        "https://cardmex-shop.de/Mega-Lucario-EX-MEP-012-XXL-Jumbo-Pokemon-Promo-Karte-aus-Mega-Entwicklung-in-Deutsch/MEP-012-XXL"
+      ],
+      "evidence": "German physical figure collection is explicitly dated 7 November 2025; the exact German MEP012 card is corroborated separately."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM128",
+      "entry_id": "entry_bd49871d31c8588a9065ac50f69ec177",
+      "date": "2018-06-01",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_Trainer_Kit:_Alolan_Sandslash_%26_Alolan_Ninetales_(TCG)"
+      ],
+      "evidence": "The English trainer kit release is 1 June 2018. Deck positions 17 and 30 both print SM128 and differ by non-holo versus Water Web holo, not by collector number."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM128",
+      "entry_id": "entry_dcd4f38cfd115df08ef08294416867ab",
+      "date": "2018",
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Alola-Sandamer_%26_Alola-Vulnona_(TCG)",
+        "https://www.ebay.de/itm/227485386987"
+      ],
+      "evidence": "Native German deck list and German 2018 sealed product. Exact German day remains unverified; 17/30 and 30/30 are deck positions, not printed identifiers."
+    },
+    {
+      "lang": "de",
+      "release": "svp",
+      "number": "162",
+      "entry_id": "entry_5a6ee42a1dae5403bff5a052dea8c7b6",
+      "date": "2024",
+      "source_urls": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-sammelkartenspiel-release-kalender-2024/",
+        "https://www.man-of-games.de/p/pokemon-kollektion-friedwuff-ex-deutsch"
+      ],
+      "evidence": "The German promo belongs to 2024, not the 2023 start of the promo series. Retail box and later separate distribution reports conflict; retain year precision until actual regional distribution is resolved."
+    }
+  ],
+  "printings": [
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM100",
+      "entry_id": "entry_56a0edc6d0c4565c9090d714e9be7301",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Kollektion Lucario-GX",
+        "release_date": "2018-03-09",
+        "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-lucario-gx"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-lucario-gx"
+      ],
+      "evidence": "German manufacturer explicitly includes a playable foil and an oversized foil Lucario-GX. This is a physical size choice under the same SM100 identity."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM84",
+      "entry_id": "entry_321556de204e5f01b31811719eee8ce5",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Schimmernde Legenden – Zoroark-GX Spezial-Kollektion",
+        "release_date": "2017",
+        "source_url": "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html"
+      },
+      "source_urls": [
+        "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+        "https://www.ebay.de/itm/198231794893"
+      ],
+      "evidence": "A real German collection and exact SM84 normal-plus-XXL physical listing corroborate the German oversized holo. Full Art remains independent from finish."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH219",
+      "entry_id": "entry_884de6d775f15ffaaf3abc199961a303",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Kollektion Bellektro-V",
+        "release_date": "2022-04-22",
+        "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-bellektro-v"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-bellektro-v"
+      ],
+      "evidence": "German manufacturer explicitly includes normal and oversized foil Bellektro-V cards."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH298",
+      "entry_id": "entry_49ff89cbc2245193a0dca61c2b372084",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Premium-Kollektion Hisui-Zoroark-VSTAR",
+        "release_date": "2022",
+        "source_url": "https://cardcat.de/produkt/hisui-zoroark-vstar-kollektion-de/"
+      },
+      "source_urls": [
+        "https://cardcat.de/produkt/hisui-zoroark-vstar-kollektion-de/",
+        "https://pokezentrum.de/blog/grosse-pokemon-karten-alle-aktuellen-jumbo-karten-im-ueberblick/",
+        "https://www.ebay.de/itm/256869001960"
+      ],
+      "evidence": "German sealed collection and exact German SWSH298 oversized foil specimen; SWSH297 is the other normal-size promo, not this jumbo."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM14",
+      "entry_id": "entry_c886ea2a3d09544ca4981af886713e7f",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Kollektion Wolwerock-GX",
+        "release_date": "2017",
+        "source_url": "https://www.battle-bear.de/products/pokemon-wolwerock-gx-kollektion-deutsch"
+      },
+      "source_urls": [
+        "https://www.battle-bear.de/products/pokemon-wolwerock-gx-kollektion-deutsch",
+        "https://www.wog.ch/de/index.cfm/details/product/55937-Pokemon-Wolwerock-GX-Kollektion"
+      ],
+      "evidence": "Native German box description explicitly includes one foil Wolwerock-GX and one oversized foil Wolwerock-GX; SM14 matches the German manufacturer card identity."
+    },
+    {
+      "lang": "de",
+      "release": "svp",
+      "number": "086",
+      "entry_id": "entry_869f1700a1ba50aa962e18b5891f3351",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Kollektion Mastifioso-ex",
+        "release_date": "2024",
+        "source_url": "https://cardmex-shop.de/Mastifioso-EX-SVP-086-XXL-XXL-Pokemon-Jumbo-Karte-in-Deutsch/SVP-086-XXL"
+      },
+      "source_urls": [
+        "https://cardmex-shop.de/Mastifioso-EX-SVP-086-XXL-XXL-Pokemon-Jumbo-Karte-in-Deutsch/SVP-086-XXL",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-mastifioso-ex-box/"
+      ],
+      "evidence": "Exact German SVP086 XXL physical card and German box contents corroborate a holo oversized printing."
+    },
+    {
+      "lang": "de",
+      "release": "mep",
+      "number": "012",
+      "entry_id": "entry_b94688631cce5e18a48a4a437978a162",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Figuren-Kollektion Mega-Lucario-ex",
+        "release_date": "2025-11-07",
+        "source_url": "https://www.man-of-games.de/p/pokemon-figuren-kollektion-mega-lucario-ex-deutsch",
+        "print_state": "lenticular"
+      },
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-figuren-kollektion-mega-lucario-ex-deutsch",
+        "https://cardmex-shop.de/Mega-Lucario-EX-MEP-012-XXL-Jumbo-Pokemon-Promo-Karte-aus-Mega-Entwicklung-in-Deutsch/MEP-012-XXL",
+        "https://www.cardport.de/pokemon-mega-lucario-figuren-kollektion-de.html"
+      ],
+      "evidence": "German figure collection and exact MEP012 jumbo specimen. The oversized card has a lenticular/Wackelbild effect, retained separately from the generic foil finish."
+    },
+    {
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY180",
+      "entry_id": "entry_52c6bc1c3adb5293a938015bceda429e",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "BREAK Evolution Box Featuring Arcanine",
+        "release_date": "2017-01-06",
+        "source_url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/arcanine-break-evolution-box"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/arcanine-break-evolution-box"
+      ],
+      "evidence": "Manufacturer explicitly includes Arcanine BREAK as both a regular foil and an oversized foil in the 6 January 2017 box."
+    },
+    {
+      "lang": "en",
+      "release": "xy3",
+      "number": "55a",
+      "entry_id": "entry_0168d0f2c639522e8174d7b0783a429e",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Mega Powers Collection",
+        "release_date": "2017-05-19",
+        "source_url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/mega-powers-collection"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/mega-powers-collection"
+      ],
+      "evidence": "Manufacturer explicitly includes full-art M Lucario-EX and its oversized card. This uses the retained canonical 55a identity, not a duplicate Yellow-A record."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM128",
+      "entry_id": "entry_bd49871d31c8588a9065ac50f69ec177",
+      "printing": {
+        "finish": "holo",
+        "pattern": "water_web",
+        "edition": "not_applicable",
+        "product_name": "Sun & Moon Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+        "release_date": "2018-06-01",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_Trainer_Kit:_Alolan_Sandslash_%26_Alolan_Ninetales_(TCG)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_Trainer_Kit:_Alolan_Sandslash_%26_Alolan_Ninetales_(TCG)"
+      ],
+      "evidence": "The same printed SM128 card exists as a non-holo insert and a holo face card. The exact German SM128 HOLO physical listing independently corroborates the German finish. No foreign foil pattern is copied to German."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM128",
+      "entry_id": "entry_dcd4f38cfd115df08ef08294416867ab",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "product_name": "Trainer Kit Sonne & Mond: Alola-Sandamer & Alola-Vulnona",
+        "release_date": "2018",
+        "source_url": "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Alola-Sandamer_%26_Alola-Vulnona_(TCG)"
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Alola-Sandamer_%26_Alola-Vulnona_(TCG)",
+        "https://www.ebay.de/itm/204405779436"
+      ],
+      "evidence": "The same printed SM128 card exists as a non-holo insert and a holo face card. The exact German SM128 HOLO physical listing independently corroborates the German finish. No foreign foil pattern is copied to German."
+    }
+  ],
+  "printing_updates": [
+    {
+      "lang": "en",
+      "release": "mep",
+      "number": "012",
+      "entry_id": "entry_eb113aa9d0605e478028fb843bc57967",
+      "printing_id": "research_printing_d1c67bc3103e5b3ab19e6d8859e790a2",
+      "values": {
+        "print_state": "lenticular"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/mega-lucario-ex-figure-collection",
+        "https://www.cardport.de/pokemon-mega-lucario-figuren-kollektion-de.html"
+      ],
+      "evidence": "The oversized figure-collection card uses a lenticular effect; preserve its existing ID while exposing the effect in the variant label."
+    }
+  ],
+  "holds": [
+    {
+      "lang": "de",
+      "release": "svp",
+      "number": "162",
+      "candidate": "Friedwuff-ex oversized printing",
+      "reason": "Conflicting German retail product announcements and an updated report describing an English-only box with separate German regular promo distribution. No verified German oversized specimen accepted in this pass.",
+      "source_urls": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-sammelkartenspiel-release-kalender-2024/",
+        "https://www.man-of-games.de/p/pokemon-kollektion-friedwuff-ex-deutsch"
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "xy3",
+      "number": "55a",
+      "candidate": "M Lucario-EX German oversized printing",
+      "reason": "English manufacturer confirms English jumbo; native German oversized physical release not independently corroborated. English tuple is not copied.",
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/mega-powers-collection"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.pokewiki.de/Trainer_Kit_Schwarz_%26_Wei%C3%9F_(TCG)",
+      "kind": "regional_checklist",
+      "source_sha256": "84127fcf3c63a7831ccb94a683d2e9331bc30d2acd4c179ddbba98799e4f4a41"
+    },
+    {
+      "url": "https://www.pokewiki.de/XY_Trainer_Kit_(TCG)",
+      "kind": "regional_checklist",
+      "source_sha256": "96338c4f6810fe60df4efbd71f1b43b394a4bccdce8c2197f6cfee28bf7ad0a7"
+    },
+    {
+      "url": "https://www.pokewiki.de/Trainer_Kit_XY:_Wrestler-Pikachu_und_Suicune_(TCG)",
+      "kind": "regional_checklist",
+      "source_sha256": "54f6990ce046c3fe9d8d939bfc5701e434876465df7172afa72ef6a4fdac1a59"
+    },
+    {
+      "url": "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Wolwerock_%26_Alola-Raichu_(TCG)",
+      "kind": "regional_checklist",
+      "source_sha256": "f10092a2f84807e08b47d8e9f518206d13e7617c0a1357e1e3b4bb53a8cfb6ea"
+    },
+    {
+      "url": "https://www.pokewiki.de/Trainer_Kit_Sonne_%26_Mond:_Alola-Sandamer_%26_Alola-Vulnona_(TCG)",
+      "kind": "regional_checklist",
+      "source_sha256": "8edb5c3334c376b3c4cc203620a84d69cff97d146ee0b7e50047921fe6216fbd"
+    },
+    {
+      "url": "https://www.pokewiki.de/Mein_erstes_Spiel_(TCG)",
+      "kind": "regional_checklist",
+      "source_sha256": "b9190b9d802361f6f8d95eea8924554baaffb35cd6230035a334ca9d653ab482"
+    },
+    {
+      "url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/trainer-kit-xy-wrestler-pikachu-und-suicune/",
+      "kind": "manufacturer"
+    },
+    {
+      "url": "https://kartenarena.de/die-pokemon-sets/",
+      "kind": "regional_set_index"
+    },
+    {
+      "url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/mein-erstes-spiel",
+      "kind": "manufacturer"
+    },
+    {
+      "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/lucario-gx-box",
+      "kind": "manufacturer",
+      "source_sha256": "e371bf069b8d26ac26c24fcb90f4d832752d0405aa7f7ce0cb01d038f5b24ef0"
+    },
+    {
+      "url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-lucario-gx",
+      "kind": "manufacturer",
+      "source_sha256": "007e188fb41a4a67152ae6f24b855e0164fa15c13c83c637baf7e93d6f5a980e"
+    },
+    {
+      "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx",
+      "kind": "manufacturer"
+    },
+    {
+      "url": "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+      "kind": "physical_german_product"
+    },
+    {
+      "url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kollektion-bellektro-v",
+      "kind": "manufacturer",
+      "source_sha256": "a4a1353c663fe2a68a05e1b08f3a1a2388fdee262edecea349bcdbd5cd2255c1"
+    },
+    {
+      "url": "https://cardcat.de/produkt/hisui-zoroark-vstar-kollektion-de/",
+      "kind": "physical_german_product"
+    },
+    {
+      "url": "https://pokezentrum.de/blog/grosse-pokemon-karten-alle-aktuellen-jumbo-karten-im-ueberblick/",
+      "kind": "regional_jumbo_checklist"
+    },
+    {
+      "url": "https://www.battle-bear.de/products/pokemon-wolwerock-gx-kollektion-deutsch",
+      "kind": "physical_german_product"
+    },
+    {
+      "url": "https://www.wog.ch/de/index.cfm/details/product/55937-Pokemon-Wolwerock-GX-Kollektion",
+      "kind": "german_product_retailer"
+    },
+    {
+      "url": "https://cardmex-shop.de/Mastifioso-EX-SVP-086-XXL-XXL-Pokemon-Jumbo-Karte-in-Deutsch/SVP-086-XXL",
+      "kind": "physical_german_card"
+    },
+    {
+      "url": "https://pokezentrum.de/pokemon-karten-news/pokemon-mastifioso-ex-box/",
+      "kind": "dated_german_product"
+    },
+    {
+      "url": "https://www.man-of-games.de/p/pokemon-figuren-kollektion-mega-lucario-ex-deutsch",
+      "kind": "german_product_retailer"
+    },
+    {
+      "url": "https://cardmex-shop.de/Mega-Lucario-EX-MEP-012-XXL-Jumbo-Pokemon-Promo-Karte-aus-Mega-Entwicklung-in-Deutsch/MEP-012-XXL",
+      "kind": "physical_german_card"
+    },
+    {
+      "url": "https://www.cardport.de/pokemon-mega-lucario-figuren-kollektion-de.html",
+      "kind": "physical_german_product"
+    },
+    {
+      "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/arcanine-break-evolution-box",
+      "kind": "manufacturer"
+    },
+    {
+      "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/mega-powers-collection",
+      "kind": "manufacturer",
+      "source_sha256": "42d22928a3f17ff15d2cee26e81ef1998947d68fb72c9731a98aa46b09b35391"
+    },
+    {
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_Trainer_Kit:_Alolan_Sandslash_%26_Alolan_Ninetales_(TCG)",
+      "kind": "regional_checklist",
+      "source_sha256": "5d331d1e9b5d3ed7ca1a4aef09ae06850b9ce84e17f3d451ee4790f3620bbd07"
+    },
+    {
+      "url": "https://www.ebay.de/itm/204405779436",
+      "kind": "physical_german_card"
+    },
+    {
+      "url": "https://pokezentrum.de/pokemon-karten-news/pokemon-sammelkartenspiel-release-kalender-2024/",
+      "kind": "regional_product_conflict"
+    }
+  ],
+  "secondary_language_sha256": {
+    "ja": "d4e163051a3bc28641d83a18ef2240b956fa2662f11c93d2251486fbf89dbde0",
+    "ko": "26ca900971b24ea24418e237ba7e345da6bfcaad09716c3e576749b5918b0d7a"
+  }
+}

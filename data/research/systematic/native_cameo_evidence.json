@@ -1,0 +1,1150 @@
+[
+  {
+    "lang": "de",
+    "release": "bw7",
+    "number": "127",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/bw7-127",
+    "source_sha256": "207e2c19387ef3c0a73016c7a25ba5da9d84c7008744ba40f9941233e93db6ce",
+    "record": {
+      "category": "Trainer",
+      "id": "bw7-127",
+      "illustrator": "Ryo Ueda",
+      "image": "https://assets.tcgdex.net/de/bw/bw7/127",
+      "localId": "127",
+      "name": "Eventura City-Arena",
+      "rarity": "Ungewöhnlich",
+      "set": {
+        "cardCount": {
+          "official": 149,
+          "total": 153
+        },
+        "id": "bw7",
+        "name": "Überschrittene Schwellen",
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw7/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": false,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "normal",
+          "size": "Standard",
+          "variantId": "generated"
+        }
+      ],
+      "effect": "Jedes {C}-Pokémon im Spiel (deine und die deines Gegners) erhält +20 KP. Diese Karte bleibt im Spiel, wenn du sie spielst. Lege diese Karte ab, sobald eine weitere Stadionkarte ins Spiel kommt. Wenn eine andere Karte mit dem gleichen Namen im Spiel ist, kannst du diese Karte nicht spielen.",
+      "trainerType": "Stadionkarte",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-08-15T23:27:06+01:00",
+      "thirdParty": {
+        "cardmarket": 280714,
+        "tcgplayer": 83658
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.776Z",
+          "unit": "EUR",
+          "idProduct": 280714,
+          "avg": 0.51,
+          "low": 0.02,
+          "trend": 0.5,
+          "avg1": 0.26,
+          "avg7": 0.5,
+          "avg30": 0.33,
+          "avg-holo": 1.8,
+          "low-holo": 0.19,
+          "trend-holo": 1.24,
+          "avg1-holo": 0.3,
+          "avg7-holo": 1.13,
+          "avg30-holo": 1.05
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:54:51.913Z",
+          "normal": {
+            "productId": 83658,
+            "lowPrice": 0.15,
+            "midPrice": 0.35,
+            "highPrice": 19.8,
+            "marketPrice": 0.33,
+            "directLowPrice": 0.31
+          },
+          "reverse-holofoil": {
+            "productId": 83658,
+            "lowPrice": 0.5,
+            "midPrice": 2.4,
+            "highPrice": 19.8,
+            "marketPrice": 1.85,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    "image": "644162e3e68ca9b4aede7e64da228c9661ab315a141106097d3506b6f96a9d44.webp",
+    "image_url": "https://assets.tcgdex.net/de/bw/bw7/127/high.webp",
+    "image_sha256": "644162e3e68ca9b4aede7e64da228c9661ab315a141106097d3506b6f96a9d44",
+    "native_source_image_sha256": "a1bc99b4c48c4b1d5fe5d3774e97e054246a7e2e49b242b30f4134755fa352cc"
+  },
+  {
+    "lang": "de",
+    "release": "sv01",
+    "number": "249",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/sv01-249",
+    "source_sha256": "505ef69fc7b367dbe4c92be83bc567925454729b1a40a88a2bd059e9d717e825",
+    "record": {
+      "category": "Trainer",
+      "id": "sv01-249",
+      "illustrator": "kantaro",
+      "image": "https://assets.tcgdex.net/de/sv/sv01/249",
+      "localId": "249",
+      "name": "Pepper",
+      "rarity": "Selten, besondere Illustration",
+      "set": {
+        "cardCount": {
+          "official": 198,
+          "total": 258
+        },
+        "id": "sv01",
+        "logo": "https://assets.tcgdex.net/de/sv/sv01/logo",
+        "name": "Karmesin & Purpur",
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "Holo",
+          "size": "Standard",
+          "variantId": "jr7oetx1mqug9"
+        }
+      ],
+      "effect": "Durchsuche dein Deck nach 1 Itemkarte und 1 Pokémon-Ausrüstung, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck. Du kannst während deines Zuges nur 1 Unterstützerkarte spielen.",
+      "trainerType": "Unterstützerkarte",
+      "regulationMark": "G",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-08-20T01:44:01+01:00",
+      "thirdParty": {
+        "cardmarket": 702545,
+        "tcgplayer": 490292
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.776Z",
+          "unit": "EUR",
+          "idProduct": 702545,
+          "avg": 3.65,
+          "low": 1.4,
+          "trend": 3.61,
+          "avg1": 2.71,
+          "avg7": 3.38,
+          "avg30": 3.65,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:08.765Z",
+          "holofoil": {
+            "productId": 490292,
+            "lowPrice": 3,
+            "midPrice": 5.19,
+            "highPrice": 68.39,
+            "marketPrice": 4.2,
+            "directLowPrice": 4.5
+          }
+        }
+      }
+    },
+    "image": "dd2430a9ae47e2049a3f5b0727d8edf388b56eef91b668713bc4f15fbd651d76.webp",
+    "image_url": "https://assets.tcgdex.net/de/sv/sv01/249/high.webp",
+    "image_sha256": "dd2430a9ae47e2049a3f5b0727d8edf388b56eef91b668713bc4f15fbd651d76",
+    "native_source_image_sha256": "6e1a44b668a62e5e292f8dc9d11cb74b88b4f72be7943658e8ad6ecfc6238dee"
+  },
+  {
+    "lang": "de",
+    "release": "swsh3",
+    "number": "166",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/swsh3-166",
+    "source_sha256": "3fdb26f14b798562a1008db093dbe0360295f5bbc879fd015d638751cdacfbd5",
+    "record": {
+      "category": "Trainer",
+      "id": "swsh3-166",
+      "illustrator": "kirisAki",
+      "image": "https://assets.tcgdex.net/de/swsh/swsh3/166",
+      "localId": "166",
+      "name": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "Ungewöhnlich",
+      "set": {
+        "cardCount": {
+          "official": 189,
+          "total": 201
+        },
+        "id": "swsh3",
+        "logo": "https://assets.tcgdex.net/de/swsh/swsh3/logo",
+        "name": "Flammende Finsternis",
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "Normal",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 483709,
+            "tcgplayer": 219281
+          },
+          "variantId": "endfynwn4n10gzq",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.784Z",
+              "unit": "EUR",
+              "idProduct": 483709,
+              "avg": 0.12,
+              "low": 0.02,
+              "trend": 0.1,
+              "avg1": 0.02,
+              "avg7": 0.14,
+              "avg30": 0.1,
+              "avg-holo": 0.39,
+              "low-holo": 0.1,
+              "trend-holo": 0.35,
+              "avg1-holo": 0.39,
+              "avg7-holo": 0.41,
+              "avg30-holo": 0.46
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:05.165Z",
+              "reverse-holofoil": {
+                "productId": 219281,
+                "lowPrice": 0.25,
+                "midPrice": 0.51,
+                "highPrice": 19.8,
+                "marketPrice": 0.51,
+                "directLowPrice": null
+              },
+              "normal": {
+                "productId": 219281,
+                "lowPrice": 0.05,
+                "midPrice": 0.25,
+                "highPrice": 18.06,
+                "marketPrice": 0.26,
+                "directLowPrice": null
+              }
+            }
+          }
+        },
+        {
+          "type": "Reverse",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 483709,
+            "tcgplayer": 219281
+          },
+          "variantId": "cm4kqul3x1bwlz1f",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.784Z",
+              "unit": "EUR",
+              "idProduct": 483709,
+              "avg": 0.12,
+              "low": 0.02,
+              "trend": 0.1,
+              "avg1": 0.02,
+              "avg7": 0.14,
+              "avg30": 0.1,
+              "avg-holo": 0.39,
+              "low-holo": 0.1,
+              "trend-holo": 0.35,
+              "avg1-holo": 0.39,
+              "avg7-holo": 0.41,
+              "avg30-holo": 0.46
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:05.165Z",
+              "reverse-holofoil": {
+                "productId": 219281,
+                "lowPrice": 0.25,
+                "midPrice": 0.51,
+                "highPrice": 19.8,
+                "marketPrice": 0.51,
+                "directLowPrice": null
+              },
+              "normal": {
+                "productId": 219281,
+                "lowPrice": 0.05,
+                "midPrice": 0.25,
+                "highPrice": 18.06,
+                "marketPrice": 0.26,
+                "directLowPrice": null
+              }
+            }
+          }
+        }
+      ],
+      "effect": "Wähle bis zu 2 deiner Pokémon im Spiel. Durchsuche für jedes jener Pokémon dein Deck nach 1 Karte, die sich aus jenem Pokémon entwickelt, und lege sie auf jenes Pokémon, um es zu entwickeln. Mische anschließend dein Deck. Du kannst diese Karte während deines ersten Zuges oder für ein Pokémon, das in diesem Zug ins Spiel gebracht wurde, nicht verwenden.",
+      "trainerType": "Unterstützerkarte",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-07-01T21:27:44+01:00",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.784Z",
+          "unit": "EUR",
+          "idProduct": 483709,
+          "avg": 0.12,
+          "low": 0.02,
+          "trend": 0.1,
+          "avg1": 0.02,
+          "avg7": 0.14,
+          "avg30": 0.1,
+          "avg-holo": 0.39,
+          "low-holo": 0.1,
+          "trend-holo": 0.35,
+          "avg1-holo": 0.39,
+          "avg7-holo": 0.41,
+          "avg30-holo": 0.46
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:05.165Z",
+          "reverse-holofoil": {
+            "productId": 219281,
+            "lowPrice": 0.25,
+            "midPrice": 0.51,
+            "highPrice": 19.8,
+            "marketPrice": 0.51,
+            "directLowPrice": null
+          },
+          "normal": {
+            "productId": 219281,
+            "lowPrice": 0.05,
+            "midPrice": 0.25,
+            "highPrice": 18.06,
+            "marketPrice": 0.26,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    "image": "7e2eb1f375dcbe0c882ee230b3e10a2837ce69aa23f192b5d484c3b7c6d01adb.webp",
+    "image_url": "https://assets.tcgdex.net/de/swsh/swsh3/166/high.webp",
+    "image_sha256": "7e2eb1f375dcbe0c882ee230b3e10a2837ce69aa23f192b5d484c3b7c6d01adb",
+    "native_source_image_sha256": "1291d1ac3532828c98b73efad3d3533623f01e221b9adbca46afee5ac3b2b3fb"
+  },
+  {
+    "lang": "de",
+    "release": "swsh3",
+    "number": "188",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/swsh3-188",
+    "source_sha256": "b74fd0a210e6a4a1b25e5316cc59157c7f8136e3fc125516f6b8f24142b6a3ad",
+    "record": {
+      "category": "Trainer",
+      "id": "swsh3-188",
+      "illustrator": "kirisAki",
+      "image": "https://assets.tcgdex.net/de/swsh/swsh3/188",
+      "localId": "188",
+      "name": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "Ultra Selten",
+      "set": {
+        "cardCount": {
+          "official": 189,
+          "total": 201
+        },
+        "id": "swsh3",
+        "logo": "https://assets.tcgdex.net/de/swsh/swsh3/logo",
+        "name": "Flammende Finsternis",
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "Holo",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 483829,
+            "tcgplayer": 219311
+          },
+          "variantId": "jr7oetx1mqug9",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.784Z",
+              "unit": "EUR",
+              "idProduct": 483829,
+              "avg": 3.47,
+              "low": 1.5,
+              "trend": 2.97,
+              "avg1": 3.48,
+              "avg7": 2.96,
+              "avg30": 3.53,
+              "avg-holo": null,
+              "low-holo": null,
+              "trend-holo": 6.18,
+              "avg1-holo": 4.99,
+              "avg7-holo": 6.92,
+              "avg30-holo": 6.75
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:05.165Z",
+              "holofoil": {
+                "productId": 219311,
+                "lowPrice": 1.45,
+                "midPrice": 2.99,
+                "highPrice": 25,
+                "marketPrice": 2.55,
+                "directLowPrice": 3.38
+              }
+            }
+          }
+        }
+      ],
+      "effect": "Wähle bis zu 2 deiner Pokémon im Spiel. Durchsuche für jedes jener Pokémon dein Deck nach 1 Karte, die sich aus jenem Pokémon entwickelt, und lege sie auf jenes Pokémon, um es zu entwickeln. Mische anschließend dein Deck. Du kannst diese Karte während deines ersten Zuges oder für ein Pokémon, das in diesem Zug ins Spiel gebracht wurde, nicht verwenden.",
+      "trainerType": "Unterstützerkarte",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-07-01T21:27:44+01:00",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.784Z",
+          "unit": "EUR",
+          "idProduct": 483829,
+          "avg": 3.47,
+          "low": 1.5,
+          "trend": 2.97,
+          "avg1": 3.48,
+          "avg7": 2.96,
+          "avg30": 3.53,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 6.18,
+          "avg1-holo": 4.99,
+          "avg7-holo": 6.92,
+          "avg30-holo": 6.75
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:05.165Z",
+          "holofoil": {
+            "productId": 219311,
+            "lowPrice": 1.45,
+            "midPrice": 2.99,
+            "highPrice": 25,
+            "marketPrice": 2.55,
+            "directLowPrice": 3.38
+          }
+        }
+      }
+    },
+    "image": "c44ecb80cbc2732e75662b87cecb4c5ac3c0b4bd36455c5c5dc14ae7cecb67aa.webp",
+    "image_url": "https://assets.tcgdex.net/de/swsh/swsh3/188/high.webp",
+    "image_sha256": "c44ecb80cbc2732e75662b87cecb4c5ac3c0b4bd36455c5c5dc14ae7cecb67aa",
+    "native_source_image_sha256": "2a0030ee4788b8b157618145a3c8e0a8b785af5c985047ea46b7802af2374e5a"
+  },
+  {
+    "lang": "de",
+    "release": "swsh4.5",
+    "number": "61",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/swsh4.5-61",
+    "source_sha256": "fcd78fb77cdf598f74af154b55f4f3f67658079969ecbc3302ecb30795becf3e",
+    "record": {
+      "category": "Trainer",
+      "id": "swsh4.5-61",
+      "illustrator": "5ban Graphics",
+      "image": "https://assets.tcgdex.net/de/swsh/swsh4.5/61",
+      "localId": "61",
+      "name": "Rostiger Schild",
+      "rarity": "Ungewöhnlich",
+      "set": {
+        "cardCount": {
+          "official": 72,
+          "total": 73
+        },
+        "id": "swsh4.5",
+        "logo": "https://assets.tcgdex.net/de/swsh/swsh4.5/logo",
+        "name": "Glänzendes Schicksal",
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "Normal",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 539328,
+            "tcgplayer": 232544
+          },
+          "variantId": "endfynwn4n10gzq",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.766Z",
+              "unit": "EUR",
+              "idProduct": 539328,
+              "avg": 0.03,
+              "low": 0.02,
+              "trend": 0.03,
+              "avg1": 0.02,
+              "avg7": 0.02,
+              "avg30": 0.03,
+              "avg-holo": 0.17,
+              "low-holo": 0.02,
+              "trend-holo": 0.2,
+              "avg1-holo": 0.05,
+              "avg7-holo": 0.17,
+              "avg30-holo": 0.18
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:05.856Z",
+              "reverse-holofoil": {
+                "productId": 232544,
+                "lowPrice": 0.01,
+                "midPrice": 0.25,
+                "highPrice": 25.19,
+                "marketPrice": 0.18,
+                "directLowPrice": 0.1
+              },
+              "normal": {
+                "productId": 232544,
+                "lowPrice": 0.01,
+                "midPrice": 0.19,
+                "highPrice": 25.06,
+                "marketPrice": 0.05,
+                "directLowPrice": 0.02
+              }
+            }
+          }
+        },
+        {
+          "type": "Reverse",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 539328,
+            "tcgplayer": 232544
+          },
+          "variantId": "cm4kqul3x1bwlz1f",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.766Z",
+              "unit": "EUR",
+              "idProduct": 539328,
+              "avg": 0.03,
+              "low": 0.02,
+              "trend": 0.03,
+              "avg1": 0.02,
+              "avg7": 0.02,
+              "avg30": 0.03,
+              "avg-holo": 0.17,
+              "low-holo": 0.02,
+              "trend-holo": 0.2,
+              "avg1-holo": 0.05,
+              "avg7-holo": 0.17,
+              "avg30-holo": 0.18
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:05.856Z",
+              "reverse-holofoil": {
+                "productId": 232544,
+                "lowPrice": 0.01,
+                "midPrice": 0.25,
+                "highPrice": 25.19,
+                "marketPrice": 0.18,
+                "directLowPrice": 0.1
+              },
+              "normal": {
+                "productId": 232544,
+                "lowPrice": 0.01,
+                "midPrice": 0.19,
+                "highPrice": 25.06,
+                "marketPrice": 0.05,
+                "directLowPrice": 0.02
+              }
+            }
+          }
+        }
+      ],
+      "effect": "Lege 1 Pokémon-Ausrüstung an 1 deiner Pokémon an, an das noch keine Pokémon-Ausrüstung angelegt ist. Das Zamazenta-V, an das diese Karte angelegt ist, erhält +70 KP. Du kannst während deines Zuges beliebig viele Itemkarten spielen.",
+      "trainerType": "Pokémon-Ausrüstung",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-08-14T19:49:47+01:00",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.766Z",
+          "unit": "EUR",
+          "idProduct": 539328,
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.02,
+          "avg30": 0.03,
+          "avg-holo": 0.17,
+          "low-holo": 0.02,
+          "trend-holo": 0.2,
+          "avg1-holo": 0.05,
+          "avg7-holo": 0.17,
+          "avg30-holo": 0.18
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:05.856Z",
+          "reverse-holofoil": {
+            "productId": 232544,
+            "lowPrice": 0.01,
+            "midPrice": 0.25,
+            "highPrice": 25.19,
+            "marketPrice": 0.18,
+            "directLowPrice": 0.1
+          },
+          "normal": {
+            "productId": 232544,
+            "lowPrice": 0.01,
+            "midPrice": 0.19,
+            "highPrice": 25.06,
+            "marketPrice": 0.05,
+            "directLowPrice": 0.02
+          }
+        }
+      }
+    },
+    "image": "59dbd8ab657c995f67667c708921bb1b162b1f27375e61cefa7b046dbede1655.webp",
+    "image_url": "https://assets.tcgdex.net/de/swsh/swsh4.5/61/high.webp",
+    "image_sha256": "59dbd8ab657c995f67667c708921bb1b162b1f27375e61cefa7b046dbede1655",
+    "native_source_image_sha256": "a070463dc5c1d0f90d88dff1f6f4fff91bb4846458796edbd15ab025c3dc3800"
+  },
+  {
+    "lang": "de",
+    "release": "swsh4.5",
+    "number": "62",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/swsh4.5-62",
+    "source_sha256": "b8c720ed588f303ad6139c0806f47e545e2aec10f89b3f1b55c23013dad091ce",
+    "record": {
+      "category": "Trainer",
+      "id": "swsh4.5-62",
+      "illustrator": "5ban Graphics",
+      "image": "https://assets.tcgdex.net/de/swsh/swsh4.5/62",
+      "localId": "62",
+      "name": "Rostiges Schwert",
+      "rarity": "Ungewöhnlich",
+      "set": {
+        "cardCount": {
+          "official": 72,
+          "total": 73
+        },
+        "id": "swsh4.5",
+        "logo": "https://assets.tcgdex.net/de/swsh/swsh4.5/logo",
+        "name": "Glänzendes Schicksal",
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "Normal",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 539333,
+            "tcgplayer": 232543
+          },
+          "variantId": "endfynwn4n10gzq",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.808Z",
+              "unit": "EUR",
+              "idProduct": 539333,
+              "avg": 0.03,
+              "low": 0.02,
+              "trend": 0.03,
+              "avg1": 0.02,
+              "avg7": 0.03,
+              "avg30": 0.03,
+              "avg-holo": 0.17,
+              "low-holo": 0.02,
+              "trend-holo": 0.17,
+              "avg1-holo": 0.11,
+              "avg7-holo": 0.21,
+              "avg30-holo": 0.17
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:05.856Z",
+              "normal": {
+                "productId": 232543,
+                "lowPrice": 0.01,
+                "midPrice": 0.17,
+                "highPrice": 15.02,
+                "marketPrice": 0.12,
+                "directLowPrice": 0.03
+              },
+              "reverse-holofoil": {
+                "productId": 232543,
+                "lowPrice": 0.03,
+                "midPrice": 0.3,
+                "highPrice": 25.3,
+                "marketPrice": 0.3,
+                "directLowPrice": 0.19
+              }
+            }
+          }
+        },
+        {
+          "type": "Reverse",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 539333,
+            "tcgplayer": 232543
+          },
+          "variantId": "cm4kqul3x1bwlz1f",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.808Z",
+              "unit": "EUR",
+              "idProduct": 539333,
+              "avg": 0.03,
+              "low": 0.02,
+              "trend": 0.03,
+              "avg1": 0.02,
+              "avg7": 0.03,
+              "avg30": 0.03,
+              "avg-holo": 0.17,
+              "low-holo": 0.02,
+              "trend-holo": 0.17,
+              "avg1-holo": 0.11,
+              "avg7-holo": 0.21,
+              "avg30-holo": 0.17
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:05.856Z",
+              "normal": {
+                "productId": 232543,
+                "lowPrice": 0.01,
+                "midPrice": 0.17,
+                "highPrice": 15.02,
+                "marketPrice": 0.12,
+                "directLowPrice": 0.03
+              },
+              "reverse-holofoil": {
+                "productId": 232543,
+                "lowPrice": 0.03,
+                "midPrice": 0.3,
+                "highPrice": 25.3,
+                "marketPrice": 0.3,
+                "directLowPrice": 0.19
+              }
+            }
+          }
+        }
+      ],
+      "effect": "Lege 1 Pokémon-Ausrüstung an 1 deiner Pokémon an, an das noch keine Pokémon-Ausrüstung angelegt ist. Die Attacken des Zacian-V, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon deines Gegners 30 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden). Du kannst während deines Zuges beliebig viele Itemkarten spielen.",
+      "trainerType": "Pokémon-Ausrüstung",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-08-14T19:49:47+01:00",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.808Z",
+          "unit": "EUR",
+          "idProduct": 539333,
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.17,
+          "low-holo": 0.02,
+          "trend-holo": 0.17,
+          "avg1-holo": 0.11,
+          "avg7-holo": 0.21,
+          "avg30-holo": 0.17
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:05.856Z",
+          "normal": {
+            "productId": 232543,
+            "lowPrice": 0.01,
+            "midPrice": 0.17,
+            "highPrice": 15.02,
+            "marketPrice": 0.12,
+            "directLowPrice": 0.03
+          },
+          "reverse-holofoil": {
+            "productId": 232543,
+            "lowPrice": 0.03,
+            "midPrice": 0.3,
+            "highPrice": 25.3,
+            "marketPrice": 0.3,
+            "directLowPrice": 0.19
+          }
+        }
+      }
+    },
+    "image": "a401bdb176b95eae69defce66d88e2f595f64e04e8ec9cfa5b33da7f3f6643f6.webp",
+    "image_url": "https://assets.tcgdex.net/de/swsh/swsh4.5/62/high.webp",
+    "image_sha256": "a401bdb176b95eae69defce66d88e2f595f64e04e8ec9cfa5b33da7f3f6643f6",
+    "native_source_image_sha256": "305546526e6275bf2122c39fb62885858a0f29567675c958d4869ed443ae6c7e"
+  },
+  {
+    "lang": "de",
+    "release": "swsh8",
+    "number": "259",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/swsh8-259",
+    "source_sha256": "de7bc6a285716417abaf75b15192b3a2899008402e54c724fd2828262ce77c38",
+    "record": {
+      "category": "Trainer",
+      "id": "swsh8-259",
+      "illustrator": "Yuu Nishida",
+      "image": "https://assets.tcgdex.net/de/swsh/swsh8/259",
+      "localId": "259",
+      "name": "Tänzerin",
+      "rarity": "Ultra Selten",
+      "set": {
+        "cardCount": {
+          "official": 264,
+          "total": 284
+        },
+        "id": "swsh8",
+        "logo": "https://assets.tcgdex.net/de/swsh/swsh8/logo",
+        "name": "Fusionsangriff",
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "Holo",
+          "size": "Standard",
+          "thirdParty": {
+            "cardmarket": 582996,
+            "tcgplayer": 253160
+          },
+          "variantId": "jr7oetx1mqug9",
+          "pricing": {
+            "cardmarket": {
+              "updated": "2026-10-28T22:54:32.766Z",
+              "unit": "EUR",
+              "idProduct": 582996,
+              "avg": 1.87,
+              "low": 0.5,
+              "trend": 1.93,
+              "avg1": 2.2,
+              "avg7": 1.78,
+              "avg30": 1.84,
+              "avg-holo": null,
+              "low-holo": null,
+              "trend-holo": 0,
+              "avg1-holo": null,
+              "avg7-holo": null,
+              "avg30-holo": null
+            },
+            "tcgplayer": {
+              "unit": "USD",
+              "updated": "2026-10-14T22:55:07.101Z",
+              "holofoil": {
+                "productId": 253160,
+                "lowPrice": 0.94,
+                "midPrice": 1.6,
+                "highPrice": 35,
+                "marketPrice": 1.39,
+                "directLowPrice": 1.75
+              }
+            }
+          }
+        }
+      ],
+      "effect": "Ziehe 2 Karten. Wenn du als Zweiter am Zug bist und es dein erster Zug ist, ziehe 3 Karten mehr. Du kannst während deines Zuges nur 1 Unterstützerkarte spielen.",
+      "trainerType": "Unterstützerkarte",
+      "regulationMark": "E",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-08-20T01:39:23+01:00",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.766Z",
+          "unit": "EUR",
+          "idProduct": 582996,
+          "avg": 1.87,
+          "low": 0.5,
+          "trend": 1.93,
+          "avg1": 2.2,
+          "avg7": 1.78,
+          "avg30": 1.84,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:55:07.101Z",
+          "holofoil": {
+            "productId": 253160,
+            "lowPrice": 0.94,
+            "midPrice": 1.6,
+            "highPrice": 35,
+            "marketPrice": 1.39,
+            "directLowPrice": 1.75
+          }
+        }
+      }
+    },
+    "image": "a4c4b0314ededd929c8e64e74b2a1d0253449c99d53edc368df36d4de4683866.webp",
+    "image_url": "https://assets.tcgdex.net/de/swsh/swsh8/259/high.webp",
+    "image_sha256": "a4c4b0314ededd929c8e64e74b2a1d0253449c99d53edc368df36d4de4683866",
+    "native_source_image_sha256": "afd3eb26672902c0314d6f0ebd691a1934ad884a8aa6a8eaadfda96a7d11d0ca"
+  },
+  {
+    "lang": "de",
+    "release": "xy10",
+    "number": "105",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/xy10-105",
+    "source_sha256": "1ea6ed53339030e8f42e2746b3465daf388c82ea58dbef1b65b286b5171a61c2",
+    "record": {
+      "category": "Trainer",
+      "id": "xy10-105",
+      "illustrator": "Megumi Mizutani",
+      "image": "https://assets.tcgdex.net/de/xy/xy10/105",
+      "localId": "105",
+      "name": "N",
+      "rarity": "Ungewöhnlich",
+      "set": {
+        "cardCount": {
+          "official": 124,
+          "total": 129
+        },
+        "id": "xy10",
+        "name": "Schicksalsschmiede",
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy10/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": false,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "normal",
+          "size": "Standard",
+          "variantId": "generated"
+        }
+      ],
+      "effect": "Jeder Spieler mischt seine Hand zurück in sein Deck. Anschließend zieht jeder Spieler eine Karte für jede seiner noch übrigen Preiskarten. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen.",
+      "trainerType": "Unterstützerkarte",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-08-14T19:31:11+01:00",
+      "thirdParty": {
+        "cardmarket": 289925,
+        "tcgplayer": 117878
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.776Z",
+          "unit": "EUR",
+          "idProduct": 289925,
+          "avg": 2.92,
+          "low": 0.6,
+          "trend": 2.99,
+          "avg1": 3.24,
+          "avg7": 3.01,
+          "avg30": 2.98,
+          "avg-holo": 9.17,
+          "low-holo": 1.49,
+          "trend-holo": 7.73,
+          "avg1-holo": 5,
+          "avg7-holo": 6.21,
+          "avg30-holo": 7.04
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:54:57.797Z",
+          "normal": {
+            "productId": 117878,
+            "lowPrice": 0.68,
+            "midPrice": 1.96,
+            "highPrice": 4.99,
+            "marketPrice": 1.99,
+            "directLowPrice": 2.19
+          },
+          "reverse-holofoil": {
+            "productId": 117878,
+            "lowPrice": 2,
+            "midPrice": 3.23,
+            "highPrice": 46.62,
+            "marketPrice": 4.03,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    "image": "efc626b4a3da75940e2eed0784c03353a5f078237aa8d70ae58221512b4cf723.webp",
+    "image_url": "https://assets.tcgdex.net/de/xy/xy10/105/high.webp",
+    "image_sha256": "efc626b4a3da75940e2eed0784c03353a5f078237aa8d70ae58221512b4cf723",
+    "native_source_image_sha256": "f965196443b51b7f9b84903dc44e93e61cb09af0c70bc28c5cad1c651b7cc6bf"
+  },
+  {
+    "lang": "de",
+    "release": "xy4",
+    "number": "108",
+    "source_url": "https://api.tcgdex.net/v2/de/cards/xy4-108",
+    "source_sha256": "658aa67df32c65543bf37fbf1074b1fa8e633df2c387ff1b356e1eae6185b356",
+    "record": {
+      "category": "Trainer",
+      "id": "xy4-108",
+      "illustrator": "Toyste Beach",
+      "image": "https://assets.tcgdex.net/de/xy/xy4/108",
+      "localId": "108",
+      "name": "Trickmünze",
+      "rarity": "Ungewöhnlich",
+      "set": {
+        "cardCount": {
+          "official": 119,
+          "total": 124
+        },
+        "id": "xy4",
+        "name": "Phantomkräfte",
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol"
+      },
+      "variants": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": false,
+        "wPromo": false
+      },
+      "variants_detailed": [
+        {
+          "type": "normal",
+          "size": "Standard",
+          "variantId": "generated"
+        }
+      ],
+      "effect": "Lege 1 Pokémon-Ausrüstung an 1 deiner Pokémon an, an das noch keine Pokémon-Ausrüstung angelegt ist. Einmal während deines Zuges, nachdem du Münzen für einen Angriff des Pokémon, an das diese Karte angelegt ist, geworfen hast, kannst du alle daraus resultierenden Effekte ignorieren und diese Münzen erneut werfen. (Du kannst Effekte, die es dir erlauben, Münzen erneut zu werfen, einschließlich der Effekte anderer Karten, nur einmal während deines Zuges einsetzen.) Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen.",
+      "trainerType": "Pokémon-Ausrüstung",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "updated": "2026-08-16T21:12:31+01:00",
+      "thirdParty": {
+        "cardmarket": 281915,
+        "tcgplayer": 94676
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-10-28T22:54:32.784Z",
+          "unit": "EUR",
+          "idProduct": 281915,
+          "avg": 0.19,
+          "low": 0.02,
+          "trend": 0.35,
+          "avg1": 0.65,
+          "avg7": 0.46,
+          "avg30": 0.29,
+          "avg-holo": null,
+          "low-holo": 0.26,
+          "trend-holo": 1.22,
+          "avg1-holo": 0.8,
+          "avg7-holo": 1.36,
+          "avg30-holo": 0.96
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-10-14T22:54:55.142Z",
+          "normal": {
+            "productId": 94676,
+            "lowPrice": 0.1,
+            "midPrice": 0.33,
+            "highPrice": 19.8,
+            "marketPrice": 0.32,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 94676,
+            "lowPrice": 0.25,
+            "midPrice": 0.68,
+            "highPrice": 19.8,
+            "marketPrice": 0.72,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    "image": "3dc7f06008ff2c567aa309ce65c790ba576e41b729f2568f1da01ce88360431f.webp",
+    "image_url": "https://assets.tcgdex.net/de/xy/xy4/108/high.webp",
+    "image_sha256": "3dc7f06008ff2c567aa309ce65c790ba576e41b729f2568f1da01ce88360431f",
+    "native_source_image_sha256": "363621540d697d5c8089c6271137417bf6747b0280305706e9af554f66fe4c1f"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "data/catalog.json": "ca19e1bb29232856b35b860a8f8060ce7b54947aa015ee284b3ce65d039ac59d",
+  "data/catalog-collector.sqlite3": "864c86a5538c99ed36a4664a34df51f8bfa7a1bfc0ddf01dcb6fa9b147b2a78f",
+  "approved_css_unchanged": true,
+  "immutable_sqlite_sha256": "e79d48ff8d056d88fa0d6b1f0771f220d79f62d82797c886183e20ada9c22da0",
+  "second_rebuild_matches": {
+    "data/catalog.json": true,
+    "data/catalog-collector.sqlite3": true
+  },
+  "python_tests_passed": 61,
+  "javascript_dom_tests_passed": 12,
+  "systematic_upgrade_and_source_gate_tests_passed": 5,
+  "native_windows_execution": false,
+  "collection_data_included": false
+}

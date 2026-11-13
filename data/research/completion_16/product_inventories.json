@@ -1,0 +1,1226 @@
+[
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/advanced-search-results/?_sft_language=english&_sft_cardname=vulpix,ninetales,growlithe,arcanine,snubbull,granbull,houndour,houndoom,smeargle,poochyena,mightyena,zigzagoon,electrike,manectric,riolu,lucario,lillipup,herdier,stoutland,zorua,zoroark,fennekin,braixen,delphox,furfrou,zygarde,rockruff,lycanroc,nickit,thievul,yamper,boltund,zacian,zamazenta,fidough,dachsbun,maschiff,mabosstiff,greavard,houndstone,okidogi",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/257c4570e1ed7d9f4c927690.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/advanced-search-results/?_sft_language=english&_sft_cardname=vulpix,ninetales,growlithe,arcanine,snubbull,granbull,houndour,houndoom,smeargle,poochyena,mightyena,zigzagoon,electrike,manectric,riolu,lucario,lillipup,herdier,stoutland,zorua,zoroark,fennekin,braixen,delphox,furfrou,zygarde,rockruff,lycanroc,nickit,thievul,yamper,boltund,zacian,zamazenta,fidough,dachsbun,maschiff,mabosstiff,greavard,houndstone,okidogi",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 282954,
+    "sha256": "b9096be0a911612edb0ed049d15888163d66ad1ab5b9775870ca1a5b3f466ed7",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Alolan Ninetales (SM128 English Promo)",
+        "card_url": "https://pokumon.com/card/alolan-ninetales-sm128-english-promo/"
+      },
+      {
+        "title": "Alolan Vulpix (21a/145 Ultra Prism Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/alolan-vulpix-21a-145-ultra-prism-blisters-special-print/"
+      },
+      {
+        "title": "Arcanine (12/99 Next Destinies Special Print)",
+        "card_url": "https://pokumon.com/card/arcanine-12-99-next-destinies-special-print/"
+      },
+      {
+        "title": "Arcanine (6/Wizards Black Star English Promo)",
+        "card_url": "https://pokumon.com/card/arcanine-6-wizards-black-star-english-promo/"
+      },
+      {
+        "title": "Arcanine Break (XY180 English Promo)",
+        "card_url": "https://pokumon.com/card/arcanine-break-xy180-english-promo/"
+      },
+      {
+        "title": "Arcanine G (Galactic’s) (15/147 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/arcanine-g-galactics-15-147-pokemon-league-special-print/"
+      },
+      {
+        "title": "Arcanine (SVP011 English Promo)",
+        "card_url": "https://pokumon.com/card/arcanine-svp011-english-promo/"
+      },
+      {
+        "title": "Arcanine (SWSH304 English Promo)",
+        "card_url": "https://pokumon.com/card/arcanine-swsh304-english-promo/"
+      },
+      {
+        "title": "Boltund V (SWSH085 English Promo)",
+        "card_url": "https://pokumon.com/card/boltund-v-swsh085-english-promo/"
+      },
+      {
+        "title": "Boltund V (SWSH219 English Promo)",
+        "card_url": "https://pokumon.com/card/boltund-v-swsh219-english-promo/"
+      },
+      {
+        "title": "Braixen (12/124 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/braixen-12-124-pokemon-league-special-print/"
+      },
+      {
+        "title": "Braixen (XY161 English Promo)",
+        "card_url": "https://pokumon.com/card/braixen-xy161-english-promo/"
+      },
+      {
+        "title": "Brock’s Vulpix (37/132 Top Deck Magazine Special Print)",
+        "card_url": "https://pokumon.com/card/brocks-vulpix-37-132-top-deck-magazine-special-print/"
+      },
+      {
+        "title": "Build-A-Bear Alolan Vulpix (21/145 Build-A-Bear Workshop Special Print)",
+        "card_url": "https://pokumon.com/card/build-a-bear-alolan-vulpix-21-145-build-a-bear-workshop-special-print/"
+      },
+      {
+        "title": "Build-A-Bear Snubbull (90/149 Build-A-Bear Workshop Special Print)",
+        "card_url": "https://pokumon.com/card/build-a-bear-snubbull-90-149-build-a-bear-workshop-special-print/"
+      },
+      {
+        "title": "Build-A-Bear Vulpix (20/160 Build-A-Bear Workshop Special Print)",
+        "card_url": "https://pokumon.com/card/build-a-bear-vulpix-20-160-build-a-bear-workshop-special-print/"
+      },
+      {
+        "title": "Burger King Lucario (6/130 Burger King Special Print)",
+        "card_url": "https://pokumon.com/card/burger-king-lucario-6-130-burger-king-special-print/"
+      },
+      {
+        "title": "Cinderace 13 stamp Vulpix (029/264 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/cinderace-13-stamp-vulpix-029-264-battle-academy-special-print/"
+      },
+      {
+        "title": "Cinderace 18 stamp Vulpix (029/264 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/cinderace-18-stamp-vulpix-029-264-battle-academy-special-print/"
+      },
+      {
+        "title": "Cinderace 23 stamp Ninetales (030/264 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/cinderace-23-stamp-ninetales-030-264-battle-academy-special-print/"
+      },
+      {
+        "title": "Cinderace 31 stamp Vulpix (029/264 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/cinderace-31-stamp-vulpix-029-264-battle-academy-special-print/"
+      },
+      {
+        "title": "Cinderace 7 stamp Ninetales (030/264 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/cinderace-7-stamp-ninetales-030-264-battle-academy-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Delphox (26/146 Ancient Origins Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-delphox-26-146-ancient-origins-blisters-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Furfrou (114/146 Primal Clash Blisters,Primal Clash Launch Kit Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-furfrou-114-146-primal-clash-blistersprimal-clash-launch-kit-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Lucario (63/124 Sun & Moon Knock Out Collection Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-lucario-63-124-sun-moon-knock-out-collection-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Lucario (64/99 Dark Explorers Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-lucario-64-99-dark-explorers-blisters-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Lucario (80/113 Mega Lucario Collection Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-lucario-80-113-mega-lucario-collection-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Zoroark (73/146 Primal Clash Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-zoroark-73-146-primal-clash-blisters-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Zoroark (90/113 Furious Fists Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-zoroark-90-113-furious-fists-blisters-special-print/"
+      },
+      {
+        "title": "Cosmos Holo Zoroark (91/162 Sun & Moon Knock Out Collection Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holo-zoroark-91-162-sun-moon-knock-out-collection-special-print/"
+      },
+      {
+        "title": "Cosmos Holofoil Arcanine (22/214 Cosmic Eclipse Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holofoil-arcanine-22-214-cosmic-eclipse-blisters-special-print/"
+      },
+      {
+        "title": "Cosmos holofoil Boltund (076/202 Sword & Shield Knock Out Collection Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holofoil-boltund-076-202-sword-shield-knock-out-collection-special-print/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_de",
+    "url": "https://pokumon.com/cards/?_sft_language=german",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/d38a425d259a4c72faa18a4a.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=german",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 150219,
+    "sha256": "894de59b4933cf8d7e4564110a414d9af35630faff25530ceeb0428418692b8b",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Corrected German Clair’s Mantine (Tropical Mega Battle 2002) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/corrected-german-clairs-mantine-tropical-mega-battle-2002-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "Europe Championships Champion Choice Band (121a/145 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-champion-choice-band-121a-145-international-championships-europe-special-print/"
+      },
+      {
+        "title": "Europe Championships Champion Quick Ball (237/264 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-champion-quick-ball-237-264-international-championships-europe-special-print/"
+      },
+      {
+        "title": "Europe Championships Choice Band (121a/145 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-choice-band-121a-145-international-championships-europe-special-print/"
+      },
+      {
+        "title": "Europe Championships Quick Ball (237/264 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-quick-ball-237-264-international-championships-europe-special-print/"
+      },
+      {
+        "title": "Europe Championships Staff Choice Band (121a/145 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-staff-choice-band-121a-145-international-championships-europe-special-print/"
+      },
+      {
+        "title": "Europe Championships Staff Quick Ball (237/264 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-staff-quick-ball-237-264-international-championships-europe-special-print/"
+      },
+      {
+        "title": "Europe Championships Top 8 Choice Band (121a/145 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-top-8-choice-band-121a-145-international-championships-europe-special-print/"
+      },
+      {
+        "title": "Europe Championships Top 8 Quick Ball (237/264 International Championships Europe Special Print)",
+        "card_url": "https://pokumon.com/card/europe-championships-top-8-quick-ball-237-264-international-championships-europe-special-print/"
+      },
+      {
+        "title": "German Bruno’s Hitmonchan (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-brunos-hitmonchan-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Bugsy’s Yanma (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-bugsys-yanma-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Chuck’s Donphan (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-chucks-donphan-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Clair’s Mantine (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-clairs-mantine-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Energy Ark (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-energy-ark-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Falkner’s Fearow (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-falkners-fearow-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Janine’s Beedrill (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-janines-beedrill-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Jasmine’s Raichu (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-jasmines-raichu-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Karen’s Rapidash (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-karens-rapidash-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Morty’s Hypno (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-mortys-hypno-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Pokemon Day Pikachu (15/17 Pokemon Day POP Series 9)",
+        "card_url": "https://pokumon.com/card/german-pokemon-day-pikachu-15-17-pokemon-day-pop-series-9/"
+      },
+      {
+        "title": "German Potion (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-potion-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Pryce’s Cloyster (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-pryces-cloyster-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Super Scoop Up (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-super-scoop-up-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Switch (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-switch-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Tropical Breeze (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-tropical-breeze-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Whitney’s Furret (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-whitneys-furret-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "German Will’s Girafarig (Tropical Mega Battle 2001) (VS Tropical Mega Battle)",
+        "card_url": "https://pokumon.com/card/german-wills-girafarig-tropical-mega-battle-2001-vs-tropical-mega-battle/"
+      },
+      {
+        "title": "Non-English Combusken (009/Nintendo Black Star French,Italian,German,Dutch Promo)",
+        "card_url": "https://pokumon.com/card/non-english-combusken-009-nintendo-black-star-frenchitaliangermandutch-promo/"
+      },
+      {
+        "title": "Non-English Grovyle (004/Nintendo Black Star French,Italian,German,Dutch Promo)",
+        "card_url": "https://pokumon.com/card/non-english-grovyle-004-nintendo-black-star-frenchitaliangermandutch-promo/"
+      },
+      {
+        "title": "Non-English Marshtomp (011/Nintendo Black Star French,Italian,German,Dutch Promo)",
+        "card_url": "https://pokumon.com/card/non-english-marshtomp-011-nintendo-black-star-frenchitaliangermandutch-promo/"
+      },
+      {
+        "title": "Non-English Mudkip (005/Nintendo Black Star French,Italian,German,Dutch Promo)",
+        "card_url": "https://pokumon.com/card/non-english-mudkip-005-nintendo-black-star-frenchitaliangermandutch-promo/"
+      },
+      {
+        "title": "Non-English Torchic (006/Nintendo Black Star French,Italian,German,Dutch Promo)",
+        "card_url": "https://pokumon.com/card/non-english-torchic-006-nintendo-black-star-frenchitaliangermandutch-promo/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=2",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/758bc11b99eff3056eb1811b.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=2",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 484602,
+    "sha256": "ed1ee7f635b80b3f167a076ad29d0763104dcf456eeb18ad68a637b232b296c0",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Cosmos holofoil Hisuian Growlithe (070/189 Cosmos Holo Fall 2022 Collector Chest exclusive Special Print)",
+        "card_url": "https://pokumon.com/card/cosmos-holofoil-hisuian-growlithe-070-189-cosmos-holo-fall-2022-collector-chest-exclusive-special-print/"
+      },
+      {
+        "title": "Cracked Ice Alolan Ninetales (28/147 Luminous Frost Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-alolan-ninetales-28-147-luminous-frost-theme-deck-special-print/"
+      },
+      {
+        "title": "Cracked Ice Lucario (14/95 Retort Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-lucario-14-95-retort-theme-deck-special-print/"
+      },
+      {
+        "title": "Cracked Ice Lycanroc (76/131 Twilight Rogue Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-lycanroc-76-131-twilight-rogue-theme-deck-special-print/"
+      },
+      {
+        "title": "Cracked Ice Lycanroc (76/147 Rock Steady Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-lycanroc-76-147-rock-steady-theme-deck-special-print/"
+      },
+      {
+        "title": "Cracked Ice Ninetales (7/123 Emerging Powers Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-ninetales-7-123-emerging-powers-blisters-special-print/"
+      },
+      {
+        "title": "Cracked Ice Zacian (139/192 Zacian Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-zacian-139-192-zacian-theme-deck-special-print/"
+      },
+      {
+        "title": "Cracked Ice Zamazenta (140/192 Zamazenta Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-zamazenta-140-192-zamazenta-theme-deck-special-print/"
+      },
+      {
+        "title": "Cracked Ice Zoroark (71/108 Shadows Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-zoroark-71-108-shadows-theme-deck-special-print/"
+      },
+      {
+        "title": "Cracked Ice Zoroark (71/114 Next Destinies Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-zoroark-71-114-next-destinies-blisters-special-print/"
+      },
+      {
+        "title": "Cracked Ice Zygarde (53/124 Battle Ruler Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/cracked-ice-zygarde-53-124-battle-ruler-theme-deck-special-print/"
+      },
+      {
+        "title": "Dark Houndoom (37/109 EX Team Rocket Returns Prerelease Special Print)",
+        "card_url": "https://pokumon.com/card/dark-houndoom-37-109-ex-team-rocket-returns-prerelease-special-print/"
+      },
+      {
+        "title": "Delphox (13/124 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/delphox-13-124-pokemon-league-special-print/"
+      },
+      {
+        "title": "Delphox EX (XY19 English Promo)",
+        "card_url": "https://pokumon.com/card/delphox-ex-xy19-english-promo/"
+      },
+      {
+        "title": "Delphox (MEP074 English Promo)",
+        "card_url": "https://pokumon.com/card/delphox-mep074-english-promo/"
+      },
+      {
+        "title": "EB Games Hisuian Zoroark (076/196 Line Holo “EB Games” stamp gift with purchase exclusive (Australia) Special Print)",
+        "card_url": "https://pokumon.com/card/eb-games-hisuian-zoroark-076-196-line-holo-eb-games-stamp-gift-with-purchase-exclusive-australia-special-print/"
+      },
+      {
+        "title": "Eevee stamp Galarian Zigzagoon (035/073 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/eevee-stamp-galarian-zigzagoon-035-073-battle-academy-special-print/"
+      },
+      {
+        "title": "Eevee stamp Zoroark (171/264 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/eevee-stamp-zoroark-171-264-battle-academy-special-print/"
+      },
+      {
+        "title": "Eevee stamp Zorua (170/264 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/eevee-stamp-zorua-170-264-battle-academy-special-print/"
+      },
+      {
+        "title": "Electrike (7/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/electrike-7-12-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Fennekin (10/124 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/fennekin-10-124-pokemon-league-special-print/"
+      },
+      {
+        "title": "Fennekin (14/25 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/fennekin-14-25-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Fennekin (3/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Fennekin (3/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection-2/"
+      },
+      {
+        "title": "Fennekin (MEP080 English Promo)",
+        "card_url": "https://pokumon.com/card/fennekin-mep080-english-promo/"
+      },
+      {
+        "title": "Fennekin (XY02 English Promo)",
+        "card_url": "https://pokumon.com/card/fennekin-xy02-english-promo/"
+      },
+      {
+        "title": "Fidough (SVP069 English Promo)",
+        "card_url": "https://pokumon.com/card/fidough-svp069-english-promo/"
+      },
+      {
+        "title": "First Place Lucario (63/124 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/first-place-lucario-63-124-pokemon-league-special-print/"
+      },
+      {
+        "title": "Fourth Place Lucario (63/124 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/fourth-place-lucario-63-124-pokemon-league-special-print/"
+      },
+      {
+        "title": "Furfrou (12/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/furfrou-12-12-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Gamestop Hisuian Zoroark (076/196 Line Holo “Gamestop” stamp gift with purchase exclusive (USA) Special Print)",
+        "card_url": "https://pokumon.com/card/gamestop-hisuian-zoroark-076-196-line-holo-gamestop-stamp-gift-with-purchase-exclusive-usa-special-print/"
+      },
+      {
+        "title": "Greavard (SVP070 English Promo)",
+        "card_url": "https://pokumon.com/card/greavard-svp070-english-promo/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_de",
+    "url": "https://pokumon.com/cards/?_sft_language=german&sf_paged=2",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/e377810fe6b0cb73bfc25130.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=german&sf_paged=2",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 111304,
+    "sha256": "ab7fff7d682bce5cf09e5286625df725e9b81c903a4eb6b3859dbc0586426fc5",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Non-English Treecko (007/Nintendo Black Star French,Italian,German,Dutch Promo)",
+        "card_url": "https://pokumon.com/card/non-english-treecko-007-nintendo-black-star-frenchitaliangermandutch-promo/"
+      },
+      {
+        "title": "Phanpy Mew (Pokemon Art Academy Competition 2015) (Unnumbered)",
+        "card_url": "https://pokumon.com/card/phanpy-mew-pokemon-art-academy-competition-2015-unnumbered/"
+      },
+      {
+        "title": "Pikachu World Collection Flying Pikachu (25/Wizards Black Star German Promo)",
+        "card_url": "https://pokumon.com/card/pikachu-world-collection-flying-pikachu-25-wizards-black-star-german-promo/"
+      },
+      {
+        "title": "Pokemon Day Deoxys (16/107 Pokemon Day Special Print)",
+        "card_url": "https://pokumon.com/card/pokemon-day-deoxys-16-107-pokemon-day-special-print/"
+      },
+      {
+        "title": "Pokemon Day Rayquaza (22/107 Pokemon Day Special Print)",
+        "card_url": "https://pokumon.com/card/pokemon-day-rayquaza-22-107-pokemon-day-special-print/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=3",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/5e152c390cdfc7d60cd9cb9a.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=3",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 486096,
+    "sha256": "064428a1559ddf07602968043f295677987ba8a0e06f42193b0777b510768626",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Growlithe (1/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/growlithe-1-12-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Growlithe (4/15 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/growlithe-4-15-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Growlithe (SVP024 English Promo)",
+        "card_url": "https://pokumon.com/card/growlithe-svp024-english-promo/"
+      },
+      {
+        "title": "Hisuian Zoroark V (SWSH297 English Promo)",
+        "card_url": "https://pokumon.com/card/hisuian-zoroark-v-swsh297-english-promo/"
+      },
+      {
+        "title": "Hisuian Zoroark VSTAR (SWSH298 English Promo)",
+        "card_url": "https://pokumon.com/card/hisuian-zoroark-vstar-swsh298-english-promo/"
+      },
+      {
+        "title": "Holofoil Alolan Ninetales (SM128 English Promo)",
+        "card_url": "https://pokumon.com/card/holofoil-alolan-ninetales-sm128-english-promo/"
+      },
+      {
+        "title": "Holofoil Arcanine G (Galactic’s) (15/147 Ignition Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-arcanine-g-galactics-15-147-ignition-theme-deck-special-print/"
+      },
+      {
+        "title": "Holofoil Fennekin (14/25 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/holofoil-fennekin-14-25-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Holofoil Lucario (2/17 Lucario Collector’s Tin, Collector’s Poster Box POP Series 8)",
+        "card_url": "https://pokumon.com/card/holofoil-lucario-2-17-lucario-collectors-tin-collectors-poster-box-pop-series-8/"
+      },
+      {
+        "title": "Holofoil Mightyena (18/108 Dark Blast Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-mightyena-18-108-dark-blast-theme-deck-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Alolan Vulpix V (033/195 Play Pokemon Prize Pack Series 3 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-alolan-vulpix-v-033-195-play-pokemon-prize-pack-series-3-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Alolan Vulpix VSTAR (034/195 Play Pokemon Prize Pack Series 3 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-alolan-vulpix-vstar-034-195-play-pokemon-prize-pack-series-3-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Boltund V (103/264 Play Pokemon Prize Pack Series 2 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-boltund-v-103-264-play-pokemon-prize-pack-series-2-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Boltund VMAX (104/264 Play Pokemon Prize Pack Series 2 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-boltund-vmax-104-264-play-pokemon-prize-pack-series-2-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Galarian Zigzagoon (117/202 Play Pokemon Prize Pack Series 1 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-galarian-zigzagoon-117-202-play-pokemon-prize-pack-series-1-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Hisuian Arcanine V (090/195 Play Pokemon Prize Pack Series 3 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-hisuian-arcanine-v-090-195-play-pokemon-prize-pack-series-3-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Hisuian Zoroark V (146/196 Play Pokemon Prize Pack Series 3 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-hisuian-zoroark-v-146-196-play-pokemon-prize-pack-series-3-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Hisuian Zoroark VSTAR (147/196 Play Pokemon Prize Pack Series 3 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-hisuian-zoroark-vstar-147-196-play-pokemon-prize-pack-series-3-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Houndoom (096/163 Play Pokemon Prize Pack Series 2 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-houndoom-096-163-play-pokemon-prize-pack-series-2-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Lucario ex (SVP017 English Promo)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-lucario-ex-svp017-english-promo/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Zacian V (138/202 Play Pokemon Prize Pack Series 1 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-zacian-v-138-202-play-pokemon-prize-pack-series-1-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Zamazenta V (105/172 Play Pokemon Prize Pack Series 2 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-zamazenta-v-105-172-play-pokemon-prize-pack-series-2-special-print/"
+      },
+      {
+        "title": "Holofoil Play Pokemon Zamazenta V (139/202 Play Pokemon Prize Pack Series 1 Special Print)",
+        "card_url": "https://pokumon.com/card/holofoil-play-pokemon-zamazenta-v-139-202-play-pokemon-prize-pack-series-1-special-print/"
+      },
+      {
+        "title": "Holofoil Riolu (16/17 Trainer’s Challenge Box POP Series 8)",
+        "card_url": "https://pokumon.com/card/holofoil-riolu-16-17-trainers-challenge-box-pop-series-8/"
+      },
+      {
+        "title": "Holofoil Riolu (8/17 Great Encounters Blisters POP Series 6)",
+        "card_url": "https://pokumon.com/card/holofoil-riolu-8-17-great-encounters-blisters-pop-series-6/"
+      },
+      {
+        "title": "Hop’s Zacian ex (SVP193 English Promo)",
+        "card_url": "https://pokumon.com/card/hops-zacian-ex-svp193-english-promo/"
+      },
+      {
+        "title": "Houndoom (5/90 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/houndoom-5-90-pokemon-league-special-print/"
+      },
+      {
+        "title": "Houndoom (SVP103 English Promo)",
+        "card_url": "https://pokumon.com/card/houndoom-svp103-english-promo/"
+      },
+      {
+        "title": "Houndoom (SWSH090 English Promo)",
+        "card_url": "https://pokumon.com/card/houndoom-swsh090-english-promo/"
+      },
+      {
+        "title": "Houndstone ex (SVP162 English Promo)",
+        "card_url": "https://pokumon.com/card/houndstone-ex-svp162-english-promo/"
+      },
+      {
+        "title": "Houndstone (SVP042 English Promo)",
+        "card_url": "https://pokumon.com/card/houndstone-svp042-english-promo/"
+      },
+      {
+        "title": "Jumbo Hop’s Zacian ex (SVP193 English Promo)",
+        "card_url": "https://pokumon.com/card/jumbo-hops-zacian-ex-svp193-english-promo/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=4",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/6afe5eb7aa40d44166337bf1.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=4",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 482153,
+    "sha256": "4ae7ed51407bf437c4bde1225fdf049a713b5c3d52ddd32a61f153ab6471eb1c",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Jumbo Houndstone ex (SVP162 English Promo)",
+        "card_url": "https://pokumon.com/card/jumbo-houndstone-ex-svp162-english-promo/"
+      },
+      {
+        "title": "Jumbo Mega Lucario ex (MEP012 English Promo)",
+        "card_url": "https://pokumon.com/card/jumbo-mega-lucario-ex-mep012-english-promo/"
+      },
+      {
+        "title": "Jumbo Mega Zygarde ex (MEP071 English Promo)",
+        "card_url": "https://pokumon.com/card/jumbo-mega-zygarde-ex-mep071-english-promo/"
+      },
+      {
+        "title": "Lillipup (81/114 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/lillipup-81-114-pokemon-league-special-print/"
+      },
+      {
+        "title": "Lillipup (BW52 English Promo)",
+        "card_url": "https://pokumon.com/card/lillipup-bw52-english-promo/"
+      },
+      {
+        "title": "Lucario (2/17 Pokémon Organized Play events POP Series 6)",
+        "card_url": "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-6/"
+      },
+      {
+        "title": "Lucario (2/17 Pokémon Organized Play events POP Series 8)",
+        "card_url": "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-8/"
+      },
+      {
+        "title": "Lucario (53/127 Platinum Prerelease Special Print)",
+        "card_url": "https://pokumon.com/card/lucario-53-127-platinum-prerelease-special-print/"
+      },
+      {
+        "title": "Lucario (BW85 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-bw85-english-promo/"
+      },
+      {
+        "title": "Lucario ex (SVP017 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-ex-svp017-english-promo/"
+      },
+      {
+        "title": "Lucario GX (SM100 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-gx-sm100-english-promo/"
+      },
+      {
+        "title": "Lucario LV.X (DP12 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-lv-x-dp12-english-promo/"
+      },
+      {
+        "title": "Lucario (SM54 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-sm54-english-promo/"
+      },
+      {
+        "title": "Lucario (SM95 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-sm95-english-promo/"
+      },
+      {
+        "title": "Lucario (SWSH186 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-swsh186-english-promo/"
+      },
+      {
+        "title": "Lucario V (SWSH213 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-v-swsh213-english-promo/"
+      },
+      {
+        "title": "Lucario VSTAR (SWSH214 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-vstar-swsh214-english-promo/"
+      },
+      {
+        "title": "Lucario VSTAR (SWSH291 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-vstar-swsh291-english-promo/"
+      },
+      {
+        "title": "Lucario (XY140 English Promo)",
+        "card_url": "https://pokumon.com/card/lucario-xy140-english-promo/"
+      },
+      {
+        "title": "Lycanroc GX (SM14 English Promo)",
+        "card_url": "https://pokumon.com/card/lycanroc-gx-sm14-english-promo/"
+      },
+      {
+        "title": "Lycanroc (SM105 English Promo)",
+        "card_url": "https://pokumon.com/card/lycanroc-sm105-english-promo/"
+      },
+      {
+        "title": "Lycanroc (SM118 English Promo)",
+        "card_url": "https://pokumon.com/card/lycanroc-sm118-english-promo/"
+      },
+      {
+        "title": "Lycanroc V (SWSH199 English Promo)",
+        "card_url": "https://pokumon.com/card/lycanroc-v-swsh199-english-promo/"
+      },
+      {
+        "title": "Mabosstiff ex (SVP086 English Promo)",
+        "card_url": "https://pokumon.com/card/mabosstiff-ex-svp086-english-promo/"
+      },
+      {
+        "title": "Manectric (38/107 EX Deoxys Prerelease Special Print)",
+        "card_url": "https://pokumon.com/card/manectric-38-107-ex-deoxys-prerelease-special-print/"
+      },
+      {
+        "title": "Manectric (SM130 English Promo)",
+        "card_url": "https://pokumon.com/card/manectric-sm130-english-promo/"
+      },
+      {
+        "title": "Maschiff (SVP071 English Promo)",
+        "card_url": "https://pokumon.com/card/maschiff-svp071-english-promo/"
+      },
+      {
+        "title": "Mega Lucario EX (55a/111 Mega Powers Collection Special Print)",
+        "card_url": "https://pokumon.com/card/mega-lucario-ex-55a-111-mega-powers-collection-special-print/"
+      },
+      {
+        "title": "Mega Lucario ex (MEP033 English Promo)",
+        "card_url": "https://pokumon.com/card/mega-lucario-ex-mep033-english-promo/"
+      },
+      {
+        "title": "Mega Manectric EX (24a/119 Mega Powers Collection Special Print)",
+        "card_url": "https://pokumon.com/card/mega-manectric-ex-24a-119-mega-powers-collection-special-print/"
+      },
+      {
+        "title": "Mega Zygarde ex (MEP071 English Promo)",
+        "card_url": "https://pokumon.com/card/mega-zygarde-ex-mep071-english-promo/"
+      },
+      {
+        "title": "Ninetales (BW66 English Promo)",
+        "card_url": "https://pokumon.com/card/ninetales-bw66-english-promo/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=5",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/cfc8d8cb2aed28050e8f0e38.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=5",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 487578,
+    "sha256": "7ce15f72c42a41f2628f8dd05998b24819c0213d208971355e282ddf2392626b",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Non-holo Arcanine (1/123 Ember Spark Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-arcanine-1-123-ember-spark-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Boltund (076/202 Zeraora V Battle Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-boltund-076-202-zeraora-v-battle-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Delphox (13/124 Fates Collide Prerelease Kit,Sky Guardian Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-delphox-13-124-fates-collide-prerelease-kitsky-guardian-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Delphox (26/146 Battle Arena Decks: Black Kyurem vs White Kyurem Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-delphox-26-146-battle-arena-decks-black-kyurem-vs-white-kyurem-special-print/"
+      },
+      {
+        "title": "Non-holo Hisuian Arcanine (084/196 Non Holo Lost Origin Build & Battle Box exclusive Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-hisuian-arcanine-084-196-non-holo-lost-origin-build-battle-box-exclusive-special-print/"
+      },
+      {
+        "title": "Non-holo Houndoom (096/163 Battle Styles Build & Battle Box Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-houndoom-096-163-battle-styles-build-battle-box-special-print/"
+      },
+      {
+        "title": "Non-holo Lucario (079/172 Non Holo Brilliant Stars Build & Battle Box exclusive Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-lucario-079-172-non-holo-brilliant-stars-build-battle-box-exclusive-special-print/"
+      },
+      {
+        "title": "Non-holo Lucario (126/214 Unbroken Bonds Build & Battle Box Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-lucario-126-214-unbroken-bonds-build-battle-box-special-print/"
+      },
+      {
+        "title": "Non-holo Lucario (14/95 Retort Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-lucario-14-95-retort-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Lucario (67/156 Mach Strike Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-lucario-67-156-mach-strike-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Lucario (71/147 Rock Steady Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-lucario-71-147-rock-steady-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Lucario V (027/073 Free Demo Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-lucario-v-027-073-free-demo-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Manectric (61/160 Earth’s Pulse Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-manectric-61-160-earths-pulse-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Manectric (7/106 Wildfire Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-manectric-7-106-wildfire-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Ninetales (15/108 Evolutions Prerelease Kit Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-ninetales-15-108-evolutions-prerelease-kit-special-print/"
+      },
+      {
+        "title": "Non-holo Ninetales (17/95 Recon Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-ninetales-17-95-recon-theme-deck-special-print/"
+      },
+      {
+        "title": "Non-holo Riolu (BW33 English Promo)",
+        "card_url": "https://pokumon.com/card/non-holo-riolu-bw33-english-promo/"
+      },
+      {
+        "title": "Non-holo Zoroark (103/203 Non Holo Evolving Skies Build & Battle Box exclusive Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-zoroark-103-203-non-holo-evolving-skies-build-battle-box-exclusive-special-print/"
+      },
+      {
+        "title": "Non-holo Zoroark (71/114 Battle Arena Decks: Mewtwo vs Darkrai Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-zoroark-71-114-battle-arena-decks-mewtwo-vs-darkrai-special-print/"
+      },
+      {
+        "title": "Non-holo Zoroark (90/113 Battle Arena Decks: Mewtwo vs Darkrai Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-zoroark-90-113-battle-arena-decks-mewtwo-vs-darkrai-special-print/"
+      },
+      {
+        "title": "Non-holo Zoroark (91/162 Night Striker Theme Deck Special Print)",
+        "card_url": "https://pokumon.com/card/non-holo-zoroark-91-162-night-striker-theme-deck-special-print/"
+      },
+      {
+        "title": "N’s Zorua (SVP189 English Promo)",
+        "card_url": "https://pokumon.com/card/ns-zorua-svp189-english-promo/"
+      },
+      {
+        "title": "Peegeray Delphox (Pokemon Art Academy Competition 2015) (Unnumbered)",
+        "card_url": "https://pokumon.com/card/peegeray-delphox-pokemon-art-academy-competition-2015-unnumbered/"
+      },
+      {
+        "title": "Pikachu 1 stamp Yamper (074/202 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/pikachu-1-stamp-yamper-074-202-battle-academy-special-print/"
+      },
+      {
+        "title": "Pikachu 16 stamp Boltund (076/202 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/pikachu-16-stamp-boltund-076-202-battle-academy-special-print/"
+      },
+      {
+        "title": "Pikachu 58 stamp Yamper (074/202 Battle Academy Special Print)",
+        "card_url": "https://pokumon.com/card/pikachu-58-stamp-yamper-074-202-battle-academy-special-print/"
+      },
+      {
+        "title": "Play Pokemon Hisuian Arcanine (084/196 Play Pokemon Prize Pack Series 3 Special Print)",
+        "card_url": "https://pokumon.com/card/play-pokemon-hisuian-arcanine-084-196-play-pokemon-prize-pack-series-3-special-print/"
+      },
+      {
+        "title": "Play Pokemon Houndoom (096/163 Play Pokemon Prize Pack Series 1,Play Pokemon Prize Pack Series 2 Special Print)",
+        "card_url": "https://pokumon.com/card/play-pokemon-houndoom-096-163-play-pokemon-prize-pack-series-1play-pokemon-prize-pack-series-2-special-print/"
+      },
+      {
+        "title": "Play Pokemon Lucario (079/172 Play Pokemon Prize Pack Series 2 Special Print)",
+        "card_url": "https://pokumon.com/card/play-pokemon-lucario-079-172-play-pokemon-prize-pack-series-2-special-print/"
+      },
+      {
+        "title": "Play Pokemon Lucario (114/198 Play Pokemon Prize Pack Series 3 Special Print)",
+        "card_url": "https://pokumon.com/card/play-pokemon-lucario-114-198-play-pokemon-prize-pack-series-3-special-print/"
+      },
+      {
+        "title": "Play Pokemon Lycanroc (087/198 Play Pokemon Prize Pack Series 1 Special Print)",
+        "card_url": "https://pokumon.com/card/play-pokemon-lycanroc-087-198-play-pokemon-prize-pack-series-1-special-print/"
+      },
+      {
+        "title": "Play Pokemon Smeargle (128/203 Play Pokemon Prize Pack Series 1 Special Print)",
+        "card_url": "https://pokumon.com/card/play-pokemon-smeargle-128-203-play-pokemon-prize-pack-series-1-special-print/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=6",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/dc02cf67c2e6bdc3ba3b0ef8.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=6",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 483973,
+    "sha256": "ab520e76ec965ff893722f886d56cc743c58aaf3919fb53fac7b85b67a931874",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Play Pokemon Zoroark (103/203 Play Pokemon Prize Pack Series 1,Play Pokemon Prize Pack Series 2 Special Print)",
+        "card_url": "https://pokumon.com/card/play-pokemon-zoroark-103-203-play-pokemon-prize-pack-series-1play-pokemon-prize-pack-series-2-special-print/"
+      },
+      {
+        "title": "Pokemon Center Stamp Fennekin (MEP080 English Promo)",
+        "card_url": "https://pokumon.com/card/pokemon-center-stamp-fennekin-mep080-english-promo/"
+      },
+      {
+        "title": "Pokemon Center Stamp N’s Zorua (SVP189 English Promo)",
+        "card_url": "https://pokumon.com/card/pokemon-center-stamp-ns-zorua-svp189-english-promo/"
+      },
+      {
+        "title": "Pokemon Center Stamp Riolu (MEP010 English Promo)",
+        "card_url": "https://pokumon.com/card/pokemon-center-stamp-riolu-mep010-english-promo/"
+      },
+      {
+        "title": "Riolu (16/17 Pokémon Organized Play events POP Series 8)",
+        "card_url": "https://pokumon.com/card/riolu-16-17-pokemon-organized-play-events-pop-series-8/"
+      },
+      {
+        "title": "Riolu (8/17 Pokémon Organized Play events POP Series 6)",
+        "card_url": "https://pokumon.com/card/riolu-8-17-pokemon-organized-play-events-pop-series-6/"
+      },
+      {
+        "title": "Riolu (91/127 San Diego Comic Con Special Print)",
+        "card_url": "https://pokumon.com/card/riolu-91-127-san-diego-comic-con-special-print/"
+      },
+      {
+        "title": "Riolu (BW33 English Promo)",
+        "card_url": "https://pokumon.com/card/riolu-bw33-english-promo/"
+      },
+      {
+        "title": "Riolu (MEP010 English Promo)",
+        "card_url": "https://pokumon.com/card/riolu-mep010-english-promo/"
+      },
+      {
+        "title": "Ripple Holofoil Alolan Ninetales (28/147 Burning Shadows GX Challenge Box Special Print)",
+        "card_url": "https://pokumon.com/card/ripple-holofoil-alolan-ninetales-28-147-burning-shadows-gx-challenge-box-special-print/"
+      },
+      {
+        "title": "Ripple Holofoil Lycanroc (76/147 Burning Shadows GX Challenge Box Special Print)",
+        "card_url": "https://pokumon.com/card/ripple-holofoil-lycanroc-76-147-burning-shadows-gx-challenge-box-special-print/"
+      },
+      {
+        "title": "Rockruff (SM06 English Promo)",
+        "card_url": "https://pokumon.com/card/rockruff-sm06-english-promo/"
+      },
+      {
+        "title": "Rockruff (SM120 English Promo)",
+        "card_url": "https://pokumon.com/card/rockruff-sm120-english-promo/"
+      },
+      {
+        "title": "Second Place Lucario (63/124 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/second-place-lucario-63-124-pokemon-league-special-print/"
+      },
+      {
+        "title": "Sequin holofoil Rockruff (SM06 English Promo)",
+        "card_url": "https://pokumon.com/card/sequin-holofoil-rockruff-sm06-english-promo/"
+      },
+      {
+        "title": "Smeargle (15/15 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/smeargle-15-15-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Smeargle (32/Wizards Black Star English Promo)",
+        "card_url": "https://pokumon.com/card/smeargle-32-wizards-black-star-english-promo/"
+      },
+      {
+        "title": "Snowflake Stamp Alolan Vulpix V (033/195 Silver snowflake stamp Holiday Calendar 2023 exclusive Special Print)",
+        "card_url": "https://pokumon.com/card/snowflake-stamp-alolan-vulpix-v-033-195-silver-snowflake-stamp-holiday-calendar-2023-exclusive-special-print/"
+      },
+      {
+        "title": "Snowflake Stamp Riolu (61/130 Pokemon Countdown Calendar Special Print)",
+        "card_url": "https://pokumon.com/card/snowflake-stamp-riolu-61-130-pokemon-countdown-calendar-special-print/"
+      },
+      {
+        "title": "Snubbull (8/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/snubbull-8-12-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Snubbull (SM200 English Promo)",
+        "card_url": "https://pokumon.com/card/snubbull-sm200-english-promo/"
+      },
+      {
+        "title": "Staff Arcanine (12/99 Next Destinies Special Print)",
+        "card_url": "https://pokumon.com/card/staff-arcanine-12-99-next-destinies-special-print/"
+      },
+      {
+        "title": "Staff Delphox (MEP074 English Promo)",
+        "card_url": "https://pokumon.com/card/staff-delphox-mep074-english-promo/"
+      },
+      {
+        "title": "Staff Lucario (53/127 Platinum Prerelease Special Print)",
+        "card_url": "https://pokumon.com/card/staff-lucario-53-127-platinum-prerelease-special-print/"
+      },
+      {
+        "title": "Staff Lucario (SM95 English Promo)",
+        "card_url": "https://pokumon.com/card/staff-lucario-sm95-english-promo/"
+      },
+      {
+        "title": "Staff Lycanroc (SM118 English Promo)",
+        "card_url": "https://pokumon.com/card/staff-lycanroc-sm118-english-promo/"
+      },
+      {
+        "title": "Staff Manectric (SM130 English Promo)",
+        "card_url": "https://pokumon.com/card/staff-manectric-sm130-english-promo/"
+      },
+      {
+        "title": "Staff Riolu (91/127 San Diego Comic Con Special Print)",
+        "card_url": "https://pokumon.com/card/staff-riolu-91-127-san-diego-comic-con-special-print/"
+      },
+      {
+        "title": "Staff Zacian (MEP015 English Promo)",
+        "card_url": "https://pokumon.com/card/staff-zacian-mep015-english-promo/"
+      },
+      {
+        "title": "Staff Zygarde (SM48 English Promo)",
+        "card_url": "https://pokumon.com/card/staff-zygarde-sm48-english-promo/"
+      },
+      {
+        "title": "Staff Zygarde (XY129 English Promo)",
+        "card_url": "https://pokumon.com/card/staff-zygarde-xy129-english-promo/"
+      },
+      {
+        "title": "Stamped Cosmos Holofoil Zygarde (72/131 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/stamped-cosmos-holofoil-zygarde-72-131-pokemon-league-special-print/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=7",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/08fe4008feeae4a13119ab27.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=7",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 482392,
+    "sha256": "41a0983d4cc7b784ed7b93f0a355f11b26236bbc6ef6d64edb05d984d2340e2c",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Stamped Fennekin (15/131 Toys “R” Us Special Print)",
+        "card_url": "https://pokumon.com/card/stamped-fennekin-15-131-toys-r-us-special-print/"
+      },
+      {
+        "title": "Stamped Hisuian Zoroark (076/196 Line Holo “Lost Origin” stamp gift with purchase exclusive (various countries) Special Print)",
+        "card_url": "https://pokumon.com/card/stamped-hisuian-zoroark-076-196-line-holo-lost-origin-stamp-gift-with-purchase-exclusive-various-countries-special-print/"
+      },
+      {
+        "title": "Stamped Snubbull (SM200 English Promo)",
+        "card_url": "https://pokumon.com/card/stamped-snubbull-sm200-english-promo/"
+      },
+      {
+        "title": "Third Place Lucario (63/124 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/third-place-lucario-63-124-pokemon-league-special-print/"
+      },
+      {
+        "title": "Toys R Us Alolan Vulpix (21/145 Toys “R” Us Special Print)",
+        "card_url": "https://pokumon.com/card/toys-r-us-alolan-vulpix-21-145-toys-r-us-special-print/"
+      },
+      {
+        "title": "Trick or Trade Lycanroc (095/185 Trick or Trade Special Print)",
+        "card_url": "https://pokumon.com/card/trick-or-trade-lycanroc-095-185-trick-or-trade-special-print/"
+      },
+      {
+        "title": "Trick or Trade Nickit (103/189 Non Holo Pikachu jack-o’-lantern stamp Trick or Trade BOOster Bundle exclusive Special Print)",
+        "card_url": "https://pokumon.com/card/trick-or-trade-nickit-103-189-non-holo-pikachu-jack-o-lantern-stamp-trick-or-trade-booster-bundle-exclusive-special-print/"
+      },
+      {
+        "title": "Vulpix (1/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/vulpix-1-12-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Wrong Set Symbol Vulpix (87/123 Emerging Powers Blisters Special Print)",
+        "card_url": "https://pokumon.com/card/wrong-set-symbol-vulpix-87-123-emerging-powers-blisters-special-print/"
+      },
+      {
+        "title": "Zacian ex (SVP198 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-ex-svp198-english-promo/"
+      },
+      {
+        "title": "Zacian Lv. X (SWSH135 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-lv-x-swsh135-english-promo/"
+      },
+      {
+        "title": "Zacian (MEP015 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-mep015-english-promo/"
+      },
+      {
+        "title": "Zacian (SWSH033 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-swsh033-english-promo/"
+      },
+      {
+        "title": "Zacian V (138/202 Galar Collection Special Print)",
+        "card_url": "https://pokumon.com/card/zacian-v-138-202-galar-collection-special-print/"
+      },
+      {
+        "title": "Zacian V (SWSH018 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-v-swsh018-english-promo/"
+      },
+      {
+        "title": "Zacian V (SWSH076 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-v-swsh076-english-promo/"
+      },
+      {
+        "title": "Zacian V (SWSH292 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-v-swsh292-english-promo/"
+      },
+      {
+        "title": "Zacian V-Union (SWSH163 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-v-union-swsh163-english-promo/"
+      },
+      {
+        "title": "Zacian V-Union (SWSH164 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-v-union-swsh164-english-promo/"
+      },
+      {
+        "title": "Zacian V-Union (SWSH165 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-v-union-swsh165-english-promo/"
+      },
+      {
+        "title": "Zacian V-Union (SWSH166 English Promo)",
+        "card_url": "https://pokumon.com/card/zacian-v-union-swsh166-english-promo/"
+      },
+      {
+        "title": "Zamazenta (SWSH034 English Promo)",
+        "card_url": "https://pokumon.com/card/zamazenta-swsh034-english-promo/"
+      },
+      {
+        "title": "Zamazenta V (139/202 Galar Collection Special Print)",
+        "card_url": "https://pokumon.com/card/zamazenta-v-139-202-galar-collection-special-print/"
+      },
+      {
+        "title": "Zamazenta V (SWSH019 English Promo)",
+        "card_url": "https://pokumon.com/card/zamazenta-v-swsh019-english-promo/"
+      },
+      {
+        "title": "Zamazenta V (SWSH077 English Promo)",
+        "card_url": "https://pokumon.com/card/zamazenta-v-swsh077-english-promo/"
+      },
+      {
+        "title": "Zamazenta V (SWSH293 English Promo)",
+        "card_url": "https://pokumon.com/card/zamazenta-v-swsh293-english-promo/"
+      },
+      {
+        "title": "Zigzagoon (11/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/zigzagoon-11-12-mcdonalds-mcdonalds-collection/"
+      },
+      {
+        "title": "Zoroark (BW09 English Promo)",
+        "card_url": "https://pokumon.com/card/zoroark-bw09-english-promo/"
+      },
+      {
+        "title": "Zoroark (BW19 English Promo)",
+        "card_url": "https://pokumon.com/card/zoroark-bw19-english-promo/"
+      },
+      {
+        "title": "Zoroark GX (SM84 English Promo)",
+        "card_url": "https://pokumon.com/card/zoroark-gx-sm84-english-promo/"
+      },
+      {
+        "title": "Zoroark (SM89 English Promo)",
+        "card_url": "https://pokumon.com/card/zoroark-sm89-english-promo/"
+      },
+      {
+        "title": "Zorua (9/12 McDonald’s McDonalds Collection)",
+        "card_url": "https://pokumon.com/card/zorua-9-12-mcdonalds-mcdonalds-collection/"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_filtered_en",
+    "url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=8",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/6d4c03b1c4991ecee1357f90.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=english&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=8",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 453059,
+    "sha256": "829b6bb2bf69aba3467e0c38cb0da2b62fbc1704420324f643f256ef86e087e3",
+    "state": "cached",
+    "rows": [
+      {
+        "title": "Zorua (BW12 English Promo)",
+        "card_url": "https://pokumon.com/card/zorua-bw12-english-promo/"
+      },
+      {
+        "title": "Zorua (SM83 English Promo)",
+        "card_url": "https://pokumon.com/card/zorua-sm83-english-promo/"
+      },
+      {
+        "title": "Zygarde (100/147 Pokemon League Special Print)",
+        "card_url": "https://pokumon.com/card/zygarde-100-147-pokemon-league-special-print/"
+      },
+      {
+        "title": "Zygarde EX (54a/124 Mega Powers Collection Special Print)",
+        "card_url": "https://pokumon.com/card/zygarde-ex-54a-124-mega-powers-collection-special-print/"
+      },
+      {
+        "title": "Zygarde EX (XY151 English Promo)",
+        "card_url": "https://pokumon.com/card/zygarde-ex-xy151-english-promo/"
+      },
+      {
+        "title": "Zygarde GX (SM122 English Promo)",
+        "card_url": "https://pokumon.com/card/zygarde-gx-sm122-english-promo/"
+      },
+      {
+        "title": "Zygarde (SM15 English Promo)",
+        "card_url": "https://pokumon.com/card/zygarde-sm15-english-promo/"
+      },
+      {
+        "title": "Zygarde (SM48 English Promo)",
+        "card_url": "https://pokumon.com/card/zygarde-sm48-english-promo/"
+      },
+      {
+        "title": "Zygarde (XY129 English Promo)",
+        "card_url": "https://pokumon.com/card/zygarde-xy129-english-promo/"
+      },
+      {
+        "title": "Zygarde (XY152 English Promo)",
+        "card_url": "https://pokumon.com/card/zygarde-xy152-english-promo/"
+      }
+    ]
+  }
+]

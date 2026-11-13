@@ -1,0 +1,1127 @@
+{
+  "seed": 20261030,
+  "baseline": "1.5.0",
+  "prior_sample_exclusions": 160,
+  "strata": [
+    {
+      "lang": "en",
+      "era": [
+        1996,
+        2002
+      ],
+      "available": 30,
+      "sampled": 8
+    },
+    {
+      "lang": "en",
+      "era": [
+        2003,
+        2009
+      ],
+      "available": 150,
+      "sampled": 8
+    },
+    {
+      "lang": "en",
+      "era": [
+        2010,
+        2016
+      ],
+      "available": 174,
+      "sampled": 8
+    },
+    {
+      "lang": "en",
+      "era": [
+        2017,
+        2022
+      ],
+      "available": 304,
+      "sampled": 8
+    },
+    {
+      "lang": "en",
+      "era": [
+        2023,
+        2026
+      ],
+      "available": 259,
+      "sampled": 8
+    },
+    {
+      "lang": "de",
+      "era": [
+        1996,
+        2002
+      ],
+      "available": 7,
+      "sampled": 7
+    },
+    {
+      "lang": "de",
+      "era": [
+        2003,
+        2009
+      ],
+      "available": 126,
+      "sampled": 8
+    },
+    {
+      "lang": "de",
+      "era": [
+        2010,
+        2016
+      ],
+      "available": 150,
+      "sampled": 8
+    },
+    {
+      "lang": "de",
+      "era": [
+        2017,
+        2022
+      ],
+      "available": 290,
+      "sampled": 8
+    },
+    {
+      "lang": "de",
+      "era": [
+        2023,
+        2026
+      ],
+      "available": 245,
+      "sampled": 8
+    }
+  ],
+  "method": "Up to 8 random records per language and era; remaining small strata censused; unknown years outside design. Selected before 1.6 factual implementation.",
+  "rows": [
+    {
+      "entry_id": "entry_aeb9e489ed8658bda20527357713129b",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "gym1",
+      "number": "62",
+      "name": "Blaine's Growlithe",
+      "image": "75782848eace897d9f601857a795f124fefc7148a62a4514a7bb6683ad24b38e.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_2e500a19e0995055954b008101ac989c",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo1",
+      "number": "37",
+      "name": "Granbull",
+      "image": "6f56f0e4c27bc61e5d7fd13a5bf87183a22f7513824cdfcf107cef0432106106.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "research_entry_d793b4c72a0e54d8b725191fbca96421",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "gym2",
+      "number": "103",
+      "name": "Erika's Kindness",
+      "image": "0258ba3d9f7efa7295ccd7bca67a89a4e6a44d9c61f1bbc45d8d9200d34227bc.webp",
+      "category": "cameo"
+    },
+    {
+      "entry_id": "entry_395e59a9da1c53c185385efa7ba33645",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base4",
+      "number": "13",
+      "name": "Ninetales",
+      "image": "fb610a49c614c796a722d3119920406cbfb9251d206fb92c8a33b97a80932fbb.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_6c97b94bc8695631815e3c65393a1b67",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "50",
+      "name": "Light Ninetales",
+      "image": "543811f8fb547376c2bddd3b90f8c8a5f3266fc0265cc93718c6676fd9818694.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_043a220aa82654d1b05c17824dad8ea3",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base4",
+      "number": "33",
+      "name": "Arcanine",
+      "image": "4ecd2f7a7ab432cd43cf9ea0dfa3b00dfab473001962d44d439d0ad92f47c8c1.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_c72c9cb5055a5686a43396b00321618b",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "lc",
+      "number": "45",
+      "name": "Growlithe",
+      "image": "b7b93c68a050bd111e045a072adfa01a1b63c42b349c535ad3bc55038491da5e.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_a5d287d5db3150c2adb868fc93a9aec1",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo3",
+      "number": "8",
+      "name": "Houndoom",
+      "image": "2ffffca56d0b75769c706d6f4aed4b26d7c679a54f8f7e0ca1ccfb9488a59e79.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_7e8f48e4efab54279ee7a86b34e596cc",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex7",
+      "number": "59",
+      "name": "Houndour",
+      "image": "2112daffcc54ee160e78b90d756769b74bbab52a2ac56788650e8434c7c980f8.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "pl2",
+      "number": "8",
+      "name": "Lucario GL",
+      "image": "348a84e1202c082ecdad52c9d38572b24bd8e9d4061e8f60a33b0ebaa1037a27.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_380503a631ed52799484f29312f5378f",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex9",
+      "number": "48",
+      "name": "Electrike",
+      "image": "2793d18b75ef9d6ee027ef0f3263b0c004ee9ccf29cee00011ea5aaaaa2f679c.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_a38e26e56df059f1804d522144e5c924",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "pl3",
+      "number": "31",
+      "name": "Lucario C",
+      "image": "71da13b041f021e1a9ba2b330d6efac9aeb5fbf4d42340b1a536317187072e64.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_8d3e9e558b8555be8d9bbbb349be1a62",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex8",
+      "number": "12",
+      "name": "Mightyena",
+      "image": "d21b44e3c204252bf25b402c3ea18cb55db7754fb2df2d7a1249f9bf02e73f78.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_c54bdd48708e5021abef1510d239ae4f",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex15",
+      "number": "8",
+      "name": "Ninetales",
+      "image": "5b1e8ad7f0214f3fe4b5ed7f707450d2015009608c6e83c76f7d150d1556b237.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_43dfc2a5d0485cd088f2b30af547b411",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex4",
+      "number": "34",
+      "name": "Team Magma's Houndoom",
+      "image": "2d4e97be8310a5ca8b2420862ff85f4a257db01462325bf1a381a99ed71cf25a.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_447f85ffc08a5f6d8cf1eb03914047f1",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex6",
+      "number": "64",
+      "name": "Growlithe",
+      "image": "0b88b5714e52d1a1180ef4ccb868e6ea88b0fd7a99c7ec1ce7f3f24cc8b74e83.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_3acbf55b30d952cea06dbefcc38cea15",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy10",
+      "number": "11",
+      "name": "Fennekin",
+      "image": "bdacd70caed5cac65ccd5a2b54a27fdc39b8dad37cac738754a3596a0d31f5ab.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_1aa763dcdea55ea89121f67ef5d7c5cd",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy3",
+      "number": "107",
+      "name": "Lucario EX",
+      "image": "ca30ea496e218a3e96bda61e4961ad54c53afddf39e1ce385e5417e32cfd3281.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_08c9d0e6c44752808bd44dce95706c39",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-xy-p",
+      "number": "22",
+      "name": "Manectric",
+      "image": "9e5d7e25ca5f253093897dc3e14b6dbad1c705994aaa50670c332a3efbd5b53c.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_6dc3ac29cbc85254a71c12af46a8054a",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "bw7",
+      "number": "121",
+      "name": "Herdier",
+      "image": "7d8b99ca1905d73090182cfc598017fd60b501250034964458c9936675d356b0.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_3754cd3b90255a57bcf9ac2b82a3094a",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy10",
+      "number": "63",
+      "name": "Lucario",
+      "image": "dd44ce3c547a7509d4be6f7c954fbf914f80768f4c2d7343d49d72213ac74a79.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy10",
+      "number": "105",
+      "name": "N",
+      "image": "686b14a0a4c583f5d38f35f84c352f838bd4aad22895d15e2d95f97fc33fa4eb.webp",
+      "category": "cameo"
+    },
+    {
+      "entry_id": "entry_8c37d41bb363590c84c5805eb3e86659",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy12",
+      "number": "14",
+      "name": "Vulpix",
+      "image": "8bc72e32f553970b37d10472461d74265126423d3564b05d60733aa576cea90b.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_ac6b395ffc695aa29c541306f264e2f9",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-xy-p",
+      "number": "28",
+      "name": "Electrike",
+      "image": "083b1abed91e6d2bab175497ea15441e173a9287b868261c90f3b606710f93e4.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_fffaf405ccef54e284ea88e2b3098c4b",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm3",
+      "number": "155",
+      "name": "Lycanroc GX",
+      "image": "ea633e34c24f8b6d604d1671c5af89de32a52bf5cf5ebabd11ac2ce36143b426.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_c2d876f112345bc5890d3c8d0397e29a",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh9",
+      "number": "057",
+      "name": "Granbull V",
+      "image": "e9bdd600f62dac76b997c40cde2a1ac487b16e1fe085c2eee44063f1ced40a90.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_92c340f768595adbac00b11329278460",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm3.5",
+      "number": "53",
+      "name": "Zoroark GX",
+      "image": "92a77d214779f74ec2550b9783f02c0ddd31c7032390477b3c28be9e325e7007.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_261088a11a4f5720b1425f9422d0d886",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm11",
+      "number": "124",
+      "name": "Zygarde",
+      "image": "1ad65a3f5b3205bad906b188c38bbb74aa71e2789c2f5d513493479105207900.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_19ad5046de3557f88775e6bcdc6feed2",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh8",
+      "number": "116",
+      "name": "Granbull",
+      "image": "3ce30e5ff022c94b930fb640671c55cd018932d703b3980584b3daa1656c32e3.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_e6a10073fb0957f19f0fa368d20002f7",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm8",
+      "number": "46",
+      "name": "Houndoom",
+      "image": "0f462e3f564871fa2e2665d40d5f609a55f546ee08dba74780aef947717111f9.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_981697963c125511a5fc96be7fc453f1",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh12",
+      "number": "034",
+      "name": "Alolan Vulpix VSTAR",
+      "image": "f37cdf5f97ed0a28f551f1064487be3c700afc9882139e38b5e7164105999674.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_bb824a407e5054ecacb00c6699e3f3b9",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm12",
+      "number": "145",
+      "name": "Alolan Ninetales",
+      "image": "37efe427ef1aad52a33f2e5d3656e4b11af030bc45482e407c38ec5df1220585.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "research_entry_d6111b6ade83596e814d9da635421453",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv04",
+      "number": "202",
+      "name": "Garganacl",
+      "image": "005b7fed95dbacd87b1561f3a3b075cba1509cd71f6b28b4691eb1e92641cc9e.webp",
+      "category": "cameo"
+    },
+    {
+      "entry_id": "entry_74a6ecd2d6c059158d60a448e9043a39",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv02",
+      "number": "116",
+      "name": "Rockruff",
+      "image": "f8da4b3f95dec90cb71366e9198b36b4a73691dd09387ae701eb149d3d373613.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_90055faf75c2551fadee9b20de65dee1",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "svp",
+      "number": "198",
+      "name": "Zacian ex",
+      "image": "f4460170dcf002f55487f85d44c298f50bc92782dca5a361c451fb7fad9cbbdd.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_aa7e41b50b5d5f92adc08015a695549e",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "30th",
+      "number": "083",
+      "name": "Lucario",
+      "image": "08778b28a8af9496e84bddf1cc42d600083c8e97292badd1b5b887637dc6134e.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_cd52ee6d07d65b0b94bba114325f6aa8",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "me02.5",
+      "number": "286",
+      "name": "N's Zoroark ex",
+      "image": "966759b6a8664ba3b75c8a6e65af5d68481f69f8408f7f9792646c6bdbb8fc16.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_67125aa4f0ad550591378073b5301951",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv03",
+      "number": "170",
+      "name": "Lillipup",
+      "image": "5c0796a2186d539c83f1ac1a4aab8e75fcf40ab9262f859c8689874bef67392b.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_74babca524ca572bb6d585df5c349f01",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "me01",
+      "number": "050",
+      "name": "Mega Manectric ex",
+      "image": "18ea57814f0aa65c11c7b53f392e2886fccf8209bf4ac0cdc4d0d5f43a6c54a3.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_00d83e5c8c8556ef96f8f4b71a52ff70",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv06",
+      "number": "100",
+      "name": "Hisuian Arcanine",
+      "image": "2080181c8ccf01e86c609dbbce3a47a2bae5540e1888c976fd519130b9eac6aa.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_64c3d1082b765a2bad8ba83cbc6c9831",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo2",
+      "number": "30",
+      "name": "Farbeagle",
+      "image": "8d679cfe4ded424961c71cd5d864d44d18787d0932426548272e6d094b101bbe.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_0f9469e13a7456d9b655ea5a40a0784f",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo2",
+      "number": "39",
+      "name": "Hunduster",
+      "image": "d4259e209c920f746e166b6c84f984d91aaa60356819fcbeb0e38e3a01a9f62b.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_315f05838361501bbef58b70e247b3bc",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "43",
+      "name": "Hunduster",
+      "image": "4c646784e4fff8f81a80f22dd9114101111d027b744b88f10a9cf9da72626825.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_57f406e3a227546398a85fa8556d9f51",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "68",
+      "name": "Fukano",
+      "image": "b7b1d261744633c3f9adb8c83f7e9c3815eae5d37339ccc793b25e761ce3caee.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_65ed505b5deb550ba0435b2413f1de6e",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "50",
+      "name": "Helles Vulnona",
+      "image": "fbb64f6bcd55dc848003ff0362156b9711ace8e6ed99963b90985f225e7e131c.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_e67aa6dbf9045b6c8adf8882bcf4d765",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base1",
+      "number": "12",
+      "name": "Vulnona",
+      "image": null,
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_ed8b4ba18d1f575997fe90e66035e757",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base1",
+      "number": "23",
+      "name": "Arkani",
+      "image": "874aa14c3049193891132af14a87c14338acbe4bd32ca805d86e906dac9318e8.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_89e3172d9b3d57f48efa6dc4e950f05e",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex4",
+      "number": "55",
+      "name": "Team Aquas Fiffyen",
+      "image": "6316e3d8383c762b8edc84dfe17532b909c6120b438aa1237b9cbddebb415109.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_b28da62f0df15585ac298d0ac00193b4",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex13",
+      "number": "80",
+      "name": "Fiffyen",
+      "image": null,
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_1d82ee12ff7052a381490982711b3f29",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex4",
+      "number": "10",
+      "name": "Team Magmas Hundemon",
+      "image": "64e12f4244612721f85003412c72e0429600a614c95a71f2480e750b66783c70.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_20ca395f702c5bfca02a2aa5f1d6c5d4",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ecard2",
+      "number": "H11",
+      "name": "Hundemon",
+      "image": "27f01f9b6e448734110ca3350f6c4c5c10f60a538719c88a503c94dc0bba1d8d.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_e0d3acf6c55a59f281055a076f04febd",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "dp1",
+      "number": "6",
+      "name": "Lucario",
+      "image": "9f653b2655d0628539ee6404502e5994d88e891b471113aee6749865ca7a6800.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_7a7455ddfe3657399233a78f8cff6183",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex1",
+      "number": "65",
+      "name": "Fiffyen",
+      "image": "670f85444def07a41310182e6e61e500a438b08bd3283cb6c0f0e6457be2c485.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_3c8d6c8248995085a9e48308942a8b7b",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "dp2",
+      "number": "28",
+      "name": "Voltenso",
+      "image": "072e982d460fa337e140d628e93e04da536805790685acb5100b43dbb0e4e2b7.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_19f942646a1652d6a1b4231833928501",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex11",
+      "number": "79",
+      "name": "Fiffyen",
+      "image": null,
+      "category": "standard"
+    },
+    {
+      "entry_id": "research_entry_393122199aea57a2ac5bff1295bfe6af",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-bw-e",
+      "number": "27",
+      "name": "Yorkleff",
+      "image": null,
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_d4ce2a4609a8510587bc1ea8c1ac6d74",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy8",
+      "number": "154",
+      "name": "M-Hundemon EX",
+      "image": "15f8c86642b1cd43101b05fc5709d95233d270932c57df5acebafc88301ff78c.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "research_entry_21320733a3d554178594822bfae95978",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-xy-n",
+      "number": "20",
+      "name": "Coiffwaff",
+      "image": null,
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_1d95c0faedc452738f82e0852381683c",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "hgss3",
+      "number": "8",
+      "name": "Farbeagle",
+      "image": "03b717762329614625d4076f49c16eb45b6a29c29945355472ce34e4488685f1.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_66e67346ab145500a3b18604380b340b",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy4",
+      "number": "120",
+      "name": "M Voltenso EX",
+      "image": "0a7ceafecd878bb2f7267efeea1e4a125df18650fb6f011051252944cb430598.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_8effde00dfeb5f218731c73502e9ee4c",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "hgss2",
+      "number": "19",
+      "name": "Lucario",
+      "image": "6f514fb07b0cbe4a511df59d8c1e57880111f4c6c465a32ed995b0ff531388c1.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_32ba66d1a6e05dafabe338ee767e7f0e",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy4",
+      "number": "23",
+      "name": "Voltenso EX",
+      "image": "91ece1c790290fd8e6a426b4ee2d3c93704bf8c67dbacebd9c7f918c65ade49f.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_2d8e3f14ccd75d1789266782a72abd22",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "2011bw",
+      "number": "9",
+      "name": "Zorua",
+      "image": "75023a30df0b3d88f18918b00b7da5f8f12c77f788639c5ec0daa995d92a6d23.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_c4dec6cbfbb8570f8c0967f08d68a0db",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm12",
+      "number": "22",
+      "name": "Glurak & Rutena GX",
+      "image": "7ab58b53e96a61770c16f33151047c8e0c1886ce5c7b138db8e078b9501b1c40.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_b412e6c6a29e5f2ebde51b70d8ec6cd8",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh1",
+      "number": "196",
+      "name": "Zamazenta V",
+      "image": "b58146923d54c92ef4bd1ccd5f4578f38093a9092f6a03e8a0a38c4f628a6206.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_2a71f33091755804bf9f9f365059de7e",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm6",
+      "number": "135",
+      "name": "Lucario GX",
+      "image": "300f253e217ee9d731d53e260b0316d9c2fa5ecd6d92689e61dbef61d3e83ce7.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_36dbce6d3dc45cd087540102d141f6b8",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swshp",
+      "number": "SWSH199",
+      "name": "Wolwerock V",
+      "image": "5316adb454800324a14e903305315c01d2cfa3b26786f2c51ed14ffb5e79f4a1.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_6105a658b5fb5666b3ecaccb408418f8",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sma",
+      "number": "SV23",
+      "name": "Wuffels",
+      "image": "7e5171751efabc8df0d9d0a68ac0bfd0ed3a9ed119bed4fad59af76f8ee623cd.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_cf324b082bc0556b9ce0afd5a2e6ba0a",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm2",
+      "number": "138",
+      "name": "Wolwerock GX",
+      "image": "456c9a2292f2ff39086508bd6bed3c4cfa708f9872a409faafab3f593752256f.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_7fecfc862ae557949cc2416c8bcb7c7a",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm11",
+      "number": "116",
+      "name": "Riolu",
+      "image": "be644cbba72144fbdc3c7fb9c30a820e9e428f317addd1f4e74496d74d8b40aa.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_6425c73aac225f67a499f0d569a82244",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh7",
+      "number": "103",
+      "name": "Zoroark",
+      "image": "27a51bf9395a27610b08c4727cf48b6ce99884362f2936927965356dfc3960a7.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_ddd6ba851e315ad69079d3fd6573b939",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv10",
+      "number": "201",
+      "name": "Zamazenta",
+      "image": "b3b081714330e5646af6f46c3898c5280e44affbed9bb5a1263f4a5a0296cfc2.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_5bcba1ad2a5153e58aaaf46cddaa33ab",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "mep",
+      "number": "010",
+      "name": "Riolu",
+      "image": "fedc8fc04714fdd9b50d1c70028f423382c54ea1bceecf38a88f4793e2a25ef3.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_1ea4691f75e95b3995fb7b84699dcbce",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv04.5",
+      "number": "039",
+      "name": "Backel",
+      "image": "4817ad82f7b8e2385b2092e42a3ed626e80d1d5a717fd0d8ae82112d4ffec055.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_f7acf7156bfd544896d1a508ed51bdc6",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv06",
+      "number": "111",
+      "name": "Boninu",
+      "image": "08bb4aa48f7914b359e6557484510c9ddf2439d5619af9ec876bd1940d41cca0.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_4aaf0689c74753789c794b9d093dce40",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv04",
+      "number": "119",
+      "name": "Kleptifux",
+      "image": "2872a97d8e13451c2d957476bdd6eb93dffd2fca9e0c24e90ed9d40eb282165c.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_ad2172d0f8105b9f9daa159f20b7b627",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "swsh12.5",
+      "number": "074",
+      "name": "Wolwerock",
+      "image": "e735f909f5456cbce40a2113eff1901ca20ca76a388f6c3b3bb190ca9fbb3c1b.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "entry_470e4ea9789e506588b6e85e04499555",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv03",
+      "number": "133",
+      "name": "Hundemon",
+      "image": "2cb377d7dcfb20fe401bd1e4ec1c781679049f7d203ceef56b9fbd54a4630e05.webp",
+      "category": "standard"
+    },
+    {
+      "entry_id": "research_entry_10a55bd4f2d55fb0a97c59fded72beab",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv06",
+      "number": "078",
+      "name": "Piepi",
+      "image": "bdfd04e50d38090e7623acdb9809af98bccd15af9dead29f4512af3adb33d341.webp",
+      "category": "cameo"
+    }
+  ]
+}

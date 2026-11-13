@@ -1,0 +1,68 @@
+{
+  "cutoff": "2026-10-29",
+  "native_paginated_requests": 184,
+  "sources": [
+    {
+      "source_family": "official_ja",
+      "source_rows": 1080,
+      "dispositions": {
+        "matched_identity": 984,
+        "excluded_outside_roster": 66,
+        "excluded_form": 30
+      },
+      "unit": "native card records (can include variants and false keyword hits)",
+      "source_lineage": "Native manufacturer"
+    },
+    {
+      "source_family": "official_ko",
+      "source_rows": 944,
+      "dispositions": {
+        "matched_identity": 834,
+        "excluded_outside_roster": 71,
+        "newly_documented": 13,
+        "excluded_form": 26
+      },
+      "unit": "native card records (can include variants and false keyword hits)",
+      "source_lineage": "Native manufacturer"
+    },
+    {
+      "source_family": "tcgdex_authored_asia",
+      "source_rows": 562,
+      "dispositions": {
+        "matched_authored_identity": 474,
+        "excluded_form": 12,
+        "provisional_inventory_identity": 65,
+        "excluded_other_language": 11
+      },
+      "unit": "authored card rows",
+      "source_lineage": "TCGdex upstream; not independent of earlier TCGdex imports"
+    },
+    {
+      "source_family": "pokumon_regional_product",
+      "source_rows": 128,
+      "dispositions": {
+        "newly_documented_printing": 78,
+        "provisional_printing_claim": 31,
+        "matched_default_stamp_refined": 2,
+        "excluded_form": 5,
+        "matched_identity_family_multiple_artworks": 12
+      },
+      "unit": "regional product pages",
+      "source_lineage": "Pokumon editorial inventory"
+    },
+    {
+      "source_family": "pokecameos_recovered",
+      "source_rows": 22,
+      "dispositions": {
+        "provisional_cameo_identity": 14,
+        "matched_primary_card_no_separate_cameo": 1,
+        "provisional_primary_host_identity": 1,
+        "matched_cameo_identity": 5,
+        "excluded_other_language": 1
+      },
+      "unit": "recovered appearance claims",
+      "source_lineage": "PokéCameos user inventory"
+    }
+  ],
+  "limits": "These are bounded retrieved-inventory denominators, not all cards or all physical variants worldwide."
+}

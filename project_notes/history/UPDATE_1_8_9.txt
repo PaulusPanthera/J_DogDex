@@ -1,0 +1,13 @@
+DogDex data update 1.8.9
+
+Close DogDex. Extract this ZIP directly into J_DogDex and replace the included application/shared catalogue files. Restart DogDex and refresh its browser tab.
+
+Restores German Illumina City 077/088 with its native picture and Non-holo / Reverse Holo printings.
+Excludes EN/DE Mega Zygarde ex 104 from the dog completion targets while retaining its records and any owned copies.
+Keeps EN/DE Mega Zygarde ex 120 as a Zygarde 10% cameo.
+
+Your my_collection folder is not replaced. Existing copies, prices paid, notes, wishes, corrections and picture overrides are preserved. Japanese/Korean records are unchanged. The update includes the current 1.8.8 UI refinements.
+
+For GitHub/mobile: Export mobile view -> Commit -> Push in GitHub Desktop.
+
+Only this update is needed for an existing installation. See IDENTITY_CORRECTIONS_1_8_9.md and IDENTITY_VALIDATION_1_8_9.md.

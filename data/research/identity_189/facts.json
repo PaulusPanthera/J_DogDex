@@ -1,0 +1,107 @@
+{
+  "format": "dogdex-identity-corrections-189",
+  "version": "1.8.9",
+  "reviewed_on": "2026-10-31",
+  "source_urls": {
+    "user_checklist": "https://www.card-corner.de/optimale-ordnung-kartenliste?karte=77",
+    "native_card": "https://api.tcgdex.net/v2/de/cards/me03-077",
+    "native_image": "https://assets.tcgdex.net/de/me/me03/077/high.webp",
+    "checklist_de": "https://pokezentrum.de/wp-content/uploads/Pokemon-Mega-Entwicklung-Optimale-Ordnung-Kartenliste-Checkliste-PDF-TCG.pdf",
+    "reverse_listing": "https://cardmex-shop.de/Illumina-City-POR-077-Reverse-Pokemon-Reverse-Holo-Karte-aus-Optimale-Ordnung-in-deutsch/POR-077-Reverse",
+    "manufacturer_104": "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+    "form_104": "https://cardcameos.com/zygarde-complete-cameo-cards/",
+    "form_120": "https://cardcameos.com/zygarde-10-cameo-cards/",
+    "bulbapedia_120": "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+    "release_date": "https://www.pokemon.com/de/features/illustrationen-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-optimale-ordnung"
+  },
+  "restored_identity": {
+    "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+    "lang": "de",
+    "release": "me03",
+    "number": "077",
+    "name": "Illumina City",
+    "english": "Lumiose City",
+    "image": "27df32684442123df231d4e0271d184e7f04897890dc3c8a1987e63665720baa.webp",
+    "cameo_dex": [
+      828
+    ],
+    "art_style": "standard",
+    "rarity_code": "uncommon",
+    "image_observation": "Thievul is depicted on the shop billboard at the upper right of the regular 077 artwork. Native German text and POR 077/088 are legible. The 111 full-art illustration is a separate artwork and is not inferred to share this cameo.",
+    "physical_printings": [
+      {
+        "finish": "non_holo",
+        "pattern": "none",
+        "source_urls": [
+          "https://pokezentrum.de/wp-content/uploads/Pokemon-Mega-Entwicklung-Optimale-Ordnung-Kartenliste-Checkliste-PDF-TCG.pdf",
+          "https://api.tcgdex.net/v2/de/cards/me03-077",
+          "https://www.card-corner.de/optimale-ordnung-kartenliste?karte=77"
+        ],
+        "evidence": "Manufacturer German checklist page 1, middle column 077: black standard-set checkbox and uncommon diamond. Native German card image confirms the identity. Exact physical API tuples retained as corroboration, not used as a generic Normal default."
+      },
+      {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "source_urls": [
+          "https://cardmex-shop.de/Illumina-City-POR-077-Reverse-Pokemon-Reverse-Holo-Karte-aus-Optimale-Ordnung-in-deutsch/POR-077-Reverse",
+          "https://api.tcgdex.net/v2/de/cards/me03-077"
+        ],
+        "evidence": "Direct German merchant listing explicitly identifies POR 077 Reverse, German language and reverse-holo finish. Corroborated by an explicit Reverse/Standard tuple in the native API. No special foil pattern or extra variant is inferred."
+      }
+    ],
+    "source_family_notes": [
+      "Card-Corner provides its native German checklist image.",
+      "The checklist PDF is manufacturer-authored but retrieved through a retailer mirror; these are not two independent manufacturer sources.",
+      "TCGdex metadata and its asset share one upstream family.",
+      "Cardmex is a direct regional merchant assertion. No exact reverse specimen image was inspected."
+    ]
+  },
+  "forms": [
+    {
+      "number": "104",
+      "decision": "excluded_form",
+      "subject_forms": [
+        "mega"
+      ],
+      "cameo_forms": [
+        "complete"
+      ],
+      "included_cameo_forms": [],
+      "reason": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release.",
+      "source_urls": [
+        "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+        "https://cardcameos.com/zygarde-complete-cameo-cards/",
+        "https://assets.tcgdex.net/de/me/me03/104/high.webp"
+      ]
+    },
+    {
+      "number": "120",
+      "decision": "included_cameo",
+      "subject_forms": [
+        "mega"
+      ],
+      "cameo_forms": [
+        "10_percent",
+        "50_percent",
+        "complete",
+        "cell",
+        "core"
+      ],
+      "included_cameo_forms": [
+        "10_percent"
+      ],
+      "reason": "The 10% dog Forme appears as an outlined cameo at the lower left. Mega Zygarde is the printed primary, but that primary form is outside scope. Retain this physical card as a 10% cameo, not as a primary dog card.",
+      "source_urls": [
+        "https://cardcameos.com/zygarde-10-cameo-cards/",
+        "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+        "https://assets.tcgdex.net/de/me/me03/120/high.webp"
+      ]
+    }
+  ],
+  "limits": [
+    "Focused correction for one German identity and the EN/DE 104/120 form classification.",
+    "No Japanese/Korean identity or printing changes. No additional editions, stamps or holo patterns inferred.",
+    "Collection records and existing catalogue IDs are not deleted or rekeyed.",
+    "The entry/audit timestamp is not a release date; the existing 2026-03-27 set date is retained."
+  ]
+}

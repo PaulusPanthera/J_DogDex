@@ -1,0 +1,58 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import path from 'node:path';import {createRequire} from 'node:module';import {fileURLToPath} from 'node:url';import {execFileSync} from 'node:child_process';
+const require=createRequire(import.meta.url),{JSDOM}=require(process.env.DOGDEX_QA_NODE_MODULES?path.join(process.env.DOGDEX_QA_NODE_MODULES,'jsdom'):'jsdom'),root=fileURLToPath(new URL('../',import.meta.url));
+let fixture;function data(){if(!fixture){const code="import sys,json,tempfile;from pathlib import Path;sys.path.insert(0,sys.argv[1]);from dogdex.collector import Collection;t=tempfile.TemporaryDirectory();s=Collection(Path(sys.argv[1]),t.name);print(json.dumps(dict(catalog=s.catalog,view=s.editor_view(),state=s.state())))";fixture=JSON.parse(execFileSync('python3',['-c',code,root],{maxBuffer:150000000}));}return fixture;}
+async function app({prefs={},readonly=false,mobile=false}={}){
+ const f=data(),css=fs.readFileSync(root+'/static/app.css','utf8'),html=`<html lang="en" ${readonly?'data-readonly="true"':''}><head><style>${css}</style></head><body><div id="app"></div><dialog id="dialog"></dialog><div id="toast"></div></body></html>`,dom=new JSDOM(html,{url:'http://localhost/',runScripts:'outside-only',pretendToBeVisual:true}),w=dom.window;
+ w.localStorage.setItem('dogdex-view-v1',JSON.stringify(prefs));w.scrollTo=()=>{};w.matchMedia=()=>({matches:mobile});w.HTMLDialogElement.prototype.showModal=function(){this.open=true};w.HTMLDialogElement.prototype.close=function(){this.open=false};let posts=0;
+ w.fetch=async(u,o)=>{if(o?.method==='POST')posts++;return{ok:true,json:async()=>readonly?{...f.catalog,...f.view,format:'dogdex-read-only-1',published_at:'2026-10-31T16:00:00Z',ownership:{},wishlist:[],prices:{}}:String(u).includes('catalog.json')?f.catalog:{state:f.state,view:f.view,token:'qa',prices:{}}};};
+ w.eval(['set-symbols.mjs','source-ui.mjs','localization.mjs','catalog.mjs','prices.mjs','appearance.mjs','market-ui.mjs','editor-ui.mjs','app.js'].map(n=>fs.readFileSync(root+'/static/'+n,'utf8').replace(/^import[^\n]*\n/gm,'').replace(/\bexport /g,'')).join('\n')+'\nwindow.qa={ui,render,filteredRows,scopeLabel,matchesScope,get entries(){return entries}};');
+ for(let i=0;i<100&&!w.document.querySelector('.card');i++)await new Promise(r=>setTimeout(r,10));
+ return{w,dom,get posts(){return posts},click:async sel=>{const el=w.document.querySelector(sel);assert.ok(el,sel);el.click();await new Promise(r=>setTimeout(r,0));}};
+}
+test('navigation and application status are in the header; the branded sidebar is for browsing',async()=>{
+ const a=await app();try{const d=a.w.document;assert.ok(d.querySelector('.catalog-header .topbar .collection-nav'));assert.ok(d.querySelector('.catalog-toolbar .ledgers'));assert.ok(d.querySelector('.catalog-toolbar .filters #search'));assert.equal(d.querySelector('.sidebar .collection-nav'),null);assert.equal(d.querySelector('.sidebar-brand').textContent,'DogDex');assert.equal(d.querySelectorAll('.sidebar-brand').length,1);assert.equal(d.querySelector('.sidebar-brand-mark img').getAttribute('src'),'/brand/growlithe.svg');assert.equal(d.querySelector('.sidebar-brand-mark img').alt,'');assert.equal(d.querySelectorAll('#species-list .browse-item').length,41);assert.equal(d.querySelectorAll('.catalog-toolbar #search').length,1);assert.equal(d.querySelectorAll('#sort').length,1);assert.ok(d.querySelector('.catalog-header #nav-health'));assert.match(d.querySelector('.catalog-header .save-status').textContent,/Saved on this PC/);assert.equal(d.querySelector('.sidebar .side-bottom'),null);assert.equal(d.querySelector('.sidebar #nav-health'),null);assert.equal(d.querySelector('.sidebar .save-status'),null);assert.equal(a.posts,0);}finally{a.w.close();}
+});
+
+test('Data health remains usable while the sidebar is hidden; public status belongs in the header',async()=>{
+ const a=await app({prefs:{sidebarCollapsed:true}});try{const d=a.w.document;assert.equal(d.querySelector('#species-sidebar').hidden,true);await a.click('.catalog-header #nav-health');assert.equal(a.w.qa.ui.view,'health');assert.equal(d.querySelector('#nav-health').getAttribute('aria-current'),'page');assert.equal(d.querySelector('#species-sidebar').hidden,true);assert.match(d.querySelector('.header-utilities').textContent,/Saved on this PC/);await a.click('#nav-all');assert.ok(d.querySelector('.card'));assert.equal(a.posts,0);}finally{a.w.close();}
+ const b=await app({readonly:true,mobile:true,prefs:{sidebarCollapsed:true}});try{const d=b.w.document;assert.equal(d.querySelector('#nav-health'),null);assert.equal(d.querySelector('.sidebar-brand-mark img').getAttribute('src'),'./brand/growlithe.svg');assert.match(d.querySelector('.catalog-header .save-status').textContent,/Read-only · Updated 2026-10-31/);assert.equal(d.querySelector('.sidebar .readonly-note'),null);await b.click('#sidebar-toggle');await b.click('#browse-toggle');assert.equal(d.querySelector('#browse-toggle').getAttribute('aria-expanded'),'true');assert.equal(b.posts,0);}finally{b.w.close();}
+});
+test('Cameos and Jumbo intersect with species in either click order, with independent removal',async()=>{
+ const a=await app();try{const {w}=a;await a.click('#browse-cameo');await a.click('#browse-37');let rows=w.qa.filteredRows(true,true);assert.ok(rows.length);assert.equal(w.qa.ui.category,'cameo');assert.equal(w.qa.ui.pokemon,'37');assert.ok(rows.every(r=>!r.e.subject_dex.length&&r.e.cameo_dex.includes(37)));assert.equal(w.document.querySelector('#browse-cameo').getAttribute('aria-pressed'),'true');assert.equal(w.document.querySelector('#browse-37').getAttribute('aria-pressed'),'true');assert.ok(w.document.querySelector('[data-filter="pokemon"]'));assert.ok(w.document.querySelector('[data-filter="category"]'));assert.match(w.qa.scopeLabel(),/Cameos · Vulpix/);
+ await a.click('[data-filter="pokemon"]');assert.equal(w.qa.ui.category,'cameo');assert.equal(w.qa.ui.pokemon,'');assert.ok(w.qa.filteredRows().every(r=>!r.e.subject_dex.length));await a.click('#browse-37');await a.click('[data-filter="category"]');assert.equal(w.qa.ui.pokemon,'37');assert.equal(w.qa.ui.category,'all');assert.ok(w.qa.filteredRows().every(r=>r.e.subject_dex.includes(37)));
+ await a.click('#browse-cameo');assert.equal(w.qa.ui.pokemon,'37');assert.ok(w.qa.filteredRows().every(r=>r.e.cameo_dex.includes(37)));await a.click('#browse-all');assert.equal(w.qa.ui.pokemon,'');assert.equal(w.qa.ui.category,'cameo');await a.click('#browse-cameo');assert.equal(w.qa.ui.category,'all');
+ const jumbo=w.qa.entries.find(e=>e.lang==='en'&&e.printings.some(p=>p.size==='oversized')&&e.subject_dex.length);assert.ok(jumbo);const dex=jumbo.subject_dex[0];await a.click('#browse-jumbo');await a.click('#browse-'+dex);rows=w.qa.filteredRows();assert.ok(rows.length);assert.ok(rows.every(r=>(r.size==='oversized'||r.material==='metal')&&[...r.e.subject_dex,...r.e.cameo_dex].includes(dex)));assert.equal(w.qa.ui.category,'jumbo');assert.equal(w.qa.ui.pokemon,String(dex));assert.ok(rows.every(r=>w.qa.matchesScope(r.e)));await a.click('#browse-jumbo');assert.equal(w.qa.ui.category,'all');assert.equal(w.qa.ui.pokemon,String(dex));assert.equal(a.posts,0);
+ }finally{a.w.close();}
+});
+test('combined category/species preferences survive reload and work in read-only export',async()=>{
+ const a=await app({prefs:{lang:'en',category:'cameo',pokemon:'37'},readonly:true});try{const {w}=a;assert.equal(w.qa.ui.category,'cameo');assert.equal(w.qa.ui.pokemon,'37');assert.ok(w.qa.filteredRows().length);assert.ok(w.qa.filteredRows().every(r=>r.e.cameo_dex.includes(37)));assert.equal(w.document.querySelector('#nav-health'),null);assert.equal(w.document.querySelector('[data-action="add"]'),null);await a.click('#lang-de');assert.equal(w.qa.ui.category,'cameo');assert.equal(w.qa.ui.pokemon,'37');const saved=JSON.parse(w.localStorage.getItem('dogdex-view-v1'));assert.equal(saved.category,'cameo');assert.equal(saved.pokemon,'37');assert.equal(a.posts,0);}finally{a.w.close();}
+});
+
+test('all 41 species are grouped into their correct generations without crossing rows',async()=>{
+ const a=await app();try{const d=a.w.document,groups=[...d.querySelectorAll('.species-generation')];assert.equal(groups.length,9);
+ const expected=[[37,38,58,59],[209,210,228,229,235],[261,262,263,309,310],[447,448],[506,507,508,570,571],[653,654,655,676,718],[744,745],[827,828,835,836,888,889],[926,927,942,943,971,972,1014]];
+ assert.deepEqual(groups.map(g=>[...g.querySelectorAll('.browse-item')].map(b=>Number(b.dataset.scope))),expected);
+ assert.equal(new Set([...d.querySelectorAll('#species-list .browse-item')].map(b=>b.id)).size,41);
+ for(const g of groups){assert.ok(d.getElementById(g.getAttribute('aria-labelledby')));assert.ok(g.querySelector('h2'));}
+ assert.equal(d.querySelector('.skip-link').getAttribute('href'),'#main-content');assert.equal(d.querySelector('#main-content').getAttribute('tabindex'),'-1');assert.equal(a.posts,0);
+ }finally{a.w.close();}
+});
+
+test('sidebar visibility persists without replacing cards, changing filters, or losing focus',async()=>{
+ const a=await app({prefs:{lang:'de',category:'cameo',pokemon:'37'}});try{const {w}=a,d=w.document,first=d.querySelector('.card'),button=d.querySelector('#sidebar-toggle');button.focus();await a.click('#sidebar-toggle');
+ assert.equal(d.querySelector('#species-sidebar').hidden,true);assert.ok(d.querySelector('.shell').classList.contains('sidebar-hidden'));assert.equal(button.getAttribute('aria-expanded'),'false');assert.match(button.getAttribute('aria-label'),/Show/);assert.equal(d.activeElement,button);assert.equal(d.querySelector('.card'),first);
+ assert.equal(w.qa.ui.category,'cameo');assert.equal(w.qa.ui.pokemon,'37');assert.equal(JSON.parse(w.localStorage.getItem('dogdex-view-v1')).sidebarCollapsed,true);
+ await a.click('#lang-en');assert.equal(d.querySelector('#species-sidebar').hidden,true);assert.equal(d.querySelector('#sidebar-toggle').getAttribute('aria-expanded'),'false');
+ await a.click('#sidebar-toggle');assert.equal(d.querySelector('#species-sidebar').hidden,false);assert.equal(d.querySelector('#sidebar-toggle').getAttribute('aria-expanded'),'true');assert.equal(a.posts,0);
+ }finally{a.w.close();}
+});
+
+test('collapsed sidebar can be restored and browsed in the read-only mobile viewer',async()=>{
+ const a=await app({prefs:{sidebarCollapsed:true},readonly:true,mobile:true});try{const d=a.w.document;assert.equal(d.querySelector('#species-sidebar').hidden,true);await a.click('#sidebar-toggle');assert.equal(d.querySelector('#species-sidebar').hidden,false);await a.click('#browse-toggle');assert.equal(d.querySelector('#browse-toggle').getAttribute('aria-expanded'),'true');assert.equal(d.querySelectorAll('.species-generation').length,9);await a.click('#browse-cameo');await a.click('#browse-toggle');await a.click('#browse-37');assert.equal(a.w.qa.ui.category,'cameo');assert.equal(a.w.qa.ui.pokemon,'37');assert.ok(a.w.qa.filteredRows().length);assert.equal(a.posts,0);
+ }finally{a.w.close();}
+});
+
+test('unavailable optional browser preferences do not block cards or sidebar controls',async()=>{
+ const a=await app({prefs:null});try{const {w}=a;assert.ok(w.document.querySelector('.card'));Object.defineProperty(w.Storage.prototype,'setItem',{value(){throw new Error('Storage disabled');},configurable:true});assert.doesNotThrow(()=>w.qa.render());await a.click('#sidebar-toggle');assert.equal(w.document.querySelector('#species-sidebar').hidden,true);await a.click('#lang-de');assert.ok(w.document.querySelector('.card'));assert.equal(w.document.querySelector('#species-sidebar').hidden,true);assert.equal(a.posts,0);
+ }finally{a.w.close();}
+});

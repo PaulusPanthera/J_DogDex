@@ -1,0 +1,4430 @@
+{
+  "observed_on": "2026-10-29",
+  "basis_revision": "1.3.2",
+  "entry_updates": [
+    {
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "lang": "de",
+      "release": "bw1",
+      "number": "71",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:bw1:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw1_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "2a69a4feb5e5abede402682981d62d625c8067e33be1670cb1359b945c86d8cb",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_17cf31b272cb553a813bf788b957f043",
+      "lang": "de",
+      "release": "bw10",
+      "number": "56",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:bw10:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw10_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "e2f8fbb5cb3c2e7024b322309b486f14eda038f12034dbbe52b4449f1872f6ad",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_533f262425845b27b2e94313b81376a1",
+      "lang": "de",
+      "release": "bw2",
+      "number": "67",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:bw2:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw2_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "79e62e9886342a04b0d0fcb4ee9e2072c47f53cfeca464b4fab537a8e7b3bfca",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_44cb6f8334185873b4e91b9fc76847e9",
+      "lang": "de",
+      "release": "bw4",
+      "number": "64",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:bw4:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw4_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "fe10b93b8a730b08914cc13d654e8934595584d20b2df815ec7413a08c7367df",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_c5d995d8e2af54ca98fa5b3cc3737c8f",
+      "lang": "de",
+      "release": "bw6",
+      "number": "19",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:bw6:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw6_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "5bd208d761a4070400ecd713eb79067af242c469943cb9c2606d8dbc54a85d1f",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_9dad4afce72556a1874cc6209921b2db",
+      "lang": "de",
+      "release": "bw7",
+      "number": "122",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:bw7:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw7_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "e0e978cb3a24bd46904f26a0b3a2bb141f2954377590ae63ec6ed1693adb8a59",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_9d3c44d74dc0550b96916b5297a84557",
+      "lang": "de",
+      "release": "bw8",
+      "number": "78",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:bw8:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw8_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "14e9f32ba61266bbd1513242ca7b6a20c4d981604bdc682b8cc5d5636d98fc65",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_b5dcb6b8029c576ab9ab8a6f21e277f4",
+      "lang": "de",
+      "release": "sm1",
+      "number": "22",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm1:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm1_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "e652c2bd44af02aed47014055290eb04ab33a1becec780a6dd74de3710283b5c",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_c267adc8c8f45bb981dd4d2a6d41685f",
+      "lang": "de",
+      "release": "sm10",
+      "number": "22",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm10:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm10_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "29330f0304bf41f68c52e070fb1dcfe01e8c4541616d1d2687fa6bfde530744e",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_2f1a5a21a4c85bf3b5215dd0d38d0308",
+      "lang": "de",
+      "release": "sm10",
+      "number": "126",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm10:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm10_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "29330f0304bf41f68c52e070fb1dcfe01e8c4541616d1d2687fa6bfde530744e",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_7fbfe6c1a7dc5dc595ddf119edac5cf7",
+      "lang": "de",
+      "release": "sm12",
+      "number": "124",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm12:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm12_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "d66bf76fd4c508983d2aa1db5af5f0e7684093967d5bccf956400d3ee7fb3ecc",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_53ad43160adc575995caf670bd68e6fe",
+      "lang": "de",
+      "release": "sm12",
+      "number": "145",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm12:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm12_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "d66bf76fd4c508983d2aa1db5af5f0e7684093967d5bccf956400d3ee7fb3ecc",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_1a28c51bd56f5ce39bd2e4da231b9301",
+      "lang": "de",
+      "release": "sm12",
+      "number": "176",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm12:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm12_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "d66bf76fd4c508983d2aa1db5af5f0e7684093967d5bccf956400d3ee7fb3ecc",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_46ed3fd707c45304b8b989ec7e6d1b1b",
+      "lang": "de",
+      "release": "sm3",
+      "number": "71",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm3:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm3_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "904ba7c020a3589b11b94b126536f041d2f7519fb8002f370b4a63246f96277b",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_a6f67c191ded5e7789c50595043913dc",
+      "lang": "de",
+      "release": "sm3",
+      "number": "75",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm3:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm3_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "904ba7c020a3589b11b94b126536f041d2f7519fb8002f370b4a63246f96277b",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_c64e1030c49757aa855dc97dda929d4e",
+      "lang": "de",
+      "release": "sm5",
+      "number": "67",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm5:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm5_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "9a2a85c1edd57f72caafe79ab2851fac60a9f82709b17a0bef14778a9d293be3",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_9c7735eb888a52b49101e512f23fc730",
+      "lang": "de",
+      "release": "sm6",
+      "number": "17",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sm6:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm6_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "769a2a7bc7b3329c44183d14bb7f3d1098df73b9562c23f488768850621e4534",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_4b0e791783d25ddc84acc061cd473cf6",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV53",
+      "values": {
+        "rarity_code": "shiny_rare_gx",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sma:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc",
+      "page": 1,
+      "symbol": "SH"
+    },
+    {
+      "entry_id": "entry_116ce5b384f956d1adfbc2b3a515334f",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV64",
+      "values": {
+        "rarity_code": "shiny_rare_gx",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sma:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc",
+      "page": 1,
+      "symbol": "SH"
+    },
+    {
+      "entry_id": "entry_d62e54dca59850bd832072f0f1668348",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV66",
+      "values": {
+        "rarity_code": "shiny_rare_gx",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sma:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc",
+      "page": 1,
+      "symbol": "SH"
+    },
+    {
+      "entry_id": "entry_d457600c0118527eaa4ad9d2b19faee9",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV67",
+      "values": {
+        "rarity_code": "shiny_rare_gx",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:sma:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc",
+      "page": 1,
+      "symbol": "SH"
+    },
+    {
+      "entry_id": "entry_c5fcde23620857d5b67d2df5c617f910",
+      "lang": "de",
+      "release": "xy1",
+      "number": "26",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy1:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy1_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "5b14009a02ee70cadd266817820279fc7a943496240777c383dec5bec9032940",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_f6bdf9d9523f5fb88bcd9972cf486578",
+      "lang": "de",
+      "release": "xy1",
+      "number": "73",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy1:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy1_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "5b14009a02ee70cadd266817820279fc7a943496240777c383dec5bec9032940",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_b06f5ba6c5f55d1e914938259dc96e64",
+      "lang": "de",
+      "release": "xy1",
+      "number": "114",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy1:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy1_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "5b14009a02ee70cadd266817820279fc7a943496240777c383dec5bec9032940",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_969eb3ad3cb35386a5706908d0e9c14d",
+      "lang": "de",
+      "release": "xy10",
+      "number": "13",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy10:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy10_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "0f031944fd62608f9cb029aad6cade59d4f3797f16eac95fd298042bea8a7e4c",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_94ad0c7fa3475a9cbd1b389a7ba22bd9",
+      "lang": "de",
+      "release": "xy10",
+      "number": "14",
+      "values": {
+        "rarity_code": "rare_break",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy10:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy10_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "0f031944fd62608f9cb029aad6cade59d4f3797f16eac95fd298042bea8a7e4c",
+      "page": 1,
+      "symbol": "★T"
+    },
+    {
+      "entry_id": "entry_45b1f6a6e518510095d0d4f34f2d75af",
+      "lang": "de",
+      "release": "xy10",
+      "number": "63",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy10:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy10_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "0f031944fd62608f9cb029aad6cade59d4f3797f16eac95fd298042bea8a7e4c",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_22d9fd63771458769dbaf98296804bd5",
+      "lang": "de",
+      "release": "xy12",
+      "number": "15",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy12:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy12_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "93a5bdafe9051bc0ffa3a411e319c89d92f9702aaedc9b6ed8b08498b98d6ffa",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_788dc806682c5cb19431a5452f0ac148",
+      "lang": "de",
+      "release": "xy12",
+      "number": "16",
+      "values": {
+        "rarity_code": "rare_break",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy12:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy12_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "93a5bdafe9051bc0ffa3a411e319c89d92f9702aaedc9b6ed8b08498b98d6ffa",
+      "page": 1,
+      "symbol": "★T"
+    },
+    {
+      "entry_id": "entry_9b9f1d2724305a4d8b7f567900b34531",
+      "lang": "de",
+      "release": "xy5",
+      "number": "61",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy5:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy5_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "ddbeb6c4e7f50afc36216788437629c40372fc5961a7d066d77353eeaf2e5780",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_beff419b25d65d5fb2e384863984d283",
+      "lang": "de",
+      "release": "xy8",
+      "number": "91",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy8:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy8_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "76a2f049104c109f2fb9c35d398a206b61365316514af588c4fea64da2b9b512",
+      "page": 1,
+      "symbol": "★H"
+    },
+    {
+      "entry_id": "entry_ec8eb0ce8c685ebbb2d11eb5f32c981b",
+      "lang": "de",
+      "release": "xy8",
+      "number": "92",
+      "values": {
+        "rarity_code": "rare_break",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:xy8:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy8_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "76a2f049104c109f2fb9c35d398a206b61365316514af588c4fea64da2b9b512",
+      "page": 1,
+      "symbol": "★T"
+    },
+    {
+      "entry_id": "entry_a48689fd9b7c56f7b019659bafb514f2",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV64",
+      "values": {
+        "rarity_code": "shiny_rare_gx",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "en:sma:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "11b4e1ff9f92f36c3a6d9488f0b8bb4f5178d02b4dc5ae04053a2156cb6b6fdf",
+      "page": 1,
+      "symbol": "SH"
+    },
+    {
+      "entry_id": "entry_86ee8756dc955e47b994dd55931057d5",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV66",
+      "values": {
+        "rarity_code": "shiny_rare_gx",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "en:sma:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "11b4e1ff9f92f36c3a6d9488f0b8bb4f5178d02b4dc5ae04053a2156cb6b6fdf",
+      "page": 1,
+      "symbol": "SH"
+    },
+    {
+      "entry_id": "entry_51241505008f5854a838faa055be45c4",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV67",
+      "values": {
+        "rarity_code": "shiny_rare_gx",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "en:sma:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf"
+      ],
+      "evidence": "Native publisher row and own rarity legend override a collapsed provider tier. This does not generate a physical finish.",
+      "source_sha256": "11b4e1ff9f92f36c3a6d9488f0b8bb4f5178d02b4dc5ae04053a2156cb6b6fdf",
+      "page": 1,
+      "symbol": "SH"
+    },
+    {
+      "entry_id": "entry_e67aa6dbf9045b6c8adf8882bcf4d765",
+      "lang": "de",
+      "release": "base1",
+      "number": "12",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:base1:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/klassisch/basis-set.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_b806546c673353b882832dc9fed6d424",
+      "lang": "de",
+      "release": "neo2",
+      "number": "4",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:neo2:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/neo/neo-entdeckung.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_19d0e3c110315126ab37b801a2cb0b87",
+      "lang": "de",
+      "release": "neo2",
+      "number": "5",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:neo2:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/neo/neo-entdeckung.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_dcc4bf8c34075c038e1fc7c3fea2a6f2",
+      "lang": "de",
+      "release": "neo2",
+      "number": "11",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:neo2:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/neo/neo-entdeckung.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_5624805f3859544e9f5e16e3e709c68b",
+      "lang": "de",
+      "release": "neo3",
+      "number": "8",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:neo3:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://carddex.net/index.php?id=3335&page=DB_KARTE"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_4c076611644f50ee82a2dcf131ac1780",
+      "lang": "de",
+      "release": "neo4",
+      "number": "7",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:neo4:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/neo/neo-destiny.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_cfdbcb6ff266535aa5dd20194fe4a25b",
+      "lang": "de",
+      "release": "neo4",
+      "number": "12",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:neo4:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/neo/neo-destiny.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_0ef796473aa456159cbfe8274c97b58b",
+      "lang": "de",
+      "release": "ex15",
+      "number": "8",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex15:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-dragon-frontiers.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_e07e8233c3c257deb50dbbb4a17e45fa",
+      "lang": "de",
+      "release": "ex10",
+      "number": "7",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex10:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-verborgene-maechte.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_0e3c560b740059d5bd91d28f51a6dc68",
+      "lang": "de",
+      "release": "ex8",
+      "number": "12",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex8:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-deoxys.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_2092959929465c96bcd9317eab42c387",
+      "lang": "de",
+      "release": "ex14",
+      "number": "8",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex14:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-crystal-guardians.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_86736a210a9a5f8baa474548473ac40b",
+      "lang": "de",
+      "release": "ex9",
+      "number": "7",
+      "values": {
+        "rarity_code": "rare_holo",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex9:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-smaragd.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Holo Rare",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_5be63a6039f3550c8046092a6b67ea3a",
+      "lang": "de",
+      "release": "ex12",
+      "number": "83",
+      "values": {
+        "rarity_code": "rare_holo_ex_lowercase",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex12:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-legend-maker.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Silver Star",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_353732dd2f455ee5a8d36eb9c9a3c042",
+      "lang": "de",
+      "release": "ex13",
+      "number": "101",
+      "values": {
+        "rarity_code": "rare_holo_ex_lowercase",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex13:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-holon-phantoms.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Silver Star",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_c5047be08f645b2c9869e87f75eb1966",
+      "lang": "de",
+      "release": "ex8",
+      "number": "101",
+      "values": {
+        "rarity_code": "rare_holo_ex_lowercase",
+        "rarity_state": "known",
+        "rarity_family": "rare",
+        "rarity_namespace": "de:ex8:reviewed_publisher_tier"
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-deoxys.php"
+      ],
+      "evidence": "Native editorial checklist distinguishes Holo Rare or classic silver-star ex from ordinary Rare. No English edition or finish is transferred.",
+      "native_label": "Silver Star",
+      "retrieval": "Web retrieval 2026-10-28; bulk HTML access unavailable."
+    },
+    {
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "lang": "en",
+      "release": "dpp",
+      "number": "DP12",
+      "values": {
+        "name": "Lucario LV.X",
+        "english": "Lucario LV.X",
+        "rarity_code": "promo",
+        "rarity_state": "known",
+        "rarity_family": "other"
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lucario-lv-x-diamond-pearl-promos-dp12/",
+        "https://bulbapedia.bulbagarden.net/wiki/DP_Black_Star_Promos_(TCG)"
+      ],
+      "evidence": "Exact native DP12 face says LV.X and Black Star Promo. Provider Common label and shortened name were wrong.",
+      "image": "26d7438477f4fd0b08da58fae298b3d150a9dd5f1dc9751fd954b64eb43a8478.webp"
+    },
+    {
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "lang": "de",
+      "release": "dpp",
+      "number": "DP12",
+      "values": {
+        "name": "Lucario LV.X",
+        "english": "Lucario LV.X",
+        "rarity_code": "promo",
+        "rarity_state": "known",
+        "rarity_family": "other"
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/4/47/Lucario_%28DP_Black_Star_Promos_DP12%29.jpg",
+        "https://bulbapedia.bulbagarden.net/wiki/DP_Black_Star_Promos_(TCG)"
+      ],
+      "evidence": "Exact native DP12 face says LV.X and Black Star Promo. Provider Common label and shortened name were wrong.",
+      "image": "3aafd54f929961b23026c032d50fafa280cd7fc1285ed4284a8f8c2dfc57fe3a.webp"
+    },
+    {
+      "entry_id": "entry_f464759ee1d45e2ca7fc055882dfa7fe",
+      "lang": "en",
+      "release": "neo4",
+      "number": "43",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "05abb2646cad60cc9d0fafece52484a3cef1587010fd4dcc8ff7d69808d781cb.webp",
+          "image_sha256": "909419c04e1c38d10fc0a130cccc6e8034770b17d32c5fb23b219a48362dd9d6",
+          "sample_position": 1,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/houndour-neo-destiny-n4-43/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/houndour-neo-destiny-n4-43/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_d62e2bf855c556ce973982572bb52042",
+      "lang": "en",
+      "release": "gym1",
+      "number": "35",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "343cf3834020c69e150e50d487a22ad13864a7ee64e395c79a8ad26b3520a29b.webp",
+          "image_sha256": "b0feb01165a725a5448e093ec2127aaebe129b2d3aa6b09e561591a3ab036156",
+          "sample_position": 2,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/blaines-growlithe-gym-heroes-g1-35/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/blaines-growlithe-gym-heroes-g1-35/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_dd7a21c33f765272af63ef249bf008bd",
+      "lang": "en",
+      "release": "ecard1",
+      "number": "136",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "76637a123360afcec3978a08db970c28d9839a559aae7fa0197b3ceb4e608d2f.webp",
+          "image_sha256": "3f40896def14d7da6b9634a42c72d464121f331b10f7958f2608ba13917e18a2",
+          "sample_position": 3,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/vulpix-expedition-ex-136/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/vulpix-expedition-ex-136/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_0d056ad4b31e566b9522d95f993d2329",
+      "lang": "en",
+      "release": "lc",
+      "number": "98",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "fe16389b3a6cb56335b5e51d90ec1bf8c1188c9bee6b737ebfd7dbc8b278d264.webp",
+          "image_sha256": "eeaf226c55c2b42b91617b7fc96d6b3c6bfccca5df96d7074533ccc078f3fd7e",
+          "sample_position": 4,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/vulpix-legendary-collection-lc-98/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/vulpix-legendary-collection-lc-98/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_f7780486d2005b68abeb6f6be6f7ed86",
+      "lang": "en",
+      "release": "neo4",
+      "number": "91",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "ac781059237dc1ca3eb108b6e61c13be85a2f5f384b020df668676f79685cec3.webp",
+          "image_sha256": "e838e53cda8a0d918b1864e91f1d1fb01fc2a707374c9661b1f198765c286c19",
+          "sample_position": 5,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/vulpix-neo-destiny-n4-91/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/vulpix-neo-destiny-n4-91/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_3d42f43d95575580902e0815211f9166",
+      "lang": "en",
+      "release": "ecard1",
+      "number": "21",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "59558a211387dc21acea7f198de8ef87c96dd963e61c7e8bcba849a948574b08.webp",
+          "image_sha256": "e87372fa8afd8c06f2084262aae3fbe92e7e5b1b867a8fde332e9276f595e39d",
+          "sample_position": 6,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/ninetales-expedition-ex-21/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/ninetales-expedition-ex-21/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+      "lang": "en",
+      "release": "basep",
+      "number": "6",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "48b811d7b07029de821c796091df99681c335ef2ededc213cdd65d4cfd6f393c.webp",
+          "image_sha256": "469be5bdc0425dc43edf84b1c8af80720ba3c2f98d625bfa57ad46ef1c8e908a",
+          "sample_position": 7,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/arcanine-wizards-black-star-promos-6/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/arcanine-wizards-black-star-promos-6/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_9791b59503a95d41b6326d0f50c8631c",
+      "lang": "en",
+      "release": "basep",
+      "number": "32",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "9a2f83bac9f49edd766b1d0f2e77e7948c2d872216a5bd56526bc97a3f9f10aa.webp",
+          "image_sha256": "672d9b60321462270e354f1c106bebc7f2281b54e3b416aeb0811d54b2e2d997",
+          "sample_position": 8,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/smeargle-wizards-black-star-promos-32/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/smeargle-wizards-black-star-promos-32/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_deace5ef9b6b50c7835426a948121d9e",
+      "lang": "en",
+      "release": "pl4",
+      "number": "62",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "d2681fb933a17a3cdc2fd68213abf4a5885c91f7f332d1fc7bf02148258e7df4.webp",
+          "image_sha256": "c5f6bfb731f820f0ae0c12ce1584e45664bd8abac6ba1961de9a603dac275672",
+          "sample_position": 9,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/electrike-arceus-ar-62/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/electrike-arceus-ar-62/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_3a53a56499485d078028d318e6e1f7e3",
+      "lang": "en",
+      "release": "dp6",
+      "number": "116",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "35c8cd6ef183aab4b434e244f33c787f3c99c03412569511dd66eee71361e746.webp",
+          "image_sha256": "4529a622aa04f5a8c52aea96a355c3e3aa558e275069593c973905c3f7d2bc3f",
+          "sample_position": 10,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/poochyena-legends-awakened-la-116/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/poochyena-legends-awakened-la-116/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_67e92754f8c459e2a89cba6c1bac832f",
+      "lang": "en",
+      "release": "ex8",
+      "number": "38",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "75de9759144956709f0d82d36487b9f895ca7217472ee96f6364e6f23edc8a56.webp",
+          "image_sha256": "a0390747b5ac5b57ba5d1a806926f71ceb958e01b0774ab8d601f95d84df815d",
+          "sample_position": 11,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/manectric-deoxys-dx-38/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/manectric-deoxys-dx-38/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_035d937a19e75039877960de9ab7e2da",
+      "lang": "en",
+      "release": "ex4",
+      "number": "35",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "8480eab6d8456cdac434f358516babd7b4dfca2a9bfd30006af3afa8c448f087.webp",
+          "image_sha256": "f69c1733127002c558257f38bb999d479535f5166b228b675879a1d3bd9dd1d3",
+          "sample_position": 12,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/team-magmas-houndour-team-magma-vs-team-aqua-ma-35/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/team-magmas-houndour-team-magma-vs-team-aqua-ma-35/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_b482618f23b7557d9772ecaa10d4a1ad",
+      "lang": "en",
+      "release": "ex8",
+      "number": "70",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "f701908dfd40e768771dad2f8bb3a16f6cdc6fdbedfb2d5d3419696f032c4f63.webp",
+          "image_sha256": "4a8550fc64b46f0e47523f2f744071f9c6d8ea5acec05abe8dadf156ee146f81",
+          "sample_position": 13,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/poochyena-deoxys-dx-70/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/poochyena-deoxys-dx-70/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_5b9b2679ed4c53ca8defc53c46f56e5e",
+      "lang": "en",
+      "release": "ex4",
+      "number": "15",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "007ab65360b1bf6c78c2c4a1b3bc84348a8258b196dd1d328c80d5d3ab118fc1.webp",
+          "image_sha256": "45cff72903591c6db3fc5315d18fc4a9c84f8542bb4179f7b93ef85e20e6cb63",
+          "sample_position": 14,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/team-aquas-mightyena-team-magma-vs-team-aqua-ma-15/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/team-aquas-mightyena-team-magma-vs-team-aqua-ma-15/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_cedea551fe68565faa5210f00a66039e",
+      "lang": "en",
+      "release": "tk-ex-latio",
+      "number": "7",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "5aec6c3c7f132a3e137361339465defa4af270a60924d7f45c951d2e855df127.webp",
+          "image_sha256": "4b738c0b0c85f6c499e2ed145e2b6ceec58d1aa93bbaf24b6d8ab7cec3f80e32",
+          "sample_position": 15,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/zigzagoon-ex-trainer-kit-latios-tk1o-7/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zigzagoon-ex-trainer-kit-latios-tk1o-7/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_b1c0f5687b925874837ab7e739f961a7",
+      "lang": "en",
+      "release": "xy10",
+      "number": "12",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "2b3ea04d92bd9302be2c603f14e669a9540ee5fd7f1abd8f29fbc07f9ee71641.webp",
+          "image_sha256": "e577de646ba3338b8117a53188fef26f14fda012763719264ac1569a75959cae",
+          "sample_position": 17,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/braixen-fates-collide-fco-12/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/braixen-fates-collide-fco-12/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_cc2aa6174d735e619233f494f328a271",
+      "lang": "en",
+      "release": "xy8",
+      "number": "123",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "569f1c274d13110819f00e8cf6634bd645e8176a7a5c8266d149fe8c4368bf3b.webp",
+          "image_sha256": "343bec6555a387ad79cbbdfc383e427b0303ec6745812c5890ffb663f06a7848",
+          "sample_position": 18,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/smeargle-breakthrough-bkt-123/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/smeargle-breakthrough-bkt-123/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_c5d8b7b27c9d52d4a7fa28c7314edcac",
+      "lang": "en",
+      "release": "xy5",
+      "number": "111",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "3c4b437c40d01b5839be4c2c58358661c48485a023dda49ebb4583780cea4a3b.webp",
+          "image_sha256": "3d8f576e4c4f26454ae847d17ad7b1cf604b2bbf0dbf5b6c4dd0c761cd68a57b",
+          "sample_position": 19,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/zigzagoon-primal-clash-prc-111/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zigzagoon-primal-clash-prc-111/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_fc4ce28cc2365214a5d978b32573252d",
+      "lang": "en",
+      "release": "dc1",
+      "number": "19",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "24338548d51550cf13d3b233f105a48635c49bf3e586d973d245c1cfbcb75306.webp",
+          "image_sha256": "2bd72fb9e708b592dacb3f738f94f5df114bdcb283ebc74aa2e230db996be8af",
+          "sample_position": 20,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/team-magmas-mightyena-double-crisis-dcr-19/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/team-magmas-mightyena-double-crisis-dcr-19/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_05762cc910a55e41ae7a7cd9915d20f8",
+      "lang": "en",
+      "release": "xy8",
+      "number": "98",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "94fae0766ba139b0a36e788b11533230152cd6a4e70fd7189b066cd0857e55ef.webp",
+          "image_sha256": "fabecfbbb9d8dd7984aca4789687599bb5c37bae5107d8f6f132a7e6e9279390",
+          "sample_position": 21,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/snubbull-breakthrough-bkt-98/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/snubbull-breakthrough-bkt-98/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_a269f0ed41395ff193b705056dbf3da4",
+      "lang": "en",
+      "release": "xy8",
+      "number": "99",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "3331abbd2a8e4e4565dd91d5f5a7bea546706724ade204b121fbfcc69ee29a7f.webp",
+          "image_sha256": "dcd8573b62c7e7a33a14a3dad695699fbfc3b99841b9b2e8de744ef4a00f96c8",
+          "sample_position": 22,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/granbull-breakthrough-bkt-99/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/granbull-breakthrough-bkt-99/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "research_entry_a7b20f64fe7b585abdd32520572e46fd",
+      "lang": "en",
+      "release": "xy8",
+      "number": "142",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "13ee151e0b4c2b64581be2f208082aea080fa38c89be275e9cdef723c4488b1a.webp",
+          "image_sha256": "13ee151e0b4c2b64581be2f208082aea080fa38c89be275e9cdef723c4488b1a",
+          "sample_position": 23,
+          "inference": false,
+          "source_url": "https://assets.tcgdex.net/en/xy/xy8/142/high.webp"
+        }
+      },
+      "source_urls": [
+        "https://assets.tcgdex.net/en/xy/xy8/142/high.webp"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_0342f9d7416c5a5f9134d5a74aa7b612",
+      "lang": "en",
+      "release": "xy0",
+      "number": "9",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "934c590fa0851f6821d1615f5f969d4d258ca25179aae60f88ddcce2a92f00c2.webp",
+          "image_sha256": "ceb61ab5789c6cf11948b3ff7636733baf6d9679e3ebfb163419dcd6927a2016",
+          "sample_position": 24,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/braixen-kalos-starter-set-kss-9/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/braixen-kalos-starter-set-kss-9/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_2e97edafb7625c028f273b060ef70ba3",
+      "lang": "en",
+      "release": "swsh7",
+      "number": "133",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "de850113616a26caede646373bc1977dfe049e4339c0d331aafab1a438563b91.webp",
+          "image_sha256": "baf5048f3437db84591e7002556e79968c9aaf6dda5d489bb15654e2e87cd1f4",
+          "sample_position": 25,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/lillipup-evolving-skies-evs-133/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lillipup-evolving-skies-evs-133/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_70af70f53bfe58388724984b540739a4",
+      "lang": "en",
+      "release": "sm1",
+      "number": "105",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "3b0ce21826d61a68d6b17be3e0cd72bb2246e0c885d693be0d950f1ad2bf3aa1.webp",
+          "image_sha256": "a22fe15fd67eb3ff98426ab6be680e6005c7be3695997c7af4f7b06d856112ae",
+          "sample_position": 26,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/stoutland-sun-moon-sum-105/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/stoutland-sun-moon-sum-105/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_61db1d8c7b1b56f2ba4145ad245a6c9c",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV8",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "c0f22d93f301c84fe19354453902fbec73b0ec37a24e6ca7b11efcc87fead719.webp",
+          "image_sha256": "e5d6cdfd26a00b39ab078190fdd908af4496e41ef6106da2307d9d77f05cc1bb",
+          "sample_position": 27,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/alolan-vulpix-guardians-rising-gri-sv8/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/alolan-vulpix-guardians-rising-gri-sv8/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_51241505008f5854a838faa055be45c4",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV67",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "d914a104d7a492cfa4204a1c1f08872546b4ed2be818760d4bed675d70857c6a.webp",
+          "image_sha256": "53323db2bfc3194803ff33434e830f6328acaae80acbe0ff58c0118f26cda6f1",
+          "sample_position": 28,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/lycanroc-gx-team-up-teu-sv67/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lycanroc-gx-team-up-teu-sv67/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_b65a491f75c75128a97a6de975f3e85d",
+      "lang": "en",
+      "release": "swsh1",
+      "number": "126",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "b48171b6dd4d7ae9e9bde1823c7c25b43b050431dd7111612532ed3499e56093.webp",
+          "image_sha256": "728deaf18ad7cfba19065e5d63cd74c65f6aa8c38127f82be0fffbb392e521be",
+          "sample_position": 29,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/thievul-sword-shield-ssh-126/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/thievul-sword-shield-ssh-126/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_a7f7c17e222b5b06aede8ddd57974910",
+      "lang": "en",
+      "release": "sm3",
+      "number": "75",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "130f5f7662ec3da11c69671044f9e39c1230a3043ce591ef2e5baf3c74eb2fb7.webp",
+          "image_sha256": "1217a9d96c2a1d17ca36002c9f206f74cb135fe1d0a66a2037fe48d9f933aab7",
+          "sample_position": 30,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/lycanroc-burning-shadows-bus-75/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/lycanroc-burning-shadows-bus-75/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_8ae68399fa1752b5bddd5b935c3bb9ee",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH163",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "9a481ce56ba2e3c4c1ab1183d5a05f340ee42b6839f6f25cc076d66daede6196.webp",
+          "image_sha256": "49dd56759d7360907f965287edb8e8251f82eb1eb7de5dc0391c53095c35423f",
+          "sample_position": 31,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/zacian-v-union-sword-shield-promos-swsh163/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zacian-v-union-sword-shield-promos-swsh163/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_93d661f4d41a5c9ba4ec28131b9381c7",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH019",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "cc365a7c33575abd30c2d82a206a30d3e6722cf2f8a17c94d776ce2b74145919.webp",
+          "image_sha256": "7f103cdc34051b9ac0bf605093ccd7e311861dd3c14ce9e4b7b99306f394016c",
+          "sample_position": 32,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/zamazenta-v-sword-shield-promos-swsh019/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zamazenta-v-sword-shield-promos-swsh019/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_9268042a728451e780ea897944ccad25",
+      "lang": "en",
+      "release": "sv06",
+      "number": "026",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "93ee5e54483b84d75ba926f3bdbacd49e81c5f101d49e51cdd7733bb3643e1cf.webp",
+          "image_sha256": "a0a49f5d69c14aeb0774e8ffd38fb251eb83f639349e54205205ed14e1dbd4ce",
+          "sample_position": 33,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/vulpix-twilight-masquerade-twm-026/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/vulpix-twilight-masquerade-twm-026/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_16dc73d86e235958a37104bd7f7c5314",
+      "lang": "en",
+      "release": "me05",
+      "number": "092",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "bafb372ef8906bce1c39c68fb9a43567136f78a5dfefa228f65d17c36475f9fb.webp",
+          "image_sha256": "83a4df39acc94d52aecad43333594f9b83ba099c4eef09c4e16b54e67ea8e9ec",
+          "sample_position": 34,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/thievul-pitch-black-pbl-092/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/thievul-pitch-black-pbl-092/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_b3bd77be81355cfaa4336cf37c0e7faf",
+      "lang": "en",
+      "release": "sv10.5w",
+      "number": "062",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "e3214a0311a801f54cf66cdb1fc97a58490c454992d96eb99f842786f7d89942.webp",
+          "image_sha256": "026c3b6f18fb8e51a2e857a01d445c08547fc4dffbc658614df6b9a9a4d0157f",
+          "sample_position": 35,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/zoroark-white-flare-wht-062/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/zoroark-white-flare-wht-062/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_f5a8f7f486255102ab89892a257b1b4f",
+      "lang": "en",
+      "release": "sv05",
+      "number": "106",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "4c18d946c0a57062d9761a32d3f5289efe296d08af807d91e9233f5423f9185a.webp",
+          "image_sha256": "4566d5554ecf2d31cb99b75c5aed2e90a2914458911cc47c1d447297240d5d02",
+          "sample_position": 36,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/mightyena-temporal-forces-tef-106/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/mightyena-temporal-forces-tef-106/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_4c2686a9a5ea5551865faa2b38202a34",
+      "lang": "en",
+      "release": "sv09",
+      "number": "111",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "e76d5fb9240fc6cb2c32b90728650d53d2a5a3782522203f8bb0eca07ee5b5f8.webp",
+          "image_sha256": "fbb968cb34f794cc9024bf8d685c751a16f114814e736c796d6a95b92786e290",
+          "sample_position": 37,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/hops-zacian-ex-journey-together-jtg-111/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/hops-zacian-ex-journey-together-jtg-111/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_f4507f018f8056e684f598ea9afb51ec",
+      "lang": "en",
+      "release": "sv04.5",
+      "number": "062",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "b5860885e043057a73ef44d00e3d86a9495cfc4674faf242bd00b666f2658065.webp",
+          "image_sha256": "60d65db45829ecd4a361f958d505c29231e898d2bf1cff2dafd6f25c306b5389",
+          "sample_position": 38,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/maschiff-paldean-fates-paf-062/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/maschiff-paldean-fates-paf-062/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_116af9dde7685636ae20430c05e6ba5d",
+      "lang": "en",
+      "release": "svp",
+      "number": "070",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "411e750575d76d7492988e29ff29bf2310bf336a81039c66d05a6f6b356ada49.webp",
+          "image_sha256": "2b269c3106d815b1b1d444a2ffe9ee1d96688ffc8fb0f2a95c548fa2096a0f41",
+          "sample_position": 39,
+          "inference": false,
+          "source_url": "https://pkmncards.com/card/greavard-scarlet-violet-promos-svp-070/"
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/greavard-scarlet-violet-promos-svp-070/"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "research_entry_b181a275d19d5ca0be7fe601d2b392d1",
+      "lang": "en",
+      "release": "sv05",
+      "number": "210",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "c7b67f65bb4a1423a9354fd8f7f50bd65806d783a340d5c42bb127ff96d8d4ff.webp",
+          "image_sha256": "c7b67f65bb4a1423a9354fd8f7f50bd65806d783a340d5c42bb127ff96d8d4ff",
+          "sample_position": 40,
+          "inference": false,
+          "source_url": "https://assets.tcgdex.net/en/sv/sv05/210/high.webp"
+        }
+      },
+      "source_urls": [
+        "https://assets.tcgdex.net/en/sv/sv05/210/high.webp"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_25965d4d9560557ca780004c841c020f",
+      "lang": "de",
+      "release": "base1",
+      "number": "28",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "a62dc6d9add6f37464aaa89bdd5e45347bbcf41ecd4281cb03e1e622ab7b7f6b.webp",
+          "image_sha256": "a62dc6d9add6f37464aaa89bdd5e45347bbcf41ecd4281cb03e1e622ab7b7f6b",
+          "sample_position": 41,
+          "inference": false,
+          "source_url": "https://www.pokewiki.de/images/4/4d/Fukano_%28Grundset_28%29.jpg"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/4/4d/Fukano_%28Grundset_28%29.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_5624805f3859544e9f5e16e3e709c68b",
+      "lang": "de",
+      "release": "neo3",
+      "number": "8",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "820350f5deb01a6b8d3aa1d43b927b49c504bc6a69fe1686b0d63fce2c8624be.webp",
+          "image_sha256": "820350f5deb01a6b8d3aa1d43b927b49c504bc6a69fe1686b0d63fce2c8624be",
+          "sample_position": 42,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-revelation/008.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-revelation/008.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_dcc4bf8c34075c038e1fc7c3fea2a6f2",
+      "lang": "de",
+      "release": "neo2",
+      "number": "11",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "19d13d381733084f22991ce17cb0864cb885b53205e2884068d118cd105f928c.webp",
+          "image_sha256": "19d13d381733084f22991ce17cb0864cb885b53205e2884068d118cd105f928c",
+          "sample_position": 43,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/011.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/011.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_19d0e3c110315126ab37b801a2cb0b87",
+      "lang": "de",
+      "release": "neo2",
+      "number": "5",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "2d2ef58ed16822f9eae4d13a64334dc1873321f9619ff9c379aa08d7bb904d7d.webp",
+          "image_sha256": "2d2ef58ed16822f9eae4d13a64334dc1873321f9619ff9c379aa08d7bb904d7d",
+          "sample_position": 44,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/005.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/005.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_ace51aba97985f72a2f59054db222760",
+      "lang": "de",
+      "release": "neo2",
+      "number": "23",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "e3f701dff84d2ed1c6572f621abbf32e39294c7a4b8dab983904cb67cac77108.webp",
+          "image_sha256": "e3f701dff84d2ed1c6572f621abbf32e39294c7a4b8dab983904cb67cac77108",
+          "sample_position": 45,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/023.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-entdeckung/023.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_48bc12ccfeca531b8bb0756f01642b12",
+      "lang": "de",
+      "release": "neo1",
+      "number": "37",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "9a3de09a78c3bbcb1e20ce89104ed43896f4623eb9d13bd58aedb254d3fb7ad9.webp",
+          "image_sha256": "9a3de09a78c3bbcb1e20ce89104ed43896f4623eb9d13bd58aedb254d3fb7ad9",
+          "sample_position": 46,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-genesis/037.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/neo-genesis/037.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_3ccade8482e65b4597c72831ad24d0f0",
+      "lang": "de",
+      "release": "basep",
+      "number": "6",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "4dea26fea8c7511f2696e3b624257442c0cb9f98bbc97213fbaa81ae13be9ffc.webp",
+          "image_sha256": "4dea26fea8c7511f2696e3b624257442c0cb9f98bbc97213fbaa81ae13be9ffc",
+          "sample_position": 47,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/wizards-black-star-promos/006.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/wizards-black-star-promos/006.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_b90f275c05c15e06a9638a3716ca1475",
+      "lang": "de",
+      "release": "basep",
+      "number": "32",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "a17ed9f4377a281527b541dd10858e6ccd991c94ef30fd9f27b194b3bb05fe02.webp",
+          "image_sha256": "a17ed9f4377a281527b541dd10858e6ccd991c94ef30fd9f27b194b3bb05fe02",
+          "sample_position": 48,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/wizards-black-star-promos/032.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/wizards-black-star-promos/032.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_9282ff804e9b5d7c8417cc51ff7a7f56",
+      "lang": "de",
+      "release": "dp6",
+      "number": "57",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "2b911a35a67b667f8459de3e14a753bd387199a25a2246a519a4615f0956afeb.webp",
+          "image_sha256": "2b911a35a67b667f8459de3e14a753bd387199a25a2246a519a4615f0956afeb",
+          "sample_position": 49,
+          "inference": false,
+          "source_url": "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/dp-erwachte-legenden/057.jpg"
+        }
+      },
+      "source_urls": [
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/dp-erwachte-legenden/057.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_472029bd642d58a0a0184d3705084a89",
+      "lang": "de",
+      "release": "hgss3",
+      "number": "54",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "60cec256af1e9bd23501b42b9465e3b0018513f1385ce044ce92822e0f078668.webp",
+          "image_sha256": "6857a23d2b4a045ec6e0397d15e8c2ea6083caf770f989b1de1cba6e40332a47",
+          "sample_position": 50,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/hgss3-54"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/hgss3-54"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_600656167c6b5fa8bef5cb02c49f1370",
+      "lang": "de",
+      "release": "hgss1",
+      "number": "82",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "9603d7e1f53f513f3500b6de7c34261bf1878fd7b90aab53fa651a9f112cdf36.webp",
+          "image_sha256": "35543d1908d77be94ad951d392c45da830c1a4cb592531958e9548cbd77586ee",
+          "sample_position": 51,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/hgss1-82"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/hgss1-82"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_4313853c5a555d1ea19ab5d58b6bfd37",
+      "lang": "de",
+      "release": "ex6",
+      "number": "64",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "78af63dda687651f66e28d73f20f3b36d0d6b965cb8d30ed40565321ce6af2fb.webp",
+          "image_sha256": "78af63dda687651f66e28d73f20f3b36d0d6b965cb8d30ed40565321ce6af2fb",
+          "sample_position": 53,
+          "inference": false,
+          "source_url": "https://www.pokewiki.de/images/b/b1/Fukano_%28EX_Feuerrot_%26_Blattgr%C3%BCn_64%29.jpg"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/b/b1/Fukano_%28EX_Feuerrot_%26_Blattgr%C3%BCn_64%29.jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_5e5e06d8ed19518ca2d640dbd3bca5de",
+      "lang": "de",
+      "release": "pop6",
+      "number": "2",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "9df101210d1db48cfb9deb2fe31895a916aaa567de51260f573f3f00f477ab47.webp",
+          "image_sha256": "9df101210d1db48cfb9deb2fe31895a916aaa567de51260f573f3f00f477ab47",
+          "sample_position": 54,
+          "inference": false,
+          "source_url": "https://www.pokewiki.de/images/9/99/Lucario_(POP_Serie_6_2).jpg"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/9/99/Lucario_(POP_Serie_6_2).jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "research_entry_c0ec184411bb50ae891bc1a9698d4a94",
+      "lang": "de",
+      "release": "tk-dp-l",
+      "number": "3",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "ccf274ff3846aff24e84db8e08c6fdc8a4032f0bca172a7fb9dda9d7b010e455.webp",
+          "image_sha256": "ccf274ff3846aff24e84db8e08c6fdc8a4032f0bca172a7fb9dda9d7b010e455",
+          "sample_position": 56,
+          "inference": false,
+          "source_url": "https://www.pokewiki.de/images/6/60/Lucario_(Lucario-Deck_3).jpg"
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/images/6/60/Lucario_(Lucario-Deck_3).jpg"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_c5d995d8e2af54ca98fa5b3cc3737c8f",
+      "lang": "de",
+      "release": "bw6",
+      "number": "19",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "8067d01088d0c12fa1351f8dce47fb83bb47986775e65fbc57aff0821d202975.webp",
+          "image_sha256": "00816e7e0e9c42ec4fb8d25c002901782236c5fdaee55433ebb5e45a8e1a9d82",
+          "sample_position": 57,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/bw6-19"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/bw6-19"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_91167dfa40b15222986d7fe167528ecd",
+      "lang": "de",
+      "release": "xy1",
+      "number": "25",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "636b421d5f74cb2cfcc77858a04917eba0363f81603ccf8a021f929084923c03.webp",
+          "image_sha256": "4d5f4e38126c5d0486d26b1cb3cde7b1a8d4785635862418f2429af26acaa0b3",
+          "sample_position": 58,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/xy1-25"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy1-25"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_705319e5d603546195eea80414886e19",
+      "lang": "de",
+      "release": "bw1",
+      "number": "70",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "22d32747d6f8828f3d12a2e40754b220995444adb2b2b1dfd1dc91fe6de38a07.webp",
+          "image_sha256": "ac00bc4088ab98a4c8cef23a4c5fb9d15b362099f1fbb26d2fce021065d817b5",
+          "sample_position": 59,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/bw1-70"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/bw1-70"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_d499857554c451d991189b6a5b4f4d77",
+      "lang": "de",
+      "release": "xy2",
+      "number": "87",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "dce8ba3c3c1b2de884a8394fbe06c40a73427f05573c44dc9e7661aad7d0a958.webp",
+          "image_sha256": "c2f3c1f6fc3a5aa845b5fdc5b211c8a18ab0ee742715213847fb8a950d915be7",
+          "sample_position": 60,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/xy2-87"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy2-87"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_82c35c0eb6f65c1297cba49b270209f9",
+      "lang": "de",
+      "release": "xy5",
+      "number": "20",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "09dd7080e27985af61231d5c4f58878cb1eb3baa3f0d6c023053fad2c586d5bb.webp",
+          "image_sha256": "e7726ac64a43287f3c1983c8d8ee91b38fffedaee198a37725e3ff83f7a82b0e",
+          "sample_position": 61,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/xy5-20"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy5-20"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_ec8eb0ce8c685ebbb2d11eb5f32c981b",
+      "lang": "de",
+      "release": "xy8",
+      "number": "92",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "673c62721e465749d7ab30345f9360ba9e03d143325a21472a56c5a3e2ce0452.webp",
+          "image_sha256": "6c4e39359ba39090676b2b7d1462ee52b07e80b0013179f23f272d3177004361",
+          "sample_position": 62,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/xy8-92"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy8-92"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "research_entry_0387516a54f358a88ee3f7910eaede85",
+      "lang": "de",
+      "release": "xy4",
+      "number": "100",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "f2a498c5249c5a7e223ba3db9eb61cb3239b92cd1d55091d9c6868ff028907df.webp",
+          "image_sha256": "f2a498c5249c5a7e223ba3db9eb61cb3239b92cd1d55091d9c6868ff028907df",
+          "sample_position": 63,
+          "inference": false,
+          "source_url": "https://assets.tcgdex.net/de/xy/xy4/100/high.webp"
+        }
+      },
+      "source_urls": [
+        "https://assets.tcgdex.net/de/xy/xy4/100/high.webp"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_5cbd07d9c8a0544fae405ca872e7e4d1",
+      "lang": "de",
+      "release": "swsh3.5",
+      "number": "30",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "e3c3e78ff996ed383e65ab6befc3e66e05ea61c56f582b3068ebaba286dd1feb.webp",
+          "image_sha256": "7d6f7dd44b214f13d24fa58d830e742aa602067c65d460b09e1f72e1b198069f",
+          "sample_position": 65,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/swsh3.5-30"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3.5-30"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_1faa00157c765735b2feebaa66cb3b0c",
+      "lang": "de",
+      "release": "swsh9",
+      "number": "105",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "fa7a61ba70ce9a32bd9ff62da3121f8b19b9a49461908c12acd24381071e0e0a.webp",
+          "image_sha256": "ec44bdd1a66c41235cbfe0dffc86b0cfe4cf12c73446f3dd863bf2958756821b",
+          "sample_position": 66,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/swsh9-105"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh9-105"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_84a577e1a4cb524292f86150d53b2195",
+      "lang": "de",
+      "release": "swsh8",
+      "number": "33",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "97130673608db0b4ad8c0353425eeb2b1e835b56c1d2a4406ded19477c4e7d81.webp",
+          "image_sha256": "b743c2330793ad6df622169123ed2927131b6738568722d61ac51dc5e38b88a3",
+          "sample_position": 67,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/swsh8-33"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh8-33"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_c65679c00b325973ba6484a58dbcfc10",
+      "lang": "de",
+      "release": "swsh9",
+      "number": "057",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "10309400bd2fe37741af87bad1c95881779f408281e691cd4dd0e718d90840e0.webp",
+          "image_sha256": "28c87436a01d5caa6d21a0e0b8bb7e30c4cf8855ba30cc2e742dd1e5655c93cc",
+          "sample_position": 68,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/swsh9-057"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh9-057"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_6b75f5d5d130523eb4b8a5c8ac89a2d8",
+      "lang": "de",
+      "release": "swsh9",
+      "number": "078",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "dd4e60ca812183df2f6479492750f45af77a864c4f9cef265a244534200c53a0.webp",
+          "image_sha256": "51adc4f79be071cbe57be910244928999b6b0bb99f3105790907d7e93829794d",
+          "sample_position": 69,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/swsh9-078"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh9-078"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_c64e1030c49757aa855dc97dda929d4e",
+      "lang": "de",
+      "release": "sm5",
+      "number": "67",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "5d00c934e8239fa82538475c0328f18f7f52dda7c9e3698787c7c4e192f54d82.webp",
+          "image_sha256": "39981e52959764d66c1884bf6f3b89de40c58b2de17f4bb7da507b6077057c62",
+          "sample_position": 70,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/sm5-67"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm5-67"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_2ee1b4328e9354bcaf20ae88ae9137ca",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH164",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "90d2a120419ca7ed25dfcdb608d312a12c592a8e9bbdd7dd3184a31c503b0723.webp",
+          "image_sha256": "7c442ab9dbe56a8184df46f6ba60ad57822d079887177952ce5defabfe15d685",
+          "sample_position": 71,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/swshp-SWSH164"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH164"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_207f6f68b6445256ac6e78676a2a4f6e",
+      "lang": "de",
+      "release": "smp",
+      "number": "SM06",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "85aaa827b42cbd83344c46069ed626976f426c3a6f60ac3b80e1bde0f98f3bbc.webp",
+          "image_sha256": "85aaa827b42cbd83344c46069ed626976f426c3a6f60ac3b80e1bde0f98f3bbc",
+          "sample_position": 72,
+          "inference": false,
+          "source_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_006_R_DE.png"
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_006_R_DE.png"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_84eccb487f9b5d278aa94d25205e5546",
+      "lang": "de",
+      "release": "sv04",
+      "number": "136",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "b1a04fe3d7de6f827945eb2b840cd89e8091acbb073de6b6a4f385072cd76f77.webp",
+          "image_sha256": "9986975b8f0c3a465c912d6638e89c9ea5db3d672ff66f83f490c50e14d26de7",
+          "sample_position": 73,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/sv04-136"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv04-136"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_89d5a89d83e8542ca0e6fed6d951b650",
+      "lang": "de",
+      "release": "sv01",
+      "number": "213",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "4581da38a4bfb9b75117cb430a30cd66b170523e10112d2f014713ac7e4fbb70.webp",
+          "image_sha256": "96d832721400bd855314508dc082433e397c11ca7aedf7a5f98725629c55a8cc",
+          "sample_position": 74,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/sv01-213"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv01-213"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_8ac22ce1e4235855a61586f25044a040",
+      "lang": "de",
+      "release": "sv05",
+      "number": "105",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "ab4fe71db5c02678a93924de216aed2709a430ba458155f943ec1fd6a906228b.webp",
+          "image_sha256": "3732024b9c4050be8544c9c134872ccfad8280e2ab2244c9096e0ec76628223f",
+          "sample_position": 75,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/sv05-105"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv05-105"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_51b12d50a37c548bbcb7a9fe01a0c5c2",
+      "lang": "de",
+      "release": "sv02",
+      "number": "241",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "0f468d9b4dbe49aed6dc80d15b3598966ee47f19c2770bb2d81c33aa1965c141.webp",
+          "image_sha256": "18ffdefaeb8614b56448849f4384a72b5ef14dead71dbc155bf5b7d76a234bdc",
+          "sample_position": 76,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/sv02-241"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv02-241"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_c6ada0999990565b9d0170dd56077d44",
+      "lang": "de",
+      "release": "me01",
+      "number": "049",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "b6cf0b314c6e79f303dfb58888b62b7070d3e4a3d2c63dc79e6c5d4480b44f64.webp",
+          "image_sha256": "03dd8150ac6c50c2d448a72b63d858656682dc2f5b6e95f305a634c55edfd517",
+          "sample_position": 77,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/me01-049"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me01-049"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_24eafd74f5a353c499278e5510ec69bf",
+      "lang": "de",
+      "release": "30th",
+      "number": "123",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "86fca48e3c36836ee9a5c1c834e1cd2fcc0eeea186e399b26c9cae2bdece84ab.webp",
+          "image_sha256": "e76370f3e2b2c2c66282a444f788176fb7bd60f386f13ef3e3ec20e3116387d5",
+          "sample_position": 78,
+          "inference": false,
+          "source_url": "https://api.tcgdex.net/v2/de/cards/30th-123"
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-123"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_51efe6958973554fa36af66430284d80",
+      "lang": "de",
+      "release": "mep",
+      "number": "059",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+          "image_sha256": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a",
+          "sample_position": 79,
+          "inference": false,
+          "source_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_35a1b27acf7c5be099fe39d6dffdfac9",
+      "lang": "de",
+      "release": "mep",
+      "number": "033",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "frozen_stratified_sample_native_image_review",
+          "image": "b430f481cdfff1bfd88ff62b9da4bd68448d4d4186b05b85a0ce9d5880379d47.webp",
+          "image_sha256": "b430f481cdfff1bfd88ff62b9da4bd68448d4d4186b05b85a0ce9d5880379d47",
+          "sample_position": 80,
+          "inference": false,
+          "source_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_033_R_DE.png"
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_033_R_DE.png"
+      ],
+      "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+    },
+    {
+      "entry_id": "entry_4b0e791783d25ddc84acc061cd473cf6",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV53",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "5c014424113f8cf971143f006506a555cf69964dc49054d1a522004a25f57a2e.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf",
+          "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    },
+    {
+      "entry_id": "entry_116ce5b384f956d1adfbc2b3a515334f",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV64",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "6c851dd01cfd8dd58866eef52f8851fbf7823c2730681a36d36a3e58d4098e2a.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf",
+          "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    },
+    {
+      "entry_id": "entry_d62e54dca59850bd832072f0f1668348",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV66",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "01eac181250ee3e7cfa38fbbea58ae136b73ddae7d20ad07059114db4d64f9f4.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf",
+          "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    },
+    {
+      "entry_id": "entry_d457600c0118527eaa4ad9d2b19faee9",
+      "lang": "de",
+      "release": "sma",
+      "number": "SV67",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "d168871ece643162ef8d556ad81cbc4ce08f2728332fe602f296253db5d58f33.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf",
+          "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    },
+    {
+      "entry_id": "entry_9199058428b85dbea56e14a8433ed8c8",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV53",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "383d3ce11cdbcade9b43d65130b20625fb8676a505a833d8edc82e81ea7a0476.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf",
+          "source_sha256": "11b4e1ff9f92f36c3a6d9488f0b8bb4f5178d02b4dc5ae04053a2156cb6b6fdf"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    },
+    {
+      "entry_id": "entry_a48689fd9b7c56f7b019659bafb514f2",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV64",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "446691d582c079b1f4f89d6682e15dca48b6905c5eb218c44efff9e058243620.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf",
+          "source_sha256": "11b4e1ff9f92f36c3a6d9488f0b8bb4f5178d02b4dc5ae04053a2156cb6b6fdf"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    },
+    {
+      "entry_id": "entry_86ee8756dc955e47b994dd55931057d5",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV66",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "51c7d5f18e6ed58bbd909c13e342ae7e08369521c4a8006b4b81609b3cea09c0.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf",
+          "source_sha256": "11b4e1ff9f92f36c3a6d9488f0b8bb4f5178d02b4dc5ae04053a2156cb6b6fdf"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    },
+    {
+      "entry_id": "entry_51241505008f5854a838faa055be45c4",
+      "lang": "en",
+      "release": "sma",
+      "number": "SV67",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "visually_checked",
+        "art_style_source": {
+          "method": "exact_native_shiny_gx_card_face_review",
+          "image": "d914a104d7a492cfa4204a1c1f08872546b4ed2be818760d4bed675d70857c6a.webp",
+          "inference": false,
+          "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf",
+          "source_sha256": "11b4e1ff9f92f36c3a6d9488f0b8bb4f5178d02b4dc5ae04053a2156cb6b6fdf"
+        }
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf"
+      ],
+      "evidence": "Native Shiny GX card face reviewed separately from its publisher rarity tier."
+    }
+  ],
+  "release_dates": [
+    {
+      "lang": "en",
+      "release": "ex1",
+      "date": "2003-06-18",
+      "source_urls": [
+        "https://nintendoworldreport.com/pr/8728/new-rubysapphire-pokemon-e-cards",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "manufacturer_press_reproduction",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "ex4",
+      "date": "2004-03-15",
+      "source_urls": [
+        "https://www.serebii.net/card/ex.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "ex5",
+      "date": "2004-06-14",
+      "source_urls": [
+        "https://www.serebii.net/card/ex.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "ex6",
+      "date": "2004-08-30",
+      "source_urls": [
+        "https://www.serebii.net/card/ex.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "ex7",
+      "date": "2004-11-08",
+      "source_urls": [
+        "https://www.serebii.net/card/ex.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "ex8",
+      "date": "2005-02-14",
+      "source_urls": [
+        "https://www.serebii.net/card/ex.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "ex16",
+      "date": "2007-02-14",
+      "source_urls": [
+        "https://www.serebii.net/card/ex.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "dp1",
+      "date": "2007-05-23",
+      "source_urls": [
+        "https://bulbanews.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game%3A_Diamond_and_Pearl_US_date_announced",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "manufacturer_press_reproduction",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "dp2",
+      "date": "2007-08-22",
+      "source_urls": [
+        "https://www.pojo.com/pokemon/news/2007/6-25.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "manufacturer_press_reproduction",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "dp3",
+      "date": "2007-11-07",
+      "source_urls": [
+        "https://www.pojo.com/pokemon/news/2007/9-10.shtml",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "manufacturer_press_reproduction",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "dp4",
+      "date": "2008-02-13",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Great_Encounters_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "dp5",
+      "date": "2008-05-21",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Majestic_Dawn_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "community_chronology",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "dp6",
+      "date": "2008-08-20",
+      "source_urls": [
+        "https://www.pocketmonsters.net/news/20",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "manufacturer_press_reproduction",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "en",
+      "release": "sm9",
+      "date": "2019-02-01",
+      "source_urls": [
+        "https://files.bbystatic.com/DQl%2Faq2lxg9MsQ%2FEDkThSA%3D%3D/a8702032-3bda-4683-a5e2-610409c5c207.pdf",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions"
+      ],
+      "evidence_kind": "manufacturer_sell_sheet",
+      "region": "US",
+      "evidence": "English/US main booster retail launch. Prereleases, later replicas and individual promo products retain their own dates. Community dates are not called independent manufacturer confirmation."
+    },
+    {
+      "lang": "de",
+      "release": "ecard3",
+      "date": null,
+      "release_period": "Winter 2003/2004",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/e-card/skyridge.php"
+      ],
+      "evidence_kind": "native_regional_period",
+      "evidence": "Native regional source gives this period. The provider exact day belonged to English chronology. Narrower retailer dates conflict or lack contemporary primary confirmation; retain the wider supported period."
+    },
+    {
+      "lang": "de",
+      "release": "ex6",
+      "date": null,
+      "release_period": "2004/2005",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-feuerrot-blattgruen.php"
+      ],
+      "evidence_kind": "native_regional_period",
+      "evidence": "Native regional source gives this period. The provider exact day belonged to English chronology. Narrower retailer dates conflict or lack contemporary primary confirmation; retain the wider supported period."
+    },
+    {
+      "lang": "de",
+      "release": "ex14",
+      "date": null,
+      "release_period": "2006/2007",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-crystal-guardians.php"
+      ],
+      "evidence_kind": "native_regional_period",
+      "evidence": "Native regional source gives this period. The provider exact day belonged to English chronology. Narrower retailer dates conflict or lack contemporary primary confirmation; retain the wider supported period."
+    }
+  ],
+  "card_dates": [
+    {
+      "entry_id": "research_entry_866476a07875526698023369479a84c4",
+      "lang": "en",
+      "release": "xyp",
+      "number": "XY211",
+      "date": "2017-05-19",
+      "date_state": "sourced_card",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_Spirit_Link_(XY_Promo_211)",
+        "https://icv2.com/articles/news/view/36890/new-pokemon-rise-spring"
+      ],
+      "evidence": "Mega Powers Collection XY211 product date; not the 2013 promo-series debut."
+    },
+    {
+      "entry_id": "research_entry_267ad75676d55267aa082e197e08911a",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH116",
+      "date": "2021-06-18",
+      "date_state": "sourced_card",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Morpeko_(SWSH_Promo_116)"
+      ],
+      "evidence": "Exact SWSH116 artwork is the Chilling Reign single-pack blister card, not SWSH031 or the 2019 series debut."
+    },
+    {
+      "entry_id": "research_entry_679a06e459635d9182f3be2ca3472b47",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH244",
+      "date": "2022-09-09",
+      "date_state": "sourced_card",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(SWSH_Promo_244)"
+      ],
+      "evidence": "Exact SWSH244 is the Lost Origin single-pack blister card, not the Silver Tempest blister or 2019 series debut."
+    },
+    {
+      "entry_id": "research_entry_95533b7aeff05c1490720383ed2be3ea",
+      "lang": "en",
+      "release": "smp",
+      "number": "SM231",
+      "date": "2019-08",
+      "date_state": "sourced_card",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Champions_Festival_(SM_Promo_231)"
+      ],
+      "evidence": "SM231 is the 2019 Worlds distribution. Month supported; no single retail launch day claimed."
+    },
+    {
+      "entry_id": "entry_9791b59503a95d41b6326d0f50c8631c",
+      "lang": "en",
+      "release": "basep",
+      "number": "32",
+      "date": "2001-03",
+      "date_state": "sourced_card",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Smeargle_(Wizards_Promo_32)"
+      ],
+      "evidence": "March 2001 Pokémon League distribution. First-of-month card-page timestamp does not establish a March 1 launch."
+    },
+    {
+      "entry_id": "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+      "lang": "en",
+      "release": "basep",
+      "number": "6",
+      "date": "2000",
+      "date_state": "sourced_card_year",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Wizards_Promo_6)",
+        "https://pokemon1999.org/wizards-of-the-coast-black-star-promo-card-timeline/"
+      ],
+      "evidence": "Card encyclopedia says March; WotC chat/League Season 4 historical research argues February 19. Year supported, month disputed. No invented March 1."
+    },
+    {
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "lang": "en",
+      "release": "dpp",
+      "number": "DP12",
+      "date": "2007",
+      "date_state": "sourced_card_year",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/DP_Black_Star_Promos_(TCG)",
+        "https://pkmncards.com/card/lucario-lv-x-diamond-pearl-promos-dp12/"
+      ],
+      "evidence": "Lucario Collector’s Tin DP12; exact regional tin date unconfirmed. The promo-series May debut cannot date this individual product."
+    },
+    {
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "lang": "de",
+      "release": "dpp",
+      "number": "DP12",
+      "date": "2007",
+      "date_state": "sourced_card_year",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/DP_Black_Star_Promos_(TCG)",
+        "https://www.pokewiki.de/images/4/47/Lucario_%28DP_Black_Star_Promos_DP12%29.jpg"
+      ],
+      "evidence": "Lucario Collector’s Tin DP12; exact regional tin date unconfirmed. The promo-series May debut cannot date this individual product."
+    }
+  ],
+  "entries": [
+    {
+      "lang": "de",
+      "release": "tk-dp-l",
+      "number": "6",
+      "number_key": "6",
+      "dex": 447,
+      "name": "Riolu",
+      "english": "Riolu",
+      "rarity_code": null,
+      "art_style": "standard",
+      "release_date": "2007",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Diamond_%26_Pearl_Trainer_Kit_(TCG)",
+        "https://www.elitefourum.com/t/riolu-lucario-half-deck-error-correction/33273",
+        "https://lastsold.de/de/sets/dp-trainer-kit-lucario/riolu-6"
+      ],
+      "evidence": "Kit checklist explicitly lists German, French and English availability and Riolu position 6. Physical collectors distinguish the German 6/11 from English misprinted 6/61; native sold specimens corroborate the German alternate-numbered card. Original expansion DP61 stays separate. No English denominator error is generated for German.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "bw7",
+      "number": "127",
+      "number_key": "127",
+      "dex": 506,
+      "subject_dex": [],
+      "cameo_dex": [
+        506
+      ],
+      "category": "cameo",
+      "name": "Eventura City-Arena",
+      "english": "Aspertia City Gym",
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "image": "644162e3e68ca9b4aede7e64da228c9661ab315a141106097d3506b6f96a9d44.webp",
+      "image_source": "https://assets.tcgdex.net/de/bw/bw7/127/high.webp",
+      "image_evidence": {
+        "source_sha256": "a1bc99b4c48c4b1d5fe5d3774e97e054246a7e2e49b242b30f4134755fa352cc",
+        "image_sha256": "644162e3e68ca9b4aede7e64da228c9661ab315a141106097d3506b6f96a9d44",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw7_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/bw7-127",
+        "https://assets.tcgdex.net/de/bw/bw7/127/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "sv01",
+      "number": "249",
+      "number_key": "249",
+      "dex": 943,
+      "subject_dex": [],
+      "cameo_dex": [
+        943
+      ],
+      "category": "cameo",
+      "name": "Pepper",
+      "english": "Arven",
+      "rarity_code": "special_illustration_rare",
+      "art_style": "full_art",
+      "image": "dd2430a9ae47e2049a3f5b0727d8edf388b56eef91b668713bc4f15fbd651d76.webp",
+      "image_source": "https://assets.tcgdex.net/de/sv/sv01/249/high.webp",
+      "image_evidence": {
+        "source_sha256": "6e1a44b668a62e5e292f8dc9d11cb74b88b4f72be7943658e8ad6ecfc6238dee",
+        "image_sha256": "dd2430a9ae47e2049a3f5b0727d8edf388b56eef91b668713bc4f15fbd651d76",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/svi_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/sv01-249",
+        "https://assets.tcgdex.net/de/sv/sv01/249/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "swsh3",
+      "number": "166",
+      "number_key": "166",
+      "dex": 835,
+      "subject_dex": [],
+      "cameo_dex": [
+        835
+      ],
+      "category": "cameo",
+      "name": "Fürsorgliche Pokémon-Züchter",
+      "english": "Pokémon Breeder's Nurturing",
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "image": "7e2eb1f375dcbe0c882ee230b3e10a2837ce69aa23f192b5d484c3b7c6d01adb.webp",
+      "image_source": "https://assets.tcgdex.net/de/swsh/swsh3/166/high.webp",
+      "image_evidence": {
+        "source_sha256": "1291d1ac3532828c98b73efad3d3533623f01e221b9adbca46afee5ac3b2b3fb",
+        "image_sha256": "7e2eb1f375dcbe0c882ee230b3e10a2837ce69aa23f192b5d484c3b7c6d01adb",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh3_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/swsh3-166",
+        "https://assets.tcgdex.net/de/swsh/swsh3/166/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "swsh3",
+      "number": "188",
+      "number_key": "188",
+      "dex": 835,
+      "subject_dex": [],
+      "cameo_dex": [
+        835
+      ],
+      "category": "cameo",
+      "name": "Fürsorgliche Pokémon-Züchter",
+      "english": "Pokémon Breeder's Nurturing",
+      "rarity_code": "ultra_rare",
+      "art_style": "full_art",
+      "image": "c44ecb80cbc2732e75662b87cecb4c5ac3c0b4bd36455c5c5dc14ae7cecb67aa.webp",
+      "image_source": "https://assets.tcgdex.net/de/swsh/swsh3/188/high.webp",
+      "image_evidence": {
+        "source_sha256": "2a0030ee4788b8b157618145a3c8e0a8b785af5c985047ea46b7802af2374e5a",
+        "image_sha256": "c44ecb80cbc2732e75662b87cecb4c5ac3c0b4bd36455c5c5dc14ae7cecb67aa",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh3_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/swsh3-188",
+        "https://assets.tcgdex.net/de/swsh/swsh3/188/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "swsh4.5",
+      "number": "61",
+      "number_key": "61",
+      "dex": 889,
+      "subject_dex": [],
+      "cameo_dex": [
+        889
+      ],
+      "category": "cameo",
+      "name": "Rostiger Schild",
+      "english": "Rusted Shield",
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "image": "59dbd8ab657c995f67667c708921bb1b162b1f27375e61cefa7b046dbede1655.webp",
+      "image_source": "https://assets.tcgdex.net/de/swsh/swsh4.5/61/high.webp",
+      "image_evidence": {
+        "source_sha256": "a070463dc5c1d0f90d88dff1f6f4fff91bb4846458796edbd15ab025c3dc3800",
+        "image_sha256": "59dbd8ab657c995f67667c708921bb1b162b1f27375e61cefa7b046dbede1655",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh45_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/swsh4.5-61",
+        "https://assets.tcgdex.net/de/swsh/swsh4.5/61/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "swsh4.5",
+      "number": "62",
+      "number_key": "62",
+      "dex": 888,
+      "subject_dex": [],
+      "cameo_dex": [
+        888
+      ],
+      "category": "cameo",
+      "name": "Rostiges Schwert",
+      "english": "Rusted Sword",
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "image": "a401bdb176b95eae69defce66d88e2f595f64e04e8ec9cfa5b33da7f3f6643f6.webp",
+      "image_source": "https://assets.tcgdex.net/de/swsh/swsh4.5/62/high.webp",
+      "image_evidence": {
+        "source_sha256": "305546526e6275bf2122c39fb62885858a0f29567675c958d4869ed443ae6c7e",
+        "image_sha256": "a401bdb176b95eae69defce66d88e2f595f64e04e8ec9cfa5b33da7f3f6643f6",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh45_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/swsh4.5-62",
+        "https://assets.tcgdex.net/de/swsh/swsh4.5/62/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "swsh8",
+      "number": "259",
+      "number_key": "259",
+      "dex": 836,
+      "subject_dex": [],
+      "cameo_dex": [
+        836
+      ],
+      "category": "cameo",
+      "name": "Tänzerin",
+      "english": "Dancer",
+      "rarity_code": "ultra_rare",
+      "art_style": "full_art",
+      "image": "a4c4b0314ededd929c8e64e74b2a1d0253449c99d53edc368df36d4de4683866.webp",
+      "image_source": "https://assets.tcgdex.net/de/swsh/swsh8/259/high.webp",
+      "image_evidence": {
+        "source_sha256": "afd3eb26672902c0314d6f0ebd691a1934ad884a8aa6a8eaadfda96a7d11d0ca",
+        "image_sha256": "a4c4b0314ededd929c8e64e74b2a1d0253449c99d53edc368df36d4de4683866",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh8_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/swsh8-259",
+        "https://assets.tcgdex.net/de/swsh/swsh8/259/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "xy10",
+      "number": "105",
+      "number_key": "105",
+      "dex": 570,
+      "subject_dex": [],
+      "cameo_dex": [
+        570
+      ],
+      "category": "cameo",
+      "name": "N",
+      "english": "N",
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "image": "efc626b4a3da75940e2eed0784c03353a5f078237aa8d70ae58221512b4cf723.webp",
+      "image_source": "https://assets.tcgdex.net/de/xy/xy10/105/high.webp",
+      "image_evidence": {
+        "source_sha256": "f965196443b51b7f9b84903dc44e93e61cb09af0c70bc28c5cad1c651b7cc6bf",
+        "image_sha256": "efc626b4a3da75940e2eed0784c03353a5f078237aa8d70ae58221512b4cf723",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy10_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy10-105",
+        "https://assets.tcgdex.net/de/xy/xy10/105/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "xy4",
+      "number": "108",
+      "number_key": "108",
+      "dex": 571,
+      "subject_dex": [],
+      "cameo_dex": [
+        571
+      ],
+      "category": "cameo",
+      "name": "Trickmünze",
+      "english": "Trick Coin",
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "image": "3dc7f06008ff2c567aa309ce65c790ba576e41b729f2568f1da01ce88360431f.webp",
+      "image_source": "https://assets.tcgdex.net/de/xy/xy4/108/high.webp",
+      "image_evidence": {
+        "source_sha256": "363621540d697d5c8089c6271137417bf6747b0280305706e9af554f66fe4c1f",
+        "image_sha256": "3dc7f06008ff2c567aa309ce65c790ba576e41b729f2568f1da01ce88360431f",
+        "identity_check": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied."
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy4_web_cardlist_de.pdf",
+        "https://api.tcgdex.net/v2/de/cards/xy4-108",
+        "https://assets.tcgdex.net/de/xy/xy4/108/high.webp"
+      ],
+      "evidence": "Native German image manually reviewed: exact name/number and German rules; tracked background Pokémon or its clear depiction is present. Publisher German row and own finish legend prove each accepted pack tuple. No English finish flags are copied.",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps": [],
+          "print_state": "standard"
+        }
+      ]
+    }
+  ],
+  "printings": [
+    {
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "lang": "de",
+      "release": "bw1",
+      "number": "71",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw1_web_cardlist_de.pdf"
+      ],
+      "source_sha256": "2a69a4feb5e5abede402682981d62d625c8067e33be1670cb1359b945c86d8cb",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            319.96,
+            411.77,
+            325.49,
+            417.3
+          ]
+        },
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "hexagon",
+          "bbox": [
+            331.07,
+            410.89,
+            336.6,
+            417.6
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_520707cc24e350a681d5a70e5919f966",
+      "lang": "de",
+      "release": "sm8",
+      "number": "100",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm8_web_cardlist_de.pdf"
+      ],
+      "source_sha256": "896b809b75c33ade656f99a757d1d58dfcbddd0f52d5c76abc7b783c91f23e3f",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            187.94,
+            663.55,
+            192.78,
+            668.4
+          ]
+        },
+        {
+          "color": [
+            136,
+            52,
+            121
+          ],
+          "shape": "square",
+          "bbox": [
+            198.91,
+            663.55,
+            203.74,
+            668.4
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_0387516a54f358a88ee3f7910eaede85",
+      "lang": "de",
+      "release": "xy4",
+      "number": "100",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy4_web_cardlist_de.pdf"
+      ],
+      "source_sha256": "45cdff78af00ac52ad295d135471fad865eda8bb3561c7c12ffa42920e1ae42d",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            473.75,
+            414.66,
+            479.62,
+            420.54
+          ]
+        },
+        {
+          "color": [
+            40,
+            83,
+            129
+          ],
+          "shape": "square",
+          "bbox": [
+            484.55,
+            414.66,
+            490.42,
+            420.54
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_de30fe7924695bf2b2f8dd84a99a8c00",
+      "lang": "de",
+      "release": "xy8",
+      "number": "102",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy8_web_cardlist_de.pdf"
+      ],
+      "source_sha256": "76a2f049104c109f2fb9c35d398a206b61365316514af588c4fea64da2b9b512",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            35,
+            31,
+            32
+          ],
+          "shape": "square",
+          "bbox": [
+            325.91,
+            486.84,
+            331.09,
+            492.03
+          ]
+        },
+        {
+          "color": [
+            0,
+            125,
+            183
+          ],
+          "shape": "square",
+          "bbox": [
+            336.71,
+            486.84,
+            341.89,
+            492.03
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_1f6ad9d102ce546f9cc47054524e1a67",
+      "lang": "de",
+      "release": "xy8",
+      "number": "142",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy8_web_cardlist_de.pdf"
+      ],
+      "source_sha256": "76a2f049104c109f2fb9c35d398a206b61365316514af588c4fea64da2b9b512",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            35,
+            31,
+            32
+          ],
+          "shape": "square",
+          "bbox": [
+            463.88,
+            475.68,
+            469.06,
+            480.87
+          ]
+        },
+        {
+          "color": [
+            0,
+            125,
+            183
+          ],
+          "shape": "square",
+          "bbox": [
+            474.68,
+            475.68,
+            479.86,
+            480.87
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_b890b68816e95925bb0e9ba5d21b530b",
+      "lang": "de",
+      "release": "xy9",
+      "number": "1",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy9_web_cardlist_de.pdf"
+      ],
+      "source_sha256": "538b58c4f0c2048899c249aa6cd999ab1f0977e6b80ededae1404f5956d726fe",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            51.03,
+            383.49,
+            55.53,
+            387.99
+          ]
+        },
+        {
+          "color": [
+            59,
+            118,
+            174
+          ],
+          "shape": "square",
+          "bbox": [
+            61.83,
+            383.49,
+            66.33,
+            387.99
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_bf9da969f0375e31899bf486b84eb591",
+      "lang": "en",
+      "release": "bw7",
+      "number": "127",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/bw7_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "02004d352b0db7d085fa27da7157dca567c64be780894f3c54befb0fcf219fe8",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            471.91,
+            388.89,
+            478.13,
+            395.12
+          ]
+        },
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "hexagon",
+          "bbox": [
+            482.87,
+            388.35,
+            488.77,
+            395.49
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_eabf2f239cee53f580284c7eef1744fc",
+      "lang": "en",
+      "release": "sm3.5",
+      "number": "63",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm35_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "31648b98146de35129f1f152dce9fbe54b104380bfe211119e7cf737030402b4",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            35,
+            31,
+            32
+          ],
+          "shape": "square",
+          "bbox": [
+            463.2,
+            417.42,
+            469.42,
+            423.65
+          ]
+        },
+        {
+          "color": [
+            235,
+            167,
+            20
+          ],
+          "shape": "square",
+          "bbox": [
+            474.39,
+            417.42,
+            480.61,
+            423.65
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_8e6f18cbb3ef5bc8bdab67be2c02b609",
+      "lang": "en",
+      "release": "sm8",
+      "number": "100",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm8_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "133cfc79effa12659efc710afaeee872c38655b5782aed133674fe2a47ad3677",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            35,
+            31,
+            32
+          ],
+          "shape": "square",
+          "bbox": [
+            187.99,
+            663.6,
+            192.73,
+            668.35
+          ]
+        },
+        {
+          "color": [
+            136,
+            52,
+            121
+          ],
+          "shape": "square",
+          "bbox": [
+            198.95,
+            663.6,
+            203.69,
+            668.35
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy10_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "2e4d6d062ee7f5af16d09637a33566f686ef14e6df602efef4e2b0e7113a941f",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            35,
+            31,
+            32
+          ],
+          "shape": "square",
+          "bbox": [
+            464.94,
+            506.25,
+            469.44,
+            510.75
+          ]
+        },
+        {
+          "color": [
+            0,
+            125,
+            183
+          ],
+          "shape": "square",
+          "bbox": [
+            475.74,
+            506.25,
+            480.24,
+            510.75
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_5d2a8ff129ee5e07a02318805838a0b3",
+      "lang": "en",
+      "release": "xy4",
+      "number": "100",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy4_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "e4942514b461b0f2d4329ea5ae955d87e49192ed09a1b30dfcabf444ba0c104d",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            35,
+            31,
+            32
+          ],
+          "shape": "square",
+          "bbox": [
+            473.75,
+            414.66,
+            479.62,
+            420.54
+          ]
+        },
+        {
+          "color": [
+            0,
+            88,
+            139
+          ],
+          "shape": "square",
+          "bbox": [
+            484.55,
+            414.66,
+            490.42,
+            420.54
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_2100ffb73c195f4a9a403317676d277b",
+      "lang": "en",
+      "release": "xy4",
+      "number": "108",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy4_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "e4942514b461b0f2d4329ea5ae955d87e49192ed09a1b30dfcabf444ba0c104d",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            35,
+            31,
+            32
+          ],
+          "shape": "square",
+          "bbox": [
+            473.75,
+            537.06,
+            479.62,
+            542.94
+          ]
+        },
+        {
+          "color": [
+            0,
+            88,
+            139
+          ],
+          "shape": "square",
+          "bbox": [
+            484.55,
+            537.06,
+            490.42,
+            542.94
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_66538109729e547c9638b672f3b064c2",
+      "lang": "en",
+      "release": "xy8",
+      "number": "102",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy8_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "cf5dfec60cf9f53c27df550ceae3bde2712096383663197b98a70bd4c5ba818d",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            325.91,
+            486.84,
+            331.09,
+            492.03
+          ]
+        },
+        {
+          "color": [
+            0,
+            125,
+            183
+          ],
+          "shape": "square",
+          "bbox": [
+            336.71,
+            486.84,
+            341.89,
+            492.03
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_a7b20f64fe7b585abdd32520572e46fd",
+      "lang": "en",
+      "release": "xy8",
+      "number": "142",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy8_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "cf5dfec60cf9f53c27df550ceae3bde2712096383663197b98a70bd4c5ba818d",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            463.88,
+            475.68,
+            469.06,
+            480.87
+          ]
+        },
+        {
+          "color": [
+            0,
+            125,
+            183
+          ],
+          "shape": "square",
+          "bbox": [
+            474.68,
+            475.68,
+            479.86,
+            480.87
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    },
+    {
+      "entry_id": "research_entry_708c198064655f24a5514a5b24b3ab03",
+      "lang": "en",
+      "release": "xy9",
+      "number": "1",
+      "printing": {
+        "finish": "reverse_holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps": [],
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy9_web_cardlist_en.pdf"
+      ],
+      "source_sha256": "8f0300c431b964908593f8472b454620b043d8a9a3a780c3eb55ae405561189a",
+      "page": 1,
+      "checkbox_evidence": [
+        {
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "shape": "square",
+          "bbox": [
+            51.03,
+            383.49,
+            55.53,
+            387.99
+          ]
+        },
+        {
+          "color": [
+            0,
+            125,
+            183
+          ],
+          "shape": "square",
+          "bbox": [
+            61.83,
+            383.49,
+            66.33,
+            387.99
+          ]
+        }
+      ],
+      "evidence": "Exact native name, set and number row has this pack checkbox. Colour AND geometry come from this same publisher PDF legend; no rarity-to-finish inference or product-only edition is generated."
+    }
+  ],
+  "conflicts": [
+    {
+      "kind": "german_launch_precision",
+      "lang": "de",
+      "release": "ecard3",
+      "state": "period_known_exact_date_unresolved",
+      "period": "Winter 2003/2004",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/e-card/skyridge.php"
+      ],
+      "next_action": "Find contemporary German distributor/manufacturer announcement before narrowing the date."
+    },
+    {
+      "kind": "german_launch_precision",
+      "lang": "de",
+      "release": "ex6",
+      "state": "period_known_exact_date_unresolved",
+      "period": "2004/2005",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-feuerrot-blattgruen.php"
+      ],
+      "next_action": "Find contemporary German distributor/manufacturer announcement before narrowing the date."
+    },
+    {
+      "kind": "german_launch_precision",
+      "lang": "de",
+      "release": "ex14",
+      "state": "period_known_exact_date_unresolved",
+      "period": "2006/2007",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-crystal-guardians.php"
+      ],
+      "next_action": "Find contemporary German distributor/manufacturer announcement before narrowing the date."
+    },
+    {
+      "kind": "promo_product_date",
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "state": "year_known_month_unresolved",
+      "next_action": "Find contemporary regional Lucario Collector’s Tin launch announcement."
+    },
+    {
+      "kind": "promo_product_date",
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "state": "year_known_month_unresolved",
+      "next_action": "Find contemporary regional Lucario Collector’s Tin launch announcement."
+    },
+    {
+      "kind": "launch_month_dispute",
+      "entry_id": "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+      "state": "year_known_month_conflict",
+      "next_action": "Review original February 2000 WotC chat and League Season 4 announcement."
+    },
+    {
+      "kind": "unsupported_printing",
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "printing_id": "variant_f5167b8be1545ab7afe1345e2a4d6cc3",
+      "state": "needs_native_product_proof",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/bw1_web_cardlist_de.pdf"
+      ],
+      "next_action": "Native pack checklist proves holo/reverse. Existing non-holo target remains recoverable while a German deck/product exception is researched; checklist absence alone is not negative proof."
+    }
+  ]
+}

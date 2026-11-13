@@ -1,0 +1,10 @@
+DogDex 1.8.6 update from 1.8.5
+
+1. Close DogDex and its console.
+2. Extract this update directly into your existing J_DogDex folder; replace program/catalog files.
+3. KEEP my_collection and all its contents. No collection is shipped in this update.
+4. Run START_DOGDEX.bat. First start over an existing collection makes a before-printing-corrections-1.8.6 backup in my_collection/backups.
+5. Re-export the mobile/public viewer before GitHub Desktop Commit and Push.
+
+Do not install the full package as a second nested DogDex folder. For an existing installation this patch alone is enough.
+Read PRINTING_CORRECTIONS_1_8_6.md for counts, every new ID and unresolved claims.

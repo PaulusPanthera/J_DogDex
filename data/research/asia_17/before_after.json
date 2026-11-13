@@ -1,0 +1,120 @@
+{
+  "version": "1.7.0",
+  "cutoff": "2026-10-29",
+  "before": {
+    "ja": {
+      "identities": 965,
+      "documented_identities": 950,
+      "provisional": 15,
+      "excluded": 0,
+      "confirmed_printings": 793,
+      "without_accepted_printings": 244,
+      "unknown_individual_dates": 68
+    },
+    "ko": {
+      "identities": 789,
+      "documented_identities": 789,
+      "provisional": 0,
+      "excluded": 0,
+      "confirmed_printings": 500,
+      "without_accepted_printings": 305,
+      "unknown_individual_dates": 56
+    }
+  },
+  "after": {
+    "ja": {
+      "identities": 1059,
+      "documented_identities": 960,
+      "provisional": 98,
+      "excluded": 1,
+      "confirmed_printings": 847,
+      "without_accepted_printings": 290,
+      "unknown_individual_dates": 93
+    },
+    "ko": {
+      "identities": 802,
+      "documented_identities": 802,
+      "provisional": 0,
+      "excluded": 0,
+      "confirmed_printings": 530,
+      "without_accepted_printings": 288,
+      "unknown_individual_dates": 32
+    }
+  },
+  "new_identities": {
+    "ko:documented": 13,
+    "ja:provisional": 88,
+    "ja:documented": 6
+  },
+  "added_physical_printings": 84,
+  "change_events": {
+    "mega_mark_native_label": 11,
+    "native_identity_promoted": 4,
+    "excluded_non_canine_claim": 1,
+    "promo_date_scope_corrected": 96,
+    "promo_series_date_removed": 13,
+    "individual_promo_date_selected": 97,
+    "cameo_on_existing_primary": 1,
+    "legacy_promo_group_label": 9,
+    "physical_detail_qualified": 8,
+    "default_stamp_field_refined": 2,
+    "individual_printing_date_selected": 2
+  },
+  "new_evidence_items": 2770,
+  "reindexed_evidence_items": 1776,
+  "western_entries_and_releases_identical": true,
+  "existing_records_corrected_or_physically_qualified": 42,
+  "corrected_existing_entry_ids": [
+    "entry_06c3d4130b0d5186a48fa672cb25eb67",
+    "entry_0ba36a8a7acf5c8db80b307d6d74a7d0",
+    "entry_1441dff04de259ccb38feda9f4a340b0",
+    "entry_16784108ae2b554887c34d7ed7c701b9",
+    "entry_16b8777feb5e5e2da8982ac162952053",
+    "entry_1ad004d759d753419678fc730864de78",
+    "entry_1f785c8a34e95bae97dfbfcd2e81549d",
+    "entry_28c126bdbde152418343b6efaad2c8a6",
+    "entry_2b71ff8617a8537eac00c2077c40a548",
+    "entry_3561d5b4dc5b59c88e5b7012ef399ac8",
+    "entry_374dbdbf374455588cb02be7aca2f6ce",
+    "entry_3b87770c509156fdb01e36d2a6e03609",
+    "entry_41481ee78c425453875fd2a80f12d87e",
+    "entry_437905cc8c07572eb9a2d0aaaa8dfa46",
+    "entry_44d1e8caeb9a5e558a77b1ad4d47f4e6",
+    "entry_4aa2e242ff175a20a33328ecb470d507",
+    "entry_4fde690f22005544ae0b1e2016fd1ea0",
+    "entry_646b9402d2b55b67a5ecd3a39113a5fe",
+    "entry_6a7507f97be25346a5768171adcd00ac",
+    "entry_6a8deb1059ca51c29829182263f5f9db",
+    "entry_6d14d1087acc5cb6b7a5c57edbecd04b",
+    "entry_7aff125c504e5a92a98264a9d05a4f4f",
+    "entry_7b3f6d59d933512793c61777fb57413c",
+    "entry_7e645c170eff5c0aaea21cae8e280db7",
+    "entry_816ff28aa927555da86db0a109925153",
+    "entry_88d9f4abeed5552aa8b2187c792747da",
+    "entry_9bbf1ce7b7815699b666ee6517fe8849",
+    "entry_a97c707bd90254f9be314db85d5173ff",
+    "entry_ac4fcd8fcbed5a9791b8727687686ada",
+    "entry_ba24efe5fa0e5cb4b505212fe3c37558",
+    "entry_bbdfa2ac61e958c7b8ff9e747a82a1e6",
+    "entry_c3aac2a0b6755cdf887565fc6c2ac3de",
+    "entry_cac80858ed0850549e1ff451d9f19bde",
+    "entry_d3a5114c88dc5d3ba9167ead53c91172",
+    "entry_df8933d70621537c93390f453a923bc2",
+    "entry_e3c3dc7a7139574299d6db23a24ed457",
+    "entry_e5ef914713325e80a8826886db47e0be",
+    "entry_ec2dc7527b1758ae9e0d2aa1af569c53",
+    "entry_f52afd83bb0552e59b5a3f12284f6a71",
+    "entry_f63c4b8fb0a556108e8c7564f8788ac7",
+    "entry_f7ddc422b17f5fb49ecb232bc2737c9f",
+    "entry_fef314c654ff5e9dab5490670b6f498a"
+  ],
+  "sample": {
+    "size": 18,
+    "by_language": {
+      "ja": 10,
+      "ko": 8
+    },
+    "core_disagreements": 0
+  },
+  "queue_items": 808
+}

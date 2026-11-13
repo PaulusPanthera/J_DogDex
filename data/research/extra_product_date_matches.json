@@ -1,0 +1,662 @@
+{
+  "reviewed_on": "2026-10-28",
+  "matches": [
+    {
+      "lang": "ja",
+      "release": "Bb",
+      "date": "2009-11-20",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11",
+        "snapshot_file": "japanese_product_archive/others-11.json",
+        "snapshot_sha256": "03237b34f75113f3e4aaba26a31414618df878e5151b73b2733f9eb6ba4279c6",
+        "product_title": "バトルスタートデッキ ブーバーン",
+        "product_image": "/assets/images/products/archive/legend/construct-item-legend-2.jpg",
+        "release_date_label": "2009年11月20日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/25426",
+        "original_catalog_product_name": "ポケモンカードゲーム バトルスタートデッキ ブーバーン"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SA",
+      "date": "2019-11-29",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=4",
+        "snapshot_file": "japanese_product_archive/construction-4.json",
+        "snapshot_sha256": "2f413d20154ac6465d0ba6b9b6e66cac2f77b8e8f6fba878c70a3d6ef6060c86",
+        "product_title": "スターターセットV　炎",
+        "product_image": "/products/2019/images/SA_02fir_BOX.jpg",
+        "release_date_label": "2019年11月29日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/37503",
+        "original_catalog_product_name": "スターターセットV　炎",
+        "scope": "Contemporaneous deck products sharing this set code and the same manufacturer launch date; original regional identity/code retained."
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SD",
+      "date": "2020-07-10",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=4",
+        "snapshot_file": "japanese_product_archive/construction-4.json",
+        "snapshot_sha256": "2f413d20154ac6465d0ba6b9b6e66cac2f77b8e8f6fba878c70a3d6ef6060c86",
+        "product_title": "Vスタートデッキ炎　ガオガエン",
+        "product_image": "/products/2020/images/SD500_PKG_02_HONOO_image.jpg",
+        "release_date_label": "2020年 7月10日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/38282",
+        "original_catalog_product_name": "Vスタートデッキ炎　ガオガエン",
+        "scope": "Contemporaneous deck products sharing this set code and the same manufacturer launch date; original regional identity/code retained."
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "WCP",
+      "date": "2007-07-05",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "ワールドチャンピオンズパック",
+        "product_image": "/assets/images/products/archive/pokeCardGame/extend-item-pokeCardGame-10.jpg",
+        "release_date_label": "2007年 7月 5日（木）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/4008",
+        "original_catalog_product_name": "ポケモンカードゲーム　ワールドチャンピオンズパック"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "Ran",
+      "date": "2009-07-10",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "乱戦！ポケモンスクランブル×ポケモンカードゲーム",
+        "product_image": "/assets/images/products/archive/dpt/other-item-dpt-2.jpg",
+        "release_date_label": "2009年 7月10日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/24283",
+        "original_catalog_product_name": "乱戦！ポケモンスクランブル×ポケモンカードゲーム"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "BKR",
+      "date": "2011-10-21",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "バトル強化デッキ60「レシラムEX」",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-10.jpg",
+        "release_date_label": "2011年10月21日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27605",
+        "original_catalog_product_name": "ポケモンカードゲームBW バトル強化デッキ60「レシラムEX」"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt-GBna",
+      "date": "2008-11-20",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "ギフトボックス",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-2.jpg",
+        "release_date_label": "2008年11月20日（木）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/21526",
+        "original_catalog_product_name": "ポケモンカードゲームDPtギフトボックス（ナエトルデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SMH",
+      "date": "2018-07-13",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=5",
+        "snapshot_file": "japanese_product_archive/construction-5.json",
+        "snapshot_sha256": "8ae4ff3e53f36c6babbc36b0ca51b774889d935ac07f2d1fafd80e643cbabc33",
+        "product_title": "GXスタートデッキ 炎リザードン",
+        "product_image": "/assets/images/products/archive/sm/SMH_package_image_02.jpg",
+        "release_date_label": "2018年 7月13日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/35043",
+        "original_catalog_product_name": "ポケモンカードゲーム サン&ムーン GXスタートデッキ「炎リザードン」 / ポケモンセンターオンラインでの購入はこちら",
+        "scope": "Contemporaneous deck products sharing this set code and the same manufacturer launch date; original regional identity/code retained."
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt3-Sl",
+      "date": "2009-03-06",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "対戦スターターパックSP「ガブリアスVSリザードン」",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-4.jpg",
+        "release_date_label": "2009年 3月 6日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/23033",
+        "original_catalog_product_name": "ポケモンカードゲームDPt 対戦スターターパックSP「ガブリアスVSリザードン」（リザードンデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "BKZ",
+      "date": "2011-10-21",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "バトル強化デッキ60「ゼクロムEX」",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-11.jpg",
+        "release_date_label": "2011年10月21日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27632",
+        "original_catalog_product_name": "ポケモンカードゲームBW バトル強化デッキ60「ゼクロムEX」"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "CPs",
+      "date": "2009-04-18",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "コレクションパック シェイミLV．X",
+        "product_image": "/assets/images/products/archive/dpt/extend-item-dpt-5.jpg",
+        "release_date_label": "2009年 4月18日（土）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/23548",
+        "original_catalog_product_name": "ポケモンカードゲーム　コレクションパック　シェイミLV.X"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "El",
+      "date": "2009-11-20",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11",
+        "snapshot_file": "japanese_product_archive/others-11.json",
+        "snapshot_sha256": "03237b34f75113f3e4aaba26a31414618df878e5151b73b2733f9eb6ba4279c6",
+        "product_title": "エキスパートデッキ リーフィアVSメタグロス　+Online",
+        "product_image": "/assets/images/products/archive/legend/construct-item-legend-5.jpg",
+        "release_date_label": "2009年11月20日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/25364",
+        "original_catalog_product_name": "ポケモンカードゲーム エキスパートデッキ リーフィアVSメタグロス ＋Online（リーフィアデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SMI",
+      "date": "2018-11-23",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=5",
+        "snapshot_file": "japanese_product_archive/construction-5.json",
+        "snapshot_sha256": "8ae4ff3e53f36c6babbc36b0ca51b774889d935ac07f2d1fafd80e643cbabc33",
+        "product_title": "スターターセット「炎のブースターGX」",
+        "product_image": "/assets/images/products/archive/sm/SMI_booster_PKG_image.jpg",
+        "release_date_label": "2018年11月23日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/35913",
+        "original_catalog_product_name": "スターターセット「炎のブースターGX」 / ポケモンセンターオンラインでの購入はこちら / スターターセット「水のシャワーズGX」",
+        "scope": "Contemporaneous deck products sharing this set code and the same manufacturer launch date; original regional identity/code retained."
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SML",
+      "date": "2019-03-15",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=4",
+        "snapshot_file": "japanese_product_archive/construction-4.json",
+        "snapshot_sha256": "2f413d20154ac6465d0ba6b9b6e66cac2f77b8e8f6fba878c70a3d6ef6060c86",
+        "product_title": "ファミリーポケモンカードゲーム",
+        "product_image": "/assets/images/products/archive/sm/SML_slv_img_b_sq.jpg",
+        "release_date_label": "2019年 3月15日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/36506",
+        "original_catalog_product_name": "「ファミリーポケモンカードゲーム」 / ポケモンセンターオンラインでの購入はこちら"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SVI",
+      "date": "2024-03-08",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=2",
+        "snapshot_file": "japanese_product_archive/construction-2.json",
+        "snapshot_sha256": "82225203d0f69c2cbfc60e51e01aa2a46885bdfbaf68bc7e10abeb7bf817ee5f",
+        "product_title": "バトルアカデミー",
+        "product_image": "/products/2024/images/SVI.jpg",
+        "release_date_label": "2024年 3月 8日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/45477",
+        "original_catalog_product_name": "バトルアカデミー"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt2-Sg",
+      "date": "2008-12-26",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "対戦スターターパックSP「ゴウカザルVSエルレイド」",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-3.jpg",
+        "release_date_label": "2008年12月26日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/22003",
+        "original_catalog_product_name": "ポケモンカードゲームDPt 対戦スターターパックSP「ゴウカザルVSエルレイド」（ゴウカザルデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt2-Se",
+      "date": "2008-12-26",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "対戦スターターパックSP「ゴウカザルVSエルレイド」",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-3.jpg",
+        "release_date_label": "2008年12月26日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/22043",
+        "original_catalog_product_name": "ポケモンカードゲームDPt 対戦スターターパックSP「ゴウカザルVSエルレイド」（エルレイドデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SMM",
+      "date": "2019-05-31",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=4",
+        "snapshot_file": "japanese_product_archive/construction-4.json",
+        "snapshot_sha256": "2f413d20154ac6465d0ba6b9b6e66cac2f77b8e8f6fba878c70a3d6ef6060c86",
+        "product_title": "スターターセット TAG TEAM GX 「エーフィ&デオキシスGX」",
+        "product_image": "/assets/images/products/archive/sm/SMM_pkg_img_psy.jpg",
+        "release_date_label": "2019年 5月31日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/36842",
+        "original_catalog_product_name": "スターターセット TAG TEAM GX 「エーフィ&デオキシスGX」 / ポケモンセンターオンラインでの購入はこちら",
+        "scope": "Contemporaneous deck products sharing this set code and the same manufacturer launch date; original regional identity/code retained."
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SVD",
+      "date": "2023-07-07",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=2",
+        "snapshot_file": "japanese_product_archive/construction-2.json",
+        "snapshot_sha256": "82225203d0f69c2cbfc60e51e01aa2a46885bdfbaf68bc7e10abeb7bf817ee5f",
+        "product_title": "exスタートデッキ 超 ピクシー",
+        "product_image": "/products/2023/images/CHOU.jpg",
+        "release_date_label": "2023年 7月 7日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/43751",
+        "original_catalog_product_name": "exスタートデッキ 超 ピクシー / exスタートデッキ",
+        "scope": "Original July 2023 deck range, printed identifiers 001–139. Later Terastal deck numbers need their November 2023 product dates."
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "L2-Sb",
+      "date": "2010-02-11",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "構築スタンダードデッキ「バンギラス悪」",
+        "product_image": "/assets/images/products/archive/legend/construct-item-legend-6.jpg",
+        "release_date_label": "2010年 2月11日（木）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/25512",
+        "original_catalog_product_name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「バンギラス悪」"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SZD",
+      "date": "2012-03-16",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=6",
+        "snapshot_file": "japanese_product_archive/construction-6.json",
+        "snapshot_sha256": "74220aaec322f1cde4c21797cae14f2ef2ea4f82caa6c7ee0a88693373303339",
+        "product_title": "サザンドラデッキ30",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-14.jpg",
+        "release_date_label": "2012年 3月16日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27962",
+        "original_catalog_product_name": "ポケモンカードゲームBW 「サザンドラデッキ30」"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt4-Slp",
+      "date": "2009-07-08",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "構築スタンダードデッキ「アルセウスLV．X 雷&超」",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-5.jpg",
+        "release_date_label": "2009年 7月 8日（水）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/24032",
+        "original_catalog_product_name": "ポケモンカードゲームDPt 構築スタンダードデッキ「アルセウスLV.X雷＆超」"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "EP08",
+      "date": "2007-11-30",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=8",
+        "snapshot_file": "japanese_product_archive/construction-8.json",
+        "snapshot_sha256": "a5c3dea524702eb64865027a5f0c6929aa2ca83edcdead4dec41e6243219e8e4",
+        "product_title": "エントリーパック’08",
+        "product_image": "/assets/images/products/archive/dp/construct-item-dp-8.jpg",
+        "release_date_label": "2007年11月30日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/15016",
+        "original_catalog_product_name": "ポケモンカードゲームDP エントリーパック’08 / ポケモンカードゲームDP エントリーパック’08 DX"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "GBR",
+      "date": "2012-03-16",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "ガブリアスデッキ30",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-15.jpg",
+        "release_date_label": "2012年 3月16日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27978",
+        "original_catalog_product_name": "ポケモンカードゲームBW 「ガブリアスデッキ30」"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt-GBhi",
+      "date": "2008-11-20",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "ギフトボックス",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-2.jpg",
+        "release_date_label": "2008年11月20日（木）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/21510",
+        "original_catalog_product_name": "ポケモンカードゲームDPtギフトボックス（ヒコザルデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "CPm",
+      "date": "2009-04-18",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "コレクションパック ミュウツーLV．X",
+        "product_image": "/assets/images/products/archive/dpt/extend-item-dpt-6.jpg",
+        "release_date_label": "2009年 4月18日（土）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/23557",
+        "original_catalog_product_name": "ポケモンカードゲーム　コレクションパック　ミュウツーLV.X"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "Br",
+      "date": "2009-11-20",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11",
+        "snapshot_file": "japanese_product_archive/others-11.json",
+        "snapshot_sha256": "03237b34f75113f3e4aaba26a31414618df878e5151b73b2733f9eb6ba4279c6",
+        "product_title": "バトルスタートデッキ ライチュウ",
+        "product_image": "/assets/images/products/archive/legend/construct-item-legend-4.jpg",
+        "release_date_label": "2009年11月20日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/25469",
+        "original_catalog_product_name": "ポケモンカードゲーム バトルスタートデッキ ライチュウ"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt-EPd",
+      "date": "2008-10-10",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "エントリーパック",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-1.jpg",
+        "release_date_label": "2008年10月10日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/21030",
+        "original_catalog_product_name": "ポケモンカードゲームDPt エントリーパック(ディアルガデッキ)"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "HSZp",
+      "date": "2012-04-20",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=6",
+        "snapshot_file": "japanese_product_archive/construction-6.json",
+        "snapshot_sha256": "74220aaec322f1cde4c21797cae14f2ef2ea4f82caa6c7ee0a88693373303339",
+        "product_title": "「はじめてセット 全国図鑑版」",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-16.jpg",
+        "release_date_label": "2012年 4月20日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/28045",
+        "original_catalog_product_name": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ポカブデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "WAK",
+      "date": "2012-11-16",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11",
+        "snapshot_file": "japanese_product_archive/others-11.json",
+        "snapshot_sha256": "03237b34f75113f3e4aaba26a31414618df878e5151b73b2733f9eb6ba4279c6",
+        "product_title": "みんなのWAKUWAKUバトル",
+        "product_image": "/assets/images/products/archive/bw/other-item-bw-7.jpg",
+        "release_date_label": "2012年11月16日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/28479",
+        "original_catalog_product_name": "ポケモンカードゲームBW みんなのWAKUWAKUバトル"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "DPt3-Sg",
+      "date": "2009-03-06",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "対戦スターターパックSP「ガブリアスVSリザードン」",
+        "product_image": "/assets/images/products/archive/dpt/construct-item-dpt-4.jpg",
+        "release_date_label": "2009年 3月 6日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/23007",
+        "original_catalog_product_name": "ポケモンカードゲームDPt 対戦スターターパックSP「ガブリアスVSリザードン」（ガブリアスデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "MPS",
+      "date": "2007-07-14",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "映画10周年記念　プレミアムシート",
+        "product_image": "/assets/images/products/archive/dp/other-item-dp-1.jpg",
+        "release_date_label": "2007年 7月14日（土）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/5008",
+        "original_catalog_product_name": "ポケモンカードゲームDP　映画10周年記念　プレミアムシート"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "CPr",
+      "date": "2009-04-18",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+        "snapshot_file": "japanese_product_archive/others-12.json",
+        "snapshot_sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+        "product_title": "コレクションパック レジギガスLV．X",
+        "product_image": "/assets/images/products/archive/dpt/extend-item-dpt-7.jpg",
+        "release_date_label": "2009年 4月18日（土）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/23503",
+        "original_catalog_product_name": "ポケモンカードゲーム　コレクションパック　レジギガスLV.X"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "BKc",
+      "date": "2011-03-18",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "バトル強化デッキ コバルオン",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-7.jpg",
+        "release_date_label": "2011年 3月18日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27252",
+        "original_catalog_product_name": "ポケモンカードゲームBW バトル強化デッキ コバルオン"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "HSm",
+      "date": "2010-10-29",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "「はじめてセット」",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-1.jpg",
+        "release_date_label": "2010年10月29日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27059",
+        "original_catalog_product_name": "ポケモンカードゲームBW はじめてセット （ミジュマルデッキ） / ポケモンカードゲームBW はじめてセット forガール （ミジュマルデッキ）"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "CS1m",
+      "date": "2010-09-18",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11",
+        "snapshot_file": "japanese_product_archive/others-11.json",
+        "snapshot_sha256": "03237b34f75113f3e4aaba26a31414618df878e5151b73b2733f9eb6ba4279c6",
+        "product_title": "コレクションシート 旅立ちの仲間 ミジュマル",
+        "product_image": "/assets/images/products/archive/bw/other-item-bw-3.jpg",
+        "release_date_label": "2010年 9月18日（土）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27009",
+        "original_catalog_product_name": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ミジュマル"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "MDB",
+      "date": "2012-09-14",
+      "evidence": {
+        "method": "exact_reviewed_manufacturer_archive_product",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11",
+        "snapshot_file": "japanese_product_archive/others-11.json",
+        "snapshot_sha256": "03237b34f75113f3e4aaba26a31414618df878e5151b73b2733f9eb6ba4279c6",
+        "product_title": "トッププレイヤーが選ぶ100＋40枚　マスターデッキビルドBOX EX",
+        "product_image": "/assets/images/products/archive/bw/other-item-bw-6.jpg",
+        "release_date_label": "2012年 9月14日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/28335",
+        "original_catalog_product_name": "ポケモンカードゲームBW 「トッププレイヤーが選ぶ100＋40枚 マスターデッキビルドBOX EX」"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "S8a-P",
+      "date": "2021-10-22",
+      "evidence": {
+        "method": "manufacturer_campaign_start_for_specific_promotional_pack",
+        "source_url": "https://www.pokemon-card.com/ex/25th/news/",
+        "product_title": "プロモカードパック 25th ANNIVERSARY edition",
+        "campaign_start": "2021-10-22",
+        "supporting_source_url": "https://www.pokemon-card.com/ex/25th/products/",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/50764"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "HSPm",
+      "date": "2011-11-18",
+      "evidence": {
+        "method": "manufacturer_product_date_with_exact_card_identity_match",
+        "snapshot_file": "japanese_product_archive/construction-7.json",
+        "snapshot_sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+        "product_title": "はじめてセットDX ピカチュウver.",
+        "product_image": "/assets/images/products/archive/bw/construct-item-bw-12.jpg",
+        "release_date_label": "2011年11月18日（金）",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/27741",
+        "identity_basis": "Manufacturer card HSP 026/034 names the Pikachu version; secondary exact-card catalog confirms Lillipup 026/034 belongs to the DX Pikachu product, not HS+.",
+        "identity_corroboration": "https://cardstack.jp/pokemon-card/hsp-026-034-md/",
+        "source_url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "SMP1",
+      "date": "2016-12-15",
+      "evidence": {
+        "method": "manufacturer_dated_magazine_bonus_announcement",
+        "product_title": "月刊コロコロコミック2017年1月号付録「イワンコ全力デッキ」",
+        "nominal_release_date": "2016-12-15",
+        "qualifier": "Manufacturer advertises around 15 December and notes some regions differ; the companion event page identifies the magazine as released 15 December. January 2017 is the issue title, not its release month.",
+        "supporting_source_url": "https://www.pokemon-card.com/event/card-event/gx-battle/",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/33312",
+        "source_url": "https://www.pokemon-card.com/info/2016/20161015_000319.html"
+      }
+    },
+    {
+      "lang": "ja",
+      "release": "MP1",
+      "date": "2025-12-19",
+      "evidence": {
+        "method": "manufacturer_retail_publication_date",
+        "product_title": "コロちゃお vol.1",
+        "included_product": "スタートデッキ100 バトルコレクション コロちゃおVer.",
+        "release_date_label": "2025年12月19日（金）10時00分",
+        "product_code": "4912100390164",
+        "card_identity_source": "https://www.pokemon-card.com/card-search/details.php/card/49594",
+        "identity_note": "MP1 is the Battle Collection CoroCiao product, not the 2022 CoroCoro Comic deck.",
+        "source_url": "https://www.pokemoncenter-online.com/4912100390164.html"
+      }
+    }
+  ]
+}

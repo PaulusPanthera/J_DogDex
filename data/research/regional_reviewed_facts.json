@@ -1,0 +1,3526 @@
+{
+  "observed_on": "2026-10-28",
+  "revision": "1.3.2",
+  "scope": "English and German physical printing and regional product audit",
+  "entries": [],
+  "entry_updates": [
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM06",
+      "entry_id": "entry_a15a89f26a5a5088a491eaa4a267f170",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM06"
+          ],
+          "evidence": "Reviewed the exact localized SM06 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM06"
+      ],
+      "evidence": "Reviewed the exact localized SM06 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM06",
+      "entry_id": "entry_207f6f68b6445256ac6e78676a2a4f6e",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://pokedexia.com/de/pokemon-karten/pokemon/wuffels",
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_006_R_DE.png"
+          ],
+          "evidence": "Reviewed the exact localized SM06 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://pokedexia.com/de/pokemon-karten/pokemon/wuffels",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_006_R_DE.png"
+      ],
+      "evidence": "Reviewed the exact localized SM06 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM54",
+      "entry_id": "entry_32522a1c833950df8e9cdb367fc8a339",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM54"
+          ],
+          "evidence": "Reviewed the exact localized SM54 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM54"
+      ],
+      "evidence": "Reviewed the exact localized SM54 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM54",
+      "entry_id": "entry_49cb5cd764cd54bfa4f5f4254be0d5cf",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://comic-portal.net/sammelkarten/pokemon-tcg/13410/pokemon-tcg-sonne-und-mond-04-aufziehen-der-sturmroete-blister-3er-pack-lucario",
+            "https://www.ebay.de/shop/pokemon-ultra-prisma?_nkw=pokemon+ultra+prisma",
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_054_R_DE.png"
+          ],
+          "evidence": "Reviewed the exact localized SM54 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://comic-portal.net/sammelkarten/pokemon-tcg/13410/pokemon-tcg-sonne-und-mond-04-aufziehen-der-sturmroete-blister-3er-pack-lucario",
+        "https://www.ebay.de/shop/pokemon-ultra-prisma?_nkw=pokemon+ultra+prisma",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_054_R_DE.png"
+      ],
+      "evidence": "Reviewed the exact localized SM54 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_2c518d858a97510291a2cf56f49abb88",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM83"
+          ],
+          "evidence": "Reviewed the exact localized SM83 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM83"
+      ],
+      "evidence": "Reviewed the exact localized SM83 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM89",
+      "entry_id": "entry_fb9c0f0f32f35c63a1b2d5a449ac27eb",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM89"
+          ],
+          "evidence": "Reviewed the exact localized SM89 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM89"
+      ],
+      "evidence": "Reviewed the exact localized SM89 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM89",
+      "entry_id": "entry_b7799cdaed025ff58a254568dabd026d",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://www.wog.ch/en/index.cfm/details/product/61509-Pokemon-Schimmernde-Legenden-Zoroark-Pin-Kollektion",
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_089_R_DE.png"
+          ],
+          "evidence": "Reviewed the exact localized SM89 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/61509-Pokemon-Schimmernde-Legenden-Zoroark-Pin-Kollektion",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_089_R_DE.png"
+      ],
+      "evidence": "Reviewed the exact localized SM89 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM95",
+      "entry_id": "entry_6d32527a63685a26b9a772fb18ad3b7a",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM95"
+          ],
+          "evidence": "Reviewed the exact localized SM95 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM95"
+      ],
+      "evidence": "Reviewed the exact localized SM95 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM95",
+      "entry_id": "entry_b94a845b11365a11b6f24c89e5485ad0",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://www.pokecardex.com/de/carte/11118",
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_095_R_DE.png"
+          ],
+          "evidence": "Reviewed the exact localized SM95 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://www.pokecardex.com/de/carte/11118",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_095_R_DE.png"
+      ],
+      "evidence": "Reviewed the exact localized SM95 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM105",
+      "entry_id": "entry_2e3644c52567568392bd23bc5cf2b34b",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM105"
+          ],
+          "evidence": "Reviewed the exact localized SM105 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM105"
+      ],
+      "evidence": "Reviewed the exact localized SM105 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM105",
+      "entry_id": "entry_08c4e7a858b954acab862c34bfd0be5d",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://www.wog.ch/de/index.cfm/details/product/63914-Pokemon-Sammelkoffer-Fruehling-2018",
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_105_R_DE.png"
+          ],
+          "evidence": "Reviewed the exact localized SM105 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/63914-Pokemon-Sammelkoffer-Fruehling-2018",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_105_R_DE.png"
+      ],
+      "evidence": "Reviewed the exact localized SM105 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM118",
+      "entry_id": "entry_c8ba9288b102522cac6d860631b13e12",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM118"
+          ],
+          "evidence": "Reviewed the exact localized SM118 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM118"
+      ],
+      "evidence": "Reviewed the exact localized SM118 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM118",
+      "entry_id": "entry_fb88f4e5f10e5a9e9f74a91d5dad0d0e",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://community.bisafans.de/forum/index.php?pageNo=4&user-post-list%2F123416-areacode040%2F=",
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/sm-black-star-promos/118.jpg"
+          ],
+          "evidence": "Reviewed the exact localized SM118 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://community.bisafans.de/forum/index.php?pageNo=4&user-post-list%2F123416-areacode040%2F=",
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/sm-black-star-promos/118.jpg"
+      ],
+      "evidence": "Reviewed the exact localized SM118 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM120",
+      "entry_id": "entry_bfe842510ace526586e29157058c6ca4",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM120"
+          ],
+          "evidence": "Reviewed the exact localized SM120 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM120"
+      ],
+      "evidence": "Reviewed the exact localized SM120 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM120",
+      "entry_id": "entry_37b3ad805ba251f897acf279bc0d327a",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://pokedexia.com/de/pokemon-karten/pokemon/wuffels",
+            "https://www.cardmarket.com/de/Pokemon/Products/Blisters/Forbidden-Light-Rockruff-Checklane-Blister",
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_120_R_DE.png"
+          ],
+          "evidence": "Reviewed the exact localized SM120 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://pokedexia.com/de/pokemon-karten/pokemon/wuffels",
+        "https://www.cardmarket.com/de/Pokemon/Products/Blisters/Forbidden-Light-Rockruff-Checklane-Blister",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_120_R_DE.png"
+      ],
+      "evidence": "Reviewed the exact localized SM120 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM130",
+      "entry_id": "entry_1aabe1b6f56658c8b217e7a32ce853d1",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM130"
+          ],
+          "evidence": "Reviewed the exact localized SM130 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM130"
+      ],
+      "evidence": "Reviewed the exact localized SM130 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM130",
+      "entry_id": "entry_0453467058495c3999c15e3ce48ea666",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php",
+            "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/sm-black-star-promos/130.jpg"
+          ],
+          "evidence": "Reviewed the exact localized SM130 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php",
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/sm-black-star-promos/130.jpg"
+      ],
+      "evidence": "Reviewed the exact localized SM130 picture: artwork stays in the regular illustration box. Foil finish is separate from Full Art."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM200",
+      "entry_id": "entry_86a43e5a38225f1abec1068ddefd61be",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://pkmncards.com/card/snubbull-sun-moon-promos-smp-sm200/",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM200"
+          ],
+          "evidence": "Exact native SM200 image has a regular illustration window. The Detective Pikachu stamp does not make it Full Art, and the existing non-holo finish remains valid.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://pkmncards.com/card/snubbull-sun-moon-promos-smp-sm200/",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM200"
+      ],
+      "evidence": "Exact native SM200 image has a regular illustration window. The Detective Pikachu stamp does not make it Full Art, and the existing non-holo finish remains valid."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM200",
+      "entry_id": "entry_a83093bb851c550e8e8493491db23a6b",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://www.pokewiki.de/Datei:Snubbull_(SM_Black_Star_Promos_SM200).png",
+            "https://api.tcgdex.net/v2/de/cards/smp-SM200"
+          ],
+          "evidence": "Exact native SM200 image has a regular illustration window. The Detective Pikachu stamp does not make it Full Art, and the existing non-holo finish remains valid.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://www.pokewiki.de/Datei:Snubbull_(SM_Black_Star_Promos_SM200).png",
+        "https://api.tcgdex.net/v2/de/cards/smp-SM200"
+      ],
+      "evidence": "Exact native SM200 image has a regular illustration window. The Detective Pikachu stamp does not make it Full Art, and the existing non-holo finish remains valid."
+    },
+    {
+      "lang": "de",
+      "release": "swsh12.5gg",
+      "number": "GG33",
+      "entry_id": "entry_e7894c80c62051fa848f8af73f52885c",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/CRZ/GG33"
+          ],
+          "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.com/cards/de/CRZ/GG33"
+      ],
+      "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification."
+    },
+    {
+      "lang": "de",
+      "release": "swsh12.5gg",
+      "number": "GG26",
+      "entry_id": "entry_0ee9771e252950dca861bcaaa31fe450",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/CRZ/GG26"
+          ],
+          "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.com/cards/de/CRZ/GG26"
+      ],
+      "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification."
+    },
+    {
+      "lang": "de",
+      "release": "mep",
+      "number": "012",
+      "entry_id": "entry_b94688631cce5e18a48a4a437978a162",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/MEP/12"
+          ],
+          "evidence": "Exact German card reviewed: regular framed Shiny illustration or regular ex layout, not a Full Art illustration print.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.com/cards/de/MEP/12"
+      ],
+      "evidence": "Exact German card reviewed: regular framed Shiny illustration or regular ex layout, not a Full Art illustration print."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/SMP/83"
+          ],
+          "evidence": "Native German Zorua SM83 image reviewed: regular illustration window, exact identifier.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.com/cards/de/SMP/83"
+      ],
+      "evidence": "Native German Zorua SM83 image reviewed: regular illustration window, exact identifier."
+    },
+    {
+      "lang": "de",
+      "release": "swsh12tg",
+      "number": "TG01",
+      "entry_id": "entry_a9e4f80463f554a0b106ba92f544692d",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/SIT/TG1"
+          ],
+          "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.com/cards/de/SIT/TG1"
+      ],
+      "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification."
+    },
+    {
+      "lang": "de",
+      "release": "swsh4.5sv",
+      "number": "SV081",
+      "entry_id": "entry_92615b2058355129af2e477950788f30",
+      "values": {
+        "art_style": "standard",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/SHF/SV81"
+          ],
+          "evidence": "Exact German card reviewed: regular framed Shiny illustration or regular ex layout, not a Full Art illustration print.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.com/cards/de/SHF/SV81"
+      ],
+      "evidence": "Exact German card reviewed: regular framed Shiny illustration or regular ex layout, not a Full Art illustration print."
+    },
+    {
+      "lang": "de",
+      "release": "swsh12.5gg",
+      "number": "GG54",
+      "entry_id": "entry_bec46d8b6d9a55c2904ce1caa0c6d7f2",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_of_exact_native_card",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/CRZ/GG54"
+          ],
+          "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification.",
+          "inference": false
+        }
+      },
+      "source_urls": [
+        "https://limitlesstcg.com/cards/de/CRZ/GG54"
+      ],
+      "evidence": "Exact German image reviewed: illustration extends behind the attack text. This directly verifies the native card rather than relying on a translated English classification."
+    }
+  ],
+  "card_dates": [
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM06",
+      "entry_id": "entry_a15a89f26a5a5088a491eaa4a267f170",
+      "date": "2017-02-03",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)"
+      ],
+      "evidence": "English SM06 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM54",
+      "entry_id": "entry_32522a1c833950df8e9cdb367fc8a339",
+      "date": "2017-11-03",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)"
+      ],
+      "evidence": "English SM54 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_2c518d858a97510291a2cf56f49abb88",
+      "date": "2017-11-03",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+      ],
+      "evidence": "English SM83 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM89",
+      "entry_id": "entry_fb9c0f0f32f35c63a1b2d5a449ac27eb",
+      "date": "2017-12-01",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)"
+      ],
+      "evidence": "English SM89 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM95",
+      "entry_id": "entry_6d32527a63685a26b9a772fb18ad3b7a",
+      "date": "2018-01-20",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+      ],
+      "evidence": "English SM95 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM105",
+      "entry_id": "entry_2e3644c52567568392bd23bc5cf2b34b",
+      "date": "2018-03-23",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)"
+      ],
+      "evidence": "English SM105 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM118",
+      "entry_id": "entry_c8ba9288b102522cac6d860631b13e12",
+      "date": "2018-04-21",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+      ],
+      "evidence": "English SM118 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM120",
+      "entry_id": "entry_bfe842510ace526586e29157058c6ca4",
+      "date": "2018-05-04",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)"
+      ],
+      "evidence": "English SM120 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM130",
+      "entry_id": "entry_1aabe1b6f56658c8b217e7a32ce853d1",
+      "date": "2018-07-21",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+      ],
+      "evidence": "English SM130 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+      "date": "2017-11",
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+      ],
+      "evidence": "Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM89",
+      "entry_id": "entry_b7799cdaed025ff58a254568dabd026d",
+      "date": "2017-12",
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/61509-Pokemon-Schimmernde-Legenden-Zoroark-Pin-Kollektion"
+      ],
+      "evidence": "Native German Zoroark pin collection specifies a holo promo and 6 December 2017. Keep December precision rather than substitute the 1 December international date."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM105",
+      "entry_id": "entry_08c4e7a858b954acab862c34bfd0be5d",
+      "date": "2018-03",
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/63914-Pokemon-Sammelkoffer-Fruehling-2018"
+      ],
+      "evidence": "Native German Spring 2018 collector chest specifies foil Wolwerock and March 2018. The retailer gives 21 March while the international launch is 23 March; retain month precision."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM118",
+      "entry_id": "entry_fb88f4e5f10e5a9e9f74a91d5dad0d0e",
+      "date": "2018-04",
+      "source_urls": [
+        "https://community.bisafans.de/forum/index.php?pageNo=4&user-post-list%2F123416-areacode040%2F="
+      ],
+      "evidence": "The Hamburg organizer announced the German Grauen der Lichtfinsternis prerelease for 29 April 2018. Keep April precision; the English earliest event day is not copied."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM130",
+      "entry_id": "entry_0453467058495c3999c15e3ce48ea666",
+      "date": "2018-07-21",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+      ],
+      "evidence": "The German manufacturer press release specifies German prerelease tournaments from 21 through 29 July 2018. The printed German expansion logo identifies SM130 as a prerelease promo."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM84",
+      "entry_id": "entry_321556de204e5f01b31811719eee8ce5",
+      "date": "2017-11",
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+      ],
+      "evidence": "German sealed Zoroark-GX collection contains both standard and oversized SM84. Native retailer dates November 2017; day intentionally unqualified."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM192",
+      "entry_id": "entry_61eb5486e31c5ffcba52d0e910169db9",
+      "date": "2019-09-06",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/power-partnership-tin"
+      ],
+      "evidence": "The Lucario & Melmetal-GX Power Partnership tin launched on 6 September 2019; this is a product-specific date, not the August expansion date."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM230",
+      "entry_id": "entry_c71e7d1827a85929b689883e44dade5a",
+      "date": "2019-11-22",
+      "source_urls": [
+        "https://pokemonblog.com/2019/09/28/pokemon-tcg-tag-team-generations-premium-collection-revealed/",
+        "https://bulbapedia.bulbagarden.net/wiki/Charizard_%26_Braixen-GX_(SM_Promo_230)"
+      ],
+      "evidence": "The regional TAG TEAM Generations Premium Collection contains a textured regular-size SM230 and an oversized foil SM230. German retailer lists 25 November while the international launch is 22 November: month precision for German."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM192",
+      "entry_id": "entry_2a166bb92cc3509182ecc01af12eb206",
+      "date": "2019-09-06",
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/86154-Pokemon-Tin-Box-Power-Partner-Set"
+      ],
+      "evidence": "The Lucario & Melmetal-GX Power Partnership tin launched on 6 September 2019; this is a product-specific date, not the August expansion date."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM230",
+      "entry_id": "entry_329478df97f55eb18394fe22622b2888",
+      "date": "2019-11",
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/89504-Pokemon-Tag-Team-Generationen-Premium-Kollektion",
+        "https://www.cardport.de/pokemon-tag-team-premium-kollektion-de.html"
+      ],
+      "evidence": "The regional TAG TEAM Generations Premium Collection contains a textured regular-size SM230 and an oversized foil SM230. German retailer lists 25 November while the international launch is 22 November: month precision for German."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH033",
+      "entry_id": "entry_d762315e9a335ae3a306353621a439b5",
+      "date": "2020-08-14",
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/103047-Pokemon-Echter-Stahl-Premium-Kollektion-Zacian"
+      ],
+      "evidence": "The native German True Steel premium collection specifies German language and 14 August 2020; this dates the foil product card, not the beginning of the promo series."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH034",
+      "entry_id": "entry_183f5cf70a365addaa4f6324631c41b0",
+      "date": "2020-08-14",
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/103046-Pokemon-Echter-Stahl-Premium-Kollektion-Zamazenta"
+      ],
+      "evidence": "The native German True Steel premium collection specifies German language and 14 August 2020; this dates the foil product card, not the beginning of the promo series."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM200",
+      "entry_id": "entry_86a43e5a38225f1abec1068ddefd61be",
+      "date": "2019-05-10",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Snubbull_(SM_Promo_200)"
+      ],
+      "evidence": "English Snubbull SM200 was first distributed at US GameStop events on 10 May 2019. Later UK and retail-box distributions do not date its earliest English release."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM200",
+      "entry_id": "entry_a83093bb851c550e8e8493491db23a6b",
+      "date": "2019",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/sm/meisterdetektiv-pikachu/index.php"
+      ],
+      "evidence": "Contemporaneous German Detective Pikachu promo coverage lists German SM200 in 2019. No exact German event day is asserted."
+    },
+    {
+      "lang": "de",
+      "release": "svp",
+      "number": "011",
+      "entry_id": "entry_2fe7a4b928625a4fb9b42c6d8aa0a23b",
+      "date": "2023-03-31",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-karmesin-und-purpur-karmesin-und-purpur-1-3er-blister-arkani-deutsch"
+      ],
+      "evidence": "German Arkani Three Pack Blister explicitly gives German language, holographic promo and 31 March 2023."
+    },
+    {
+      "lang": "de",
+      "release": "svp",
+      "number": "024",
+      "entry_id": "entry_c6f2bf1dd7d75fb1959a5f8657ca51c3",
+      "date": "2023-06",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=vz3qd2U_7VM",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/karmesin-purpur-entwicklungen-in-paldea"
+      ],
+      "evidence": "The German retailer opened native Fukano/Olini Paldea Evolved checklane blisters on 14 June 2023. June precision is supported; the exact earliest German sale day remains unqualified."
+    },
+    {
+      "lang": "en",
+      "release": "svp",
+      "number": "042",
+      "entry_id": "entry_c57cfc33fbf752ee9492b05e3d43ae52",
+      "date": "2023-08-11",
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Houndstone_(SVP_Promo_42)"
+      ],
+      "evidence": "The exact Houndstone/Friedwuff Obsidian Flames Three Pack Blister launched on 11 August 2023, not the base Scarlet & Violet release date or a card-page posting day."
+    },
+    {
+      "lang": "de",
+      "release": "svp",
+      "number": "042",
+      "entry_id": "entry_f7ad535e92985eb480e4da464839ce61",
+      "date": "2023-08-11",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-obsidianflammen-karmesin-und-purpur-3-3er-blister-friedwuff-deutsch"
+      ],
+      "evidence": "The exact Houndstone/Friedwuff Obsidian Flames Three Pack Blister launched on 11 August 2023, not the base Scarlet & Violet release date or a card-page posting day."
+    },
+    {
+      "lang": "de",
+      "release": "mep",
+      "number": "010",
+      "entry_id": "entry_5bcba1ad2a5153e58aaaf46cddaa33ab",
+      "date": "2025-10-10",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-mega-entwicklung-meg-top-trainer-box-deutsch",
+        "https://www.pokemon.com/de/news/neue-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung"
+      ],
+      "evidence": "German Mega-Entwicklung ETBs were released on 10 October 2025, after the 26 September English launch. The Lucario ETB contains the Riolu illustration promo."
+    },
+    {
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH186",
+      "entry_id": "entry_c744fb8291545cbab49c66db12a4abdb",
+      "date": "2022-02-12",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-news/get-the-pokemon-tcg-sword-shield-brilliant-stars-build-battle-box-early/"
+      ],
+      "evidence": "The manufacturer permitted early English Brilliant Stars Build & Battle sales from 12 February 2022. The separate retroactively issued STAFF printing keeps its 2023 date."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH186",
+      "entry_id": "entry_8b041c8fb3ac5e169b15385fd26ddb40",
+      "date": "2022-02",
+      "source_urls": [
+        "https://community.bisafans.de/forum/index.php?postID=7359133&thread%2F335697-strahlende-sterne-swsh09%2F=",
+        "https://www.wog.ch/de/index.cfm/details/product/131095-Pokemon-Schwert-Schild-Strahlende-Sterne-Build-Battle-Stadion-DE"
+      ],
+      "evidence": "Contemporaneous German participants report the stamped Lucario from Build & Battle in February 2022. Retain month precision; no English release day is substituted."
+    },
+    {
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH090",
+      "entry_id": "entry_c141e83172a155cea3469a0194898d1d",
+      "date": "2021-03-06",
+      "source_urls": [
+        "https://www.multi-music-corner.de/pokemon-kampfstile/",
+        "https://bulbapedia.bulbagarden.net/wiki/Battle_Styles_Build_%26_Battle_Box_(TCG)"
+      ],
+      "evidence": "Battle Styles prerelease Build & Battle distribution began 6 March 2021, before the main expansion; this card belongs to that product."
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH090",
+      "entry_id": "entry_ac71f9b4b56a5787a88373b69b64cf84",
+      "date": "2021-03-06",
+      "source_urls": [
+        "https://www.multi-music-corner.de/pokemon-kampfstile/"
+      ],
+      "evidence": "A German retailer reproduced the German manufacturer early-sales announcement: Kampfstile Build & Battle boxes could be sold from 6 March 2021. The printed German expansion logo ties this Houndoom promo to the product."
+    }
+  ],
+  "printings": [
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM95",
+      "entry_id": "entry_6d32527a63685a26b9a772fb18ad3b7a",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "stamps": [
+          "set_logo",
+          "staff"
+        ],
+        "release_date": "2018-01-20",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "product_name": "Ultra Prism Prerelease Kit — STAFF",
+        "product_kind": "promo"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+      ],
+      "evidence": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM118",
+      "entry_id": "entry_c8ba9288b102522cac6d860631b13e12",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "stamps": [
+          "set_logo",
+          "staff"
+        ],
+        "release_date": "2018-04-21",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "product_name": "Forbidden Light Build & Battle Box — STAFF",
+        "product_kind": "promo"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+      ],
+      "evidence": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM130",
+      "entry_id": "entry_1aabe1b6f56658c8b217e7a32ce853d1",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "stamps": [
+          "set_logo",
+          "staff"
+        ],
+        "release_date": "2018-07-21",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "product_name": "Celestial Storm Build & Battle Box — STAFF",
+        "product_kind": "promo"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+      ],
+      "evidence": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM06",
+      "entry_id": "entry_a15a89f26a5a5088a491eaa4a267f170",
+      "printing": {
+        "finish": "holo",
+        "pattern": "sequin",
+        "edition": "not_applicable",
+        "release_date": "2018-02",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+        "product_name": "General Mills Sun & Moon Mini Packs — Fruit Snacks 2018",
+        "product_kind": "promo"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+        "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_TCG_Series_merchandise#General_Mills_Sun_&_Moon_Mini_Packs"
+      ],
+      "evidence": "Rockruff SM06 has a Sequin Holofoil food-promotion print, distributed in the fruit-snack mini-packs from mid-February 2018, distinct from the Cosmos blister print. Month precision retained."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM230",
+      "entry_id": "entry_c71e7d1827a85929b689883e44dade5a",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "release_date": "2019-11-22",
+        "source_url": "https://pokemonblog.com/2019/09/28/pokemon-tcg-tag-team-generations-premium-collection-revealed/",
+        "product_name": "TAG TEAM Generations Premium Collection",
+        "product_kind": "box"
+      },
+      "source_urls": [
+        "https://pokemonblog.com/2019/09/28/pokemon-tcg-tag-team-generations-premium-collection-revealed/",
+        "https://bulbapedia.bulbagarden.net/wiki/Charizard_%26_Braixen-GX_(SM_Promo_230)"
+      ],
+      "evidence": "The regional TAG TEAM Generations Premium Collection contains a textured regular-size SM230 and an oversized foil SM230. German retailer lists 25 November while the international launch is 22 November: month precision for German."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM230",
+      "entry_id": "entry_329478df97f55eb18394fe22622b2888",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "release_date": "2019-11",
+        "source_url": "https://www.wog.ch/de/index.cfm/details/product/89504-Pokemon-Tag-Team-Generationen-Premium-Kollektion",
+        "product_name": "TAG TEAM Generationen Premium-Kollektion",
+        "product_kind": "box"
+      },
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/89504-Pokemon-Tag-Team-Generationen-Premium-Kollektion",
+        "https://www.cardport.de/pokemon-tag-team-premium-kollektion-de.html"
+      ],
+      "evidence": "The regional TAG TEAM Generations Premium Collection contains a textured regular-size SM230 and an oversized foil SM230. German retailer lists 25 November while the international launch is 22 November: month precision for German."
+    },
+    {
+      "lang": "en",
+      "release": "svp",
+      "number": "011",
+      "entry_id": "entry_b2eea243424c5399bc1e68faeac123b7",
+      "printing": {
+        "finish": "holo",
+        "pattern": "cosmos_pixel",
+        "edition": "not_applicable",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(SVP_Promo_11)",
+        "product_kind": "box",
+        "product_name": "Scarlet & Violet Three Pack Blister — Arcanine (Pixel Cosmos)",
+        "release_date": "2024"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(SVP_Promo_11)"
+      ],
+      "evidence": "Exact English card reference documents both Smooth and Pixel Cosmos Holofoil papers. The old general Cosmos target is refined in place to Smooth; the later Pixel paper is independently collectible. Later Arcanine production is documented in mid-2024; year precision retained."
+    },
+    {
+      "lang": "en",
+      "release": "svp",
+      "number": "024",
+      "entry_id": "entry_7dd5b2e264555ebb9f16f74a75521546",
+      "printing": {
+        "finish": "holo",
+        "pattern": "cosmos_pixel",
+        "edition": "not_applicable",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(SVP_Promo_24)",
+        "product_kind": "box",
+        "product_name": "Paldea Evolved Single Pack Blister — Growlithe (Pixel Cosmos)",
+        "release_date": "2023-06-09",
+        "date_state": "provider_reference",
+        "date_note": "Parent card release used as an approximate reference; first Pixel Cosmos distribution date is unresolved."
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(SVP_Promo_24)"
+      ],
+      "evidence": "Exact English card reference documents both Smooth and Pixel Cosmos Holofoil papers. The old general Cosmos target is refined in place to Smooth; the later Pixel paper is independently collectible. No separate first-release day is asserted for Pixel Cosmos."
+    },
+    {
+      "lang": "en",
+      "release": "mep",
+      "number": "010",
+      "entry_id": "entry_021be3e1012b5417bc3ed93131e91998",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "stamps": [
+          "pokemon_center"
+        ],
+        "release_date": "2025-09-26",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Riolu_(MEP_Promo_10)",
+        "product_name": "Mega Evolution Pokémon Center Elite Trainer Box — Mega Lucario",
+        "product_kind": "box"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Riolu_(MEP_Promo_10)"
+      ],
+      "evidence": "English Riolu MEP010 also has a Pokémon Center logo above the Retreat Cost in the exclusive English ETB. The German standard product does not imply this stamped variant."
+    },
+    {
+      "lang": "en",
+      "release": "ecard2",
+      "number": "130",
+      "entry_id": "research_entry_f6cdd2225bc853cea7a02e3ae323f3fd",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2004 replica — Reed Weichler",
+        "world_championship_year": 2004,
+        "player_signature": "Reed Weichler",
+        "tournament_legal": false,
+        "release_date": "2004-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Rocky_Beach_(TCG)",
+        "product_name": "2004 World Championships — Rocky Beach (Reed Weichler)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Pokémon Fan Club (WCD04 AQ 130)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rocky_Beach_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Pokémon Fan Club 130 from Aquapolis. This official non-holo replica has Reed Weichler’s printed signature and a distinct 2004 World Championships back; it is not tournament legal. Product date 2004-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "ex4",
+      "number": "4",
+      "entry_id": "entry_b2367b033187593c8c65819abdbb4d80",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2004 replica — Chris Fulop",
+        "world_championship_year": 2004,
+        "player_signature": "Chris Fulop",
+        "tournament_legal": false,
+        "release_date": "2004-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Blaziken_Tech_(TCG)",
+        "product_name": "2004 World Championships — Blaziken Tech (Chris Fulop)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Team Aqua's Manectric (WCD04 MA 4)",
+        "cardmarket_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/WCD-2004/Team-Aquas-Manectric-WCD04MA-4"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Blaziken_Tech_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Team Aqua's Manectric 4 from Team Magma vs Team Aqua. This official non-holo replica has Chris Fulop’s printed signature and a distinct 2004 World Championships back; it is not tournament legal. Product date 2004-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "ex4",
+      "number": "53",
+      "entry_id": "entry_fd59d89ccfa251ea96262848d2b95e8f",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2004 replica — Chris Fulop",
+        "world_championship_year": 2004,
+        "player_signature": "Chris Fulop",
+        "tournament_legal": false,
+        "release_date": "2004-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Blaziken_Tech_(TCG)",
+        "product_name": "2004 World Championships — Blaziken Tech (Chris Fulop)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Team Aqua's Electrike (WCD04 MA 53)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Blaziken_Tech_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Team Aqua's Electrike 53 from Team Magma vs Team Aqua. This official non-holo replica has Chris Fulop’s printed signature and a distinct 2004 World Championships back; it is not tournament legal. Product date 2004-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "ex8",
+      "number": "60",
+      "entry_id": "entry_5a1fd050d38f56b2be4824c6f6018b35",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2006 replica — Jason Klaczynski",
+        "world_championship_year": 2006,
+        "player_signature": "Jason Klaczynski",
+        "tournament_legal": false,
+        "release_date": "2006-10-31",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Mewtrick_(TCG)",
+        "product_name": "2006 World Championships — Mewtrick (Jason Klaczynski)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Electrike (WCD06 DX 60)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Mewtrick_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Electrike 60 from Deoxys. This official non-holo replica has Jason Klaczynski’s printed signature and a distinct 2006 World Championships back; it is not tournament legal. Product date 2006-10-31 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "ex8",
+      "number": "101",
+      "entry_id": "entry_c381494bcb19530eb2d53b6f32dcf924",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2006 replica — Jason Klaczynski",
+        "world_championship_year": 2006,
+        "player_signature": "Jason Klaczynski",
+        "tournament_legal": false,
+        "release_date": "2006-10-31",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Mewtrick_(TCG)",
+        "product_name": "2006 World Championships — Mewtrick (Jason Klaczynski)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Manectric ex (WCD06 DX 101)",
+        "cardmarket_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/WCD-2006/Manectric-ex-WCD06DX-101"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Mewtrick_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Manectric ex 101 from Deoxys. This official non-holo replica has Jason Klaczynski’s printed signature and a distinct 2006 World Championships back; it is not tournament legal. Product date 2006-10-31 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "dp7",
+      "number": "89",
+      "entry_id": "research_entry_97d58cdeaf53501486f7456f33a41964",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2009 replica — David Cohen",
+        "world_championship_year": 2009,
+        "player_signature": "David Cohen",
+        "tournament_legal": false,
+        "release_date": "2009-10-28",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Stallgon_(TCG)",
+        "product_name": "2009 World Championships — Stallgon (David Cohen)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Poké Drawer + (WCD09 SF 89)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Stallgon_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Poké Drawer + 89 from Stormfront. This official non-holo replica has David Cohen’s printed signature and a distinct 2009 World Championships back; it is not tournament legal. Product date 2009-10-28 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "pl2",
+      "number": "8",
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2009 replica — Tsubasa Nakamura",
+        "world_championship_year": 2009,
+        "player_signature": "Tsubasa Nakamura",
+        "tournament_legal": false,
+        "release_date": "2009-10-28",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Crowned_Tiger_(TCG)",
+        "product_name": "2009 World Championships — Crowned Tiger (Tsubasa Nakamura)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Lucario (WCD09 RR 8)",
+        "cardmarket_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/WCD-2009/Lucario-GL-Lv32-WCD09RR-008"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Crowned_Tiger_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Lucario GL 8 from Rising Rivals. This official non-holo replica has Tsubasa Nakamura’s printed signature and a distinct 2009 World Championships back; it is not tournament legal. Product date 2009-10-28 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "pl2",
+      "number": "8",
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2010 replica — Yuta Komatsuda",
+        "world_championship_year": 2010,
+        "player_signature": "Yuta Komatsuda",
+        "tournament_legal": false,
+        "release_date": "2010-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/LuxChomp_of_the_Spirit_(TCG)",
+        "product_name": "2010 World Championships — LuxChomp of the Spirit (Yuta Komatsuda)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Lucario (WCD10 RR 8)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/LuxChomp_of_the_Spirit_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Lucario GL 8 from Rising Rivals. This official non-holo replica has Yuta Komatsuda’s printed signature and a distinct 2010 World Championships back; it is not tournament legal. Product date 2010-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "hgss3",
+      "number": "8",
+      "entry_id": "entry_f97ae03152d655f5b0090010e80eb6df",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2012 replica — Igor Costa",
+        "world_championship_year": 2012,
+        "player_signature": "Igor Costa",
+        "tournament_legal": false,
+        "release_date": "2012-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Pesadelo_Prism_(TCG)",
+        "product_name": "2012 World Championships — Pesadelo Prism (Igor Costa)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Smeargle (WCD12 UD 8)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Pesadelo_Prism_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Smeargle 8 from Undaunted. This official non-holo replica has Igor Costa’s printed signature and a distinct 2012 World Championships back; it is not tournament legal. Product date 2012-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "col1",
+      "number": "21",
+      "entry_id": "entry_cd10770bc64a5a8eb8f18f38505f0714",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2012 replica — Chase Moloney",
+        "world_championship_year": 2012,
+        "player_signature": "Chase Moloney",
+        "tournament_legal": false,
+        "release_date": "2012-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Eeltwo_(TCG)",
+        "product_name": "2012 World Championships — Eeltwo (Chase Moloney)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Smeargle (WCD12 CL 21)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Eeltwo_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Smeargle 21 from Call of Legends. This official non-holo replica has Chase Moloney’s printed signature and a distinct 2012 World Championships back; it is not tournament legal. Product date 2012-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "col1",
+      "number": "21",
+      "entry_id": "entry_cd10770bc64a5a8eb8f18f38505f0714",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2012 replica — Zachary Bokhari",
+        "world_championship_year": 2012,
+        "player_signature": "Zachary Bokhari",
+        "tournament_legal": false,
+        "release_date": "2012-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/CMT_Deck_(TCG)",
+        "product_name": "2012 World Championships — CMT Deck (Zachary Bokhari)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Smeargle (WCD12 CL 21)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/CMT_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies Smeargle 21 from Call of Legends. This official non-holo replica has Zachary Bokhari’s printed signature and a distinct 2012 World Championships back; it is not tournament legal. Product date 2012-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy3",
+      "number": "54",
+      "entry_id": "entry_e602ed4b7b5f572ba22668a526b6f0fb",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2015 replica — Rowan Stavenow",
+        "world_championship_year": 2015,
+        "player_signature": "Rowan Stavenow",
+        "tournament_legal": false,
+        "release_date": "2015-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/The_Flying_Hammer_(TCG)",
+        "product_name": "2015 World Championships — The Flying Hammer (Rowan Stavenow)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Lucario EX (WCD15 FFI 54)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/The_Flying_Hammer_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://cdn.pidgi.net/images/c/cf/Decks_sell_sheet_-_2015_Pok%C3%A9mon_World_Championships.pdf"
+      ],
+      "evidence": "The retail replica deck list identifies Lucario EX 54 from Furious Fists. This official non-holo replica has Rowan Stavenow’s printed signature and a distinct 2015 World Championships back; it is not tournament legal. Product date 2015-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy4",
+      "number": "23",
+      "entry_id": "entry_f286d26610955dad9a7ecbe133f9fa45",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2015 replica — Patrick Martinez",
+        "world_championship_year": 2015,
+        "player_signature": "Patrick Martinez",
+        "tournament_legal": false,
+        "release_date": "2015-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Punches_%27N%27_Bites_(TCG)",
+        "product_name": "2015 World Championships — Punches 'N' Bites (Patrick Martinez)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Manectric EX (WCD15 PHF 23)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Punches_%27N%27_Bites_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://cdn.pidgi.net/images/c/cf/Decks_sell_sheet_-_2015_Pok%C3%A9mon_World_Championships.pdf"
+      ],
+      "evidence": "The retail replica deck list identifies Manectric EX 23 from Phantom Forces. This official non-holo replica has Patrick Martinez’s printed signature and a distinct 2015 World Championships back; it is not tournament legal. Product date 2015-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2016 replica — Jesper Eriksen",
+        "world_championship_year": 2016,
+        "player_signature": "Jesper Eriksen",
+        "tournament_legal": false,
+        "release_date": "2016-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Bebe_Deck_(TCG)",
+        "product_name": "2016 World Championships — Bebe Deck (Jesper Eriksen)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD16 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Bebe_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Jesper Eriksen’s printed signature and a distinct 2016 World Championships back; it is not tournament legal. Product date 2016-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2016 replica — Shintaro Ito",
+        "world_championship_year": 2016,
+        "player_signature": "Shintaro Ito",
+        "tournament_legal": false,
+        "release_date": "2016-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Magical_Symphony_(TCG)",
+        "product_name": "2016 World Championships — Magical Symphony (Shintaro Ito)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD16 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Magical_Symphony_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Shintaro Ito’s printed signature and a distinct 2016 World Championships back; it is not tournament legal. Product date 2016-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2016 replica — Shuntu Sadahiro",
+        "world_championship_year": 2016,
+        "player_signature": "Shuntu Sadahiro",
+        "tournament_legal": false,
+        "release_date": "2016-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Black_Dragon_(TCG)",
+        "product_name": "2016 World Championships — Black Dragon (Shuntu Sadahiro)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD16 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Black_Dragon_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Shuntu Sadahiro’s printed signature and a distinct 2016 World Championships back; it is not tournament legal. Product date 2016-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2016 replica — Cody Walinski",
+        "world_championship_year": 2016,
+        "player_signature": "Cody Walinski",
+        "tournament_legal": false,
+        "release_date": "2016-11",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ninja_Blitz_(TCG)",
+        "product_name": "2016 World Championships — Ninja Blitz (Cody Walinski)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD16 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Ninja_Blitz_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Cody Walinski’s printed signature and a distinct 2016 World Championships back; it is not tournament legal. Product date 2016-11 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "sm2",
+      "number": "22",
+      "entry_id": "entry_1c5716c6a07a5b99b62ab2518a365496",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2017 replica — Zachary Bokhari",
+        "world_championship_year": 2017,
+        "player_signature": "Zachary Bokhari",
+        "tournament_legal": false,
+        "release_date": "2017-11-17",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+        "product_name": "2017 World Championships — Ice Path FTW (Zachary Bokhari)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Alolan Ninetales GX (WCD17 GRI 22)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images"
+      ],
+      "evidence": "The retail replica deck list identifies Alolan Ninetales GX 22 from Guardians Rising. This official non-holo replica has Zachary Bokhari’s printed signature and a distinct 2017 World Championships back; it is not tournament legal. Product date 2017-11-17 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "sm2",
+      "number": "21",
+      "entry_id": "entry_bf898efbb1f656b880776a81ea2cbd65",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2017 replica — Zachary Bokhari",
+        "world_championship_year": 2017,
+        "player_signature": "Zachary Bokhari",
+        "tournament_legal": false,
+        "release_date": "2017-11-17",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+        "product_name": "2017 World Championships — Ice Path FTW (Zachary Bokhari)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Alolan Vulpix (WCD17 GRI 21)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images"
+      ],
+      "evidence": "The retail replica deck list identifies Alolan Vulpix 21 from Guardians Rising. This official non-holo replica has Zachary Bokhari’s printed signature and a distinct 2017 World Championships back; it is not tournament legal. Product date 2017-11-17 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2017 replica — Zachary Bokhari",
+        "world_championship_year": 2017,
+        "player_signature": "Zachary Bokhari",
+        "tournament_legal": false,
+        "release_date": "2017-11-17",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+        "product_name": "2017 World Championships — Ice Path FTW (Zachary Bokhari)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD17 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Zachary Bokhari’s printed signature and a distinct 2017 World Championships back; it is not tournament legal. Product date 2017-11-17 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "sm2",
+      "number": "21",
+      "entry_id": "entry_bf898efbb1f656b880776a81ea2cbd65",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2017 replica — Diego Cassiraga",
+        "world_championship_year": 2017,
+        "player_signature": "Diego Cassiraga",
+        "tournament_legal": false,
+        "release_date": "2017-11-17",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Infinite_Force_(TCG)",
+        "product_name": "2017 World Championships — Infinite Force (Diego Cassiraga)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Alolan Vulpix (WCD17 GRI 21)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Infinite_Force_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images"
+      ],
+      "evidence": "The retail replica deck list identifies Alolan Vulpix 21 from Guardians Rising. This official non-holo replica has Diego Cassiraga’s printed signature and a distinct 2017 World Championships back; it is not tournament legal. Product date 2017-11-17 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2017 replica — Diego Cassiraga",
+        "world_championship_year": 2017,
+        "player_signature": "Diego Cassiraga",
+        "tournament_legal": false,
+        "release_date": "2017-11-17",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Infinite_Force_(TCG)",
+        "product_name": "2017 World Championships — Infinite Force (Diego Cassiraga)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD17 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Infinite_Force_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Diego Cassiraga’s printed signature and a distinct 2017 World Championships back; it is not tournament legal. Product date 2017-11-17 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2017 replica — Naoto Suzuki",
+        "world_championship_year": 2017,
+        "player_signature": "Naoto Suzuki",
+        "tournament_legal": false,
+        "release_date": "2017-11-17",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Golisodor_(TCG)",
+        "product_name": "2017 World Championships — Golisodor (Naoto Suzuki)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD17 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Golisodor_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Naoto Suzuki’s printed signature and a distinct 2017 World Championships back; it is not tournament legal. Product date 2017-11-17 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2017 replica — Kabu Fukase",
+        "world_championship_year": 2017,
+        "player_signature": "Kabu Fukase",
+        "tournament_legal": false,
+        "release_date": "2017-11-17",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Samurai_Sniper_(TCG)",
+        "product_name": "2017 World Championships — Samurai Sniper (Kabu Fukase)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD17 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Samurai_Sniper_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Kabu Fukase’s printed signature and a distinct 2017 World Championships back; it is not tournament legal. Product date 2017-11-17 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "sm3.5",
+      "number": "53",
+      "entry_id": "entry_92c340f768595adbac00b11329278460",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2018 replica — Robin Schulz",
+        "world_championship_year": 2018,
+        "player_signature": "Robin Schulz",
+        "tournament_legal": false,
+        "release_date": "2018-11-16",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+        "product_name": "2018 World Championships — Victory Map (Robin Schulz)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Zoroark GX (WCD18 SLG 53)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks"
+      ],
+      "evidence": "The retail replica deck list identifies Zoroark GX 53 from Shining Legends. This official non-holo replica has Robin Schulz’s printed signature and a distinct 2018 World Championships back; it is not tournament legal. Product date 2018-11-16 is separate from the original card release. The manufacturer launch is 16 November; it takes precedence over the deck-page 14 November date."
+    },
+    {
+      "lang": "en",
+      "release": "sm3.5",
+      "number": "52",
+      "entry_id": "entry_44d137b91fb7552e9d326764f223c1f7",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2018 replica — Robin Schulz",
+        "world_championship_year": 2018,
+        "player_signature": "Robin Schulz",
+        "tournament_legal": false,
+        "release_date": "2018-11-16",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+        "product_name": "2018 World Championships — Victory Map (Robin Schulz)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Zorua (WCD18 SLG 52)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks"
+      ],
+      "evidence": "The retail replica deck list identifies Zorua 52 from Shining Legends. This official non-holo replica has Robin Schulz’s printed signature and a distinct 2018 World Championships back; it is not tournament legal. Product date 2018-11-16 is separate from the original card release. The manufacturer launch is 16 November; it takes precedence over the deck-page 14 November date."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2018 replica — Robin Schulz",
+        "world_championship_year": 2018,
+        "player_signature": "Robin Schulz",
+        "tournament_legal": false,
+        "release_date": "2018-11-16",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+        "product_name": "2018 World Championships — Victory Map (Robin Schulz)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD18 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Robin Schulz’s printed signature and a distinct 2018 World Championships back; it is not tournament legal. Product date 2018-11-16 is separate from the original card release. The manufacturer launch is 16 November; it takes precedence over the deck-page 14 November date."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2018 replica — Magnus Pedersen",
+        "world_championship_year": 2018,
+        "player_signature": "Magnus Pedersen",
+        "tournament_legal": false,
+        "release_date": "2018-11-16",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Garbanette_(TCG)",
+        "product_name": "2018 World Championships — Garbanette (Magnus Pedersen)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD18 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Garbanette_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Magnus Pedersen’s printed signature and a distinct 2018 World Championships back; it is not tournament legal. Product date 2018-11-16 is separate from the original card release. The manufacturer launch is 16 November; it takes precedence over the deck-page 14 November date."
+    },
+    {
+      "lang": "en",
+      "release": "sm2",
+      "number": "74",
+      "entry_id": "entry_182078ca2c05567cb855ee2810dae2d8",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2018 replica — Naohito Inoue",
+        "world_championship_year": 2018,
+        "player_signature": "Naohito Inoue",
+        "tournament_legal": false,
+        "release_date": "2018-11-16",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)",
+        "product_name": "2018 World Championships — Buzzroc (Naohito Inoue)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Lycanroc GX (WCD18 GRI 74)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks"
+      ],
+      "evidence": "The retail replica deck list identifies Lycanroc GX 74 from Guardians Rising. This official non-holo replica has Naohito Inoue’s printed signature and a distinct 2018 World Championships back; it is not tournament legal. Product date 2018-11-16 is separate from the original card release. The manufacturer launch is 16 November; it takes precedence over the deck-page 14 November date."
+    },
+    {
+      "lang": "en",
+      "release": "sm6",
+      "number": "75",
+      "entry_id": "entry_50446dce09525046b3bd21aa94952fbc",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2018 replica — Naohito Inoue",
+        "world_championship_year": 2018,
+        "player_signature": "Naohito Inoue",
+        "tournament_legal": false,
+        "release_date": "2018-11-16",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)",
+        "product_name": "2018 World Championships — Buzzroc (Naohito Inoue)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Rockruff (WCD18 FLI 75)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks"
+      ],
+      "evidence": "The retail replica deck list identifies Rockruff 75 from Forbidden Light. This official non-holo replica has Naohito Inoue’s printed signature and a distinct 2018 World Championships back; it is not tournament legal. Product date 2018-11-16 is separate from the original card release. The manufacturer launch is 16 November; it takes precedence over the deck-page 14 November date."
+    },
+    {
+      "lang": "en",
+      "release": "xy10",
+      "number": "105",
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2018 replica — Naohito Inoue",
+        "world_championship_year": 2018,
+        "player_signature": "Naohito Inoue",
+        "tournament_legal": false,
+        "release_date": "2018-11-16",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)",
+        "product_name": "2018 World Championships — Buzzroc (Naohito Inoue)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "N (WCD18 FCO 105)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks"
+      ],
+      "evidence": "The retail replica deck list identifies N 105 from Fates Collide. This official non-holo replica has Naohito Inoue’s printed signature and a distinct 2018 World Championships back; it is not tournament legal. Product date 2018-11-16 is separate from the original card release. The manufacturer launch is 16 November; it takes precedence over the deck-page 14 November date."
+    },
+    {
+      "lang": "en",
+      "release": "sm9",
+      "number": "16",
+      "entry_id": "entry_26a0a442bae7521994ea7d9b3ed2fdb8",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2019 replica — Kaya Lichtleitner",
+        "world_championship_year": 2019,
+        "player_signature": "Kaya Lichtleitner",
+        "tournament_legal": false,
+        "release_date": "2019-11-22",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Fire_Box_(TCG)",
+        "product_name": "2019 World Championships — Fire Box (Kaya Lichtleitner)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Ninetales (WCD19 TEU 16)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Fire_Box_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokeguardian.com/358435_pokemon-tcg-2019-world-championships-decks-revealed"
+      ],
+      "evidence": "The retail replica deck list identifies Ninetales 16 from Team Up. This official non-holo replica has Kaya Lichtleitner’s printed signature and a distinct 2019 World Championships back; it is not tournament legal. Product date 2019-11-22 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "sm9",
+      "number": "15",
+      "entry_id": "entry_1546d6496fa85cd3beca665d26145364",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2019 replica — Kaya Lichtleitner",
+        "world_championship_year": 2019,
+        "player_signature": "Kaya Lichtleitner",
+        "tournament_legal": false,
+        "release_date": "2019-11-22",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Fire_Box_(TCG)",
+        "product_name": "2019 World Championships — Fire Box (Kaya Lichtleitner)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Vulpix (WCD19 TEU 15)"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Fire_Box_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://www.pokeguardian.com/358435_pokemon-tcg-2019-world-championships-decks-revealed"
+      ],
+      "evidence": "The retail replica deck list identifies Vulpix 15 from Team Up. This official non-holo replica has Kaya Lichtleitner’s printed signature and a distinct 2019 World Championships back; it is not tournament legal. Product date 2019-11-22 is separate from the original card release."
+    },
+    {
+      "lang": "en",
+      "release": "cel25",
+      "number": "16",
+      "entry_id": "entry_1487763915fa598fb0594af89bd7b96a",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "not_applicable",
+        "layout": "standard",
+        "print_state": "World Championships 2023 replica — Tord Reklev",
+        "world_championship_year": 2023,
+        "player_signature": "Tord Reklev",
+        "tournament_legal": false,
+        "release_date": "2024-03-01",
+        "source_url": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Elegance_(TCG)",
+        "product_name": "2023 World Championships — Psychic Elegance (Tord Reklev)",
+        "product_kind": "deck",
+        "notes": "Official commemorative replica: printed player signature and a different World Championships back; not tournament legal. Shared catalog front may show the original set printing.",
+        "cardmarket_search": "Zacian V (WCD23 CEL 16)",
+        "cardmarket_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/WCD-2023/Zacian-V-WCD23CEL-016"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Psychic_Elegance_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://pokemonblog.com/2024/01/18/full-content-details-and-release-date-revealed-for-the-new-2023-pokemon-tcg-world-championships-decks/"
+      ],
+      "evidence": "The retail replica deck list identifies Zacian V 16 from Celebrations. This official non-holo replica has Tord Reklev’s printed signature and a distinct 2023 World Championships back; it is not tournament legal. Product date 2024-03-01 is separate from the original card release. The 2023 event deck was sold in March 2024, not during the 2023 event."
+    }
+  ],
+  "printing_updates": [
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM06",
+      "entry_id": "entry_a15a89f26a5a5088a491eaa4a267f170",
+      "printing_id": "variant_f1d13435f78b5bf5b9ccf880279c81ee",
+      "values": {
+        "finish": "holo",
+        "pattern": "cosmos",
+        "stamps_json": "[]",
+        "release_date": "2017-02-03",
+        "date_precision": "day",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+        "sources": [
+          {
+            "id": "research_product_70e89691094c53deb5b3523a64820811",
+            "name": "Sun & Moon Single Pack Blister — Rockruff",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)"
+            ],
+            "notes": "English SM06 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2017-02-03",
+            "date_precision": "day",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM06"
+      ],
+      "evidence": "Exact EN promo identity SM06 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM06 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM06",
+      "entry_id": "entry_207f6f68b6445256ac6e78676a2a4f6e",
+      "printing_id": "variant_74a09fe70f875f59a25752fe0f97dd8c",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]"
+      },
+      "source_urls": [
+        "https://pokedexia.com/de/pokemon-karten/pokemon/wuffels",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_006_R_DE.png"
+      ],
+      "evidence": "Exact DE promo identity SM06 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM54",
+      "entry_id": "entry_32522a1c833950df8e9cdb367fc8a339",
+      "printing_id": "variant_d7d6b18aff0d5ef2874aae04616a3701",
+      "values": {
+        "finish": "holo",
+        "pattern": "cosmos",
+        "stamps_json": "[]",
+        "release_date": "2017-11-03",
+        "date_precision": "day",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)",
+        "sources": [
+          {
+            "id": "research_product_3591bcb317f5522387cd8b04db91201e",
+            "name": "Crimson Invasion Three Pack Blister — Lucario",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)"
+            ],
+            "notes": "English SM54 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2017-11-03",
+            "date_precision": "day",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM54"
+      ],
+      "evidence": "Exact EN promo identity SM54 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM54 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM54",
+      "entry_id": "entry_49cb5cd764cd54bfa4f5f4254be0d5cf",
+      "printing_id": "variant_e0bf7f10e882525c926c84180bbd68c1",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]"
+      },
+      "source_urls": [
+        "https://comic-portal.net/sammelkarten/pokemon-tcg/13410/pokemon-tcg-sonne-und-mond-04-aufziehen-der-sturmroete-blister-3er-pack-lucario",
+        "https://www.ebay.de/shop/pokemon-ultra-prisma?_nkw=pokemon+ultra+prisma",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_054_R_DE.png"
+      ],
+      "evidence": "Exact DE promo identity SM54 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_2c518d858a97510291a2cf56f49abb88",
+      "printing_id": "variant_3ee558d71e7b513091069abfb07db03f",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]",
+        "release_date": "2017-11-03",
+        "date_precision": "day",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+        "sources": [
+          {
+            "id": "research_product_bf8f1495c1a454ed92fb9366a406475b",
+            "name": "Shining Legends Special Collection — Zoroark-GX",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+            ],
+            "notes": "English SM83 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2017-11-03",
+            "date_precision": "day",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM83",
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+      ],
+      "evidence": "Exact EN promo identity SM83 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM83 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM83",
+      "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+      "printing_id": "variant_bf65dcbd309c58ee867f7365d229c08d",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]",
+        "release_date": "2017-11",
+        "date_precision": "month",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+        "sources": [
+          {
+            "id": "research_product_3c96bb077b705a7cba16809ae25fdec3",
+            "name": "Schimmernde Legenden – Zoroark-GX Spezial-Kollektion",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+            ],
+            "notes": "Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November.",
+            "release_date": "2017-11",
+            "date_precision": "month",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+        "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+      ],
+      "evidence": "Exact DE promo identity SM83 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM89",
+      "entry_id": "entry_fb9c0f0f32f35c63a1b2d5a449ac27eb",
+      "printing_id": "variant_e6a85a6ec35653a9ab2185daab1d0da0",
+      "values": {
+        "finish": "holo",
+        "pattern": "cosmos",
+        "stamps_json": "[]",
+        "release_date": "2017-12-01",
+        "date_precision": "day",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)",
+        "sources": [
+          {
+            "id": "research_product_55cbd5faf57759b0a42cc90ad2d74299",
+            "name": "Shining Legends Pin Collection — Zoroark",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)"
+            ],
+            "notes": "English SM89 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2017-12-01",
+            "date_precision": "day",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM89"
+      ],
+      "evidence": "Exact EN promo identity SM89 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM89 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM89",
+      "entry_id": "entry_b7799cdaed025ff58a254568dabd026d",
+      "printing_id": "variant_c5bec776e81150a496709778af6a62ef",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]",
+        "release_date": "2017-12",
+        "date_precision": "month",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://www.wog.ch/en/index.cfm/details/product/61509-Pokemon-Schimmernde-Legenden-Zoroark-Pin-Kollektion",
+        "sources": [
+          {
+            "id": "research_product_c85c5d246a1e527998ac912b33984efd",
+            "name": "Schimmernde Legenden – Zoroark Pin-Kollektion",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.wog.ch/en/index.cfm/details/product/61509-Pokemon-Schimmernde-Legenden-Zoroark-Pin-Kollektion"
+            ],
+            "notes": "Native German Zoroark pin collection specifies a holo promo and 6 December 2017. Keep December precision rather than substitute the 1 December international date.",
+            "release_date": "2017-12",
+            "date_precision": "month",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://www.wog.ch/en/index.cfm/details/product/61509-Pokemon-Schimmernde-Legenden-Zoroark-Pin-Kollektion"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/61509-Pokemon-Schimmernde-Legenden-Zoroark-Pin-Kollektion",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_089_R_DE.png"
+      ],
+      "evidence": "Exact DE promo identity SM89 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. Native German Zoroark pin collection specifies a holo promo and 6 December 2017. Keep December precision rather than substitute the 1 December international date."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM95",
+      "entry_id": "entry_6d32527a63685a26b9a772fb18ad3b7a",
+      "printing_id": "variant_ecdc26e6e35d5d3b85b50838a8981736",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[\"set_logo\"]",
+        "release_date": "2018-01-20",
+        "date_precision": "day",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "sources": [
+          {
+            "id": "research_product_52e1b535fabd5b8c9f7656b8bc5424cd",
+            "name": "Ultra Prism Prerelease Kit",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+              "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+            ],
+            "notes": "English SM95 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2018-01-20",
+            "date_precision": "day",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM95",
+        "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+      ],
+      "evidence": "Exact EN promo identity SM95 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM95 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM95",
+      "entry_id": "entry_b94a845b11365a11b6f24c89e5485ad0",
+      "printing_id": "variant_afb6d80c220f50ca80661ccddd6affb5",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[\"set_logo\"]"
+      },
+      "source_urls": [
+        "https://www.pokecardex.com/de/carte/11118",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_095_R_DE.png"
+      ],
+      "evidence": "Exact DE promo identity SM95 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM105",
+      "entry_id": "entry_2e3644c52567568392bd23bc5cf2b34b",
+      "printing_id": "variant_8f02d6b806635a808d79aa29577d189b",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]",
+        "release_date": "2018-03-23",
+        "date_precision": "day",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)",
+        "sources": [
+          {
+            "id": "research_product_ac31f44a263851bf8fa6c7c18e11b7f7",
+            "name": "Spring 2018 Collector Chest",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)"
+            ],
+            "notes": "English SM105 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2018-03-23",
+            "date_precision": "day",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM105"
+      ],
+      "evidence": "Exact EN promo identity SM105 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM105 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM105",
+      "entry_id": "entry_08c4e7a858b954acab862c34bfd0be5d",
+      "printing_id": "variant_34ec68355d0d55eea7d23324c130b99a",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]",
+        "release_date": "2018-03",
+        "date_precision": "month",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://www.wog.ch/de/index.cfm/details/product/63914-Pokemon-Sammelkoffer-Fruehling-2018",
+        "sources": [
+          {
+            "id": "research_product_372145fa350f59eea909ec6008149f64",
+            "name": "Pokémon Sammelkoffer Frühling 2018",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.wog.ch/de/index.cfm/details/product/63914-Pokemon-Sammelkoffer-Fruehling-2018"
+            ],
+            "notes": "Native German Spring 2018 collector chest specifies foil Wolwerock and March 2018. The retailer gives 21 March while the international launch is 23 March; retain month precision.",
+            "release_date": "2018-03",
+            "date_precision": "month",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://www.wog.ch/de/index.cfm/details/product/63914-Pokemon-Sammelkoffer-Fruehling-2018"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/63914-Pokemon-Sammelkoffer-Fruehling-2018",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_105_R_DE.png"
+      ],
+      "evidence": "Exact DE promo identity SM105 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. Native German Spring 2018 collector chest specifies foil Wolwerock and March 2018. The retailer gives 21 March while the international launch is 23 March; retain month precision."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM118",
+      "entry_id": "entry_c8ba9288b102522cac6d860631b13e12",
+      "printing_id": "variant_d9cf3b90ec355c4fb5601114ef352de5",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[\"set_logo\"]",
+        "release_date": "2018-04-21",
+        "date_precision": "day",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "sources": [
+          {
+            "id": "research_product_a1b4876e848057aa91df3015fb558875",
+            "name": "Forbidden Light Build & Battle Box",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+              "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+            ],
+            "notes": "English SM118 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2018-04-21",
+            "date_precision": "day",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM118",
+        "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+      ],
+      "evidence": "Exact EN promo identity SM118 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM118 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM118",
+      "entry_id": "entry_fb88f4e5f10e5a9e9f74a91d5dad0d0e",
+      "printing_id": "variant_f7cc2884cb495a529495d7f5459bb7e1",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[\"set_logo\"]",
+        "release_date": "2018-04",
+        "date_precision": "month",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://community.bisafans.de/forum/index.php?pageNo=4&user-post-list%2F123416-areacode040%2F=",
+        "sources": [
+          {
+            "id": "research_product_6d995e82bb44511489743df69b9fff7a",
+            "name": "Grauen der Lichtfinsternis – Build & Battle Box",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://community.bisafans.de/forum/index.php?pageNo=4&user-post-list%2F123416-areacode040%2F="
+            ],
+            "notes": "The Hamburg organizer announced the German Grauen der Lichtfinsternis prerelease for 29 April 2018. Keep April precision; the English earliest event day is not copied.",
+            "release_date": "2018-04",
+            "date_precision": "month",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://community.bisafans.de/forum/index.php?pageNo=4&user-post-list%2F123416-areacode040%2F="
+          }
+        ]
+      },
+      "source_urls": [
+        "https://community.bisafans.de/forum/index.php?pageNo=4&user-post-list%2F123416-areacode040%2F=",
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/sm-black-star-promos/118.jpg"
+      ],
+      "evidence": "Exact DE promo identity SM118 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. The Hamburg organizer announced the German Grauen der Lichtfinsternis prerelease for 29 April 2018. Keep April precision; the English earliest event day is not copied."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM120",
+      "entry_id": "entry_bfe842510ace526586e29157058c6ca4",
+      "printing_id": "variant_1cc36409b7e053019b4bdaeacde03749",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]",
+        "release_date": "2018-05-04",
+        "date_precision": "day",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)",
+        "sources": [
+          {
+            "id": "research_product_e26a11394b5a503e9573df7272ec60df",
+            "name": "Forbidden Light Single Pack Blister — Rockruff",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)"
+            ],
+            "notes": "English SM120 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2018-05-04",
+            "date_precision": "day",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM120"
+      ],
+      "evidence": "Exact EN promo identity SM120 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM120 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM120",
+      "entry_id": "entry_37b3ad805ba251f897acf279bc0d327a",
+      "printing_id": "variant_92c4e96ed37151819cf2b046e74a8cb7",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[]"
+      },
+      "source_urls": [
+        "https://pokedexia.com/de/pokemon-karten/pokemon/wuffels",
+        "https://www.cardmarket.com/de/Pokemon/Products/Blisters/Forbidden-Light-Rockruff-Checklane-Blister",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_120_R_DE.png"
+      ],
+      "evidence": "Exact DE promo identity SM120 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo."
+    },
+    {
+      "lang": "en",
+      "release": "smp",
+      "number": "SM130",
+      "entry_id": "entry_1aabe1b6f56658c8b217e7a32ce853d1",
+      "printing_id": "variant_dc75512f67d15216b6b9503d4a22b87f",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[\"set_logo\"]",
+        "release_date": "2018-07-21",
+        "date_precision": "day",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "sources": [
+          {
+            "id": "research_product_8fac8e24a8e75eeab411659ee73220c6",
+            "name": "Celestial Storm Build & Battle Box",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+              "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+            ],
+            "notes": "English SM130 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+            "release_date": "2018-07-21",
+            "date_precision": "day",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM130",
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+      ],
+      "evidence": "Exact EN promo identity SM130 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM130 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM130",
+      "entry_id": "entry_0453467058495c3999c15e3ce48ea666",
+      "printing_id": "variant_e833f59d220d507895908534ca36f5fe",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "stamps_json": "[\"set_logo\"]",
+        "release_date": "2018-07-21",
+        "date_precision": "day",
+        "year": 2018,
+        "date_state": "sourced_product",
+        "date_source": "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php",
+        "sources": [
+          {
+            "id": "research_product_1e0003f7dde6542d87c91988fcb8b487",
+            "name": "Sturm am Firmament – Build & Battle Box",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+            ],
+            "notes": "The German manufacturer press release specifies German prerelease tournaments from 21 through 29 July 2018. The printed German expansion logo identifies SM130 as a prerelease promo.",
+            "release_date": "2018-07-21",
+            "date_precision": "day",
+            "year": 2018,
+            "date_state": "sourced_product",
+            "date_source": "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php",
+        "https://media.bisafans.de/9d3b5fe/sammelkarten/sets/promos-specials/sm-black-star-promos/130.jpg"
+      ],
+      "evidence": "Exact DE promo identity SM130 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. The German manufacturer press release specifies German prerelease tournaments from 21 through 29 July 2018. The printed German expansion logo identifies SM130 as a prerelease promo."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM84",
+      "entry_id": "entry_321556de204e5f01b31811719eee8ce5",
+      "printing_id": "variant_619f85b14c6e53aa9a5ca1aae9831c4f",
+      "values": {
+        "release_date": "2017-11",
+        "date_precision": "month",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+        "sources": [
+          {
+            "id": "research_product_3c96bb077b705a7cba16809ae25fdec3",
+            "name": "Schimmernde Legenden – Zoroark-GX Spezial-Kollektion",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+            ],
+            "notes": "German sealed Zoroark-GX collection contains both standard and oversized SM84. Native retailer dates November 2017; day intentionally unqualified.",
+            "release_date": "2017-11",
+            "date_precision": "month",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+      ],
+      "evidence": "German sealed Zoroark-GX collection contains both standard and oversized SM84. Native retailer dates November 2017; day intentionally unqualified."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM84",
+      "entry_id": "entry_321556de204e5f01b31811719eee8ce5",
+      "printing_id": "research_printing_8154daed95ff5631b44489fbb42441b0",
+      "values": {
+        "release_date": "2017-11",
+        "date_precision": "month",
+        "year": 2017,
+        "date_state": "sourced_product",
+        "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+        "sources": [
+          {
+            "id": "research_product_3c96bb077b705a7cba16809ae25fdec3",
+            "name": "Schimmernde Legenden – Zoroark-GX Spezial-Kollektion",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+            ],
+            "notes": "German sealed Zoroark-GX collection contains both standard and oversized SM84. Native retailer dates November 2017; day intentionally unqualified.",
+            "release_date": "2017-11",
+            "date_precision": "month",
+            "year": 2017,
+            "date_state": "sourced_product",
+            "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+      ],
+      "evidence": "German sealed Zoroark-GX collection contains both standard and oversized SM84. Native retailer dates November 2017; day intentionally unqualified."
+    },
+    {
+      "lang": "de",
+      "release": "smp",
+      "number": "SM230",
+      "entry_id": "entry_329478df97f55eb18394fe22622b2888",
+      "printing_id": "variant_153a0cc121f652259cb486dde089ef39",
+      "values": {
+        "finish": "holo",
+        "pattern": "unspecified"
+      },
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/89504-Pokemon-Tag-Team-Generationen-Premium-Kollektion",
+        "https://www.cardport.de/pokemon-tag-team-premium-kollektion-de.html"
+      ],
+      "evidence": "The German textured full-art SM230 is foil; remove the erroneous normal/non-holo classification while retaining its existing ID."
+    },
+    {
+      "lang": "en",
+      "release": "svp",
+      "number": "011",
+      "entry_id": "entry_b2eea243424c5399bc1e68faeac123b7",
+      "printing_id": "research_printing_00fb990b9ddf5e7fa05baf88612c4fd1",
+      "values": {
+        "pattern": "cosmos_smooth"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(SVP_Promo_11)"
+      ],
+      "evidence": "Exact English card reference documents both Smooth and Pixel Cosmos Holofoil papers. The old general Cosmos target is refined in place to Smooth; the later Pixel paper is independently collectible."
+    },
+    {
+      "lang": "en",
+      "release": "svp",
+      "number": "024",
+      "entry_id": "entry_7dd5b2e264555ebb9f16f74a75521546",
+      "printing_id": "research_printing_1b723c76bbca56e3b41665910c1f323b",
+      "values": {
+        "pattern": "cosmos_smooth"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(SVP_Promo_24)"
+      ],
+      "evidence": "Exact English card reference documents both Smooth and Pixel Cosmos Holofoil papers. The old general Cosmos target is refined in place to Smooth; the later Pixel paper is independently collectible."
+    }
+  ],
+  "release_dates": [
+    {
+      "lang": "de",
+      "release": "me01",
+      "date": "2025-10-10",
+      "source_url": "https://www.pokemon.com/de/news/neue-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung",
+      "evidence": "The German manufacturer announcement explicitly gives 10 October 2025; replaces secondary chronology evidence without changing the already-correct regional date."
+    }
+  ],
+  "holds": [
+    {
+      "lang": "de",
+      "topic": "SM06 / SM54 / SM95 / SM120 exact regional launch dates",
+      "reason": "Native card identity and foil/layout reviewed; exact original German distribution day remains unverified. Existing reference dates stay visibly provisional."
+    },
+    {
+      "lang": "de",
+      "topic": "SM95 / SM118 / SM130 STAFF variants",
+      "reason": "English STAFF variants do not prove German printings. German physical STAFF fronts still need direct verification; no inferred additions."
+    },
+    {
+      "lang": "de",
+      "topic": "SVP011 / SVP024 Smooth and Pixel Cosmos",
+      "reason": "English paper variants documented. No second German pattern inferred from an English production change."
+    },
+    {
+      "lang": "de",
+      "topic": "World Championships replica decks",
+      "reason": "All pre-2022 decks were English-only. Later German physical cards require separate proof; no translated copies created."
+    },
+    {
+      "lang": "en",
+      "topic": "Growlithe SVP024 Pixel Cosmos first-sale day",
+      "reason": "The English paper variant is documented but its separate first-sale day is not. It retains the parent card date as a reference with an explicit note."
+    },
+    {
+      "lang": "en/de",
+      "topic": "Remaining native catalog images",
+      "reason": "35 historical PokeWiki picture requests were unavailable. No unverified foreign-language picture substituted."
+    }
+  ],
+  "deck_audit": [
+    {
+      "year": 2004,
+      "name": "Magma Spirit",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Magma_Spirit_(TCG)",
+      "source_sha256": "921adaad5a0f4f736bf81a506cd03b26a5a6380ceebcaad13c1955ebb14f593b",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2004,
+      "name": "Rocky Beach",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Rocky_Beach_(TCG)",
+      "source_sha256": "00f72eb198e4990592c6cdac1235be6243bad9b5001748fc2ac6d7a7bdefae5c",
+      "accepted_entry_ids": [
+        "research_entry_f6cdd2225bc853cea7a02e3ae323f3fd"
+      ]
+    },
+    {
+      "year": 2004,
+      "name": "Team Rushdown",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Team_Rushdown_(TCG)",
+      "source_sha256": "a4fe49c48231c9231b714d2b7c3b555fafb58a3afca5f313153b6c031ce35d8c",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2004,
+      "name": "Blaziken Tech",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Blaziken_Tech_(TCG)",
+      "source_sha256": "980d2ff05238c18fd739cfceebc7f595096b0b2b2962fc3bcedbd7f400aef2b2",
+      "accepted_entry_ids": [
+        "entry_b2367b033187593c8c65819abdbb4d80",
+        "entry_fd59d89ccfa251ea96262848d2b95e8f"
+      ]
+    },
+    {
+      "year": 2005,
+      "name": "Queendom",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Queendom_(TCG)",
+      "source_sha256": "98851675b408868cd273fd28e42fccb933e67b6e7b4c772540a7f653bc3b5ba8",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2005,
+      "name": "Dark Tyranitar Deck",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Dark_Tyranitar_Deck_(TCG)",
+      "source_sha256": "6d688b4bfee68d3dd95c68d3d39cbf1cf8aa43b90a8436d57429ae98f3d04c48",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2005,
+      "name": "Bright Aura",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Bright_Aura_(TCG)",
+      "source_sha256": "b92c216fffa5465023ae8d2944264f1f6cc8033886bad20d4daaffa05dfc4fed",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2005,
+      "name": "King of the West",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/King_of_the_West_(TCG)",
+      "source_sha256": "01cc35f42a373b31f38220a5d08704bddbf26689abfb68e5a3d21701e7929f97",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2006,
+      "name": "Mewtrick",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Mewtrick_(TCG)",
+      "source_sha256": "a0d7dcac63751944671bf679c8e5c1e661d5329105487301222d998a58c14ed9",
+      "accepted_entry_ids": [
+        "entry_5a1fd050d38f56b2be4824c6f6018b35",
+        "entry_c381494bcb19530eb2d53b6f32dcf924"
+      ]
+    },
+    {
+      "year": 2006,
+      "name": "Suns & Moons",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Suns_%26_Moons_(TCG)",
+      "source_sha256": "1888a5b282da31884d4652566fa33770918547db9b4c9b5df0de285889ecdc91",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2006,
+      "name": "B-L-S",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/B-L-S_(TCG)",
+      "source_sha256": "1f5fe9a8406ddeddd9e3a3f517d9ec0541857b97df8ab539c94e8077825b908e",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2006,
+      "name": "Eeveelutions",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Eeveelutions_(TCG)",
+      "source_sha256": "e1f25ac26a1aad0df0371957e89afa8f395246c8a40fbcf7d0f4d3c6abe1889d",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2007,
+      "name": "Flyvees",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Flyvees_(TCG)",
+      "source_sha256": "5b38729dea1c5d9330b117d6e733f081e04aec38f4503e2af2f28f8d1b03fc1f",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2007,
+      "name": "Legendary Ascent",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Legendary_Ascent_(TCG)",
+      "source_sha256": "51036592755821bbbc81310e1e88e4d976f8b118f42978c1b01f0d74c3835acf",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2007,
+      "name": "Rambolt",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Rambolt_(TCG)",
+      "source_sha256": "027c37c4a3d02c46ab191da3915bcebaca0dc849b9709bce861147a7d4733aa4",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2007,
+      "name": "Swift Empoleon",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Swift_Empoleon_(TCG)",
+      "source_sha256": "f51d5395d32c63f2acf863d215bedb091aeb75392cedfe37444fdc93274e2787",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2008,
+      "name": "Intimidation",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Intimidation_(TCG)",
+      "source_sha256": "7111ccdad6a8d8af3305c6491f2671c3b2f7015fe22e801b4c85b27efe1460ac",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2008,
+      "name": "Empotech",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Empotech_(TCG)",
+      "source_sha256": "5842155a9c9b00a88610b75c6c87ea8ca5b6841601f98bc5e92d725bfcd9ba74",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2008,
+      "name": "Psychic Lock",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Lock_(TCG)",
+      "source_sha256": "d1ab5c364ea042c6bdaa8e4a9e9080f1b0e3a5c537ef37e2b5dd7ca69e7a1a77",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2008,
+      "name": "Bliss Control",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Bliss_Control_(TCG)",
+      "source_sha256": "e99a041d6d3825dc7b2535f8a1ed8399629fc7bd430a78f0662d21e592f38c23",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2009,
+      "name": "Stallgon",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Stallgon_(TCG)",
+      "source_sha256": "764b50720db7b03b7a7d435d176a0cd8632d17ea6f1ecf8de147546c13949a2f",
+      "accepted_entry_ids": [
+        "research_entry_97d58cdeaf53501486f7456f33a41964"
+      ]
+    },
+    {
+      "year": 2009,
+      "name": "Crowned Tiger",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Crowned_Tiger_(TCG)",
+      "source_sha256": "b8c3f60564baa5c01e505bdc34334b24f4da97e7a99cbdbbf41d9a4b7181b21c",
+      "accepted_entry_ids": [
+        "entry_813c8b12dfa256449f4482fd967694ec"
+      ]
+    },
+    {
+      "year": 2009,
+      "name": "Queengar",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Queengar_(TCG)",
+      "source_sha256": "d5b8053b543660c15fc50d5d96d063d14b6ecef71f14333d6ce384a6389235c9",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2009,
+      "name": "Luxdrill",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Luxdrill_(TCG)",
+      "source_sha256": "5c85dd65fa51c679c3435b95ba9288b54f05a5c7f2b1e7e1a34cc9de0567b4f6",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2010,
+      "name": "LuxChomp of the Spirit",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/LuxChomp_of_the_Spirit_(TCG)",
+      "source_sha256": "24a904b6e7db1d69cd28aa121a620404d613d80da86f3997bc2f53b75cd4382d",
+      "accepted_entry_ids": [
+        "entry_813c8b12dfa256449f4482fd967694ec"
+      ]
+    },
+    {
+      "year": 2010,
+      "name": "Happy Luck",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Happy_Luck_(TCG)",
+      "source_sha256": "207199c0d07ee60ac72a0ce345c47708e135d48d9c74a678eba8645c5635c1eb",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2010,
+      "name": "Power Cottonweed",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Power_Cottonweed_(TCG)",
+      "source_sha256": "00a0d34eb1bfb47c3ee9d8d059b7de613e652e0bd45b03745a2aeeca008a2295",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2010,
+      "name": "Boltevoir",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Boltevoir_(TCG)",
+      "source_sha256": "176f693e242dbff28fe64659981a7e0b4236dae3ecf2499ebeef73f64d73a092",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2011,
+      "name": "Megazone",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Megazone_(TCG)",
+      "source_sha256": "08e351fbd15eca31af7843bd8827314560945487115ffacd8af17d40438d2292",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2011,
+      "name": "Reshiphlosion",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Reshiphlosion_(TCG)",
+      "source_sha256": "015f83962232e47e270ccb902a13a7a8dcab9a7ad6c427d0626b3c3898efb618",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2011,
+      "name": "The Truth",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/The_Truth_(TCG)",
+      "source_sha256": "cfbce7d5351f888b82dc09296e47dfe25d96a629dd46f2038156148b80d3ddd8",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2011,
+      "name": "Twinboar",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Twinboar_(TCG)",
+      "source_sha256": "3994a47f290123ae2e17b72a5a372ccb9a1abccd8a91b97cf66f672e1ac22034",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2012,
+      "name": "Pesadelo Prism",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Pesadelo_Prism_(TCG)",
+      "source_sha256": "0bfd2b175d030ccc909b017b12444dd3fd70aa5b136aad3ea161984d1c7ca843",
+      "accepted_entry_ids": [
+        "entry_f97ae03152d655f5b0090010e80eb6df"
+      ]
+    },
+    {
+      "year": 2012,
+      "name": "Terraki-Mewtwo",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Terraki-Mewtwo_(TCG)",
+      "source_sha256": "d2bc5503779a954e3fe7a9481feb8aebba5c8a137a82956332175cb1d792f945",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2012,
+      "name": "Eeltwo",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Eeltwo_(TCG)",
+      "source_sha256": "7feaeba7a238e8aa69363644af453e2e41421e2167b05f459568d58311630474",
+      "accepted_entry_ids": [
+        "entry_cd10770bc64a5a8eb8f18f38505f0714"
+      ]
+    },
+    {
+      "year": 2012,
+      "name": "CMT Deck",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/CMT_Deck_(TCG)",
+      "source_sha256": "2fb0dc1a280db2285ad605f076187593bf70f0b9479a42163ac2e729099bf79b",
+      "accepted_entry_ids": [
+        "entry_cd10770bc64a5a8eb8f18f38505f0714"
+      ]
+    },
+    {
+      "year": 2013,
+      "name": "American Gothic",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/American_Gothic_(TCG)",
+      "source_sha256": "2f087f49693e1c2b36028633b5434a1e852c5cb6c4c06c0019f605b824ad24b4",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2013,
+      "name": "Darkrai Deck",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Darkrai_Deck_(TCG)",
+      "source_sha256": "70cd420898fcc822a89e106fc969f92835b96f29b0eb3c3f5f38ae10ebe6fb75",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2013,
+      "name": "Anguille Sous Roche",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Anguille_Sous_Roche_(TCG)",
+      "source_sha256": "7a5c266567be553c593ccc97a426db770d048c64bb6799d9249f403af5cf431e",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2013,
+      "name": "Ultimate Team Plasma",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ultimate_Team_Plasma_(TCG)",
+      "source_sha256": "c10d392bb0d829935efc71c1784fbff329a7563a9e6662b5384a1b10887622e4",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2014,
+      "name": "Plasma Power",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Plasma_Power_(TCG)",
+      "source_sha256": "23b2ebdcfaa27cd0119729f5c75c3b748169eed457f13d495e47e2433824a691",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2014,
+      "name": "Trevgor",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Trevgor_(TCG)",
+      "source_sha256": "678124c6fe48cc7b78bd8562b591316f4cfc163ce36b8c1eb158a8a9ecbc65cd",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2014,
+      "name": "Emerald King",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Emerald_King_(TCG)",
+      "source_sha256": "ac083fc6eef515366ba97aa4c1f541bba8766bbd9f0f3900dfc0c502129c743b",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2014,
+      "name": "Crazy Punch",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Crazy_Punch_(TCG)",
+      "source_sha256": "1bd249cdeaffc0642a88820076bad83201ec96f29111d326ffde8386f946108a",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2015,
+      "name": "Primal Groudon",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Primal_Groudon_(TCG)",
+      "source_sha256": "7cade6c40e9dd9bb88ab324fcf88efc9ecb6deef225ba73a379cdfe5d0a1a844",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2015,
+      "name": "The Flying Hammer",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/The_Flying_Hammer_(TCG)",
+      "source_sha256": "2a68467d7a104eb7444d77feaca574c3eb564a1d42aea7d001a3e7517b1e9008",
+      "accepted_entry_ids": [
+        "entry_e602ed4b7b5f572ba22668a526b6f0fb"
+      ]
+    },
+    {
+      "year": 2015,
+      "name": "Punches 'N' Bites",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Punches_%27N%27_Bites_(TCG)",
+      "source_sha256": "36fc1c840d5bd17278d1234c3b0cd86769f540df3b61add9d7782640869b5936",
+      "accepted_entry_ids": [
+        "entry_f286d26610955dad9a7ecbe133f9fa45"
+      ]
+    },
+    {
+      "year": 2015,
+      "name": "Honorstoise",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Honorstoise_(TCG)",
+      "source_sha256": "3acfb20ce11c82b71e732b14c07b9b1ad99cb50dfa4bc7bfb38cbb5357fd73ae",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2016,
+      "name": "Bebe Deck",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Bebe_Deck_(TCG)",
+      "source_sha256": "e875af28bdf045c254a2f4e0c9d427fee236196d34247b86b5c2e00ca8c8c8fc",
+      "accepted_entry_ids": [
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2016,
+      "name": "Magical Symphony",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Magical_Symphony_(TCG)",
+      "source_sha256": "d15c4e2f754b6015256d86d1f6eceaad8fcb70882576ed8d08a3e4960514f538",
+      "accepted_entry_ids": [
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2016,
+      "name": "Black Dragon",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Black_Dragon_(TCG)",
+      "source_sha256": "c3089edcd1a227105349e1b392e69fea0f5949899197b7fdffc64b639e147682",
+      "accepted_entry_ids": [
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2016,
+      "name": "Ninja Blitz",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ninja_Blitz_(TCG)",
+      "source_sha256": "35d046aa33747f0a623ba1a9627a4a164700def09100a0e7a28614d3b84b93b3",
+      "accepted_entry_ids": [
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2017,
+      "name": "Ice Path FTW",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+      "source_sha256": "b6fd4d76a1084f5d2ceb9809785a43fd553459168128a29e78ad26e11e41b8fc",
+      "accepted_entry_ids": [
+        "entry_1c5716c6a07a5b99b62ab2518a365496",
+        "entry_bf898efbb1f656b880776a81ea2cbd65",
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2017,
+      "name": "Infinite Force",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Infinite_Force_(TCG)",
+      "source_sha256": "fd17101e18411a51c0d712c37d15b74f560277760a1b88dfd2126fdac0bb6bc9",
+      "accepted_entry_ids": [
+        "entry_bf898efbb1f656b880776a81ea2cbd65",
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2017,
+      "name": "Golisodor",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Golisodor_(TCG)",
+      "source_sha256": "29bbba027fb02e7927b13949c9a9f92b09b98561055b29437e98ff235035f5a4",
+      "accepted_entry_ids": [
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2017,
+      "name": "Samurai Sniper",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Samurai_Sniper_(TCG)",
+      "source_sha256": "c34622bbe2b64f811487548104b0bc5efcae987a5c985fb5e12db07a3431b060",
+      "accepted_entry_ids": [
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2018,
+      "name": "Victory Map",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+      "source_sha256": "5eab83f1705030966110acd683e7627a5d77418890504fbaf771cdd284663b03",
+      "accepted_entry_ids": [
+        "entry_92c340f768595adbac00b11329278460",
+        "entry_44d137b91fb7552e9d326764f223c1f7",
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2018,
+      "name": "Dragones y Sombras",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Dragones_y_Sombras_(TCG)",
+      "source_sha256": "49237e52651e5306d129cd4bdb77d026dbfff0380e4c0470f059167c9ee8d3da",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2018,
+      "name": "Garbanette",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Garbanette_(TCG)",
+      "source_sha256": "c8ad9dfa7193f8d4d9eb883d0c1c0995209fa99b17c7430c91b9e9d704cd587b",
+      "accepted_entry_ids": [
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2018,
+      "name": "Buzzroc",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)",
+      "source_sha256": "78ea2e5021b856c0c99ef6a73cb90626d8512d5f4f3fa8dbe58ae9003f599d8f",
+      "accepted_entry_ids": [
+        "entry_182078ca2c05567cb855ee2810dae2d8",
+        "entry_50446dce09525046b3bd21aa94952fbc",
+        "research_entry_b14e58ec83395e6cac5a0ea724121b64"
+      ]
+    },
+    {
+      "year": 2019,
+      "name": "Mind Blown",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Mind_Blown_(TCG)",
+      "source_sha256": "8dd0e9b0864b07c5bec87d3d77105859e8c27aae3af1b83463435ee21f606694",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2019,
+      "name": "Pikarom Judge",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Pikarom_Judge_(TCG)",
+      "source_sha256": "d637e481f627c9e79fdad3dd31884c5b03c284e2717d955bf876abfce711dd83",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2019,
+      "name": "Perfection",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Perfection_(TCG)",
+      "source_sha256": "abbb7d6409c900e3ebc3cc813db37c4f7b580c2b589ddb30fe7ca7de58d7aa78",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2019,
+      "name": "Fire Box",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Fire_Box_(TCG)",
+      "source_sha256": "7857f1d362f43c6d05d36d92b320163abc31e48dbacbdbf381add41213cbe642",
+      "accepted_entry_ids": [
+        "entry_26a0a442bae7521994ea7d9b3ed2fdb8",
+        "entry_1546d6496fa85cd3beca665d26145364"
+      ]
+    },
+    {
+      "year": 2022,
+      "name": "Ice Rider Palkia",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ice_Rider_Palkia_(TCG)",
+      "source_sha256": "e407a153e20da72e662b0db5f845278fb60511af05cf445d94fb2d0b033263a3",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2022,
+      "name": "Cheryl Again",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Cheryl_Again_(TCG)",
+      "source_sha256": "40f54495f9398092753db85f307ded420ba28ca41487d87146887b012de90f3e",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2022,
+      "name": "The Shape of Mew",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/The_Shape_of_Mew_(TCG)",
+      "source_sha256": "cbdf4586d4511b13d936127c409db5726fbe32eaf70831275ecc5e4d0f7c7fc0",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2022,
+      "name": "ADP",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/ADP_(TCG)",
+      "source_sha256": "a950181d7f124494f5ea70309638dcf35a4f437614e1f294f5ceca2dc1502d65",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2023,
+      "name": "Mew's Revenge",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Mew%27s_Revenge_(TCG)",
+      "source_sha256": "09895b077fa2d079cf4e1793474bb94da45e2a1b892a64165abab4fe040ec729",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2023,
+      "name": "Psychic Elegance",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Elegance_(TCG)",
+      "source_sha256": "4dab533058c0a8d58677a5fec33430906a618e0202ed80e6afef206fe21b9b9c",
+      "accepted_entry_ids": [
+        "entry_1487763915fa598fb0594af89bd7b96a"
+      ]
+    },
+    {
+      "year": 2023,
+      "name": "Colorless Lugia",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Colorless_Lugia_(TCG)",
+      "source_sha256": "c20a50125bada3090245f7fde0442683b287ff973614efedacbe669ff604f90c",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2023,
+      "name": "Lost Box Kyogre",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Lost_Box_Kyogre_(TCG)",
+      "source_sha256": "526d5c65d24f5de982d1fb9a03f1a99aa3d549f5fc4f36ce2ed1636b68ed9422",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2024,
+      "name": "Ancient Toolbox",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Ancient_Toolbox_(TCG)",
+      "source_sha256": "0233bd85d60bc1cd8364b97ba593ccd48c9419e8dd31a4b73e3432b535f68b80",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2024,
+      "name": "Crushing Thorn",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Crushing_Thorn_(TCG)",
+      "source_sha256": "01e7dc655ea2469ec8d422573251b5e950e58e5092ef5d61b17c3096b984f541",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2024,
+      "name": "The 'Don",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/The_%27Don_(TCG)",
+      "source_sha256": "6d3ffebe96fe2506f73cdfb2c4d0229ab5e8b41256fa856e3f4648b4303182a1",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2024,
+      "name": "Regidrago VSTAR",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Regidrago_VSTAR_(TCG)",
+      "source_sha256": "3f7f2158f71633f925e23cdd94a6ed638666bc1708a1bb5371a17ce9466397f2",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2025,
+      "name": "Flutter Devo Gardevoir",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Flutter_Devo_Gardevoir_(TCG)",
+      "source_sha256": "f4d2ef638fe1bdbfacaba95836e0c77a6d2e32555701753bbf54252687213eea",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2025,
+      "name": "Joltdengo",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Joltdengo_(TCG)",
+      "source_sha256": "53da1d2f008ffcd3f76a32757808e38a7d0fac0d3c39fde98a9dcf51da78fe28",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2025,
+      "name": "JP Raging Bolt",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/JP_Raging_Bolt_(TCG)",
+      "source_sha256": "418e4543aee7183c3a69b02656b6967cccfadcad8533e81554771393111750d3",
+      "accepted_entry_ids": []
+    },
+    {
+      "year": 2025,
+      "name": "Pult Bomb",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Pult_Bomb_(TCG)",
+      "source_sha256": "51ed6ac18c3d058640e18ec221241790d1e6f2a6e8b3772f03fe540e728f4ffb",
+      "accepted_entry_ids": []
+    }
+  ]
+}

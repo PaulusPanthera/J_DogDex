@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-concurrency=1 test_catalog.mjs test_bulk_edit_dom.mjs test_editor_dom.mjs test_publishing.mjs test_mobile_dom.mjs test_card_ui.mjs test_marketplace_dom.mjs test_localization.mjs test_printing_dom.mjs test_source_navigation.mjs test_navigation_layout.mjs test_set_symbols.mjs test_identity_corrections_dom.mjs test_catalog_corrections_dom.mjs test_generated_viewer.mjs test_image_fallback.mjs test_marketplace_workflow.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}

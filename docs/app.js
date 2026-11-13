@@ -1,11 +1,11 @@
 import {setSymbolMarkup} from './set-symbols.mjs';
 import {sourceRoot,inSource,groupSources,subsetSections,localizedScope,setDestination} from './source-ui.mjs';
 import {canonicalSet,recognizedSetQuery,equivalentSource,equivalentCard,equivalentPrinting} from './localization.mjs';
-import {makeEditor} from './editor-ui.mjs?v=1.8.17';
-import {priceMarkup,pricePreview} from './prices.mjs?v=1.8.17';
+import {makeEditor} from './editor-ui.mjs?v=1.8.19';
+import {priceMarkup,pricePreview} from './prices.mjs?v=1.8.19';
 import {rarityMarkup,finishClass,rarityDisplayLabel} from './appearance.mjs';
 import {makeMarketFinder} from './market-ui.mjs?v=1.8.14';
-import {compareRows,compareDates,dateLabel,yearLabel,effectiveDate,pokemonIds,primaryPokemonIds,isCameo,isFullArt,inCategory,uniqueProgress,marketLink,rarityKey,compareSources,sourceDateLabel,entryPreview,marketConditions,comparePrintings} from './catalog.mjs?v=1.8.17';
+import {compareRows,compareDates,dateLabel,yearLabel,effectiveDate,pokemonIds,primaryPokemonIds,isCameo,isFullArt,inCategory,uniqueProgress,marketLink,rarityKey,compareSources,sourceDateLabel,entryPreview,marketConditions,comparePrintings} from './catalog.mjs?v=1.8.19';
 const $=s=>document.querySelector(s);
 const readOnly=document.documentElement?.dataset?.readonly==='true';
 let marketPrices={},publishedAt=null;

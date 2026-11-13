@@ -1,0 +1,1064 @@
+{
+  "basis": "Existing EN cameo source pool; this is a candidate comparison, not a complete external cameo denominator.",
+  "rows": [
+    {
+      "english_entry_id": "research_entry_61e945dd701f5ca283d714b3d2e862d9",
+      "german_entry_id": null,
+      "release": "30th",
+      "number": "148",
+      "name": "Greninja ex",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-148",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/716230/pokemon-me-30th-celebration-greninja-ex-148-128"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "german_entry_id": null,
+      "release": "30th",
+      "number": "150",
+      "name": "Pikachu ex",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-150",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/umbreon",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_bf9da969f0375e31899bf486b84eb591",
+      "german_entry_id": "research_entry_a39cd1666dd25f89abd98ef74ae3fedd",
+      "release": "bw7",
+      "number": "127",
+      "name": "Aspertia City Gym",
+      "cameo_dex": [
+        506
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/bw7-127",
+        "https://pokecameos.com/pokemon/lillipup",
+        "https://www.tcgplayer.com/product/83658/pokemon-boundaries-crossed-aspertia-city-gym"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_a1f15ebb203e5012808b47739931cf65",
+      "german_entry_id": null,
+      "release": "dc1",
+      "number": "22",
+      "name": "Team Magma's Zangoose",
+      "cameo_dex": [
+        262
+      ],
+      "status": "not_released_in_German",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/dc1-22",
+        "https://pokecameos.com/pokemon/mightyena",
+        "https://www.tcgplayer.com/product/97068/pokemon-double-crisis-team-magmas-zangoose"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_98c6d5c6a8715700bf2e2565589a2064",
+      "german_entry_id": null,
+      "release": "dp1",
+      "number": "119",
+      "name": "Switch",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/dp1-119",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/89715/pokemon-diamond-and-pearl-switch"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_6887902e5bad5140ae219c1172fa4996",
+      "german_entry_id": null,
+      "release": "dp3",
+      "number": "128",
+      "name": "Switch",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/dp3-128",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/89716/pokemon-secret-wonders-switch"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_97d58cdeaf53501486f7456f33a41964",
+      "german_entry_id": null,
+      "release": "dp7",
+      "number": "89",
+      "name": "Poké Drawer +",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/dp7-89",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/88196/pokemon-stormfront-poke-drawer-plus",
+        "https://bulbapedia.bulbagarden.net/wiki/Stallgon_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_1487763f3cc55fcf8506d10e568b8ce2",
+      "german_entry_id": null,
+      "release": "dp7",
+      "number": "93",
+      "name": "Switch",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/dp7-93",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/89717/pokemon-stormfront-switch"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_f6cdd2225bc853cea7a02e3ae323f3fd",
+      "german_entry_id": null,
+      "release": "ecard2",
+      "number": "130",
+      "name": "Pokémon Fan Club",
+      "cameo_dex": [
+        58
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/ecard2-130",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.tcgplayer.com/product/88225/pokemon-aquapolis-pokemon-fan-club",
+        "https://bulbapedia.bulbagarden.net/wiki/Rocky_Beach_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_d793b4c72a0e54d8b725191fbca96421",
+      "german_entry_id": null,
+      "release": "gym2",
+      "number": "103",
+      "name": "Erika's Kindness",
+      "cameo_dex": [
+        58
+      ],
+      "status": "not_released_in_German",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/gym2-103",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.tcgplayer.com/product/85299/pokemon-gym-challenge-erikas-kindness"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_a852769921405c55a37ec382ef74f412",
+      "german_entry_id": null,
+      "release": "me03",
+      "number": "077",
+      "name": "Lumiose City",
+      "cameo_dex": [
+        828
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me03-077",
+        "https://pokecameos.com/pokemon/thievul",
+        "https://www.tcgplayer.com/product/684348/pokemon-me03-perfect-order-lumiose-city-077-088"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_e253b1ac80b75c67a8cd0b29c7e7f48b",
+      "german_entry_id": null,
+      "release": "ru1",
+      "number": "7",
+      "name": "Pikachu",
+      "cameo_dex": [
+        37
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/ru1-7",
+        "https://pokecameos.com/pokemon/vulpix",
+        "https://www.tcgplayer.com/product/88096/pokemon-rumble-pikachu"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_7528c87ffcd15e40875d68e6f03400a9",
+      "german_entry_id": "research_entry_fceaa7efbf4356d5ab8ed7275157f4a3",
+      "release": "sm3",
+      "number": "79",
+      "name": "Passimian",
+      "cameo_dex": [
+        448
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sm3-79",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/138565/pokemon-sm-burning-shadows-passimian"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_eabf2f239cee53f580284c7eef1744fc",
+      "german_entry_id": null,
+      "release": "sm3.5",
+      "number": "63",
+      "name": "Pokémon Breeder",
+      "cameo_dex": [
+        744
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sm3.5-63",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.tcgplayer.com/product/146730/pokemon-shining-legends-pokemon-breeder"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_8e6f18cbb3ef5bc8bdab67be2c02b609",
+      "german_entry_id": "research_entry_520707cc24e350a681d5a70e5919f966",
+      "release": "sm8",
+      "number": "100",
+      "name": "Cofagrigus",
+      "cameo_dex": [
+        447
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sm8-100",
+        "https://pokecameos.com/pokemon/riolu",
+        "https://www.tcgplayer.com/product/178913/pokemon-sm-lost-thunder-cofagrigus"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_95533b7aeff05c1490720383ed2be3ea",
+      "german_entry_id": null,
+      "release": "smp",
+      "number": "SM231",
+      "name": "Champions Festival",
+      "cameo_dex": [
+        235
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM231",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/198360/pokemon-sm-promos-champions-festival-sm231-world-championships-2019"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_c2cafe7a5c5c55f588af2b7de37e186b",
+      "german_entry_id": "research_entry_492eb6c702565a3a8c72ef54050fe24b",
+      "release": "sv01",
+      "number": "244",
+      "name": "Miraidon ex",
+      "cameo_dex": [
+        927
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv01-244",
+        "https://pokecameos.com/pokemon/dachsbun",
+        "https://www.tcgplayer.com/product/485259/pokemon-sv01-scarlet-and-violet-base-set-miraidon-ex-244-198"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_1ba4c15249735915b6e3b79e591066ea",
+      "german_entry_id": "research_entry_54c4de3c533e56baa3e4f7dfd2195758",
+      "release": "sv01",
+      "number": "249",
+      "name": "Arven",
+      "cameo_dex": [
+        943
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv01-249",
+        "https://pokecameos.com/pokemon/mabosstiff",
+        "https://www.tcgplayer.com/product/490292/pokemon-sv01-scarlet-and-violet-base-set-arven-249-198"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_3ec77172373455ad92f95d36267a825f",
+      "german_entry_id": "research_entry_439c3bd446db5f32bcdb33306b201b43",
+      "release": "sv03.5",
+      "number": "173",
+      "name": "Pikachu",
+      "cameo_dex": [
+        37,
+        58
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv03.5-173",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.tcgplayer.com/product/513721/pokemon-sv-scarlet-and-violet-151-pikachu-173-165"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_db996b41bb3353a18da1e99e5d9ba748",
+      "german_entry_id": "research_entry_8b7ba2001c80514aa6e32b296aa5be16",
+      "release": "sv04",
+      "number": "196",
+      "name": "Joltik",
+      "cameo_dex": [
+        835
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv04-196",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.tcgplayer.com/product/523877/pokemon-sv04-paradox-rift-joltik-196-182"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_d6111b6ade83596e814d9da635421453",
+      "german_entry_id": "research_entry_eb2d955050c35f43ba80bbf73a59f3e9",
+      "release": "sv04",
+      "number": "202",
+      "name": "Garganacl",
+      "cameo_dex": [
+        744
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv04-202",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.tcgplayer.com/product/523883/pokemon-sv04-paradox-rift-garganacl-202-182"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_31dff2d3be905c5d8e32ca1c0abbd58c",
+      "german_entry_id": null,
+      "release": "sv04.5",
+      "number": "235",
+      "name": "Arven",
+      "cameo_dex": [
+        943
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv04.5-235",
+        "https://pokecameos.com/pokemon/mabosstiff",
+        "https://www.tcgplayer.com/product/535095/pokemon-sv-paldean-fates-arven"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_b181a275d19d5ca0be7fe601d2b392d1",
+      "german_entry_id": null,
+      "release": "sv05",
+      "number": "210",
+      "name": "Eri",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv05-210",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/542931/pokemon-sv05-temporal-forces-eri-210-162"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_842039108fdc527dbbe7a100c2c136dc",
+      "german_entry_id": "research_entry_10a55bd4f2d55fb0a97c59fded72beab",
+      "release": "sv06",
+      "number": "078",
+      "name": "Clefairy",
+      "cameo_dex": [
+        1014
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-078",
+        "https://pokecameos.com/pokemon/okidogi",
+        "https://www.tcgplayer.com/product/550122/pokemon-sv06-twilight-masquerade-clefairy"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_183ba9b6ad0253f4b073f0bdcca380f4",
+      "german_entry_id": "research_entry_dff5e82d6b0c5c67a046c5d154d755db",
+      "release": "sv06",
+      "number": "138",
+      "name": "Ambipom",
+      "cameo_dex": [
+        58
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-138"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_f74c5bfb1f275e3e8effc5ba18e76df7",
+      "german_entry_id": null,
+      "release": "sv06",
+      "number": "144",
+      "name": "Caretaker",
+      "cameo_dex": [
+        1014
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-144",
+        "https://pokecameos.com/pokemon/okidogi",
+        "https://www.tcgplayer.com/product/550188/pokemon-sv06-twilight-masquerade-caretaker-144-167"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_c23b8aabf55250db9d4f3f59afcdf8d2",
+      "german_entry_id": null,
+      "release": "sv06",
+      "number": "146",
+      "name": "Community Center",
+      "cameo_dex": [
+        1014
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-146",
+        "https://pokecameos.com/pokemon/okidogi",
+        "https://www.tcgplayer.com/product/550190/pokemon-sv06-twilight-masquerade-community-center"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_e67a324a236556ad9dea4e6273b88942",
+      "german_entry_id": "research_entry_862a508f510b5d158d79112a361c2ffe",
+      "release": "sv06",
+      "number": "182",
+      "name": "Probopass",
+      "cameo_dex": [
+        836
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-182",
+        "https://pokecameos.com/pokemon/boltund",
+        "https://www.tcgplayer.com/product/550226/pokemon-sv06-twilight-masquerade-probopass-182-167"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_95ec0b5c02155c6f8bfa6388bd11a93e",
+      "german_entry_id": "research_entry_e74bdb3b71875af9acd9ed6c0f003047",
+      "release": "sv06",
+      "number": "210",
+      "name": "Sinistcha ex",
+      "cameo_dex": [
+        836
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-210",
+        "https://pokecameos.com/pokemon/boltund",
+        "https://www.tcgplayer.com/product/550254/pokemon-sv06-twilight-masquerade-sinistcha-ex-210-167"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_4615268359af5adcb36f78b36d970295",
+      "german_entry_id": null,
+      "release": "sv06",
+      "number": "218",
+      "name": "Kieran",
+      "cameo_dex": [
+        942,
+        1014
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-218",
+        "https://pokecameos.com/pokemon/maschiff",
+        "https://pokecameos.com/pokemon/okidogi",
+        "https://www.tcgplayer.com/product/550262/pokemon-sv06-twilight-masquerade-kieran-218-167"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_37a2e268b896557b9caaf4315e78d804",
+      "german_entry_id": null,
+      "release": "sv07",
+      "number": "172",
+      "name": "Lacey",
+      "cameo_dex": [
+        942
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv07-172",
+        "https://pokecameos.com/pokemon/maschiff",
+        "https://www.tcgplayer.com/product/567484/pokemon-sv07-stellar-crown-lacey-172-142"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_ea0674cf724d55438440db536dbee9dd",
+      "german_entry_id": null,
+      "release": "sv08",
+      "number": "174",
+      "name": "Drayton",
+      "cameo_dex": [
+        942
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv08-174",
+        "https://pokecameos.com/pokemon/maschiff",
+        "https://www.tcgplayer.com/product/589923/pokemon-sv08-surging-sparks-drayton-174-191"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_5251c82dd68952e6a2a9a6160512293e",
+      "german_entry_id": null,
+      "release": "sv08",
+      "number": "232",
+      "name": "Drayton",
+      "cameo_dex": [
+        942
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv08-232",
+        "https://pokecameos.com/pokemon/maschiff",
+        "https://www.tcgplayer.com/product/589924/pokemon-sv08-surging-sparks-drayton-232-191"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_44030505179a5bc6909f96575f5ecbd8",
+      "german_entry_id": null,
+      "release": "sv08",
+      "number": "244",
+      "name": "Drayton",
+      "cameo_dex": [
+        942
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv08-244",
+        "https://pokecameos.com/pokemon/maschiff",
+        "https://www.tcgplayer.com/product/589925/pokemon-sv08-surging-sparks-drayton-244-191"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_09f2d9610c9f594cb2eddc4f5d9c331c",
+      "german_entry_id": null,
+      "release": "sv08.5",
+      "number": "172",
+      "name": "Drayton",
+      "cameo_dex": [
+        942
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv08.5-172",
+        "https://pokecameos.com/pokemon/maschiff",
+        "https://www.tcgplayer.com/product/610527/pokemon-sv-prismatic-evolutions-drayton"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_36f4d87edbd65cb6a84345decca732ae",
+      "german_entry_id": "research_entry_76785dac006f5da2a4a59010cbe590ab",
+      "release": "swsh10.5",
+      "number": "060",
+      "name": "Bibarel",
+      "cameo_dex": [
+        235
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh10.5-060",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/276983/pokemon-pokemon-go-bibarel"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_52f84b173a5155d4ad1d9e38d792c48b",
+      "german_entry_id": "research_entry_c6407668eb11509297764d068ee21e68",
+      "release": "swsh12.5",
+      "number": "160",
+      "name": "Pikachu",
+      "cameo_dex": [
+        571,
+        888
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh12.5-160"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_60054912c520540fbdce2d33efe9667d",
+      "german_entry_id": "research_entry_6702543d4f005ba18f04b34766f73f8a",
+      "release": "swsh3",
+      "number": "166",
+      "name": "Pokémon Breeder's Nurturing",
+      "cameo_dex": [
+        835
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh3-166",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.tcgplayer.com/product/219281/pokemon-swsh03-darkness-ablaze-pokemon-breeders-nurturing"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_a513167677705eadb389527843a08e22",
+      "german_entry_id": "research_entry_5f8f7d04f4fc5c96b426cf57e98eeb56",
+      "release": "swsh3",
+      "number": "188",
+      "name": "Pokémon Breeder's Nurturing",
+      "cameo_dex": [
+        835
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh3-188",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.tcgplayer.com/product/219311/pokemon-swsh03-darkness-ablaze-pokemon-breeders-nurturing-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_8a82e7f67f225960a635b98a67ae2c72",
+      "german_entry_id": null,
+      "release": "swsh3",
+      "number": "195",
+      "name": "Pokémon Breeder's Nurturing",
+      "cameo_dex": [
+        835
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh3-195",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.tcgplayer.com/product/219314/pokemon-swsh03-darkness-ablaze-pokemon-breeders-nurturing-secret"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_b463462088b95ec08f48d25d82ab1343",
+      "german_entry_id": "research_entry_43a3ecfe97d55b4e90503cc70123e2f2",
+      "release": "swsh4.5",
+      "number": "36",
+      "name": "Morpeko",
+      "cameo_dex": [
+        209
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh4.5-36",
+        "https://pokecameos.com/pokemon/snubbull",
+        "https://www.tcgplayer.com/product/232470/pokemon-shining-fates-morpeko-036"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_dc48cf27153a5361b2591c57f273bb70",
+      "german_entry_id": "research_entry_44b964df7c6551428fa5ee58c0c192f9",
+      "release": "swsh4.5",
+      "number": "61",
+      "name": "Rusted Shield",
+      "cameo_dex": [
+        889
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh4.5-61",
+        "https://pokecameos.com/pokemon/zamazenta",
+        "https://www.tcgplayer.com/product/232544/pokemon-shining-fates-rusted-shield"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_433ca343a3305814ba564c5c6b7f88c6",
+      "german_entry_id": "research_entry_5f9293f57a6d596d89c80d840b85fc6a",
+      "release": "swsh4.5",
+      "number": "62",
+      "name": "Rusted Sword",
+      "cameo_dex": [
+        888
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh4.5-62",
+        "https://pokecameos.com/pokemon/zacian",
+        "https://www.tcgplayer.com/product/232543/pokemon-shining-fates-rusted-sword"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_324d6ded8a8753039ecb637a4ee43175",
+      "german_entry_id": "research_entry_391e4f81792555efa9e85824f633125d",
+      "release": "swsh6",
+      "number": "185",
+      "name": "Tornadus V",
+      "cameo_dex": [
+        744
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh6-185",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.tcgplayer.com/product/241805/pokemon-swsh06-chilling-reign-tornadus-v-alternate-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_423973354c7c54fcb94c2a796f025c4a",
+      "german_entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "release": "swsh7",
+      "number": "16",
+      "name": "Eldegoss",
+      "cameo_dex": [
+        235
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh7-16",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/246831/pokemon-swsh07-evolving-skies-eldegoss"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_4f3fc3129a5b52e0ac0f304531d9fc5e",
+      "german_entry_id": "research_entry_15af939707bc5140859a2ce36635ce76",
+      "release": "swsh7",
+      "number": "182",
+      "name": "Golurk V",
+      "cameo_dex": [
+        827
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh7-182",
+        "https://pokecameos.com/pokemon/nickit",
+        "https://www.tcgplayer.com/product/246695/pokemon-swsh07-evolving-skies-golurk-v-alternate-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_1d80522cc2c4517a80db242a6141b06b",
+      "german_entry_id": "research_entry_c95da4d26062575da1ff4f4dfd505e26",
+      "release": "swsh8",
+      "number": "119",
+      "name": "Mawile",
+      "cameo_dex": [
+        235
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-119",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/253290/pokemon-swsh08-fusion-strike-mawile"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_9b68090b2a15501ca5f41393430b83c6",
+      "german_entry_id": "research_entry_13a070f9d383574b9797d049994da4da",
+      "release": "swsh8",
+      "number": "199",
+      "name": "Meowth",
+      "cameo_dex": [
+        235
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-199",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/253291/pokemon-swsh08-fusion-strike-meowth"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_68ec4801fbf55eeebcbb88d497266d89",
+      "german_entry_id": "research_entry_3b515e539c375038b060df0765f70b4a",
+      "release": "swsh8",
+      "number": "251",
+      "name": "Mew V",
+      "cameo_dex": [
+        235
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-251",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/253147/pokemon-swsh08-fusion-strike-mew-v-alternate-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_23843a3960e05ad3a270df4565128910",
+      "german_entry_id": "research_entry_49b2ba66582c5759a7ab45a58f01d8f3",
+      "release": "swsh8",
+      "number": "255",
+      "name": "Genesect V",
+      "cameo_dex": [
+        235
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-255",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/253155/pokemon-swsh08-fusion-strike-genesect-v-alternate-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_b48d1fe8caed556eb2ad68e434eafd8f",
+      "german_entry_id": "research_entry_8da036548d1c5b638867e23945a02dfc",
+      "release": "swsh8",
+      "number": "259",
+      "name": "Dancer",
+      "cameo_dex": [
+        836
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-259",
+        "https://pokecameos.com/pokemon/boltund",
+        "https://www.tcgplayer.com/product/253160/pokemon-swsh08-fusion-strike-dancer-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_4d937a1e6fdb529baed813fccaac84d7",
+      "german_entry_id": null,
+      "release": "swsh8",
+      "number": "274",
+      "name": "Dancer",
+      "cameo_dex": [
+        836
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swsh8-274",
+        "https://pokecameos.com/pokemon/boltund",
+        "https://www.tcgplayer.com/product/253272/pokemon-swsh08-fusion-strike-dancer-secret"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_267ad75676d55267aa082e197e08911a",
+      "german_entry_id": null,
+      "release": "swshp",
+      "number": "SWSH116",
+      "name": "Morpeko",
+      "cameo_dex": [
+        827
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH116",
+        "https://pokecameos.com/pokemon/nickit",
+        "https://www.tcgplayer.com/product/241881/pokemon-swsh-sword-and-shield-promo-cards-morpeko-swsh116"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_679a06e459635d9182f3be2ca3472b47",
+      "german_entry_id": null,
+      "release": "swshp",
+      "number": "SWSH244",
+      "name": "Scorbunny",
+      "cameo_dex": [
+        58
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH244",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.tcgplayer.com/product/285264/pokemon-swsh-sword-and-shield-promo-cards-scorbunny-swsh244-cosmos-holo"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "german_entry_id": "research_entry_bc819b3fe57851b3bc02c45986d3ce72",
+      "release": "xy10",
+      "number": "105",
+      "name": "N",
+      "cameo_dex": [
+        570
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy10-105",
+        "https://pokecameos.com/pokemon/zorua",
+        "https://www.tcgplayer.com/product/117878/pokemon-xy-fates-collide-n-supporter",
+        "https://bulbapedia.bulbagarden.net/wiki/Bebe_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Magical_Symphony_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Black_Dragon_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Ninja_Blitz_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Ice_Path_FTW_(TCG)",
+        "https://www.pokebeach.com/2017/10/world-championship-2017-decks-product-images",
+        "https://bulbapedia.bulbagarden.net/wiki/Infinite_Force_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Golisodor_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Samurai_Sniper_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Victory_Map_(TCG)",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/2018-pokemon-tcg-world-championships-decks",
+        "https://bulbapedia.bulbagarden.net/wiki/Garbanette_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Buzzroc_(TCG)"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_5d2a8ff129ee5e07a02318805838a0b3",
+      "german_entry_id": "research_entry_0387516a54f358a88ee3f7910eaede85",
+      "release": "xy4",
+      "number": "100",
+      "name": "Manectric Spirit Link",
+      "cameo_dex": [
+        310
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy4-100"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_2100ffb73c195f4a9a403317676d277b",
+      "german_entry_id": "research_entry_5318bdd91c375afa9355baf64e4408d6",
+      "release": "xy4",
+      "number": "108",
+      "name": "Trick Coin",
+      "cameo_dex": [
+        571
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy4-108",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.tcgplayer.com/product/94676/pokemon-xy-phantom-forces-trick-coin"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_433e9bba302e547bb1eea97fb19ced92",
+      "german_entry_id": "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d",
+      "release": "xy6",
+      "number": "77a",
+      "name": "Shaymin EX",
+      "cameo_dex": [
+        718
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy6-77a"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_66538109729e547c9638b672f3b064c2",
+      "german_entry_id": "research_entry_de30fe7924695bf2b2f8dd84a99a8c00",
+      "release": "xy8",
+      "number": "102",
+      "name": "Floette",
+      "cameo_dex": [
+        209
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy8-102",
+        "https://pokecameos.com/pokemon/snubbull",
+        "https://www.tcgplayer.com/product/107221/pokemon-xy-breakthrough-floette"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_a7b20f64fe7b585abdd32520572e46fd",
+      "german_entry_id": "research_entry_1f6ad9d102ce546f9cc47054524e1a67",
+      "release": "xy8",
+      "number": "142",
+      "name": "Houndoom Spirit Link",
+      "cameo_dex": [
+        229
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy8-142"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_37da22e2c86354f9807fad07f35ff78d",
+      "german_entry_id": "research_entry_83b91d6fc54e55cbac87939f1dc99ad1",
+      "release": "xy8",
+      "number": "163",
+      "name": "Mewtwo EX",
+      "cameo_dex": [
+        571
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy8-163",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.tcgplayer.com/product/107282/pokemon-xy-breakthrough-mewtwo-ex-163-secret-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_708c198064655f24a5514a5b24b3ab03",
+      "german_entry_id": "research_entry_b890b68816e95925bb0e9ba5d21b530b",
+      "release": "xy9",
+      "number": "1",
+      "name": "Chikorita",
+      "cameo_dex": [
+        653
+      ],
+      "status": "matched_native_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy9-1",
+        "https://pokecameos.com/pokemon/fennekin",
+        "https://www.tcgplayer.com/product/111504/pokemon-xy-breakpoint-chikorita"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_d70311bdd2bc512795e1964dfd064856",
+      "german_entry_id": null,
+      "release": "xy9",
+      "number": "98a",
+      "name": "Delinquent",
+      "cameo_dex": [
+        261
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy9-98a",
+        "https://pokecameos.com/pokemon/poochyena",
+        "https://www.tcgplayer.com/product/177167/pokemon-alternate-art-promos-delinquent-98a-122"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_f4356b06dd2e54c8aa20f44406d7748d",
+      "german_entry_id": null,
+      "release": "xy9",
+      "number": "98b",
+      "name": "Delinquent",
+      "cameo_dex": [
+        262
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xy9-98b",
+        "https://pokecameos.com/pokemon/mightyena",
+        "https://www.tcgplayer.com/product/148341/pokemon-alternate-art-promos-delinquent-98b-122-full-art"
+      ]
+    },
+    {
+      "english_entry_id": "research_entry_866476a07875526698023369479a84c4",
+      "german_entry_id": null,
+      "release": "xyp",
+      "number": "XY211",
+      "name": "Lucario Spirit Link",
+      "cameo_dex": [
+        448
+      ],
+      "status": "needs_native_identity_and_printing_proof",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/xyp-XY211"
+      ]
+    }
+  ],
+  "summary": {
+    "needs_native_identity_and_printing_proof": 28,
+    "matched_native_identity": 35,
+    "not_released_in_German": 2
+  }
+}

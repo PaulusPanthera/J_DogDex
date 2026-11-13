@@ -1,0 +1,1067 @@
+{
+  "format": 1,
+  "observed_on": "2026-10-28",
+  "entries": [
+    {
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH163–SWSH166",
+      "number_key": "SWSH163-SWSH166",
+      "identifier_namespace": "composite",
+      "name": "Zacian V-UNION",
+      "english": "Zacian V-UNION",
+      "dex": 888,
+      "category": "jumbo",
+      "rarity_code": "promo",
+      "rarity_label": "Promo",
+      "art_style": "full_art",
+      "release_date": "2021-09-24",
+      "component_entry_ids": [
+        "entry_8ae68399fa1752b5bddd5b935c3bb9ee",
+        "entry_4c18bbcc4f1b560793d1a8422f3c1089",
+        "entry_fceb06a308335c788a67e516eec9df49",
+        "entry_1bd40c7ec29059b49ca254ecb26be8f7"
+      ],
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "notes": "One complete oversized card with the four panel identifiers SWSH163, SWSH164, SWSH165 and SWSH166. The four regular-size cards are separate catalog entries.",
+      "evidence": "Manufacturer product explicitly includes one complete oversized V-UNION card alongside four regular cards. The actual regional jumbo was visually inspected with all four identifiers on a single physical card; it is counted once.",
+      "art_style_source": {
+        "method": "visual_review_complete_regional_jumbo",
+        "source_urls": [
+          "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+          "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian"
+        ],
+        "observed_on": "2026-10-28"
+      },
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "size": "oversized",
+          "print_state": "complete_v_union",
+          "product_name": "Zacian V-UNION Special Collection",
+          "release_date": "2021-09-24",
+          "source_url": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian"
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH163–SWSH166",
+      "number_key": "SWSH163-SWSH166",
+      "identifier_namespace": "composite",
+      "name": "Zacian V-UNION",
+      "english": "Zacian V-UNION",
+      "dex": 888,
+      "category": "jumbo",
+      "rarity_code": "promo",
+      "rarity_label": "Promo",
+      "art_style": "full_art",
+      "release_date": "2021-09-24",
+      "component_entry_ids": [
+        "entry_4058bff703c556ea93c351b8e341adf3",
+        "entry_2ee1b4328e9354bcaf20ae88ae9137ca",
+        "entry_42442353f2495d85a2a48b512dbbe20a",
+        "entry_b7813baad1c45ec7b7fb79bedf1d91e1"
+      ],
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "notes": "One complete oversized card with the four panel identifiers SWSH163, SWSH164, SWSH165 and SWSH166. The four regular-size cards are separate catalog entries.",
+      "evidence": "Manufacturer product explicitly includes one complete oversized V-UNION card alongside four regular cards. The actual regional jumbo was visually inspected with all four identifiers on a single physical card; it is counted once.",
+      "art_style_source": {
+        "method": "visual_review_complete_regional_jumbo",
+        "source_urls": [
+          "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+          "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/"
+        ],
+        "observed_on": "2026-10-28"
+      },
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "size": "oversized",
+          "print_state": "complete_v_union",
+          "product_name": "Spezial-Kollektion Zacian-V-UNION",
+          "release_date": "2021-09-24",
+          "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/"
+        }
+      ]
+    }
+  ],
+  "entry_updates": [
+    {
+      "entry_id": "entry_0e34481cdeab5ff784edf840eb36c7f3",
+      "lang": "en",
+      "release": "mep",
+      "number": "059",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card_and_manufacturer_product",
+          "image": "eccfbcd36be320c49c3bcfe5b899bde85ef68c671aed9fbd5fe0402cf5d4d16b.webp",
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+            "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Illustration extends behind the rules and across the full card; printed Promo rarity is preserved."
+        }
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+        "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+      ],
+      "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+    },
+    {
+      "entry_id": "entry_58256ba9ef7e55f8a3a9fcd1a1ca88da",
+      "lang": "en",
+      "release": "mep",
+      "number": "080",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card_and_manufacturer_product",
+          "image": "7b3841316499df2b7e99ae5dacce800a447052c1305f496a3bc64484a689a92b.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-mega-entwicklung-wachsendes-chaos"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Illustration extends behind the rules and across the full card; printed Promo rarity is preserved."
+        }
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-mega-entwicklung-wachsendes-chaos"
+      ],
+      "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+    },
+    {
+      "entry_id": "entry_887d510655565be19582c92c291fb083",
+      "lang": "en",
+      "release": "mep",
+      "number": "033",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card_and_manufacturer_product",
+          "image": "b2862cbb5e73d8b2f20c70e55ca0e26196f2e3776516852042021114a5f5df98.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-guardevoir",
+            "https://racoon-rises.com/products/pkm-me02-5-premium-poster-kollektion-erhabene-helden-de"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Illustration extends behind the rules and across the full card; printed Promo rarity is preserved."
+        }
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-guardevoir",
+        "https://racoon-rises.com/products/pkm-me02-5-premium-poster-kollektion-erhabene-helden-de"
+      ],
+      "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+    },
+    {
+      "entry_id": "entry_51efe6958973554fa36af66430284d80",
+      "lang": "de",
+      "release": "mep",
+      "number": "059",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card_and_manufacturer_product",
+          "image": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+            "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Illustration extends behind the rules and across the full card; printed Promo rarity is preserved."
+        }
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+        "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+      ],
+      "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+    },
+    {
+      "entry_id": "entry_a42d051d42795daa8829db47e42f3fe7",
+      "lang": "de",
+      "release": "mep",
+      "number": "080",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card_and_manufacturer_product",
+          "image": "2c091de6086f3e990c28414847530a5c0392a8f24036eabf31740b7ad53fb36a.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-mega-entwicklung-wachsendes-chaos"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Illustration extends behind the rules and across the full card; printed Promo rarity is preserved."
+        }
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-mega-entwicklung-wachsendes-chaos"
+      ],
+      "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+    },
+    {
+      "entry_id": "entry_35a1b27acf7c5be099fe39d6dffdfac9",
+      "lang": "de",
+      "release": "mep",
+      "number": "033",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_regional_card_and_manufacturer_product",
+          "image": "b430f481cdfff1bfd88ff62b9da4bd68448d4d4186b05b85a0ce9d5880379d47.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-guardevoir",
+            "https://racoon-rises.com/products/pkm-me02-5-premium-poster-kollektion-erhabene-helden-de"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Illustration extends behind the rules and across the full card; printed Promo rarity is preserved."
+        }
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-guardevoir",
+        "https://racoon-rises.com/products/pkm-me02-5-premium-poster-kollektion-erhabene-helden-de"
+      ],
+      "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+    },
+    {
+      "entry_id": "entry_8ae68399fa1752b5bddd5b935c3bb9ee",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH163",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "9a481ce56ba2e3c4c1ab1183d5a05f340ee42b6839f6f25cc076d66daede6196.webp",
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+            "https://www.pokemons.dk/product/zacian-v-union-jumbokort/"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:en:swshp",
+            "name": "SWSH Black Star Promos",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+            "name": "Zacian V-UNION Special Collection",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+              "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_4c18bbcc4f1b560793d1a8422f3c1089",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH164",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "ef0056e1f127aab76b0141369aea53a63661d1aaa76e4921fc8dd2c71fdea0e8.webp",
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+            "https://www.pokemons.dk/product/zacian-v-union-jumbokort/"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:en:swshp",
+            "name": "SWSH Black Star Promos",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+            "name": "Zacian V-UNION Special Collection",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+              "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_fceb06a308335c788a67e516eec9df49",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH165",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "91a65e5cc43189a0da3adbc2651572bfe80d1aec987e3c2ec6b59b160878169a.webp",
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+            "https://www.pokemons.dk/product/zacian-v-union-jumbokort/"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:en:swshp",
+            "name": "SWSH Black Star Promos",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+            "name": "Zacian V-UNION Special Collection",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+              "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_1bd40c7ec29059b49ca254ecb26be8f7",
+      "lang": "en",
+      "release": "swshp",
+      "number": "SWSH166",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "af24defb20b8aac7cc35d05a2c0c3daa4143fc132e260f8b3bd8bc101ff57a68.webp",
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+            "https://www.pokemons.dk/product/zacian-v-union-jumbokort/"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:en:swshp",
+            "name": "SWSH Black Star Promos",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+            "name": "Zacian V-UNION Special Collection",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+              "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_4058bff703c556ea93c351b8e341adf3",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH163",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "6d2aa92901ee0d94cf01e5b26b586c9c6809fccb030e99a77184f43c04415468.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+            "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:de:swshp",
+            "name": "SCSC Promokarten",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+            "name": "Spezial-Kollektion Zacian-V-UNION",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+              "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_2ee1b4328e9354bcaf20ae88ae9137ca",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH164",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "90d2a120419ca7ed25dfcdb608d312a12c592a8e9bbdd7dd3184a31c503b0723.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+            "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:de:swshp",
+            "name": "SCSC Promokarten",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+            "name": "Spezial-Kollektion Zacian-V-UNION",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+              "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_42442353f2495d85a2a48b512dbbe20a",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH165",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "0d64f4c4c9ffa8fc40818090b834efddc33ea1c9eb9f5cd96fa9783401573c8d.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+            "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:de:swshp",
+            "name": "SCSC Promokarten",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+            "name": "Spezial-Kollektion Zacian-V-UNION",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+              "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_b7813baad1c45ec7b7fb79bedf1d91e1",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH166",
+      "values": {
+        "art_style": "full_art",
+        "art_style_state": "verified",
+        "art_style_source": {
+          "method": "visual_review_exact_v_union_panel_reference",
+          "image": "4a6ed0c4141cc1e5a8d62926ea4d3d3e8b37e10eab5a1aa8a9730c052a329ac9.webp",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+            "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de"
+          ],
+          "observed_on": "2026-10-28",
+          "note": "Artwork extends across this physical panel. Promo rarity and the independent panel identifier remain unchanged."
+        },
+        "sources": [
+          {
+            "id": "release:de:swshp",
+            "name": "SCSC Promokarten",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+            "name": "Spezial-Kollektion Zacian-V-UNION",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+              "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+              "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+            ],
+            "notes": "Four separately numbered regular cards and one complete oversized composite are five physical card choices.",
+            "release_date": "2021-09-24",
+            "date_precision": "day",
+            "year": 2021,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The actual regional panel reference has artwork across the full card. All four regular cards remain separately collectible and are linked to their verified product."
+    },
+    {
+      "entry_id": "entry_1b6cc2b4d2495301ae5f83d178fd14bc",
+      "lang": "en",
+      "release": "svp",
+      "number": "193",
+      "values": {
+        "sources": [
+          {
+            "id": "release:en:svp",
+            "name": "SVP Black Star Promos",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_5202fdba57185dcd875a6627bd822e3b",
+            "name": "Hop's Zacian ex Box",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+            ],
+            "notes": "Contains the normal foil SVP193 card and a separate oversized foil version.",
+            "release_date": "2025-03-28",
+            "date_precision": "day",
+            "year": 2025,
+            "date_state": "sourced_product",
+            "date_source": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+      ],
+      "evidence": "Native product identifies both normal-size and oversized foil SVP193; the card is associated with that product in both sizes."
+    },
+    {
+      "entry_id": "entry_72bf2190fd145ad6b992202e5a68f50d",
+      "lang": "de",
+      "release": "svp",
+      "number": "193",
+      "values": {
+        "sources": [
+          {
+            "id": "release:de:svp",
+            "name": "SVP Black Star Promos",
+            "state": "catalog_release"
+          },
+          {
+            "id": "research_product_8b3758b1d5c4597d8715a68f2426df52",
+            "name": "Kollektion Hops Zacian-ex",
+            "state": "verified_product",
+            "kind": "box",
+            "links": [
+              "https://www.man-of-games.de/p/pokemon-kollektion-hops-zacian-ex-deutsch",
+              "https://cardsrfun.de/products/hops-zacian-ex-box-de"
+            ],
+            "notes": "Contains the normal foil SVP193 card and a separate oversized foil version.",
+            "release_date": "2025-03-28",
+            "date_precision": "day",
+            "year": 2025,
+            "date_state": "sourced_product",
+            "date_source": "https://www.man-of-games.de/p/pokemon-kollektion-hops-zacian-ex-deutsch"
+          }
+        ]
+      },
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-kollektion-hops-zacian-ex-deutsch",
+        "https://cardsrfun.de/products/hops-zacian-ex-box-de"
+      ],
+      "evidence": "Native product identifies both normal-size and oversized foil SVP193; the card is associated with that product in both sizes."
+    }
+  ],
+  "card_dates": [
+    {
+      "entry_id": "entry_4058bff703c556ea93c351b8e341adf3",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH163",
+      "date": "2021-09-24",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The German manufacturer dates this specific V-UNION collection to 24 September 2021 and identifies four regular cards plus one complete oversized card. This does not use the 2019 start of the promo series."
+    },
+    {
+      "entry_id": "entry_2ee1b4328e9354bcaf20ae88ae9137ca",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH164",
+      "date": "2021-09-24",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The German manufacturer dates this specific V-UNION collection to 24 September 2021 and identifies four regular cards plus one complete oversized card. This does not use the 2019 start of the promo series."
+    },
+    {
+      "entry_id": "entry_42442353f2495d85a2a48b512dbbe20a",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH165",
+      "date": "2021-09-24",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The German manufacturer dates this specific V-UNION collection to 24 September 2021 and identifies four regular cards plus one complete oversized card. This does not use the 2019 start of the promo series."
+    },
+    {
+      "entry_id": "entry_b7813baad1c45ec7b7fb79bedf1d91e1",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH166",
+      "date": "2021-09-24",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "evidence": "The German manufacturer dates this specific V-UNION collection to 24 September 2021 and identifies four regular cards plus one complete oversized card. This does not use the 2019 start of the promo series."
+    },
+    {
+      "entry_id": "entry_32e2661b9f795b5eba480f717a975f20",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH213",
+      "date": "2022-04",
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/135003-Pokemon-Lucario-VSTAR-Premium-Kollektion",
+        "https://cardcollectors.ch/produkt/lucario-vstar-premium-kollektion-de-pokemon-tcg/",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/lucario-vstar-premium-collection"
+      ],
+      "evidence": "Native German product listings corroborate April 2022. German-language regional listings give 22 April while the English manufacturer gives 8 April; month precision is retained instead of transferring the English day. An uncorroborated February catalog timestamp is not treated as a physical launch."
+    },
+    {
+      "entry_id": "entry_7db7f0593fda567aab7c16a68e11e28b",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH214",
+      "date": "2022-04",
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/135003-Pokemon-Lucario-VSTAR-Premium-Kollektion",
+        "https://cardcollectors.ch/produkt/lucario-vstar-premium-kollektion-de-pokemon-tcg/",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/lucario-vstar-premium-collection"
+      ],
+      "evidence": "Native German product listings corroborate April 2022. German-language regional listings give 22 April while the English manufacturer gives 8 April; month precision is retained instead of transferring the English day. An uncorroborated February catalog timestamp is not treated as a physical launch."
+    },
+    {
+      "entry_id": "entry_649411e3721256c0b103048713e283b1",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH291",
+      "date": "2023-01-20",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-zenit-der-koenige",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-tcg-produkte-release-kalender-2023/",
+        "https://www.drachenheld.de/produkt/pokemon-zenit-der-koenige-elite-trainer-box-de/"
+      ],
+      "evidence": "German manufacturer identifies the Lucario-VSTAR ETB promo in Q1 2023; the German product calendar and native sealed-box listing corroborate the 20 January launch."
+    },
+    {
+      "entry_id": "entry_c55e09931e77529aa34399f6f9052c63",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH292",
+      "date": "2023-05-05",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-zenit-der-koenige-schillerndes-zacian-zamazenta",
+        "https://www.wog.ch/fr/index.cfm/details/product/156471-Pokemon-Schwert-Schild-Zenit-der-Koenige-Premium-Figuren-Kollektion-Set-Schillerndes-Zacian-Zamazenta-DE",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-tcg-produkte-release-kalender-2023/"
+      ],
+      "evidence": "German manufacturer gives Q2 2023; the native German-language product release is 5 May 2023, corroborated by the regional product calendar. The two exact shiny promos are SWSH292 and SWSH293."
+    },
+    {
+      "entry_id": "entry_5906361568bf5380b769ed0cd89f72cb",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH293",
+      "date": "2023-05-05",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-kollektion-zenit-der-koenige-schillerndes-zacian-zamazenta",
+        "https://www.wog.ch/fr/index.cfm/details/product/156471-Pokemon-Schwert-Schild-Zenit-der-Koenige-Premium-Figuren-Kollektion-Set-Schillerndes-Zacian-Zamazenta-DE",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-tcg-produkte-release-kalender-2023/"
+      ],
+      "evidence": "German manufacturer gives Q2 2023; the native German-language product release is 5 May 2023, corroborated by the regional product calendar. The two exact shiny promos are SWSH292 and SWSH293."
+    },
+    {
+      "entry_id": "entry_7f021fe17b4251ffa187d330694ec23d",
+      "lang": "de",
+      "release": "svp",
+      "number": "017",
+      "date": "2023-05-05",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/kampfdeck-ampharos-ex-und-lucario-ex/",
+        "https://www.wog.ch/fr/index.cfm/details/product/164730-Pokemon-EX-Kampf-Deck-Set-Ampharos-EX-Lucario-EX-DE",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-tcg-produkte-release-kalender-2023/"
+      ],
+      "evidence": "German manufacturer specifies the Lucario-ex battle deck in Q2 2023; the native German sealed-deck listing and product calendar corroborate 5 May 2023, not the start of the SV promo series."
+    },
+    {
+      "entry_id": "entry_65326fa261025467a0e6a085a924f3a2",
+      "lang": "de",
+      "release": "svp",
+      "number": "103",
+      "date": "2024-04-05",
+      "source_urls": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-sammelkartenspiel-release-kalender-2024/",
+        "https://www.wog.ch/de/index.cfm/details/product/183142-Pokemon-EX-Kampf-Deck-Set-Hundemon-EX-Melmetal-EX-DE"
+      ],
+      "evidence": "Two independent native German product records identify the Hundemon-ex battle deck release as 5 April 2024. No 2023 series-start date is used."
+    },
+    {
+      "entry_id": "entry_435c645b766258e6a7dfad2ff6c067fa",
+      "lang": "de",
+      "release": "svp",
+      "number": "189",
+      "date": "2025-03-28",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-news/pokemon-sammelkartenspiel-produktvorschau-von-karmesin-purpur-reisegefaehrten",
+        "https://pokezentrum.de/blog/alle-pokemon-karmesin-purpur-promokarten-in-der-uebersicht/"
+      ],
+      "evidence": "German manufacturer explicitly launches the Journey Together ETB with its full-art Ns Zorua promo on 28 March 2025. Printed identifier SVP189 is corroborated independently."
+    },
+    {
+      "entry_id": "entry_72bf2190fd145ad6b992202e5a68f50d",
+      "lang": "de",
+      "release": "svp",
+      "number": "193",
+      "date": "2025-03-28",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-kollektion-hops-zacian-ex-deutsch",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-sammelkartenspiel-release-kalender-2025/",
+        "https://kyojin.de/products/pokemon-tcg-hops-zacian-ex-kollektion-de"
+      ],
+      "evidence": "The German original-release date is independently corroborated as 28 March 2025. Later single-shop stock availability is not substituted for the first release. The German product explicitly contains regular and oversized SVP193."
+    },
+    {
+      "entry_id": "entry_d3028e7c07a3593cb7236edda70b4b17",
+      "lang": "de",
+      "release": "svp",
+      "number": "198",
+      "date": "2025-05-16",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/tin-box-schlagkraeftige-legenden",
+        "https://www.man-of-games.de/p/pokemon-schlagkraeftige-legenden-tin-box-deutsch",
+        "https://play-cards.de/products/pokemon-schlagkraftige-legenden-tin-box-zacian-ex-de",
+        "https://www.wog.ch/de/index.cfm/details/product/214993-Pokemon-Schlagkraeftige-Legenden-Tin-Box-Set-Koraidon-EX-Zacian-EX-DE"
+      ],
+      "evidence": "German manufacturer places the specific Zacian-ex tin in Q2 2025. Three native German sealed-product records independently corroborate 16 May 2025 for the exact SVP198 promo, so day precision is accepted without relying on the English release."
+    },
+    {
+      "entry_id": "entry_35a1b27acf7c5be099fe39d6dffdfac9",
+      "lang": "de",
+      "release": "mep",
+      "number": "033",
+      "date": "2026-03-20",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-guardevoir",
+        "https://racoon-rises.com/products/pkm-me02-5-premium-poster-kollektion-erhabene-helden-de",
+        "https://zadoys.ch/products/pokemon-mega-series-erhabene-helden-premium-poster-kollektion-mega-lucario-deutsch"
+      ],
+      "evidence": "The German manufacturer identifies the full-art Mega-Lucario-ex poster promo in Q1 2026. Two native German sealed-product records explicitly date it to 20 March 2026 and match the exact pictured MEP033 card."
+    },
+    {
+      "entry_id": "entry_0e34481cdeab5ff784edf840eb36c7f3",
+      "lang": "en",
+      "release": "mep",
+      "number": "059",
+      "date": "2026-08-07",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+        "https://bulbapedia.bulbagarden.net/wiki/MEP_Black_Star_Promos_(TCG)"
+      ],
+      "evidence": "The manufacturer dates First Partner Illustration Collection Series 3 to 7 August 2026. Its exact Fennekin promo is MEP059. This supersedes the unrelated 2025 beginning of the MEP promo series."
+    },
+    {
+      "entry_id": "entry_51efe6958973554fa36af66430284d80",
+      "lang": "de",
+      "release": "mep",
+      "number": "059",
+      "date": "2026-08-07",
+      "source_urls": [
+        "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3",
+        "https://www.allgames4you.de/pokemon-tcg-erste-partner-kollektion-3",
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+        "https://bulbapedia.bulbagarden.net/wiki/MEP_Black_Star_Promos_(TCG)"
+      ],
+      "evidence": "Two independent native German product listings explicitly date Series 3 to 7 August 2026; the regional Fynx scan prints MEP059. The English manufacturer corroborates the same product/date but is not the sole German-language evidence."
+    },
+    {
+      "entry_id": "entry_a42d051d42795daa8829db47e42f3fe7",
+      "lang": "de",
+      "release": "mep",
+      "number": "080",
+      "date": "2026-05-22",
+      "source_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/top-trainer-box-mega-entwicklung-wachsendes-chaos",
+        "https://www.celestial-gameshop.de/products/pkm-me04-top-trainer-box",
+        "https://lastsold.de/de/sets/mep-black-star-promos/fynx-080"
+      ],
+      "evidence": "German manufacturer identifies the full-art Fynx ETB promo in Q2 2026; the native sealed-box product date is 22 May 2026. The exact scan is Fynx MEP080, not Fennexis; a secondary article name error is not propagated."
+    },
+    {
+      "entry_id": "entry_7e6b893139005887a422160454f38579",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH135",
+      "date": "2021-10-08",
+      "source_urls": [
+        "https://innventory.de/produkt/celebrations-deluxe-pin-kollektion-25th-anniversary-de/",
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/2021",
+        "https://lastsold.de/de/sets/celebrations"
+      ],
+      "evidence": "The native German Deluxe Pin collection explicitly releases Zacian LV.X on 8 October 2021; the manufacturers 2021 product index corroborates the product. This is separate from the 2019 promo-series reference."
+    },
+    {
+      "entry_id": "entry_8bec2c37f53553a083449cc43f28151b",
+      "lang": "de",
+      "release": "svp",
+      "number": "069",
+      "date": "2024-01-26",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-paldeas-schicksale-karmesin-und-purpur-4-5-tech-sticker-kollektion-deutsch",
+        "https://tcg-24.de/produkt/pokemon-karmesin-purpur-paldeas-schicksale/",
+        "https://www.bisafans.de/sammelkarten/sets/sv/paldeas-schicksale/"
+      ],
+      "evidence": "Two native German sealed-product listings and the localized product checklist corroborate the 26 January 2024 Tech Sticker collection. Its exact shiny promos are Hefel SVP069, Gruff SVP070 and Mobtiff SVP071."
+    },
+    {
+      "entry_id": "entry_e49ffa6468b156d7935aaae128f74cfd",
+      "lang": "de",
+      "release": "svp",
+      "number": "070",
+      "date": "2024-01-26",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-paldeas-schicksale-karmesin-und-purpur-4-5-tech-sticker-kollektion-deutsch",
+        "https://tcg-24.de/produkt/pokemon-karmesin-purpur-paldeas-schicksale/",
+        "https://www.bisafans.de/sammelkarten/sets/sv/paldeas-schicksale/"
+      ],
+      "evidence": "Two native German sealed-product listings and the localized product checklist corroborate the 26 January 2024 Tech Sticker collection. Its exact shiny promos are Hefel SVP069, Gruff SVP070 and Mobtiff SVP071."
+    },
+    {
+      "entry_id": "entry_f7960fb91d665fafa671e8048aaf5b74",
+      "lang": "de",
+      "release": "svp",
+      "number": "071",
+      "date": "2024-01-26",
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-paldeas-schicksale-karmesin-und-purpur-4-5-tech-sticker-kollektion-deutsch",
+        "https://tcg-24.de/produkt/pokemon-karmesin-purpur-paldeas-schicksale/",
+        "https://www.bisafans.de/sammelkarten/sets/sv/paldeas-schicksale/"
+      ],
+      "evidence": "Two native German sealed-product listings and the localized product checklist corroborate the 26 January 2024 Tech Sticker collection. Its exact shiny promos are Hefel SVP069, Gruff SVP070 and Mobtiff SVP071."
+    }
+  ],
+  "printings": [
+    {
+      "entry_id": "entry_1b6cc2b4d2495301ae5f83d178fd14bc",
+      "lang": "en",
+      "release": "svp",
+      "number": "193",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Hop's Zacian ex Box",
+        "release_date": "2025-03-28",
+        "source_url": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+      ],
+      "evidence": "The specific native product explicitly includes an oversized foil Hops/Hop's Zacian-ex SVP193, independently from the normal foil card."
+    },
+    {
+      "entry_id": "entry_72bf2190fd145ad6b992202e5a68f50d",
+      "lang": "de",
+      "release": "svp",
+      "number": "193",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "not_applicable",
+        "size": "oversized",
+        "product_name": "Kollektion Hops Zacian-ex",
+        "release_date": "2025-03-28",
+        "source_url": "https://www.man-of-games.de/p/pokemon-kollektion-hops-zacian-ex-deutsch"
+      },
+      "source_urls": [
+        "https://www.man-of-games.de/p/pokemon-kollektion-hops-zacian-ex-deutsch",
+        "https://cardsrfun.de/products/hops-zacian-ex-box-de"
+      ],
+      "evidence": "The specific native product explicitly includes an oversized foil Hops/Hop's Zacian-ex SVP193, independently from the normal foil card."
+    }
+  ],
+  "printing_updates": [
+    {
+      "entry_id": "entry_7db7f0593fda567aab7c16a68e11e28b",
+      "lang": "de",
+      "release": "swshp",
+      "number": "SWSH214",
+      "printing_id": "research_printing_d896362632295e3ea004cf9c13785e31",
+      "values": {
+        "release_date": "2022-04",
+        "date_precision": "month",
+        "year": 2022,
+        "date_state": "sourced_product",
+        "date_source": "https://www.wog.ch/de/index.cfm/details/product/135003-Pokemon-Lucario-VSTAR-Premium-Kollektion"
+      },
+      "source_urls": [
+        "https://www.wog.ch/de/index.cfm/details/product/135003-Pokemon-Lucario-VSTAR-Premium-Kollektion",
+        "https://cardcollectors.ch/produkt/lucario-vstar-premium-kollektion-de-pokemon-tcg/",
+        "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/lucario-vstar-premium-collection"
+      ],
+      "evidence": "Native German product listings corroborate April 2022. German-language regional listings give 22 April while the English manufacturer gives 8 April; month precision is retained instead of transferring the English day. An uncorroborated February catalog timestamp is not treated as a physical launch."
+    }
+  ],
+  "holds": []
+}

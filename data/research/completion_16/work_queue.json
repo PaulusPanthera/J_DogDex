@@ -1,0 +1,2912 @@
+{
+  "revision": "1.6.0",
+  "items": [
+    {
+      "kind": "artwork",
+      "entry_id": "entry_fa95ec34bc5b5baca0fa120b95ac8332",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_e67aa6dbf9045b6c8adf8882bcf4d765",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_59dfe768d8bd54a5a2b42c08c88dc231",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_884c879c222c547ebbc8e4a0690990d4",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_c9b09b2d4e70551fa2555c0cbea6a600",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_67f07ef84a6c5e2380372ff3dc1dead2",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_5b9ea342b4c755d9b22137a4bd64a8b8",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_b1ae4b8fbc1b5c46921b0a99d2b63ece",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_9a987c0dd82f5cbfbb7ba99347d11e07",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_50f9bf4e7a63503a9c5275b065058414",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_4798f13c0cda59e288221526a57def7f",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_19f942646a1652d6a1b4231833928501",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_b28da62f0df15585ac298d0ac00193b4",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_eb26422902ec53a2b59c14b4e241c7ec",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_34143c8ec09854d786b7128860bbf99b",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_20341734d7195a57981bd573aa9c7ab8",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_b2610f4d46f7504baef97d5af72876a1",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_853019fea53554769a31f91426aa5593",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_3dfeede41e355e478682e0374b5feea8",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_0e3c560b740059d5bd91d28f51a6dc68",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_3748d0c51d0c588ba9734984e3638016",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_659d5209931056e59ea6114b5c46b4a6",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_97c1739b9c9750328349e90dc6b808ae",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_964df8aa77eb507e923198589efdc655",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_9cf0592c8f7c5580addc0744800b126f",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_f048d1a065ab5d58b60f608d175f2f62",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_500f887552965e35bbebc3982beb6c21",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "entry_86736a210a9a5f8baa474548473ac40b",
+      "printing_id": "variant_67b68f67a25859de889ecb3d9e5c20f9",
+      "status": "disputed",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_37c96b23ce5157939d1914ac5fd1948f",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_3cb9429418f855758d5ded5298e2fca4",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_c59e25968321585c8c9a7c4a58d642df",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_c6a285b633935256bb47855b29752e51",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_e634c6a4c1ba502989d7ee451b821b5e",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_b84820fe73fe5308ad28e783bf8a9cec",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "printing_id": "variant_f5167b8be1545ab7afe1345e2a4d6cc3",
+      "status": "disputed",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_efadb93c5c84578d909f00d2afe1b792",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "entry_e27713fdcd665ae28ad189d5b484c7b8",
+      "status": "announced",
+      "priority": 1,
+      "reason": "Previously sourced November 2026 product. Date and numbering claims from other providers remain attached.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-c-028"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_e27713fdcd665ae28ad189d5b484c7b8",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_7cc51911ac1f57e987af2f7a3f688b3f",
+      "claim_id": "research_claim_7185cee8d0355f039f9f6f65a55e5297",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/brocks-vulpix-37-132-top-deck-magazine-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_d99f7a74f1e35823b7b0eb282364c38a",
+      "claim_id": "research_claim_7bda52bfa90955d9a32e597f14dc6bfd",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/wrong-set-symbol-vulpix-87-123-emerging-powers-blisters-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_7b229f775e7754d29472ac443806e753",
+      "claim_id": "research_claim_fdbc1d40035b5155ba17a2b69ac33afd",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/snowflake-stamp-alolan-vulpix-v-033-195-silver-snowflake-stamp-holiday-calendar-2023-exclusive-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_8118b2a34b1359449fbebb83e8d28949",
+      "claim_id": "research_claim_56c585768d4b59c89e82a4b9e9fcacd2",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/cinderace-13-stamp-vulpix-029-264-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_8118b2a34b1359449fbebb83e8d28949",
+      "claim_id": "research_claim_4e43a7ab9b8a531db09184ea06be255d",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/cinderace-18-stamp-vulpix-029-264-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_8118b2a34b1359449fbebb83e8d28949",
+      "claim_id": "research_claim_eb0da8efbbfc5e4a8924223c2dc57e8f",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/cinderace-31-stamp-vulpix-029-264-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_b864b147ce5d56f3adbe3f13d200f9f3",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_850e207fb6cc51fb90ccccec07bd559a",
+      "claim_id": "research_claim_3cd01fb696e454499d8fd918d9a651af",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/cracked-ice-ninetales-7-123-emerging-powers-blisters-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_d3b1c6266b095fa4b5935ae10c28a124",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_bd49871d31c8588a9065ac50f69ec177",
+      "claim_id": "research_claim_3ee3bf7eaa3f50b2b5aca53aac2590ad",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/alolan-ninetales-sm128-english-promo/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_05e36913a9b65b708245c2fbdc5c5b92",
+      "claim_id": "research_claim_b9106591f93e51eba62db4f0b09d4aa9",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/cinderace-7-stamp-ninetales-030-264-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_05e36913a9b65b708245c2fbdc5c5b92",
+      "claim_id": "research_claim_7a1ca491a30d577383aac02e27820db7",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/cinderace-23-stamp-ninetales-030-264-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_f0b90ee9278252f7b1f5e015515cbc85",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_207494cf4b975d45b27db40df7c6805e",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_695d4e077d4d5c10aff68c3048e14275",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+      "claim_id": "research_claim_cb19c61858a05313bfa80e3a65c8f218",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/arcanine-6-wizards-black-star-english-promo/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_ba6f6f5f3ed05d7ba7926a1c5418ee35",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_52c6bc1c3adb5293a938015bceda429e",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_0d0687d68c1c54ceadcccd88e4fc184b",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_86a43e5a38225f1abec1068ddefd61be",
+      "claim_id": "research_claim_b4243252541858029af55e54c7d24ed7",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/stamped-snubbull-sm200-english-promo/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_9791b59503a95d41b6326d0f50c8631c",
+      "claim_id": "research_claim_4a9f04f806935713991a7c511992b978",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/smeargle-32-wizards-black-star-english-promo/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_995e7b0198ac59b09c13f63968aae7fb",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_e38ceee3aeea553b806a4fb6f05597e3",
+      "claim_id": "research_claim_d7297883112a55fcb127f138d37fa57c",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/eevee-stamp-galarian-zigzagoon-035-073-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_d698e7b760a050adb1e8ec549a47abde",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "printing_id": "variant_b1b17a4dc6375ce482e9a4ee303f45bd",
+      "status": "disputed",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_a1eab2b0cd475313ad383d1192f67e0c",
+      "claim_id": "research_claim_0886a4ba68165469b7418f5213f5620b",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/eevee-stamp-zorua-170-264-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_c79519798cdb5ce1bef47823b4dbff83",
+      "claim_id": "research_claim_25fbf6435420534d957e21a09f4ed940",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/eevee-stamp-zoroark-171-264-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_5d640f07280e5a65a11f2235d6d2829c",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_6e8f40db5a2d576bbc2c3825dc80ca57",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_9e76b95eb14a5b4bbe791bbf4c3f2890",
+      "claim_id": "research_claim_1112defd7e8f59248144f57a4e658b66",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Fennekin_(XY_Promo_2)"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_d5a167ef1a085a05a11d9e8fddcd9c1c",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_3d07ed070f355151b218be01858ce2b1",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_1102289ddce35ac48f9bb86a380505b4",
+      "claim_id": "research_claim_26f6d57f020b5826a064247afbcc54b9",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/pikachu-58-stamp-yamper-074-202-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_1102289ddce35ac48f9bb86a380505b4",
+      "claim_id": "research_claim_ddb0fdd2eda259aa9b701aa9bb39a1b2",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/pikachu-1-stamp-yamper-074-202-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_ee420e256eef501d95b0361f896e2376",
+      "claim_id": "research_claim_073059aaaf2955bab5c0312ed2c0a9e0",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/pikachu-16-stamp-boltund-076-202-battle-academy-special-print/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "entry_7505c0d299d857cca8a88eaa81a74542",
+      "status": "announced",
+      "priority": 1,
+      "reason": "Previously sourced November 2026 product. Date and numbering claims from other providers remain attached.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/30th-c-028"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_7505c0d299d857cca8a88eaa81a74542",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "printing_claim",
+      "entry_id": "entry_389d3e08d2f55fcd90f9c2b3b14d6309",
+      "claim_id": "research_claim_659b92f3706e5458b3d001501ff3b18b",
+      "status": "provisional",
+      "priority": 2,
+      "source_urls": [
+        "https://pokumon.com/card/zacian-lv-x-swsh135-english-promo/"
+      ],
+      "next_action": "Resolve the incomplete physical tuple against exact product evidence."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_acd5a3c47da353f8bb1a335ca63c19b3",
+      "status": "disputed",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_304bf3da304c59ccba41ad4315915387",
+      "status": "disputed",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_594c67ca01ea5b96a89c3cfcde2a130c",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_0c2d6355f1a15563aa498cdf2c2c8d4f",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_1ba8ba27ae175bb0a57fa981ddabf880",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_366b04bc74895458acfcf4cff64d302f",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "entry_c17f6834ab07585f828e6bd2b0ee8f55",
+      "printing_id": "research_printing_195eba5bb35c513fbef052bec1b7ba7d",
+      "status": "excluded",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_c17f6834ab07585f828e6bd2b0ee8f55",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "entry_f932e9d4ab51509fa5146d7e607de0b9",
+      "printing_id": "research_printing_0481c97458bf514f9a35ea369503c5d2",
+      "status": "excluded",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "entry_f932e9d4ab51509fa5146d7e607de0b9",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "unsubstantiated_regional_identity",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy6-77a"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "held_physical_target",
+      "entry_id": "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d",
+      "printing_id": "research_printing_ca6bf9c2f9645d3fa5d810bd5de1f4c5",
+      "status": "provisional",
+      "priority": 1,
+      "next_action": "Resolve recorded conflict; ownership and target ID remain preserved."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "source_urls": [
+        "https://cardcameos.com/vulpix-cameo-cards/"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_7b80732811815ba08c7f138a090657a7",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "source_urls": [
+        "https://cardcameos.com/zacian-cameo-cards/"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_7b80732811815ba08c7f138a090657a7",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "source_urls": [
+        "https://cardcameos.com/fidough-cameo-cards/"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_85be849b2caf51e2b77b1ee2e1ed226e",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "source_urls": [
+        "https://cardcameos.com/zamazenta-cameo-cards/"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_85be849b2caf51e2b77b1ee2e1ed226e",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_636833ca2868541f84db3c2d0a8d3992",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "source_urls": [
+        "https://cardcameos.com/mabosstiff-cameo-cards/"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_636833ca2868541f84db3c2d0a8d3992",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_3f8e0d2a429055a2946c7ef67ec94e54",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Vulpix_%28TCG%29",
+        "https://www.pokewiki.de/Vulpix_(Protoschock_20)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2016_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_3f8e0d2a429055a2946c7ef67ec94e54",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_d220ebe5aae45f558d9ca0321dc0b3ec",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Vulnona_%28TCG%29",
+        "https://www.pokewiki.de/Vulnona_(Hoheit_der_Drachen_19)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_d220ebe5aae45f558d9ca0321dc0b3ec",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_bafc942cfd7d554781f4474ecd208e15",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Fukano_%28TCG%29",
+        "https://www.pokewiki.de/Fukano_(Sonne_%26_Mond_21)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Collection_2018_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_bafc942cfd7d554781f4474ecd208e15",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_ef1237260dae59a18f74cd7b0fa9638d",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Arkani_%28TCG%29",
+        "https://www.pokewiki.de/Arkani-TURBO_(XY_Black_Star_Promos_XY180)",
+        "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_ef1237260dae59a18f74cd7b0fa9638d",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_f5a857252e955769b3a47d2c06ccc47c",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Arkani_%28TCG%29",
+        "https://www.pokewiki.de/Arkani_(SWSH_Black_Star_Promos_SWSH304)",
+        "https://www.pokewiki.de/SWSH_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_f5a857252e955769b3a47d2c06ccc47c",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_24fbd6f710315aac817797ee93e82b4e",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Riolu_%28TCG%29",
+        "https://www.pokewiki.de/Riolu_(BW_Black_Star_Promos_BW33)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_24fbd6f710315aac817797ee93e82b4e",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_4a71b31de6dc5c65992e23b1449b00ca",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Lucario_%28TCG%29",
+        "https://www.pokewiki.de/Lucario_(BW_Black_Star_Promos_BW85)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_4a71b31de6dc5c65992e23b1449b00ca",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_cb44b481b9cb52db95b253e305724696",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Lucario_%28TCG%29",
+        "https://www.pokewiki.de/Lucario_(XY_Black_Star_Promos_XY140)",
+        "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_cb44b481b9cb52db95b253e305724696",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_4de636b358535a598fa69a6bac591e68",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Yorkleff_%28TCG%29",
+        "https://www.pokewiki.de/Yorkleff_(BW_Black_Star_Promos_BW52)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_4de636b358535a598fa69a6bac591e68",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_a413f18b79845a6cb2ab99833c2363dd",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Zorua_%28TCG%29",
+        "https://www.pokewiki.de/Zorua_(BW_Black_Star_Promos_BW12)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_a413f18b79845a6cb2ab99833c2363dd",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_a2580f981b0254778358064e74e4792e",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Zoroark_%28TCG%29",
+        "https://www.pokewiki.de/Zoroark_(Schwarz_%26_Wei%C3%9F_71)",
+        "https://www.pokewiki.de/BW_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_a2580f981b0254778358064e74e4792e",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_f76e6526303457be969f4175980a5ce5",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Fynx_%28TCG%29",
+        "https://www.pokewiki.de/Fynx_(XY_24)",
+        "https://www.pokewiki.de/McDonald%E2%80%99s_Kollektion_2016_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_f76e6526303457be969f4175980a5ce5",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_10b4700e29a65fe2b794e3774c111c92",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "German-named inventory claim; German physical availability remains unconfirmed.",
+      "source_urls": [
+        "https://www.pokewiki.de/Rutena_%28TCG%29",
+        "https://www.pokewiki.de/Rutena_(Schicksalsschmiede_12)",
+        "https://www.pokewiki.de/XY_Black_Star_Promos_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_10b4700e29a65fe2b794e3774c111c92",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_4a92b14594d05a548833e1de331be5f2",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-148",
+        "https://api.tcgdex.net/v2/en/cards/30th-148",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/716230/pokemon-me-30th-celebration-greninja-ex-148-128"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_4a92b14594d05a548833e1de331be5f2",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/30th-150",
+        "https://api.tcgdex.net/v2/en/cards/30th-150",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/umbreon",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_0377a9da189e5a47899b3970dd75cd83",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_bc9ad67469cc54b8a32a4e4996993dfd",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_a2bc44934a715e149d79219b9634c629",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/dp7-89",
+        "https://api.tcgdex.net/v2/en/cards/dp7-89",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/88196/pokemon-stormfront-poke-drawer-plus",
+        "https://bulbapedia.bulbagarden.net/wiki/Stallgon_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_a2bc44934a715e149d79219b9634c629",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_610e04d8be0e527780275779bdccc9bc",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/dp7-93",
+        "https://api.tcgdex.net/v2/en/cards/dp7-93",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/89717/pokemon-stormfront-switch"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_610e04d8be0e527780275779bdccc9bc",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_e922d4b025dc594a97fb114b6428bcf5",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/ecard2-130",
+        "https://api.tcgdex.net/v2/en/cards/ecard2-130",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.tcgplayer.com/product/88225/pokemon-aquapolis-pokemon-fan-club",
+        "https://bulbapedia.bulbagarden.net/wiki/Rocky_Beach_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/World_Championships_Deck_(TCG)"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_e922d4b025dc594a97fb114b6428bcf5",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_eb7e6dc8903e5d248ad1ba06b6cd548b",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sm3.5-63",
+        "https://api.tcgdex.net/v2/en/cards/sm3.5-63",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.tcgplayer.com/product/146730/pokemon-shining-legends-pokemon-breeder"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_eb7e6dc8903e5d248ad1ba06b6cd548b",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_6d507b452f83550da033630d88cc5ae8",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/smp-SM231",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM231",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/198360/pokemon-sm-promos-champions-festival-sm231-world-championships-2019"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_6d507b452f83550da033630d88cc5ae8",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_2fbf020e2b8d52e0a37fbc4cfc175e61",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_93b81371d37a5825a361840e460ced8e",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_63d2e8fcbbe05232bdd146cc79d02036",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_0972f216bd63591d99cae898a5b09d49",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_af495dd79d995a4bba93f8ae3d2dc136",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_c9b1cdc3eb305ba9b4d9c7712021bb02",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_5ff54575ee3b5459914e1be7e73ffd50",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_333364e479605825a9d824578166ecfa",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_16133481ecb45c28b8b986fb4de3f037",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_61848525477f56ed962a688eeb6070c9",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_6811e46bfca856f09ed6457637c452a0",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh3-195",
+        "https://api.tcgdex.net/v2/en/cards/swsh3-195",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.tcgplayer.com/product/219314/pokemon-swsh03-darkness-ablaze-pokemon-breeders-nurturing-secret"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_6811e46bfca856f09ed6457637c452a0",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_fc0acabd78525487a175aea46f42adf6",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swsh8-274",
+        "https://api.tcgdex.net/v2/en/cards/swsh8-274",
+        "https://pokecameos.com/pokemon/boltund",
+        "https://www.tcgplayer.com/product/253272/pokemon-swsh08-fusion-strike-dancer-secret"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_fc0acabd78525487a175aea46f42adf6",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_9685f8fd1214511cb5299462fd58f691",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH116",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH116",
+        "https://pokecameos.com/pokemon/nickit",
+        "https://www.tcgplayer.com/product/241881/pokemon-swsh-sword-and-shield-promo-cards-morpeko-swsh116"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_9685f8fd1214511cb5299462fd58f691",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_fbd6236eef8e52f3afcf509a7820f10b",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH244",
+        "https://api.tcgdex.net/v2/en/cards/swshp-SWSH244",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.tcgplayer.com/product/285264/pokemon-swsh-sword-and-shield-promo-cards-scorbunny-swsh244-cosmos-holo"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_fbd6236eef8e52f3afcf509a7820f10b",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_5688787b75e6586db58becc45ad4d108",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy9-98a",
+        "https://api.tcgdex.net/v2/en/cards/xy9-98a",
+        "https://pokecameos.com/pokemon/poochyena",
+        "https://www.tcgplayer.com/product/177167/pokemon-alternate-art-promos-delinquent-98a-122"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_5688787b75e6586db58becc45ad4d108",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_755ea5587df959aa8fa47faf25747766",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy9-98b",
+        "https://api.tcgdex.net/v2/en/cards/xy9-98b",
+        "https://pokecameos.com/pokemon/mightyena",
+        "https://www.tcgplayer.com/product/148341/pokemon-alternate-art-promos-delinquent-98b-122-full-art"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_755ea5587df959aa8fa47faf25747766",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_e036ccf2ce4756638ba0181d7b855bf5",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_b8c712a17fe7576b80f203d26eac1f02",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Actual German provider identity plus external artwork appearance claim; localized artwork/finish remain provisional.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/mep-053"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_b8c712a17fe7576b80f203d26eac1f02",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_6105db94dbb35e6fac24037d70c8a217",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Actual German provider identity plus external artwork appearance claim; localized artwork/finish remain provisional.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/mep-052"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_6105db94dbb35e6fac24037d70c8a217",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "identity_or_availability",
+      "entry_id": "research_entry_a860ab767d7f5ad6adb2244328833d78",
+      "status": "provisional",
+      "priority": 1,
+      "reason": "Actual German provider identity plus external artwork appearance claim; localized artwork/finish remain provisional.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me05-098"
+      ],
+      "next_action": "Add exact native/product evidence and promote this same ID; do not create a duplicate."
+    },
+    {
+      "kind": "artwork",
+      "entry_id": "research_entry_a860ab767d7f5ad6adb2244328833d78",
+      "status": "missing_picture_or_layout_ambiguous",
+      "priority": 3,
+      "next_action": "Use exact card face; do not infer Standard from rarity or an absent Full Art list."
+    },
+    {
+      "kind": "marketplace_batch",
+      "priority": 2,
+      "status": "blocked_missing_exact_metadata",
+      "candidate_count": 923,
+      "evidence": "marketplace_reconciliation.json",
+      "next_action": "Use exact marketplace listings/expansion metadata when accessible; do not repeat name-only checks."
+    },
+    {
+      "id": "field-conflict:0",
+      "priority": 2,
+      "kind": "german_launch_precision",
+      "lang": "de",
+      "release": "ecard3",
+      "state": "period_known_exact_date_unresolved",
+      "period": "Winter 2003/2004",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/e-card/skyridge.php"
+      ],
+      "next_action": "Find contemporary German distributor/manufacturer announcement before narrowing the date.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "field-conflict:1",
+      "priority": 2,
+      "kind": "german_launch_precision",
+      "lang": "de",
+      "release": "ex6",
+      "state": "period_known_exact_date_unresolved",
+      "period": "2004/2005",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-feuerrot-blattgruen.php"
+      ],
+      "next_action": "Find contemporary German distributor/manufacturer announcement before narrowing the date.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "field-conflict:2",
+      "priority": 2,
+      "kind": "german_launch_precision",
+      "lang": "de",
+      "release": "ex14",
+      "state": "period_known_exact_date_unresolved",
+      "period": "2006/2007",
+      "source_urls": [
+        "https://www.bisafans.de/sammelkarten/sets/ex/ex-crystal-guardians.php"
+      ],
+      "next_action": "Find contemporary German distributor/manufacturer announcement before narrowing the date.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "field-conflict:3",
+      "priority": 2,
+      "kind": "promo_product_date",
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "state": "year_known_month_unresolved",
+      "next_action": "Find contemporary regional Lucario Collector’s Tin launch announcement.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "field-conflict:4",
+      "priority": 2,
+      "kind": "promo_product_date",
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "state": "year_known_month_unresolved",
+      "next_action": "Find contemporary regional Lucario Collector’s Tin launch announcement.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "field-conflict:5",
+      "priority": 2,
+      "kind": "launch_month_dispute",
+      "entry_id": "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+      "state": "year_known_month_conflict",
+      "next_action": "Review original February 2000 WotC chat and League Season 4 announcement.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-font:entry_80ed9e2afa3a5ae9bb0e3b3428c598b6",
+      "priority": 2,
+      "status": "unresolved_extraction_symbol",
+      "kind": "publisher_name_conflict",
+      "entry_id": "entry_80ed9e2afa3a5ae9bb0e3b3428c598b6",
+      "publisher": {
+        "number": "8",
+        "name": "Lucario",
+        "rarity_symbol": "★\tH",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": []
+      },
+      "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/pl2_web_cardlist_de.pdf",
+      "next_action": "SP/LV.X symbols may be vector artwork omitted by text extraction; review exact printed card before changing its identity.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-font:entry_a644c1323e67549dbf1ed1d6ced72e32",
+      "priority": 2,
+      "status": "unresolved_extraction_symbol",
+      "kind": "publisher_name_conflict",
+      "entry_id": "entry_a644c1323e67549dbf1ed1d6ced72e32",
+      "publisher": {
+        "number": "50",
+        "name": "Houndoom",
+        "rarity_symbol": "◆",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": []
+      },
+      "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pl1_web_cardlist_en.pdf",
+      "next_action": "SP/LV.X symbols may be vector artwork omitted by text extraction; review exact printed card before changing its identity.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-font:entry_813c8b12dfa256449f4482fd967694ec",
+      "priority": 2,
+      "status": "unresolved_extraction_symbol",
+      "kind": "publisher_name_conflict",
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "publisher": {
+        "number": "8",
+        "name": "Lucario",
+        "rarity_symbol": "★H",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": []
+      },
+      "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pl2_web_cardlist_en.pdf",
+      "next_action": "SP/LV.X symbols may be vector artwork omitted by text extraction; review exact printed card before changing its identity.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-font:entry_e1a331b6d98f502aa4ea21a6042a8b6d",
+      "priority": 2,
+      "status": "unresolved_extraction_symbol",
+      "kind": "publisher_name_conflict",
+      "entry_id": "entry_e1a331b6d98f502aa4ea21a6042a8b6d",
+      "publisher": {
+        "number": "65",
+        "name": "Houndoom",
+        "rarity_symbol": "●",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": []
+      },
+      "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pl2_web_cardlist_en.pdf",
+      "next_action": "SP/LV.X symbols may be vector artwork omitted by text extraction; review exact printed card before changing its identity.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-font:entry_692759efb6b15aab9e7b8d1bd7cdfa89",
+      "priority": 2,
+      "status": "unresolved_extraction_symbol",
+      "kind": "publisher_name_conflict",
+      "entry_id": "entry_692759efb6b15aab9e7b8d1bd7cdfa89",
+      "publisher": {
+        "number": "15",
+        "name": "Arcanine",
+        "rarity_symbol": "★",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": []
+      },
+      "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pl3_web_cardlist_en.pdf",
+      "next_action": "SP/LV.X symbols may be vector artwork omitted by text extraction; review exact printed card before changing its identity.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-font:entry_a38e26e56df059f1804d522144e5c924",
+      "priority": 2,
+      "status": "unresolved_extraction_symbol",
+      "kind": "publisher_name_conflict",
+      "entry_id": "entry_a38e26e56df059f1804d522144e5c924",
+      "publisher": {
+        "number": "31",
+        "name": "Lucario",
+        "rarity_symbol": "★",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": []
+      },
+      "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pl3_web_cardlist_en.pdf",
+      "next_action": "SP/LV.X symbols may be vector artwork omitted by text extraction; review exact printed card before changing its identity.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-font:entry_9395f1e55bde5f6b985acb513c3a6955",
+      "priority": 2,
+      "status": "unresolved_extraction_symbol",
+      "kind": "publisher_name_conflict",
+      "entry_id": "entry_9395f1e55bde5f6b985acb513c3a6955",
+      "publisher": {
+        "number": "66",
+        "name": "Manectric",
+        "rarity_symbol": "◆",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": []
+      },
+      "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pl3_web_cardlist_en.pdf",
+      "next_action": "SP/LV.X symbols may be vector artwork omitted by text extraction; review exact printed card before changing its identity.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:me01",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "me01",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/meg_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:me02",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "me02",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/pfl_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:me02.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "me02.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/asc_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:me03",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "me03",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/por_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:me04",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "me04",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/cri_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:me05",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "me05",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/pbl_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sm3.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sm3.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm35_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv04.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv04.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/paf_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv05",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv05",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/tef_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv06",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv06",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/twm_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv06.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv06.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sfa_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv07",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv07",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/scr_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv08",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv08",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/ssp_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv08.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv08.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/pre_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv09",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv09",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/jtg_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv10",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv10",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/dri_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:sv10.5w",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "sv10.5w",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/wht_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:de:swsh10.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "de",
+      "release": "swsh10.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh105_web_cardlist_de.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:me01",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "me01",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/meg_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:me02",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "me02",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pfl_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:me02.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "me02.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/asc_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:me03",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "me03",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/por_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:me04",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "me04",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/cri_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:me05",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "me05",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pbl_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv04.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv04.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/paf_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv05",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv05",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/tef_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv06",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv06",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/twm_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv06.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv06.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sfa_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv07",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv07",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/scr_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv08",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv08",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/ssp_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv08.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv08.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pre_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv09",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv09",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/jtg_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv10",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv10",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/dri_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:sv10.5w",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "sv10.5w",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/wht_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "publisher-access:en:swsh10.5",
+      "priority": 2,
+      "kind": "source_access",
+      "status": "blocked_or_unavailable",
+      "lang": "en",
+      "release": "swsh10.5",
+      "source_urls": [
+        "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/swsh105_web_cardlist_en.pdf"
+      ],
+      "blocker": "HTTP Error 404: Not Found",
+      "next_action": "Find a published successor checklist URL or contemporary primary product page. Do not retry an access wall.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "carddex-access:ex14",
+      "kind": "source_access",
+      "priority": 2,
+      "lang": "de",
+      "release": "ex14",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=167"
+      ],
+      "blocker": "HTTP Error 503: Service Unavailable",
+      "next_action": "Use existing publisher evidence; revisit native inventory only when a usable published source is available.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "carddex-access:ex15",
+      "kind": "source_access",
+      "priority": 2,
+      "lang": "de",
+      "release": "ex15",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=169"
+      ],
+      "blocker": "HTTP Error 503: Service Unavailable",
+      "next_action": "Use existing publisher evidence; revisit native inventory only when a usable published source is available.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "id": "carddex-access:ex16",
+      "kind": "source_access",
+      "priority": 2,
+      "lang": "de",
+      "release": "ex16",
+      "source_urls": [
+        "https://www.carddex.net/index.php?page=DB_SERIE&suche=171"
+      ],
+      "blocker": "HTTP Error 503: Service Unavailable",
+      "next_action": "Use existing publisher evidence; revisit native inventory only when a usable published source is available.",
+      "carried_from": "reconciliation_15"
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_9565fae5b22758b59794b3f8c43acca9",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_4313853c5a555d1ea19ab5d58b6bfd37",
+      "period": "2004/2005",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_f7ae878d35645a738edc581b9ec84478",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_7c04176245e555e592e0ec08210149bc",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_616a7e701a9b530a9f9f9be953eae532",
+      "period": "2004/2005",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_e23b350c47085f22a3f58537515bc532",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_1bde6e0dc5b352c8aa2d9e05f64f8f27",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_a65d32ed4991539ca2dadd4369b53315",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_2d7796a8c246501fb8eb8c129470e693",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_9d18c7f9feaf5c1f934e931a8f152cbe",
+      "period": "Winter 2003/2004",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "entry_3748d0c51d0c588ba9734984e3638016",
+      "value": "2004-07-01",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_8e57e543862058189625720df61019a0",
+      "period": "2006/2007",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "entry_f048d1a065ab5d58b60f608d175f2f62",
+      "value": "2004-07-01",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_2092959929465c96bcd9317eab42c387",
+      "period": "2006/2007",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "foil_rarity_nonholo_candidate",
+      "entry_id": "entry_86736a210a9a5f8baa474548473ac40b",
+      "printing_id": "variant_67b68f67a25859de889ecb3d9e5c20f9",
+      "state": "product_exception_requires_own_evidence",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "entry_c6a285b633935256bb47855b29752e51",
+      "value": "2007-09-01",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "entry_9c4fd306fb775acb8f9cc99987bad265",
+      "value": "2008-09-01",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "entry_5e5e06d8ed19518ca2d640dbd3bca5de",
+      "value": "2007-09-01",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "entry_b1a0a93dc4f65d02b31eb418211b8186",
+      "value": "2008-09-01",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_49cb5cd764cd54bfa4f5f4254be0d5cf",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_b94a845b11365a11b6f24c89e5485ad0",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "foil_rarity_nonholo_candidate",
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "printing_id": "variant_f5167b8be1545ab7afe1345e2a4d6cc3",
+      "state": "product_exception_requires_own_evidence",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_207f6f68b6445256ac6e78676a2a4f6e",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_37b3ad805ba251f897acf279bc0d327a",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "foil_rarity_nonholo_candidate",
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "printing_id": "variant_b1b17a4dc6375ce482e9a4ee303f45bd",
+      "state": "product_exception_requires_own_evidence",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "foil_rarity_nonholo_candidate",
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_acd5a3c47da353f8bb1a335ca63c19b3",
+      "state": "product_exception_requires_own_evidence",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "foil_rarity_nonholo_candidate",
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_304bf3da304c59ccba41ad4315915387",
+      "state": "product_exception_requires_own_evidence",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_c17f6834ab07585f828e6bd2b0ee8f55",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "entry_f932e9d4ab51509fa5146d7e607de0b9",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_f4f6587f7e5e51d4a7e78f6bd2b9165d",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_767b71dae81352f69c96e3ce265764c1",
+      "value": "2019-08-23",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_7b80732811815ba08c7f138a090657a7",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_85be849b2caf51e2b77b1ee2e1ed226e",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_636833ca2868541f84db3c2d0a8d3992",
+      "value": "2026-07-17",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_3f8e0d2a429055a2946c7ef67ec94e54",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_d220ebe5aae45f558d9ca0321dc0b3ec",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_bafc942cfd7d554781f4474ecd208e15",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_ef1237260dae59a18f74cd7b0fa9638d",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_f5a857252e955769b3a47d2c06ccc47c",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_24fbd6f710315aac817797ee93e82b4e",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_4a71b31de6dc5c65992e23b1449b00ca",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_cb44b481b9cb52db95b253e305724696",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_4de636b358535a598fa69a6bac591e68",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_a413f18b79845a6cb2ab99833c2363dd",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_a2580f981b0254778358064e74e4792e",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_f76e6526303457be969f4175980a5ce5",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_10b4700e29a65fe2b794e3774c111c92",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_4a92b14594d05a548833e1de331be5f2",
+      "value": "2026-09-16",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "value": "2026-09-16",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_0377a9da189e5a47899b3970dd75cd83",
+      "value": "2007-07-04",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_bc9ad67469cc54b8a32a4e4996993dfd",
+      "value": "2008-02-14",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_a2bc44934a715e149d79219b9634c629",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_610e04d8be0e527780275779bdccc9bc",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_e922d4b025dc594a97fb114b6428bcf5",
+      "value": "2003",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+      "value": "2026-03-27",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_eb7e6dc8903e5d248ad1ba06b6cd548b",
+      "value": "2017-10-06",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_6d507b452f83550da033630d88cc5ae8",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_2fbf020e2b8d52e0a37fbc4cfc175e61",
+      "value": "2024-01-26",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_93b81371d37a5825a361840e460ced8e",
+      "value": "2024-03-22",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_63d2e8fcbbe05232bdd146cc79d02036",
+      "value": "2024-05-24",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_0972f216bd63591d99cae898a5b09d49",
+      "value": "2024-05-24",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_af495dd79d995a4bba93f8ae3d2dc136",
+      "value": "2024-05-24",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_c9b1cdc3eb305ba9b4d9c7712021bb02",
+      "value": "2024-09-13",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_5ff54575ee3b5459914e1be7e73ffd50",
+      "value": "2024-11-08",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_333364e479605825a9d824578166ecfa",
+      "value": "2024-11-08",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_16133481ecb45c28b8b986fb4de3f037",
+      "value": "2024-11-08",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_61848525477f56ed962a688eeb6070c9",
+      "value": "2025-01-17",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_6811e46bfca856f09ed6457637c452a0",
+      "value": "2020-08-14",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_fc0acabd78525487a175aea46f42adf6",
+      "value": "2021-11-12",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_9685f8fd1214511cb5299462fd58f691",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_fbd6236eef8e52f3afcf509a7820f10b",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_5688787b75e6586db58becc45ad4d108",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_755ea5587df959aa8fa47faf25747766",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_c73e7684b1ad58ab8cfc526eb374aeab",
+      "value": "2019-08-23",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_b8c712a17fe7576b80f203d26eac1f02",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "missing_numeric_date",
+      "entry_id": "research_entry_6105db94dbb35e6fac24037d70c8a217",
+      "period": null,
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    },
+    {
+      "kind": "unqualified_date",
+      "entry_id": "research_entry_a860ab767d7f5ad6adb2244328833d78",
+      "value": "2026-07-17",
+      "priority": 2,
+      "status": "unresolved_field_or_diagnostic_flag",
+      "next_action": "Inspect the field-specific evidence already attached to this identity. A diagnostic flag alone is not a demonstrated factual error."
+    }
+  ],
+  "limits": [
+    "Queue is scoped by real remaining uncertainty. Counters and image growth are not completeness measures."
+  ],
+  "resume_order": [
+    "Exact language/identity conflicts",
+    "Known physical claims with unresolved tuples",
+    "Marketplace exact metadata",
+    "Remaining images/artwork ambiguity"
+  ]
+}

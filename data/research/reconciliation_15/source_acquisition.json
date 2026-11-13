@@ -1,0 +1,292 @@
+[
+  {
+    "lang": "de",
+    "release": "me03",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/por_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/por_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "me03",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/por_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/por_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "me02.5",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/asc_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/asc_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "me02.5",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/asc_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/asc_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "me02",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/pfl_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/pfl_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "me02",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/pfl_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/pfl_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "me01",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/meg_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/meg_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "me01",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/meg_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/meg_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv10.5w",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/wht_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/wht_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv10.5w",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/wht_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/wht_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv10.5b",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/blk_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/blk_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv10.5b",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/blk_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/blk_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv10",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/dri_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/dri_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv10",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/dri_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/dri_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv08.5",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/pre_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/pre_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv08.5",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/pre_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/pre_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv08",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/ssp_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/ssp_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv08",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/ssp_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/ssp_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv07",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/stellar-crown/download/de-de/SV07-Card-List-DE.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/stellar-crown/download/de-de/SV07-Card-List-DE.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv07",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/stellar-crown/download/en-us/SV07-Card-List-EN.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/stellar-crown/download/en-us/SV07-Card-List-EN.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv06.5",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/sfa_web_cardlist_de.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2-de-de/pdf/trading-card-game/checklist/sfa_web_cardlist_de.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv06.5",
+    "source_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/sfa_web_cardlist_en.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/sfa_web_cardlist_en.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv06",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/twilight-masquerade/download/de-de/SV06-Card-List-DE.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/twilight-masquerade/download/de-de/SV06-Card-List-DE.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv06",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/twilight-masquerade/download/en-us/SV06-Card-List-EN.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/twilight-masquerade/download/en-us/SV06-Card-List-EN.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv05",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/temporal-forces/download/de-de/SV05-Card-List-DE.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/temporal-forces/download/de-de/SV05-Card-List-DE.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv05",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/temporal-forces/download/en-us/SV05-Card-List-EN.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/temporal-forces/download/en-us/SV05-Card-List-EN.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "de",
+    "release": "sv04.5",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paldean-fates/download/de-de/SV04pt5-Card-List-DE.pdf",
+    "discovered_at": "https://pokezentrum.de/pokemon-karten-sets/pokemon-kartenliste/",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paldean-fates/download/de-de/SV04pt5-Card-List-DE.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "lang": "en",
+    "release": "sv04.5",
+    "source_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paldean-fates/download/en-us/SV04pt5-Card-List-EN.pdf",
+    "discovered_at": "manufacturer_localization_of_published_checklist",
+    "content_type": "text/html",
+    "resolved_url": "https://tcg.pokemon.com/assets/img/sv-expansions/paldean-fates/download/en-us/SV04pt5-Card-List-EN.pdf",
+    "status": "unavailable",
+    "blocker": "not_pdf_no_access_workaround_attempted"
+  },
+  {
+    "source_url": "https://d1wx537rtdixyy.cloudfront.net/expansions/series9/de-de/P12252_OP_Prize_Packs_Series9_Card_List_DE.pdf",
+    "status": "unavailable",
+    "blocker": "403 from retrieved official link; no retry or access workaround"
+  },
+  {
+    "source_url": "https://deviramericas.com/wp-content/uploads/2018/07/P4780_Battle_Arena_Decks_Sell_Sheet_DOM_EN_LoRes.pdf",
+    "status": "unavailable",
+    "blocker": "HTTP 403 direct acquisition; public web retrieval supplies publisher sell-sheet text; no source-body SHA asserted."
+  }
+]

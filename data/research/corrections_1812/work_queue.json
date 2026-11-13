@@ -1,0 +1,38 @@
+{
+  "version": "1.8.12",
+  "items": [
+    {
+      "id": "de-skyridge-date-conflict",
+      "state": "open",
+      "selected_value": "2003-08-15",
+      "conflicting_value": "Winter 2003/2004",
+      "next_step": "Locate a dated contemporary German Wizards/distributor announcement or catalogue; retain both editorial sources until that is found.",
+      "sources": [
+        "https://bulbapedia.bulbagarden.net/wiki/Skyridge_(TCG)",
+        "https://www.bisafans.de/sammelkarten/sets/e-card/skyridge.php"
+      ]
+    },
+    {
+      "id": "en-era-unlimited-exact-images",
+      "state": "low_priority",
+      "next_step": "Optional later work: inspect exact native Unlimited photos for the 27 newly indexed printings. Keep existing entry reference images and personal overrides; no image is claimed exact from this pass."
+    }
+  ],
+  "completed_english_inventory": {
+    "reference": "Arca TCG English edition inventory (TCGplayer upstream)",
+    "checked_identity_count": 32,
+    "already_matched": 5,
+    "missing_unlimited_added": 27,
+    "sets": [
+      "base1",
+      "gym1",
+      "gym2",
+      "neo1",
+      "neo2",
+      "neo3",
+      "neo4"
+    ],
+    "matrix_file": "english_edition_matrix.json",
+    "limits": "Reconciles existing in-scope English card identities from the First Edition-era expansions. It is not proof that every cameo identity or obscure paper variation has been discovered."
+  }
+}

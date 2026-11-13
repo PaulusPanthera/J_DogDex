@@ -1,0 +1,1191 @@
+{
+  "baseline_revision": "1.3.2",
+  "revision": "1.4.0",
+  "reference_reconciliation": {
+    "en": {
+      "matched": 927,
+      "foreign_language_only": 6,
+      "announced_future_unreleased": 2,
+      "outside_form_scope": 22
+    },
+    "de": {
+      "matched": 867,
+      "not_released_in_German": 36,
+      "German_availability_unproven": 24,
+      "foreign_language_only": 6,
+      "announced_future_unreleased": 2,
+      "outside_form_scope": 22
+    }
+  },
+  "reference_species": 41,
+  "reference_rows": 957,
+  "publisher_documents": 133,
+  "publisher_identity_records_checked": 856,
+  "publisher_rarity_records_decoded": 673,
+  "rarity_corrections": [
+    {
+      "entry_id": "entry_e67aa6dbf9045b6c8adf8882bcf4d765",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_c5d995d8e2af54ca98fa5b3cc3737c8f",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_0ef796473aa456159cbfe8274c97b58b",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_53ad43160adc575995caf670bd68e6fe",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_4b0e791783d25ddc84acc061cd473cf6",
+      "lang": "de",
+      "before": "shiny_rare",
+      "after": "shiny_rare_gx"
+    },
+    {
+      "entry_id": "entry_22d9fd63771458769dbaf98296804bd5",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_788dc806682c5cb19431a5452f0ac148",
+      "lang": "de",
+      "before": "ultra_rare",
+      "after": "rare_break"
+    },
+    {
+      "entry_id": "entry_5be63a6039f3550c8046092a6b67ea3a",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo_ex_lowercase"
+    },
+    {
+      "entry_id": "entry_cfdbcb6ff266535aa5dd20194fe4a25b",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_b5dcb6b8029c576ab9ab8a6f21e277f4",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_c267adc8c8f45bb981dd4d2a6d41685f",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_19d0e3c110315126ab37b801a2cb0b87",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_17cf31b272cb553a813bf788b957f043",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_e07e8233c3c257deb50dbbb4a17e45fa",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_b806546c673353b882832dc9fed6d424",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_5624805f3859544e9f5e16e3e709c68b",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_4c076611644f50ee82a2dcf131ac1780",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_dcc4bf8c34075c038e1fc7c3fea2a6f2",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_353732dd2f455ee5a8d36eb9c9a3c042",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo_ex_lowercase"
+    },
+    {
+      "entry_id": "entry_0e3c560b740059d5bd91d28f51a6dc68",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_2092959929465c96bcd9317eab42c387",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_c5047be08f645b2c9869e87f75eb1966",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo_ex_lowercase"
+    },
+    {
+      "entry_id": "entry_86736a210a9a5f8baa474548473ac40b",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_9b9f1d2724305a4d8b7f567900b34531",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_44cb6f8334185873b4e91b9fc76847e9",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_9d3c44d74dc0550b96916b5297a84557",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "lang": "de",
+      "before": "common",
+      "after": "promo"
+    },
+    {
+      "entry_id": "entry_2f1a5a21a4c85bf3b5215dd0d38d0308",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_46ed3fd707c45304b8b989ec7e6d1b1b",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_c64e1030c49757aa855dc97dda929d4e",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_116ce5b384f956d1adfbc2b3a515334f",
+      "lang": "de",
+      "before": "shiny_rare",
+      "after": "shiny_rare_gx"
+    },
+    {
+      "entry_id": "entry_45b1f6a6e518510095d0d4f34f2d75af",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_9dad4afce72556a1874cc6209921b2db",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_1a28c51bd56f5ce39bd2e4da231b9301",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_533f262425845b27b2e94313b81376a1",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_f6bdf9d9523f5fb88bcd9972cf486578",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_beff419b25d65d5fb2e384863984d283",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_ec8eb0ce8c685ebbb2d11eb5f32c981b",
+      "lang": "de",
+      "before": "ultra_rare",
+      "after": "rare_break"
+    },
+    {
+      "entry_id": "entry_9c7735eb888a52b49101e512f23fc730",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_c5fcde23620857d5b67d2df5c617f910",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_969eb3ad3cb35386a5706908d0e9c14d",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_94ad0c7fa3475a9cbd1b389a7ba22bd9",
+      "lang": "de",
+      "before": "ultra_rare",
+      "after": "rare_break"
+    },
+    {
+      "entry_id": "entry_b06f5ba6c5f55d1e914938259dc96e64",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_7fbfe6c1a7dc5dc595ddf119edac5cf7",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_a6f67c191ded5e7789c50595043913dc",
+      "lang": "de",
+      "before": "rare",
+      "after": "rare_holo"
+    },
+    {
+      "entry_id": "entry_d62e54dca59850bd832072f0f1668348",
+      "lang": "de",
+      "before": "shiny_rare",
+      "after": "shiny_rare_gx"
+    },
+    {
+      "entry_id": "entry_d457600c0118527eaa4ad9d2b19faee9",
+      "lang": "de",
+      "before": "shiny_rare",
+      "after": "shiny_rare_gx"
+    },
+    {
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "lang": "en",
+      "before": "common",
+      "after": "promo"
+    },
+    {
+      "entry_id": "entry_a48689fd9b7c56f7b019659bafb514f2",
+      "lang": "en",
+      "before": "shiny_rare",
+      "after": "shiny_rare_gx"
+    },
+    {
+      "entry_id": "entry_86ee8756dc955e47b994dd55931057d5",
+      "lang": "en",
+      "before": "shiny_rare",
+      "after": "shiny_rare_gx"
+    },
+    {
+      "entry_id": "entry_51241505008f5854a838faa055be45c4",
+      "lang": "en",
+      "before": "shiny_rare",
+      "after": "shiny_rare_gx"
+    }
+  ],
+  "date_corrections": [
+    {
+      "entry_id": "entry_9565fae5b22758b59794b3f8c43acca9",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_4313853c5a555d1ea19ab5d58b6bfd37",
+      "lang": "de",
+      "before": "2004-09-01",
+      "after": null,
+      "period": "2004/2005"
+    },
+    {
+      "entry_id": "entry_f7ae878d35645a738edc581b9ec84478",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_7c04176245e555e592e0ec08210149bc",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_616a7e701a9b530a9f9f9be953eae532",
+      "lang": "de",
+      "before": "2004-09-01",
+      "after": null,
+      "period": "2004/2005"
+    },
+    {
+      "entry_id": "entry_e23b350c47085f22a3f58537515bc532",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_1bde6e0dc5b352c8aa2d9e05f64f8f27",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_a65d32ed4991539ca2dadd4369b53315",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_2d7796a8c246501fb8eb8c129470e693",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_9d18c7f9feaf5c1f934e931a8f152cbe",
+      "lang": "de",
+      "before": "2003-05-12",
+      "after": null,
+      "period": "Winter 2003/2004"
+    },
+    {
+      "entry_id": "entry_8e57e543862058189625720df61019a0",
+      "lang": "de",
+      "before": "2006-08-30",
+      "after": null,
+      "period": "2006/2007"
+    },
+    {
+      "entry_id": "entry_2092959929465c96bcd9317eab42c387",
+      "lang": "de",
+      "before": "2006-08-30",
+      "after": null,
+      "period": "2006/2007"
+    },
+    {
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "lang": "de",
+      "before": "2007-05-01",
+      "after": "2007",
+      "period": null
+    },
+    {
+      "entry_id": "entry_fdfa9bb668705183919f622036875741",
+      "lang": "en",
+      "before": "2007-08-01",
+      "after": "2007-08-22",
+      "period": null
+    },
+    {
+      "entry_id": "entry_d802cdc5a93e5d6999f61624d55e140e",
+      "lang": "en",
+      "before": "2007-02-17",
+      "after": "2007-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_24563c7e89fc578892d7bdc0ad5537ed",
+      "lang": "en",
+      "before": "2004-06-01",
+      "after": "2004-06-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_1546d6496fa85cd3beca665d26145364",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "entry_7362ba4e2d8954b0a86e14eca6c97584",
+      "lang": "en",
+      "before": "2007-08-01",
+      "after": "2007-08-22",
+      "period": null
+    },
+    {
+      "entry_id": "entry_d77f37dcc00157e7bf69d9cd43eb0e41",
+      "lang": "en",
+      "before": "2007-02-17",
+      "after": "2007-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_28df52a856745ff29253aaf8495df5ab",
+      "lang": "en",
+      "before": "2004-06-01",
+      "after": "2004-06-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_87142d6ab34b55aaafb0a40904f6b399",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "entry_26a0a442bae7521994ea7d9b3ed2fdb8",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "entry_55077383a7845e02b1595c157b48c307",
+      "lang": "en",
+      "before": "2007-11-01",
+      "after": "2007-11-07",
+      "period": null
+    },
+    {
+      "entry_id": "entry_447f85ffc08a5f6d8cf1eb03914047f1",
+      "lang": "en",
+      "before": "2004-09-01",
+      "after": "2004-08-30",
+      "period": null
+    },
+    {
+      "entry_id": "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+      "lang": "en",
+      "before": "2000-03-01",
+      "after": "2000",
+      "period": null
+    },
+    {
+      "entry_id": "entry_7df2a9222d7855e982d6a1bf91427214",
+      "lang": "en",
+      "before": "2007-11-01",
+      "after": "2007-11-07",
+      "period": null
+    },
+    {
+      "entry_id": "entry_d3821a9b8dd65aff8209873526446968",
+      "lang": "en",
+      "before": "2004-09-01",
+      "after": "2004-08-30",
+      "period": null
+    },
+    {
+      "entry_id": "entry_c714a495890650098cbac27aaed20c48",
+      "lang": "en",
+      "before": "2008-02-01",
+      "after": "2008-02-13",
+      "period": null
+    },
+    {
+      "entry_id": "entry_14d2a797a14f5000a089e4d4fa21abdb",
+      "lang": "en",
+      "before": "2008-02-01",
+      "after": "2008-02-13",
+      "period": null
+    },
+    {
+      "entry_id": "entry_aa4803e741eb5c02b21d08f550fa596c",
+      "lang": "en",
+      "before": "2008-02-01",
+      "after": "2008-02-13",
+      "period": null
+    },
+    {
+      "entry_id": "entry_9368cae506ff59c9bb80f63eb4be2fc0",
+      "lang": "en",
+      "before": "2008-08-01",
+      "after": "2008-08-20",
+      "period": null
+    },
+    {
+      "entry_id": "entry_035d937a19e75039877960de9ab7e2da",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_e721d5311826579e829f7fd2b86aed15",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_f1367adec38b50638c5bf0076f567a6f",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_7e8f48e4efab54279ee7a86b34e596cc",
+      "lang": "en",
+      "before": "2004-11-01",
+      "after": "2004-11-08",
+      "period": null
+    },
+    {
+      "entry_id": "entry_2c609c5dfeda548a9153a5b8797e8925",
+      "lang": "en",
+      "before": "2004-11-01",
+      "after": "2004-11-08",
+      "period": null
+    },
+    {
+      "entry_id": "entry_43710aa855bb54c884bc0557c9c8fdcf",
+      "lang": "en",
+      "before": "2008-02-01",
+      "after": "2008-02-13",
+      "period": null
+    },
+    {
+      "entry_id": "entry_8bb3b1aacb4b5366b601c3a33ca9b045",
+      "lang": "en",
+      "before": "2008-08-01",
+      "after": "2008-08-20",
+      "period": null
+    },
+    {
+      "entry_id": "entry_ca25b86efd14597f80e48a3a1beb30c0",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_43dfc2a5d0485cd088f2b30af547b411",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_9a9b15de4b185a9f9c8dae83543b4c98",
+      "lang": "en",
+      "before": "2004-11-01",
+      "after": "2004-11-08",
+      "period": null
+    },
+    {
+      "entry_id": "entry_ce03c376e52957e582345f59d7da67d2",
+      "lang": "en",
+      "before": "2004-11-01",
+      "after": "2004-11-08",
+      "period": null
+    },
+    {
+      "entry_id": "entry_9791b59503a95d41b6326d0f50c8631c",
+      "lang": "en",
+      "before": "2001-03-01",
+      "after": "2001-03",
+      "period": null
+    },
+    {
+      "entry_id": "entry_9110391aea9051558485ccfc88f8f56c",
+      "lang": "en",
+      "before": "2007-11-01",
+      "after": "2007-11-07",
+      "period": null
+    },
+    {
+      "entry_id": "entry_3a53a56499485d078028d318e6e1f7e3",
+      "lang": "en",
+      "before": "2008-08-01",
+      "after": "2008-08-20",
+      "period": null
+    },
+    {
+      "entry_id": "entry_4bd9b7eaee8c5a48ae7df7ef1f24f78b",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_5efcdaed3c785f8399518308a3bc3e0f",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_4fecc3091f865696954823120755ec9a",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_df03d4b05f19545a8ed49d59bbbea1fa",
+      "lang": "en",
+      "before": "2007-02-17",
+      "after": "2007-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_34f25e08d4235f80bc8e427318538f51",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_4af7bb397d6c57d483195c6d466534a1",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_0b9a0e1816c35344ae653a01ea7e712b",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_2b1c26245cdb52fa8f66f155f9befbec",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_b482618f23b7557d9772ecaa10d4a1ad",
+      "lang": "en",
+      "before": "2005-02-01",
+      "after": "2005-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_5db81d5e5b05501fb6d8aa71d0f820b5",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "entry_68e89a0cdb6a5aeeaba4f803c0cab0ad",
+      "lang": "en",
+      "before": "2008-08-01",
+      "after": "2008-08-20",
+      "period": null
+    },
+    {
+      "entry_id": "entry_9323d70dab7a53fd97a301e801f8ab08",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_6df3589b8c0254f3b1c4909fefbede42",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_6bbc031700a15af1bc15e61a330e526f",
+      "lang": "en",
+      "before": "2007-02-17",
+      "after": "2007-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_5b9b2679ed4c53ca8defc53c46f56e5e",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_1af42b1d546556e7a9e114eb3788337a",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_61fab60120b1591297fd35b921b157b1",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_d02a9cd3d8175fc28ebb766568e3a348",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_8d3e9e558b8555be8d9bbbb349be1a62",
+      "lang": "en",
+      "before": "2005-02-01",
+      "after": "2005-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_6ff742f1c1765692809408e4f05961c5",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "entry_d896ed9e1e595eaca0eb0be43149157e",
+      "lang": "en",
+      "before": "2008-02-01",
+      "after": "2008-02-13",
+      "period": null
+    },
+    {
+      "entry_id": "entry_ecdde9129a085976900133e31370dad2",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_63a1e3d34a16512aac80a7ebba51f6f0",
+      "lang": "en",
+      "before": "2007-08-01",
+      "after": "2007-08-22",
+      "period": null
+    },
+    {
+      "entry_id": "entry_898a4627d34756a4ae9eab9d244b5023",
+      "lang": "en",
+      "before": "2008-05-01",
+      "after": "2008-05-21",
+      "period": null
+    },
+    {
+      "entry_id": "entry_476cec24335350a7b321695c33b361f1",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_7709fa918952558dae78160924585781",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_0b66cac4ef2f593ca31705fe408361f7",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_3b847230c26a5c61a3dcbb9031bb5f11",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_026c6607f75d5d66a289310834d173b2",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_fd59d89ccfa251ea96262848d2b95e8f",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_90dcde1595895f4d8eb6255e9e0047fe",
+      "lang": "en",
+      "before": "2005-02-01",
+      "after": "2005-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_5a1fd050d38f56b2be4824c6f6018b35",
+      "lang": "en",
+      "before": "2005-02-01",
+      "after": "2005-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_b53e9fec7ba054caa26a9ca2c995d642",
+      "lang": "en",
+      "before": "2007-08-01",
+      "after": "2007-08-22",
+      "period": null
+    },
+    {
+      "entry_id": "entry_469fa6c047ee5cbc8db7edf764c2ff74",
+      "lang": "en",
+      "before": "2008-05-01",
+      "after": "2008-05-21",
+      "period": null
+    },
+    {
+      "entry_id": "entry_c19cb081e2c954428359cf7633c6a895",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_b356c84a560d575390c6cd07096dd419",
+      "lang": "en",
+      "before": "2003-07-01",
+      "after": "2003-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "entry_4729b049f78b59aaba07f78409bb1f5d",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_b2367b033187593c8c65819abdbb4d80",
+      "lang": "en",
+      "before": "2004-03-01",
+      "after": "2004-03-15",
+      "period": null
+    },
+    {
+      "entry_id": "entry_c381494bcb19530eb2d53b6f32dcf924",
+      "lang": "en",
+      "before": "2005-02-01",
+      "after": "2005-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_67e92754f8c459e2a89cba6c1bac832f",
+      "lang": "en",
+      "before": "2005-02-01",
+      "after": "2005-02-14",
+      "period": null
+    },
+    {
+      "entry_id": "entry_3c383fe5d3e55723a2cc1fd7f1f801af",
+      "lang": "en",
+      "before": "2007-05-01",
+      "after": "2007-05-23",
+      "period": null
+    },
+    {
+      "entry_id": "entry_fb88cf6ebf63569eba08d73ea2beba72",
+      "lang": "en",
+      "before": "2008-08-01",
+      "after": "2008-08-20",
+      "period": null
+    },
+    {
+      "entry_id": "entry_2132e289fbcf5259a80c67d8edbae350",
+      "lang": "en",
+      "before": "2007-05-01",
+      "after": "2007-05-23",
+      "period": null
+    },
+    {
+      "entry_id": "entry_34a0d4ebab5e5ec9adf25b7d4c776609",
+      "lang": "en",
+      "before": "2007-08-01",
+      "after": "2007-08-22",
+      "period": null
+    },
+    {
+      "entry_id": "entry_f98d74f197815415ac25d5c128461018",
+      "lang": "en",
+      "before": "2008-08-01",
+      "after": "2008-08-20",
+      "period": null
+    },
+    {
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "lang": "en",
+      "before": "2007-11-02",
+      "after": "2007",
+      "period": null
+    },
+    {
+      "entry_id": "entry_39d26ab806a15df5a85c57486fe274e2",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "entry_6f546fb0080b50ef862a5c45031ff36f",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "entry_e1909abc9ab857289552ba048d680cd1",
+      "lang": "en",
+      "before": "2019-01-31",
+      "after": "2019-02-01",
+      "period": null
+    },
+    {
+      "entry_id": "research_entry_98c6d5c6a8715700bf2e2565589a2064",
+      "lang": "en",
+      "before": "2007-05-01",
+      "after": "2007-05-23",
+      "period": null
+    },
+    {
+      "entry_id": "research_entry_6887902e5bad5140ae219c1172fa4996",
+      "lang": "en",
+      "before": "2007-11-01",
+      "after": "2007-11-07",
+      "period": null
+    },
+    {
+      "entry_id": "research_entry_95533b7aeff05c1490720383ed2be3ea",
+      "lang": "en",
+      "before": "2017-02-03",
+      "after": "2019-08",
+      "period": null
+    },
+    {
+      "entry_id": "research_entry_267ad75676d55267aa082e197e08911a",
+      "lang": "en",
+      "before": "2019-11-15",
+      "after": "2021-06-18",
+      "period": null
+    },
+    {
+      "entry_id": "research_entry_679a06e459635d9182f3be2ca3472b47",
+      "lang": "en",
+      "before": "2019-11-15",
+      "after": "2022-09-09",
+      "period": null
+    },
+    {
+      "entry_id": "research_entry_866476a07875526698023369479a84c4",
+      "lang": "en",
+      "before": "2013-10-12",
+      "after": "2017-05-19",
+      "period": null
+    }
+  ],
+  "name_corrections": [
+    {
+      "entry_id": "entry_2a4feb7f32d8535ca2f684123582d451",
+      "before": "Lucario",
+      "after": "Lucario LV.X"
+    },
+    {
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "before": "Lucario",
+      "after": "Lucario LV.X"
+    }
+  ],
+  "added_entry_ids": [
+    "research_entry_55981012f2b656e7b1e2bbbbcbf4984a",
+    "research_entry_a39cd1666dd25f89abd98ef74ae3fedd",
+    "research_entry_54c4de3c533e56baa3e4f7dfd2195758",
+    "research_entry_6702543d4f005ba18f04b34766f73f8a",
+    "research_entry_5f8f7d04f4fc5c96b426cf57e98eeb56",
+    "research_entry_44b964df7c6551428fa5ee58c0c192f9",
+    "research_entry_5f9293f57a6d596d89c80d840b85fc6a",
+    "research_entry_8da036548d1c5b638867e23945a02dfc",
+    "research_entry_bc819b3fe57851b3bc02c45986d3ce72",
+    "research_entry_5318bdd91c375afa9355baf64e4408d6"
+  ],
+  "added_printing_ids": [
+    "research_printing_0ba47ca7a4b7528f8b869fc067b9f838",
+    "research_printing_10e031ab51a352f5a33bcf29427dcbac",
+    "research_printing_13398194629e5673b620d6ebc407bf7f",
+    "research_printing_2dcf608d9e565809bdb22637ecee095f",
+    "research_printing_2ed6241f711a591fb65b28d9a4760971",
+    "research_printing_361d27ce36665108b8539dad457cce3a",
+    "research_printing_3d10cf1d7b905ba69555076bde96515c",
+    "research_printing_483fa1e02eee5fd5948b737054f9aa64",
+    "research_printing_5518b2285c995166852a47c5c7940ec0",
+    "research_printing_56e281dfe490539389f9b848b9e5bfcf",
+    "research_printing_589d0eedfd595262a6d586bb5450fcd1",
+    "research_printing_59393323d0295c998c73e0456b724a7f",
+    "research_printing_6a7f8e1d940f5b8fb4ed6935cdc1b995",
+    "research_printing_6d97028e71c45bc8b48688c986660a1a",
+    "research_printing_77ecf23f90c552cca9f07f519c9f9b0b",
+    "research_printing_9bf87a7b072957f4ae0375efb9ab730f",
+    "research_printing_9f5c904ce7d45999abb0e687efb81f56",
+    "research_printing_a0bdcb95cd8a5dc2bf890560890520f7",
+    "research_printing_b9569b8b71635c04a34957644cc70e4d",
+    "research_printing_bff7cb5d633d5ad086646ca6e7700cdb",
+    "research_printing_c02a2e8b59f7576d80137fb07b148757",
+    "research_printing_d28563976f25556db5b5baba341dbd81",
+    "research_printing_d89591426a67512cb6c2e66f56f7c52e",
+    "research_printing_d91e5fa867255396866b55070815a0cd",
+    "research_printing_dd2121202bff51c8a8499c410cdff871",
+    "research_printing_ed350871b3ed593fa183efa996ef79b9",
+    "research_printing_f2526b70ab9059aeb8c3da27616a47bf",
+    "research_printing_f83f78f793a7555fadb8ddb044b7864c",
+    "research_printing_fa36e291c24f57c285c300509d909368",
+    "research_printing_fdc772a0768f50c589eb7a0e5222c1df",
+    "research_printing_ff5708be11e15b90bb3d59bc194a78fc"
+  ],
+  "verified_artwork_fields_filled": [
+    "entry_82c35c0eb6f65c1297cba49b270209f9",
+    "entry_c5d995d8e2af54ca98fa5b3cc3737c8f",
+    "entry_4b0e791783d25ddc84acc061cd473cf6",
+    "entry_25965d4d9560557ca780004c841c020f",
+    "entry_4313853c5a555d1ea19ab5d58b6bfd37",
+    "entry_3ccade8482e65b4597c72831ad24d0f0",
+    "entry_84a577e1a4cb524292f86150d53b2195",
+    "entry_600656167c6b5fa8bef5cb02c49f1370",
+    "entry_48bc12ccfeca531b8bb0756f01642b12",
+    "entry_c65679c00b325973ba6484a58dbcfc10",
+    "entry_472029bd642d58a0a0184d3705084a89",
+    "entry_19d0e3c110315126ab37b801a2cb0b87",
+    "entry_9282ff804e9b5d7c8417cc51ff7a7f56",
+    "entry_ace51aba97985f72a2f59054db222760",
+    "entry_5624805f3859544e9f5e16e3e709c68b",
+    "entry_b90f275c05c15e06a9638a3716ca1475",
+    "entry_dcc4bf8c34075c038e1fc7c3fea2a6f2",
+    "entry_8ac22ce1e4235855a61586f25044a040",
+    "entry_c6ada0999990565b9d0170dd56077d44",
+    "entry_6b75f5d5d130523eb4b8a5c8ac89a2d8",
+    "entry_5e5e06d8ed19518ca2d640dbd3bca5de",
+    "entry_c64e1030c49757aa855dc97dda929d4e",
+    "entry_116ce5b384f956d1adfbc2b3a515334f",
+    "entry_705319e5d603546195eea80414886e19",
+    "entry_24eafd74f5a353c499278e5510ec69bf",
+    "entry_91167dfa40b15222986d7fe167528ecd",
+    "entry_d499857554c451d991189b6a5b4f4d77",
+    "entry_d62e54dca59850bd832072f0f1668348",
+    "entry_d457600c0118527eaa4ad9d2b19faee9",
+    "entry_5cbd07d9c8a0544fae405ca872e7e4d1",
+    "entry_84eccb487f9b5d278aa94d25205e5546",
+    "entry_1faa00157c765735b2feebaa66cb3b0c",
+    "entry_dd7a21c33f765272af63ef249bf008bd",
+    "entry_0d056ad4b31e566b9522d95f993d2329",
+    "entry_f7780486d2005b68abeb6f6be6f7ed86",
+    "entry_61db1d8c7b1b56f2ba4145ad245a6c9c",
+    "entry_9268042a728451e780ea897944ccad25",
+    "entry_3d42f43d95575580902e0815211f9166",
+    "entry_9199058428b85dbea56e14a8433ed8c8",
+    "entry_d62e2bf855c556ce973982572bb52042",
+    "entry_7bf4a7ef8aa151d396c563364fdf9a23",
+    "entry_05762cc910a55e41ae7a7cd9915d20f8",
+    "entry_a269f0ed41395ff193b705056dbf3da4",
+    "entry_035d937a19e75039877960de9ab7e2da",
+    "entry_f464759ee1d45e2ca7fc055882dfa7fe",
+    "entry_9791b59503a95d41b6326d0f50c8631c",
+    "entry_cc2aa6174d735e619233f494f328a271",
+    "entry_3a53a56499485d078028d318e6e1f7e3",
+    "entry_b482618f23b7557d9772ecaa10d4a1ad",
+    "entry_fc4ce28cc2365214a5d978b32573252d",
+    "entry_5b9b2679ed4c53ca8defc53c46f56e5e",
+    "entry_f5a8f7f486255102ab89892a257b1b4f",
+    "entry_cedea551fe68565faa5210f00a66039e",
+    "entry_c5d8b7b27c9d52d4a7fa28c7314edcac",
+    "entry_deace5ef9b6b50c7835426a948121d9e",
+    "entry_67e92754f8c459e2a89cba6c1bac832f",
+    "entry_a48689fd9b7c56f7b019659bafb514f2",
+    "entry_2e97edafb7625c028f273b060ef70ba3",
+    "entry_70af70f53bfe58388724984b540739a4",
+    "entry_b3bd77be81355cfaa4336cf37c0e7faf",
+    "entry_0342f9d7416c5a5f9134d5a74aa7b612",
+    "entry_b1c0f5687b925874837ab7e739f961a7",
+    "entry_a7f7c17e222b5b06aede8ddd57974910",
+    "entry_86ee8756dc955e47b994dd55931057d5",
+    "entry_51241505008f5854a838faa055be45c4",
+    "entry_b65a491f75c75128a97a6de975f3e85d",
+    "entry_93d661f4d41a5c9ba4ec28131b9381c7",
+    "entry_f4507f018f8056e684f598ea9afb51ec",
+    "entry_116af9dde7685636ae20430c05e6ba5d",
+    "research_entry_0387516a54f358a88ee3f7910eaede85",
+    "research_entry_a7b20f64fe7b585abdd32520572e46fd"
+  ],
+  "inference_status_corrections": 180,
+  "quarantined_marketplace_candidates": 923,
+  "sample": {
+    "seed": 20261028,
+    "sample_size": 80,
+    "visual_records_assessed": 76,
+    "records_with_observed_errors": 16,
+    "observed_error_categories": {
+      "date_or_unsupported_precision": 7,
+      "missing_established_pack_finish": 2,
+      "rarity": 7
+    },
+    "limitations": "Not a simple random sample of the whole catalog. No population accuracy interval; unassessed fields never count as correct."
+  },
+  "queue_items": 117,
+  "limitations": [
+    "No overall catalog completeness or accuracy percentage is claimed.",
+    "Publisher rows verify bounded fields; card identity checks do not prove release date, all finishes, product-only variants or marketplace offers.",
+    "Native Windows executable not run in this Linux environment."
+  ]
+}

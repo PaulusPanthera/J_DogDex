@@ -1,0 +1,15 @@
+{
+  "two_offline_builds_identical": true,
+  "sha256": {
+    "data/catalog.json": "4af5d62d42d6e0c69f952121accca3adcf0b14d50947ac70c25637a9c34191fe",
+    "data/catalog-collector.sqlite3": "bc5ed6bb65102cd8add14ea87f3a4f4765696f6827eccea77ae93a5c2dae6179"
+  },
+  "data/catalog.sqlite3": {
+    "quick_check": "ok",
+    "foreign_key_violations": []
+  },
+  "data/catalog-collector.sqlite3": {
+    "quick_check": "ok",
+    "foreign_key_violations": []
+  }
+}

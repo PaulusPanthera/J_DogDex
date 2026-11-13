@@ -1,0 +1,42 @@
+{
+  "version": "1.8.9",
+  "checkpoint": "2026-10-31",
+  "resolved": [
+    {
+      "case": "DE-POR-077",
+      "disposition": "existing_identity_completed",
+      "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+      "outcome": "Native German image, Thievul billboard cameo, standard artwork, uncommon rarity and two documented physical printings.",
+      "evidence": "facts.json#/restored_identity"
+    },
+    {
+      "case": "EN-DE-POR-104",
+      "disposition": "excluded_collecting_scope",
+      "outcome": "Mega/Complete forms; no 10% dog. Existing identities, printings, ownership and evidence remain accessible.",
+      "evidence": "facts.json#/forms/0"
+    },
+    {
+      "case": "EN-DE-POR-120",
+      "disposition": "included_cameo",
+      "outcome": "Retain 10% dog cameo; remove tracked primary role.",
+      "evidence": "facts.json#/forms/1"
+    }
+  ],
+  "limits": [
+    {
+      "topic": "Reverse 077 image",
+      "state": "not_inspected",
+      "detail": "Physical printing existence documented by direct German merchant and explicit native provider tuple; no exact reverse specimen picture was inspected."
+    },
+    {
+      "topic": "Other languages",
+      "state": "outside_this_pass",
+      "detail": "JA/KO and their form-specific equivalents remain unchanged."
+    },
+    {
+      "topic": "Illumina City 111 alternate art",
+      "state": "not_promoted",
+      "detail": "Distinct illustration; no 077 cameo is inferred onto the full-art identity."
+    }
+  ]
+}

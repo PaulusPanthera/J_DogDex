@@ -1,0 +1,55 @@
+{
+  "retrieved_on": "2026-10-31",
+  "claims": [
+    {
+      "identity": "en neo1 74 Snubbull",
+      "source_url": "https://arcatcg.com/cards/neo1-74",
+      "source_family": "tcgplayer_inventory",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "decision": "accept explicit Unlimited non-foil inventory printing; downstream display is not independent corroboration"
+    },
+    {
+      "identity": "en neo3 55 Snubbull",
+      "source_url": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/price-guides/neo-revelation",
+      "source_family": "tcgplayer_inventory",
+      "original_variant_labels": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "decision": "accept explicit Unlimited legacy non-foil listing"
+    },
+    {
+      "identity": "en neo1 74 and en neo3 55 Snubbull",
+      "source_urls": [
+        "https://pkmncards.com/card/snubbull-neo-genesis-n1-74/",
+        "https://pkmncards.com/card/snubbull-neo-revelation-n3-55/"
+      ],
+      "source_family": "pkmncards_specimens",
+      "observation": "Both downloaded scans visibly carry a 1st Edition stamp.",
+      "decision": "identity / artwork context only; not Unlimited specimen evidence"
+    },
+    {
+      "identity": "de ecard3 Skyridge",
+      "source_url": "https://bulbapedia.bulbagarden.net/wiki/Skyridge_(TCG)",
+      "source_family": "bulbapedia_editorial",
+      "claim": "2003-08-15 explicitly for German release, separately from English release.",
+      "decision": "selected exact date, with conflict retained"
+    },
+    {
+      "identity": "de ecard3 Skyridge",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/e-card/skyridge.php",
+      "source_family": "bisafans_editorial",
+      "original_label": "Winter 2003/2004",
+      "decision": "retain as conflicting claim; no contemporary primary resolution located"
+    },
+    {
+      "field": "English First Edition-era printing inventory",
+      "source_family": "tcgplayer_inventory",
+      "matrix_file": "english_edition_matrix.json",
+      "assertion": "32 exact card identities reconciled: 27 missing Unlimited physical tuples and five already indexed controls. All explicit variant labels are retained; no rarity/legality-based generation."
+    }
+  ]
+}

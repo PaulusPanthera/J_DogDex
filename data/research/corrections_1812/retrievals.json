@@ -1,0 +1,359 @@
+[
+  {
+    "file": "evidence/neo_genesis_specimen.jpg",
+    "url": "https://pkmncards.com/wp-content/uploads/snubbull-neo-genesis-74.jpg",
+    "sha256": "c1168c823d469b6dbc5a26ffd33c36cfc9afb13183759c5cb0ea0eb13fd68433",
+    "bytes": 133168,
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "file": "evidence/neo_revelation_specimen.jpg",
+    "url": "https://pkmncards.com/wp-content/uploads/snubbull-neo-revelation-55.jpg",
+    "sha256": "24a6bc4eda97055f0d0b63501c5bece96f06c589c08a79be2c43b464f46fcd94",
+    "bytes": 111115,
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "file": "evidence/neo_genesis_pkmncards.html",
+    "url": "https://pkmncards.com/card/snubbull-neo-genesis-n1-74/",
+    "sha256": "76dffe4cc46592ada0095bed56a2f179f10b606f8142f39c549ae24755743c59",
+    "bytes": 63921,
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "file": "evidence/neo_revelation_pkmncards.html",
+    "url": "https://pkmncards.com/card/snubbull-neo-revelation-n3-55/",
+    "sha256": "cc81edffa6dc1f57f33e67313c9b536111ef7914858a434a3d19807fee1ae3a0",
+    "bytes": 67978,
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "file": "evidence/skyridge_bisafans.html",
+    "url": "https://www.bisafans.de/sammelkarten/sets/e-card/skyridge.php",
+    "sha256": "a909b9aa3ce37639a4d40c3f1e18863aa4c2f854426d720c79cae58c7418d751",
+    "bytes": 113891,
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "file": "evidence/skyridge_bulbapedia.html",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Skyridge_(TCG)",
+    "sha256": "f4b469c3d4f882be61216746a76b025daf928151ec188033c3f3c5b29a500942",
+    "bytes": 772162,
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/base1-68",
+    "file": "evidence/arca_base1-68.html",
+    "sha256": "d3334dd2aef2863da145641e71a106898d81e5301b22c52c0fc410ca675cb550",
+    "bytes": 46305,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym1-65",
+    "file": "evidence/arca_gym1-65.html",
+    "sha256": "ba6a00101e5c3085fb002ec9214150afa70f3ce477ce6ec49e26d12344846b35",
+    "bytes": 46609,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym1-73",
+    "file": "evidence/arca_gym1-73.html",
+    "sha256": "30f5cf92b8e7e046ee021db754d27b3e4dd873c4a4279e963eeee733efc07d80",
+    "bytes": 46413,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym2-37",
+    "file": "evidence/arca_gym2-37.html",
+    "sha256": "10ecbe352084a0dd68cef0a6ba0aa8b8d5e0ac42ba407dc13e5f399c2752d650",
+    "bytes": 46382,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym2-66",
+    "file": "evidence/arca_gym2-66.html",
+    "sha256": "ceffb3f46802906dbda047e46a208c7790f4f46f1e980fe327b1f0134e0ca190",
+    "bytes": 46031,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo4-91",
+    "file": "evidence/arca_neo4-91.html",
+    "sha256": "ece245dd1b6f6ca75617eb2eddc19d469ace3c3456049ffd166d3ba55af22df4",
+    "bytes": 45777,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/base1-12",
+    "file": "evidence/arca_base1-12.html",
+    "sha256": "e6febfcd79c9908a5fc632198499c837614799b849c2aa8c3eab134b85794d87",
+    "bytes": 47719,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym2-21",
+    "file": "evidence/arca_gym2-21.html",
+    "sha256": "2166b68d7ce0a3ce5171b8ea44b4f862cbf25cc83eda81c545f43b1624a2a329",
+    "bytes": 46550,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym2-3",
+    "file": "evidence/arca_gym2-3.html",
+    "sha256": "71b4d95ea4c7a388f0da7ea88ee2b60a91ae7ec308e8faa2aa9a39714868ab4e",
+    "bytes": 47241,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo4-50",
+    "file": "evidence/arca_neo4-50.html",
+    "sha256": "e8b92faac5245fc1329a352f7e64b11c11cedcc329dcddf4b1ab9098f1f67144",
+    "bytes": 47544,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/base1-28",
+    "file": "evidence/arca_base1-28.html",
+    "sha256": "6789b7ed76b4d2fdbb2d034cc2f539700331de33377426af96a30d46b6da87be",
+    "bytes": 47421,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym1-35",
+    "file": "evidence/arca_gym1-35.html",
+    "sha256": "42337e4b65d5b03d7ec1e8e15e39a409961097a34a4cfd38d7c1d469f8e1ed9f",
+    "bytes": 46501,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym1-62",
+    "file": "evidence/arca_gym1-62.html",
+    "sha256": "0b608264bd3203659e3b5c3a10865772d2cf7b737d015e7a0e79445564a17945",
+    "bytes": 46164,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym2-62",
+    "file": "evidence/arca_gym2-62.html",
+    "sha256": "0099d77fbceb10c153c7670b59853fc23e5b135d3698e98f458d514e0009d822",
+    "bytes": 46581,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo4-68",
+    "file": "evidence/arca_neo4-68.html",
+    "sha256": "6b12b64a09db1901dfab7cf8d74584dd18e2be96dda7ab84525e24ab85fa999a",
+    "bytes": 45755,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/base1-23",
+    "file": "evidence/arca_base1-23.html",
+    "sha256": "c5244d1a5ba2f080dd259eba8581267473cc039375ecf33fc4464dd023e8f7bd",
+    "bytes": 47549,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym2-1",
+    "file": "evidence/arca_gym2-1.html",
+    "sha256": "149dd4c38095dee3b534f0e1cb048797ed79bef35e6cd5dea1a3ebbce36e3219",
+    "bytes": 47836,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo4-12",
+    "file": "evidence/arca_neo4-12.html",
+    "sha256": "659056438168b2278034a5d791c533fb9fc37e349c3b00dccde2845f2f2aebbc",
+    "bytes": 48072,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo1-74",
+    "file": "evidence/arca_neo1-74.html",
+    "sha256": "401888ac0efdc402905c1fdc95c2fa0c6de57ae000fd719a3582f2ccc3aa1051",
+    "bytes": 46570,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo3-55",
+    "file": "evidence/arca_neo3-55.html",
+    "sha256": "70ae466399ebb7de2c23a47e075b1f437e8bc067523256d2c79a1b5969d3ff37",
+    "bytes": 46516,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo1-37",
+    "file": "evidence/arca_neo1-37.html",
+    "sha256": "7ef2c898d837c2919bc9cb578da9e7cdb80870f919ed4bdaa03de68d327fbe34",
+    "bytes": 47010,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo2-24",
+    "file": "evidence/arca_neo2-24.html",
+    "sha256": "ea82ccea654b0e9209431a6e541ed0b9a4fd9086605a1b7b9983a9e72e310517",
+    "bytes": 47331,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo2-39",
+    "file": "evidence/arca_neo2-39.html",
+    "sha256": "e29a3e81ea8ab016b16639f5e14a108e5b2526693c7e7c338250223e2eb18fea",
+    "bytes": 46141,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo2-5",
+    "file": "evidence/arca_neo2-5.html",
+    "sha256": "75857184fbb0bde797cbd73e9ae6b32f5bb70397edfe992b50b26b03e6c6033d",
+    "bytes": 47541,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo4-43",
+    "file": "evidence/arca_neo4-43.html",
+    "sha256": "c2a2b95f1bd7920fa58a50ecc0558c5cee266c75f52e8b6a2dfc085682713ae4",
+    "bytes": 46155,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo2-23",
+    "file": "evidence/arca_neo2-23.html",
+    "sha256": "7245764aba754b84cfddd8a59af8eff6d9b6cf069b06cfbbe0e5d9f9bf5aff5e",
+    "bytes": 47091,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo2-4",
+    "file": "evidence/arca_neo2-4.html",
+    "sha256": "c9cfb72ac00ad789066441bb3ae8a2110cb6ddba01c0bf766d840da63628eb34",
+    "bytes": 47927,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo3-8",
+    "file": "evidence/arca_neo3-8.html",
+    "sha256": "1e5e0012b6c37c8fc1b76d224b578d5c63873c8142efbda5ebc2877a4a3a4f1b",
+    "bytes": 46750,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo4-7",
+    "file": "evidence/arca_neo4-7.html",
+    "sha256": "8328ace482d6efa843155d709b9b3f86a84f82fa75a73708582f7e6604356239",
+    "bytes": 46979,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo2-11",
+    "file": "evidence/arca_neo2-11.html",
+    "sha256": "4328f03413d477427ebacda87885cbe526e72366e025bbee51141ff368613568",
+    "bytes": 47583,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/neo2-30",
+    "file": "evidence/arca_neo2-30.html",
+    "sha256": "929fdd9a530f5ddc007b5cf273e62c5e3a42a188fa40d13e8586d5675a970df9",
+    "bytes": 47290,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://arcatcg.com/cards/gym2-103",
+    "file": "evidence/arca_gym2-103.html",
+    "sha256": "57c827fea06899c58c50d79294b95f2d0a4c7cba171edda53a7ae845c5b4fac2",
+    "bytes": 43959,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://api.pokemontcg.io/v2/cards?q=set.id%3Agym1&pageSize=250&orderBy=number",
+    "file": "evidence/pokemontcgio_gym1.json",
+    "bytes": 229736,
+    "sha256": "039ae3fd9800b839fbc6c950d179662bb0e76e1a0ee6536a03b61999e3f1944e",
+    "source_family": "tcgplayer_inventory",
+    "provider": "pokemontcg.io",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://api.pokemontcg.io/v2/cards?q=set.id%3Aneo1&pageSize=250&orderBy=number",
+    "file": "evidence/pokemontcgio_neo1.json",
+    "bytes": 207499,
+    "sha256": "7b7a2c17ea7972c33fd4263bf3406e81c81d609aa7ed471f4c8bfca077b35d7f",
+    "source_family": "tcgplayer_inventory",
+    "provider": "pokemontcg.io",
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "url": "https://api.pokemontcg.io/v2/cards/neo4-91",
+    "file": "evidence/pokemontcgio_neo4_91.json",
+    "bytes": 1792,
+    "sha256": "8cbefd5798b599971f347a22aebb9f6deba5692e3ed904f863906d1538ef7da7",
+    "source_family": "tcgplayer_inventory",
+    "provider": "pokemontcg.io",
+    "retrieved_on": "2026-10-31"
+  }
+]

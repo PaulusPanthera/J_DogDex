@@ -1,0 +1,3048 @@
+[
+  {
+    "entry_id": "research_entry_1f9f7e9ccf57588e9558bb9badf04dc6",
+    "before": {
+      "id": "research_entry_1f9f7e9ccf57588e9558bb9badf04dc6",
+      "lang": "de",
+      "name": "Mega-Zygarde-ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [
+        718
+      ],
+      "cameo_dex": [
+        718
+      ],
+      "number": "104",
+      "number_key": "104",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Optimale Ordnung",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "regional_chronology",
+      "rarity_code": "ultra_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Ultraselten",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "e8c1a56fe51632eb88b2936b38e67afbf36e17e077c555fe0daf1a74c92985b7.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_257988cebac557b9a811fae5508bc5a8",
+          "entry_id": "research_entry_1f9f7e9ccf57588e9558bb9badf04dc6",
+          "image": "e8c1a56fe51632eb88b2936b38e67afbf36e17e077c555fe0daf1a74c92985b7.webp",
+          "image_scope": "entry",
+          "category": "standard",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/de/cards/me03-104",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "Holo",
+              "size": "Standard",
+              "thirdParty": {
+                "tcgplayer": 684337,
+                "cardmarket": 877521
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.939Z",
+                  "unit": "EUR",
+                  "idProduct": 877521,
+                  "avg": 6.05,
+                  "low": 3,
+                  "trend": 5.73,
+                  "avg1": 5.76,
+                  "avg7": 5.73,
+                  "avg30": 6.03,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684337,
+                    "lowPrice": 2.63,
+                    "midPrice": 5,
+                    "highPrice": 121.5,
+                    "marketPrice": 4.15,
+                    "directLowPrice": 5.21
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877521,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:me03",
+          "name": "Optimale Ordnung",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/me03-104"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:de:me03-104",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-104"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-104"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://www.pokewiki.de/Erweiterung",
+      "date_evidence": {
+        "regional_name": "Optimale Ordnung",
+        "regional_date": "27. März 2026",
+        "column": "deutsch / Datum",
+        "capture_url": "https://www.pokewiki.de/api.php?action=parse&page=Erweiterung&prop=text&format=json"
+      },
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/de/me/me03/104/high.webp",
+      "rarity_key": "ultra_rare",
+      "rarity_order": 5,
+      "original_rarity_label": "Ultra Selten",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "ultra_rare"
+      },
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "native identity / rarity",
+          "value": {
+            "number": "104",
+            "printed_number": "104/088",
+            "name": "Mega-Zygarde ex",
+            "rarity_label": "Ultra Rare",
+            "image_urls": [
+              "https://media.bisafans.de/32a223d/sammelkarten/sets/me-optimale-ordnung/104.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.bisafans.de/sammelkarten/sets/me/optimale-ordnung/kartenliste.php"
+          ],
+          "source_family": "bisafans_editorial",
+          "disposition": "new_native_inventory_check",
+          "summary": "Exact native name, set and printed number. Foil finish was not inferred from the rarity icon.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega-Zygarde-ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "104",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://www.pokewiki.de/Erweiterung"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_source_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "ultra_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        }
+      ]
+    },
+    "after": {
+      "id": "research_entry_1f9f7e9ccf57588e9558bb9badf04dc6",
+      "lang": "de",
+      "name": "Mega-Zygarde-ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [
+        718
+      ],
+      "cameo_dex": [
+        718
+      ],
+      "number": "104",
+      "number_key": "104",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Optimale Ordnung",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "regional_chronology",
+      "rarity_code": "ultra_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Ultraselten",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "e8c1a56fe51632eb88b2936b38e67afbf36e17e077c555fe0daf1a74c92985b7.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_257988cebac557b9a811fae5508bc5a8",
+          "entry_id": "research_entry_1f9f7e9ccf57588e9558bb9badf04dc6",
+          "image": "e8c1a56fe51632eb88b2936b38e67afbf36e17e077c555fe0daf1a74c92985b7.webp",
+          "image_scope": "entry",
+          "category": "standard",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/de/cards/me03-104",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "Holo",
+              "size": "Standard",
+              "thirdParty": {
+                "tcgplayer": 684337,
+                "cardmarket": 877521
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.939Z",
+                  "unit": "EUR",
+                  "idProduct": 877521,
+                  "avg": 6.05,
+                  "low": 3,
+                  "trend": 5.73,
+                  "avg1": 5.76,
+                  "avg7": 5.73,
+                  "avg30": 6.03,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684337,
+                    "lowPrice": 2.63,
+                    "midPrice": 5,
+                    "highPrice": 121.5,
+                    "marketPrice": 4.15,
+                    "directLowPrice": 5.21
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877521,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          },
+          "collection_status": "excluded"
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:me03",
+          "name": "Optimale Ordnung",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/me03-104"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:de:me03-104",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-104"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-104"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://www.pokewiki.de/Erweiterung",
+      "date_evidence": {
+        "regional_name": "Optimale Ordnung",
+        "regional_date": "27. März 2026",
+        "column": "deutsch / Datum",
+        "capture_url": "https://www.pokewiki.de/api.php?action=parse&page=Erweiterung&prop=text&format=json"
+      },
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/de/me/me03/104/high.webp",
+      "rarity_key": "ultra_rare",
+      "rarity_order": 5,
+      "original_rarity_label": "Ultra Selten",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "ultra_rare"
+      },
+      "identity_status": "excluded",
+      "evidence": [
+        {
+          "field": "native identity / rarity",
+          "value": {
+            "number": "104",
+            "printed_number": "104/088",
+            "name": "Mega-Zygarde ex",
+            "rarity_label": "Ultra Rare",
+            "image_urls": [
+              "https://media.bisafans.de/32a223d/sammelkarten/sets/me-optimale-ordnung/104.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.bisafans.de/sammelkarten/sets/me/optimale-ordnung/kartenliste.php"
+          ],
+          "source_family": "bisafans_editorial",
+          "disposition": "new_native_inventory_check",
+          "summary": "Exact native name, set and printed number. Foil finish was not inferred from the rarity icon.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega-Zygarde-ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "104",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://www.pokewiki.de/Erweiterung"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_source_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "ultra_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "Zygarde forme scope",
+          "value": {
+            "version": "1.8.9",
+            "reviewed_on": "2026-10-31",
+            "decision": "excluded_form",
+            "subject_forms": [
+              "mega"
+            ],
+            "cameo_forms": [
+              "complete"
+            ],
+            "included_cameo_forms": [],
+            "reason": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release.",
+            "source_urls": [
+              "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+              "https://cardcameos.com/zygarde-complete-cameo-cards/",
+              "https://assets.tcgdex.net/de/me/me03/104/high.webp"
+            ]
+          },
+          "source_urls": [
+            "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+            "https://cardcameos.com/zygarde-complete-cameo-cards/",
+            "https://assets.tcgdex.net/de/me/me03/104/high.webp"
+          ],
+          "source_family": "identity_corrections_189",
+          "disposition": "excluded_collecting_scope",
+          "retrieved_on": "2026-10-31",
+          "summary": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release."
+        }
+      ],
+      "scope_review": {
+        "version": "1.8.9",
+        "reviewed_on": "2026-10-31",
+        "decision": "excluded_form",
+        "subject_forms": [
+          "mega"
+        ],
+        "cameo_forms": [
+          "complete"
+        ],
+        "included_cameo_forms": [],
+        "reason": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release.",
+        "source_urls": [
+          "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+          "https://cardcameos.com/zygarde-complete-cameo-cards/",
+          "https://assets.tcgdex.net/de/me/me03/104/high.webp"
+        ]
+      },
+      "status_reason": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release."
+    }
+  },
+  {
+    "entry_id": "research_entry_ab0768432f7554e1b9ff0bc2733a53ac",
+    "before": {
+      "id": "research_entry_ab0768432f7554e1b9ff0bc2733a53ac",
+      "lang": "de",
+      "name": "Mega-Zygarde-ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [
+        718
+      ],
+      "cameo_dex": [
+        718
+      ],
+      "number": "120",
+      "number_key": "120",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Optimale Ordnung",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "regional_chronology",
+      "rarity_code": "special_illustration_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Selten, besondere Illustration",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "9ab87f08d4a09f3f21a8b54a9d44700c962af9bd934a81ace1a3b4eb82f84d50.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_796f46d686435f6597123f495e63abfb",
+          "entry_id": "research_entry_ab0768432f7554e1b9ff0bc2733a53ac",
+          "image": "9ab87f08d4a09f3f21a8b54a9d44700c962af9bd934a81ace1a3b4eb82f84d50.webp",
+          "image_scope": "entry",
+          "category": "standard",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/de/cards/me03-120",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "Holo",
+              "size": "Standard",
+              "thirdParty": {
+                "tcgplayer": 684338,
+                "cardmarket": 877537
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.928Z",
+                  "unit": "EUR",
+                  "idProduct": 877537,
+                  "avg": 42.75,
+                  "low": 25,
+                  "trend": 38.92,
+                  "avg1": 34.69,
+                  "avg7": 37.97,
+                  "avg30": 40.5,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684338,
+                    "lowPrice": 38,
+                    "midPrice": 48,
+                    "highPrice": 1110.1,
+                    "marketPrice": 40.42,
+                    "directLowPrice": 43.09
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877537,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:me03",
+          "name": "Optimale Ordnung",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/me03-120"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:de:me03-120",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-120"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-120"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://www.pokewiki.de/Erweiterung",
+      "date_evidence": {
+        "regional_name": "Optimale Ordnung",
+        "regional_date": "27. März 2026",
+        "column": "deutsch / Datum",
+        "capture_url": "https://www.pokewiki.de/api.php?action=parse&page=Erweiterung&prop=text&format=json"
+      },
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/de/me/me03/120/high.webp",
+      "rarity_key": "special_illustration_rare",
+      "rarity_order": 7,
+      "original_rarity_label": "Selten, besondere Illustration",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "special_illustration_rare"
+      },
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "native identity / rarity",
+          "value": {
+            "number": "120",
+            "printed_number": "120/088",
+            "name": "Mega-Zygarde ex",
+            "rarity_label": null,
+            "image_urls": [
+              "https://media.bisafans.de/32a223d/sammelkarten/sets/me-optimale-ordnung/120.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.bisafans.de/sammelkarten/sets/me/optimale-ordnung/kartenliste.php"
+          ],
+          "source_family": "bisafans_editorial",
+          "disposition": "new_native_inventory_check",
+          "summary": "Exact native name, set and printed number. Foil finish was not inferred from the rarity icon.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega-Zygarde-ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "120",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://www.pokewiki.de/Erweiterung"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_source_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "special_illustration_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        }
+      ]
+    },
+    "after": {
+      "id": "research_entry_ab0768432f7554e1b9ff0bc2733a53ac",
+      "lang": "de",
+      "name": "Mega-Zygarde-ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [],
+      "cameo_dex": [
+        718
+      ],
+      "number": "120",
+      "number_key": "120",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Optimale Ordnung",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "regional_chronology",
+      "rarity_code": "special_illustration_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Selten, besondere Illustration",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "cameo",
+      "image": "9ab87f08d4a09f3f21a8b54a9d44700c962af9bd934a81ace1a3b4eb82f84d50.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_796f46d686435f6597123f495e63abfb",
+          "entry_id": "research_entry_ab0768432f7554e1b9ff0bc2733a53ac",
+          "image": "9ab87f08d4a09f3f21a8b54a9d44700c962af9bd934a81ace1a3b4eb82f84d50.webp",
+          "image_scope": "entry",
+          "category": "cameo",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/de/cards/me03-120",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "Holo",
+              "size": "Standard",
+              "thirdParty": {
+                "tcgplayer": 684338,
+                "cardmarket": 877537
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.928Z",
+                  "unit": "EUR",
+                  "idProduct": 877537,
+                  "avg": 42.75,
+                  "low": 25,
+                  "trend": 38.92,
+                  "avg1": 34.69,
+                  "avg7": 37.97,
+                  "avg30": 40.5,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684338,
+                    "lowPrice": 38,
+                    "midPrice": 48,
+                    "highPrice": 1110.1,
+                    "marketPrice": 40.42,
+                    "directLowPrice": 43.09
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877537,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:me03",
+          "name": "Optimale Ordnung",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/me03-120"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:de:me03-120",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-120"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/me03-120"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://www.pokewiki.de/Erweiterung",
+      "date_evidence": {
+        "regional_name": "Optimale Ordnung",
+        "regional_date": "27. März 2026",
+        "column": "deutsch / Datum",
+        "capture_url": "https://www.pokewiki.de/api.php?action=parse&page=Erweiterung&prop=text&format=json"
+      },
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/de/me/me03/120/high.webp",
+      "rarity_key": "special_illustration_rare",
+      "rarity_order": 7,
+      "original_rarity_label": "Selten, besondere Illustration",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "special_illustration_rare"
+      },
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "native identity / rarity",
+          "value": {
+            "number": "120",
+            "printed_number": "120/088",
+            "name": "Mega-Zygarde ex",
+            "rarity_label": null,
+            "image_urls": [
+              "https://media.bisafans.de/32a223d/sammelkarten/sets/me-optimale-ordnung/120.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.bisafans.de/sammelkarten/sets/me/optimale-ordnung/kartenliste.php"
+          ],
+          "source_family": "bisafans_editorial",
+          "disposition": "new_native_inventory_check",
+          "summary": "Exact native name, set and printed number. Foil finish was not inferred from the rarity icon.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega-Zygarde-ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "120",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://www.pokewiki.de/Erweiterung"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_source_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "special_illustration_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/de/pokemon-news/neue-kartenaesthetik-in-der-pokemon-sammelkartenspiel-erweiterung-karmesin-and-purpur"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "Zygarde forme scope",
+          "value": {
+            "version": "1.8.9",
+            "reviewed_on": "2026-10-31",
+            "decision": "included_cameo",
+            "subject_forms": [
+              "mega"
+            ],
+            "cameo_forms": [
+              "10_percent",
+              "50_percent",
+              "complete",
+              "cell",
+              "core"
+            ],
+            "included_cameo_forms": [
+              "10_percent"
+            ],
+            "reason": "The 10% dog Forme appears as an outlined cameo at the lower left. Mega Zygarde is the printed primary, but that primary form is outside scope. Retain this physical card as a 10% cameo, not as a primary dog card.",
+            "source_urls": [
+              "https://cardcameos.com/zygarde-10-cameo-cards/",
+              "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+              "https://assets.tcgdex.net/de/me/me03/120/high.webp"
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/zygarde-10-cameo-cards/",
+            "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+            "https://assets.tcgdex.net/de/me/me03/120/high.webp"
+          ],
+          "source_family": "identity_corrections_189",
+          "disposition": "documented_cameo",
+          "retrieved_on": "2026-10-31",
+          "summary": "The 10% dog Forme appears as an outlined cameo at the lower left. Mega Zygarde is the printed primary, but that primary form is outside scope. Retain this physical card as a 10% cameo, not as a primary dog card."
+        }
+      ],
+      "scope_review": {
+        "version": "1.8.9",
+        "reviewed_on": "2026-10-31",
+        "decision": "included_cameo",
+        "subject_forms": [
+          "mega"
+        ],
+        "cameo_forms": [
+          "10_percent",
+          "50_percent",
+          "complete",
+          "cell",
+          "core"
+        ],
+        "included_cameo_forms": [
+          "10_percent"
+        ],
+        "reason": "The 10% dog Forme appears as an outlined cameo at the lower left. Mega Zygarde is the printed primary, but that primary form is outside scope. Retain this physical card as a 10% cameo, not as a primary dog card.",
+        "source_urls": [
+          "https://cardcameos.com/zygarde-10-cameo-cards/",
+          "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+          "https://assets.tcgdex.net/de/me/me03/120/high.webp"
+        ]
+      }
+    }
+  },
+  {
+    "entry_id": "research_entry_1f60fd568a7c519cb3290f29518d4bc5",
+    "before": {
+      "id": "research_entry_1f60fd568a7c519cb3290f29518d4bc5",
+      "lang": "en",
+      "name": "Mega Zygarde ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [
+        718
+      ],
+      "cameo_dex": [
+        718
+      ],
+      "number": "104",
+      "number_key": "104",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Perfect Order",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "provider_region_date",
+      "rarity_code": "ultra_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Ultra Rare",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "7bf36952f3987d6184403cc6fbb33e43f6edb0296d3adb67185f54d2faae1b14.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_6ca12f868cb953a3a29228926f2ef0cf",
+          "entry_id": "research_entry_1f60fd568a7c519cb3290f29518d4bc5",
+          "image": "7bf36952f3987d6184403cc6fbb33e43f6edb0296d3adb67185f54d2faae1b14.webp",
+          "image_scope": "entry",
+          "category": "standard",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/en/cards/me03-104",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "holo",
+              "size": "standard",
+              "thirdParty": {
+                "tcgplayer": 684337,
+                "cardmarket": 877521
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.928Z",
+                  "unit": "EUR",
+                  "idProduct": 877521,
+                  "avg": 6.05,
+                  "low": 3,
+                  "trend": 5.73,
+                  "avg1": 5.76,
+                  "avg7": 5.73,
+                  "avg30": 6.03,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684337,
+                    "lowPrice": 2.63,
+                    "midPrice": 5,
+                    "highPrice": 121.5,
+                    "marketPrice": 4.15,
+                    "directLowPrice": 5.21
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877521,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:en:me03",
+          "name": "Perfect Order",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/en/cards/me03-104"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:en:me03-104",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-104"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-104"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://api.tcgdex.net/v2/en/sets/me03",
+      "date_evidence": "Explicit localized TCGdex set detail releaseDate; not independently confirmed against manufacturer for every row.",
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/en/me/me03/104/high.webp",
+      "rarity_key": "ultra_rare",
+      "rarity_order": 5,
+      "original_rarity_label": "Ultra Rare",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "ultra_rare"
+      },
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "inventory identity",
+          "value": {
+            "id": "me3-104",
+            "name": "Mega Zygarde ex",
+            "supertype": "Pokémon",
+            "subtypes": [
+              "Basic",
+              "MEGA",
+              "ex"
+            ],
+            "hp": "310",
+            "types": [
+              "Fighting"
+            ],
+            "rules": [
+              "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+              "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+            ],
+            "attacks": [
+              {
+                "name": "Gaia Wave",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+              },
+              {
+                "name": "Nullifying Zero",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 5,
+                "damage": "",
+                "text": "For each of your opponent's Pokémon, flip a coin. If heads, this attack does 150 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+              }
+            ],
+            "weaknesses": [
+              {
+                "type": "Grass",
+                "value": "×2"
+              }
+            ],
+            "retreatCost": [
+              "Colorless",
+              "Colorless"
+            ],
+            "convertedRetreatCost": 2,
+            "number": "104",
+            "rarity": "Ultra Rare",
+            "nationalPokedexNumbers": [
+              718
+            ],
+            "legalities": {
+              "standard": "Not Legal",
+              "unlimited": "Legal",
+              "expanded": "Legal"
+            },
+            "regulationMark": "J",
+            "images": {
+              "small": "https://images.scrydex.com/pokemon/me3-104/small",
+              "large": "https://images.scrydex.com/pokemon/me3-104/large"
+            },
+            "source_file": "pokemon-tcg-data-master/cards/en/me3.json"
+          },
+          "source_urls": [
+            "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/cards/en/me3.json"
+          ],
+          "source_family": "pokemon_tcg_api",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "me3-104",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "inventory identity",
+          "value": {
+            "name": "Mega Zygarde ex",
+            "set_name": "Perfect Order",
+            "number": "104",
+            "printed_label": "Perfect Order104 / 88",
+            "card_url": "https://www.serebii.net/card/perfectorder/104.shtml",
+            "set_url": "https://www.serebii.net/card/perfectorder/",
+            "rarity_icons": [
+              "/card/image/silvertwostar.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.serebii.net/card/perfectorder/104.shtml"
+          ],
+          "source_family": "serebii",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega Zygarde ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "104",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/sets/me03"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "provider_assertion",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "ultra_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        }
+      ]
+    },
+    "after": {
+      "id": "research_entry_1f60fd568a7c519cb3290f29518d4bc5",
+      "lang": "en",
+      "name": "Mega Zygarde ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [
+        718
+      ],
+      "cameo_dex": [
+        718
+      ],
+      "number": "104",
+      "number_key": "104",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Perfect Order",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "provider_region_date",
+      "rarity_code": "ultra_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Ultra Rare",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "7bf36952f3987d6184403cc6fbb33e43f6edb0296d3adb67185f54d2faae1b14.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_6ca12f868cb953a3a29228926f2ef0cf",
+          "entry_id": "research_entry_1f60fd568a7c519cb3290f29518d4bc5",
+          "image": "7bf36952f3987d6184403cc6fbb33e43f6edb0296d3adb67185f54d2faae1b14.webp",
+          "image_scope": "entry",
+          "category": "standard",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/en/cards/me03-104",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "holo",
+              "size": "standard",
+              "thirdParty": {
+                "tcgplayer": 684337,
+                "cardmarket": 877521
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.928Z",
+                  "unit": "EUR",
+                  "idProduct": 877521,
+                  "avg": 6.05,
+                  "low": 3,
+                  "trend": 5.73,
+                  "avg1": 5.76,
+                  "avg7": 5.73,
+                  "avg30": 6.03,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684337,
+                    "lowPrice": 2.63,
+                    "midPrice": 5,
+                    "highPrice": 121.5,
+                    "marketPrice": 4.15,
+                    "directLowPrice": 5.21
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877521,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          },
+          "collection_status": "excluded"
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:en:me03",
+          "name": "Perfect Order",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/en/cards/me03-104"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:en:me03-104",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-104"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-104"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://api.tcgdex.net/v2/en/sets/me03",
+      "date_evidence": "Explicit localized TCGdex set detail releaseDate; not independently confirmed against manufacturer for every row.",
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/en/me/me03/104/high.webp",
+      "rarity_key": "ultra_rare",
+      "rarity_order": 5,
+      "original_rarity_label": "Ultra Rare",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "ultra_rare"
+      },
+      "identity_status": "excluded",
+      "evidence": [
+        {
+          "field": "inventory identity",
+          "value": {
+            "id": "me3-104",
+            "name": "Mega Zygarde ex",
+            "supertype": "Pokémon",
+            "subtypes": [
+              "Basic",
+              "MEGA",
+              "ex"
+            ],
+            "hp": "310",
+            "types": [
+              "Fighting"
+            ],
+            "rules": [
+              "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+              "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+            ],
+            "attacks": [
+              {
+                "name": "Gaia Wave",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+              },
+              {
+                "name": "Nullifying Zero",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 5,
+                "damage": "",
+                "text": "For each of your opponent's Pokémon, flip a coin. If heads, this attack does 150 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+              }
+            ],
+            "weaknesses": [
+              {
+                "type": "Grass",
+                "value": "×2"
+              }
+            ],
+            "retreatCost": [
+              "Colorless",
+              "Colorless"
+            ],
+            "convertedRetreatCost": 2,
+            "number": "104",
+            "rarity": "Ultra Rare",
+            "nationalPokedexNumbers": [
+              718
+            ],
+            "legalities": {
+              "standard": "Not Legal",
+              "unlimited": "Legal",
+              "expanded": "Legal"
+            },
+            "regulationMark": "J",
+            "images": {
+              "small": "https://images.scrydex.com/pokemon/me3-104/small",
+              "large": "https://images.scrydex.com/pokemon/me3-104/large"
+            },
+            "source_file": "pokemon-tcg-data-master/cards/en/me3.json"
+          },
+          "source_urls": [
+            "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/cards/en/me3.json"
+          ],
+          "source_family": "pokemon_tcg_api",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "me3-104",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "inventory identity",
+          "value": {
+            "name": "Mega Zygarde ex",
+            "set_name": "Perfect Order",
+            "number": "104",
+            "printed_label": "Perfect Order104 / 88",
+            "card_url": "https://www.serebii.net/card/perfectorder/104.shtml",
+            "set_url": "https://www.serebii.net/card/perfectorder/",
+            "rarity_icons": [
+              "/card/image/silvertwostar.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.serebii.net/card/perfectorder/104.shtml"
+          ],
+          "source_family": "serebii",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega Zygarde ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "104",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/sets/me03"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "provider_assertion",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "ultra_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "Zygarde forme scope",
+          "value": {
+            "version": "1.8.9",
+            "reviewed_on": "2026-10-31",
+            "decision": "excluded_form",
+            "subject_forms": [
+              "mega"
+            ],
+            "cameo_forms": [
+              "complete"
+            ],
+            "included_cameo_forms": [],
+            "reason": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release.",
+            "source_urls": [
+              "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+              "https://cardcameos.com/zygarde-complete-cameo-cards/",
+              "https://assets.tcgdex.net/de/me/me03/104/high.webp"
+            ]
+          },
+          "source_urls": [
+            "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+            "https://cardcameos.com/zygarde-complete-cameo-cards/",
+            "https://assets.tcgdex.net/de/me/me03/104/high.webp"
+          ],
+          "source_family": "identity_corrections_189",
+          "disposition": "excluded_collecting_scope",
+          "retrieved_on": "2026-10-31",
+          "summary": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release."
+        }
+      ],
+      "scope_review": {
+        "version": "1.8.9",
+        "reviewed_on": "2026-10-31",
+        "decision": "excluded_form",
+        "subject_forms": [
+          "mega"
+        ],
+        "cameo_forms": [
+          "complete"
+        ],
+        "included_cameo_forms": [],
+        "reason": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release.",
+        "source_urls": [
+          "https://www.pokemon.com/uk/news/rosas-encouragement-mega-zygarde-ex-and-more-from-mega-evolution-perfect-order",
+          "https://cardcameos.com/zygarde-complete-cameo-cards/",
+          "https://assets.tcgdex.net/de/me/me03/104/high.webp"
+        ]
+      },
+      "status_reason": "Outside the agreed Zygarde 10% collecting scope: the artwork shows Mega Zygarde and a Complete Forme outline, with no 10% dog Forme. This is a real card, not a nonexistent or false language release."
+    }
+  },
+  {
+    "entry_id": "research_entry_76e47aa4bc1150d99a266eddd3b43727",
+    "before": {
+      "id": "research_entry_76e47aa4bc1150d99a266eddd3b43727",
+      "lang": "en",
+      "name": "Mega Zygarde ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [
+        718
+      ],
+      "cameo_dex": [
+        718
+      ],
+      "number": "120",
+      "number_key": "120",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Perfect Order",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "provider_region_date",
+      "rarity_code": "special_illustration_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Special Illustration Rare",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "be819aa7b2d80221d9cd1a580f01c5609f5ee061b4ae5c67cc4d6858bf930b58.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_d6edf0f2db1d555ab8e7104d9896cf28",
+          "entry_id": "research_entry_76e47aa4bc1150d99a266eddd3b43727",
+          "image": "be819aa7b2d80221d9cd1a580f01c5609f5ee061b4ae5c67cc4d6858bf930b58.webp",
+          "image_scope": "entry",
+          "category": "standard",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/en/cards/me03-120",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "holo",
+              "size": "standard",
+              "thirdParty": {
+                "tcgplayer": 684338,
+                "cardmarket": 877537
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.953Z",
+                  "unit": "EUR",
+                  "idProduct": 877537,
+                  "avg": 42.75,
+                  "low": 25,
+                  "trend": 38.92,
+                  "avg1": 34.69,
+                  "avg7": 37.97,
+                  "avg30": 40.5,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684338,
+                    "lowPrice": 38,
+                    "midPrice": 48,
+                    "highPrice": 1110.1,
+                    "marketPrice": 40.42,
+                    "directLowPrice": 43.09
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877537,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:en:me03",
+          "name": "Perfect Order",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/en/cards/me03-120"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:en:me03-120",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-120"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-120"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://api.tcgdex.net/v2/en/sets/me03",
+      "date_evidence": "Explicit localized TCGdex set detail releaseDate; not independently confirmed against manufacturer for every row.",
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/en/me/me03/120/high.webp",
+      "rarity_key": "special_illustration_rare",
+      "rarity_order": 7,
+      "original_rarity_label": "Special illustration rare",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "special_illustration_rare"
+      },
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "inventory identity",
+          "value": {
+            "id": "me3-120",
+            "name": "Mega Zygarde ex",
+            "supertype": "Pokémon",
+            "subtypes": [
+              "Basic",
+              "MEGA",
+              "ex"
+            ],
+            "hp": "310",
+            "types": [
+              "Fighting"
+            ],
+            "rules": [
+              "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+              "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+            ],
+            "attacks": [
+              {
+                "name": "Gaia Wave",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+              },
+              {
+                "name": "Nullifying Zero",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 5,
+                "damage": "",
+                "text": "For each of your opponent's Pokémon, flip a coin. If heads, this attack does 150 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+              }
+            ],
+            "weaknesses": [
+              {
+                "type": "Grass",
+                "value": "×2"
+              }
+            ],
+            "retreatCost": [
+              "Colorless",
+              "Colorless"
+            ],
+            "convertedRetreatCost": 2,
+            "number": "120",
+            "rarity": "Special Illustration Rare",
+            "nationalPokedexNumbers": [
+              718
+            ],
+            "legalities": {
+              "standard": "Not Legal",
+              "unlimited": "Legal",
+              "expanded": "Legal"
+            },
+            "regulationMark": "J",
+            "images": {
+              "small": "https://images.scrydex.com/pokemon/me3-120/small",
+              "large": "https://images.scrydex.com/pokemon/me3-120/large"
+            },
+            "source_file": "pokemon-tcg-data-master/cards/en/me3.json"
+          },
+          "source_urls": [
+            "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/cards/en/me3.json"
+          ],
+          "source_family": "pokemon_tcg_api",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "me3-120",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "inventory identity",
+          "value": {
+            "name": "Mega Zygarde ex",
+            "set_name": "Perfect Order",
+            "number": "120",
+            "printed_label": "Perfect Order120 / 88",
+            "card_url": "https://www.serebii.net/card/perfectorder/120.shtml",
+            "set_url": "https://www.serebii.net/card/perfectorder/",
+            "rarity_icons": [
+              "/card/image/goldtwostar.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.serebii.net/card/perfectorder/120.shtml"
+          ],
+          "source_family": "serebii",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega Zygarde ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "120",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/sets/me03"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "provider_assertion",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "special_illustration_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        }
+      ]
+    },
+    "after": {
+      "id": "research_entry_76e47aa4bc1150d99a266eddd3b43727",
+      "lang": "en",
+      "name": "Mega Zygarde ex",
+      "english": "Mega Zygarde ex",
+      "dex": 718,
+      "subject_dex": [],
+      "cameo_dex": [
+        718
+      ],
+      "number": "120",
+      "number_key": "120",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Perfect Order",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "date_state": "provider_region_date",
+      "rarity_code": "special_illustration_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "sourced_localized",
+      "rarity_label": "Special Illustration Rare",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "cameo",
+      "image": "be819aa7b2d80221d9cd1a580f01c5609f5ee061b4ae5c67cc4d6858bf930b58.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_d6edf0f2db1d555ab8e7104d9896cf28",
+          "entry_id": "research_entry_76e47aa4bc1150d99a266eddd3b43727",
+          "image": "be819aa7b2d80221d9cd1a580f01c5609f5ee061b4ae5c67cc4d6858bf930b58.webp",
+          "image_scope": "entry",
+          "category": "cameo",
+          "provenance": {
+            "kind": "cameo_physical_tuple",
+            "source_url": "https://api.tcgdex.net/v2/en/cards/me03-120",
+            "evidence": "explicit provider physical variant; generated defaults excluded",
+            "raw_tuple": {
+              "type": "holo",
+              "size": "standard",
+              "thirdParty": {
+                "tcgplayer": 684338,
+                "cardmarket": 877537
+              },
+              "variantId": "jr7oetx1mqug9",
+              "pricing": {
+                "cardmarket": {
+                  "updated": "2026-10-26T22:54:32.953Z",
+                  "unit": "EUR",
+                  "idProduct": 877537,
+                  "avg": 42.75,
+                  "low": 25,
+                  "trend": 38.92,
+                  "avg1": 34.69,
+                  "avg7": 37.97,
+                  "avg30": 40.5,
+                  "avg-holo": null,
+                  "low-holo": null,
+                  "trend-holo": 0,
+                  "avg1-holo": null,
+                  "avg7-holo": null,
+                  "avg30-holo": null
+                },
+                "tcgplayer": {
+                  "unit": "USD",
+                  "updated": "2026-10-14T22:55:13.679Z",
+                  "holofoil": {
+                    "productId": 684338,
+                    "lowPrice": 38,
+                    "midPrice": 48,
+                    "highPrice": 1110.1,
+                    "marketPrice": 40.42,
+                    "directLowPrice": 43.09
+                  }
+                }
+              }
+            }
+          },
+          "label": "Holo",
+          "market_candidate": {
+            "product_id": 877537,
+            "name": "Mega Zygarde ex",
+            "source_url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_singles_6.json",
+            "checks": {
+              "name": "provider_name_screen_only",
+              "set": "not_independently_checked",
+              "number": "not_independently_checked",
+              "variant": "not_independently_checked"
+            },
+            "state": "unverified_provider_candidate"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:en:me03",
+          "name": "Perfect Order",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/en/cards/me03-120"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "inferred",
+      "provenance": {
+        "source_id": "tcgdex:en:me03-120",
+        "cameo_evidence": "provider cameoDexIds",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-120"
+        ]
+      },
+      "cameo_source": {
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/me03-120"
+        ],
+        "evidence": "provider cameoDexIds"
+      },
+      "date_source": "https://api.tcgdex.net/v2/en/sets/me03",
+      "date_evidence": "Explicit localized TCGdex set detail releaseDate; not independently confirmed against manufacturer for every row.",
+      "date_note": null,
+      "image_source": "https://assets.tcgdex.net/en/me/me03/120/high.webp",
+      "rarity_key": "special_illustration_rare",
+      "rarity_order": 7,
+      "original_rarity_label": "Special illustration rare",
+      "art_style_source": {
+        "method": "official_modern_rarity_artwork_definition",
+        "source_url": "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic",
+        "inference": true,
+        "release": "me03",
+        "rarity_code": "special_illustration_rare"
+      },
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "inventory identity",
+          "value": {
+            "id": "me3-120",
+            "name": "Mega Zygarde ex",
+            "supertype": "Pokémon",
+            "subtypes": [
+              "Basic",
+              "MEGA",
+              "ex"
+            ],
+            "hp": "310",
+            "types": [
+              "Fighting"
+            ],
+            "rules": [
+              "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+              "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+            ],
+            "attacks": [
+              {
+                "name": "Gaia Wave",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+              },
+              {
+                "name": "Nullifying Zero",
+                "cost": [
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting",
+                  "Fighting"
+                ],
+                "convertedEnergyCost": 5,
+                "damage": "",
+                "text": "For each of your opponent's Pokémon, flip a coin. If heads, this attack does 150 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+              }
+            ],
+            "weaknesses": [
+              {
+                "type": "Grass",
+                "value": "×2"
+              }
+            ],
+            "retreatCost": [
+              "Colorless",
+              "Colorless"
+            ],
+            "convertedRetreatCost": 2,
+            "number": "120",
+            "rarity": "Special Illustration Rare",
+            "nationalPokedexNumbers": [
+              718
+            ],
+            "legalities": {
+              "standard": "Not Legal",
+              "unlimited": "Legal",
+              "expanded": "Legal"
+            },
+            "regulationMark": "J",
+            "images": {
+              "small": "https://images.scrydex.com/pokemon/me3-120/small",
+              "large": "https://images.scrydex.com/pokemon/me3-120/large"
+            },
+            "source_file": "pokemon-tcg-data-master/cards/en/me3.json"
+          },
+          "source_urls": [
+            "https://github.com/PokemonTCG/pokemon-tcg-data/blob/master/cards/en/me3.json"
+          ],
+          "source_family": "pokemon_tcg_api",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "me3-120",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "inventory identity",
+          "value": {
+            "name": "Mega Zygarde ex",
+            "set_name": "Perfect Order",
+            "number": "120",
+            "printed_label": "Perfect Order120 / 88",
+            "card_url": "https://www.serebii.net/card/perfectorder/120.shtml",
+            "set_url": "https://www.serebii.net/card/perfectorder/",
+            "rarity_icons": [
+              "/card/image/goldtwostar.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.serebii.net/card/perfectorder/120.shtml"
+          ],
+          "source_family": "serebii",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Mega Zygarde ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "120",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-03-27",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/sets/me03"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "provider_assertion",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "special_illustration_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "Zygarde forme scope",
+          "value": {
+            "version": "1.8.9",
+            "reviewed_on": "2026-10-31",
+            "decision": "included_cameo",
+            "subject_forms": [
+              "mega"
+            ],
+            "cameo_forms": [
+              "10_percent",
+              "50_percent",
+              "complete",
+              "cell",
+              "core"
+            ],
+            "included_cameo_forms": [
+              "10_percent"
+            ],
+            "reason": "The 10% dog Forme appears as an outlined cameo at the lower left. Mega Zygarde is the printed primary, but that primary form is outside scope. Retain this physical card as a 10% cameo, not as a primary dog card.",
+            "source_urls": [
+              "https://cardcameos.com/zygarde-10-cameo-cards/",
+              "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+              "https://assets.tcgdex.net/de/me/me03/120/high.webp"
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/zygarde-10-cameo-cards/",
+            "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+            "https://assets.tcgdex.net/de/me/me03/120/high.webp"
+          ],
+          "source_family": "identity_corrections_189",
+          "disposition": "documented_cameo",
+          "retrieved_on": "2026-10-31",
+          "summary": "The 10% dog Forme appears as an outlined cameo at the lower left. Mega Zygarde is the printed primary, but that primary form is outside scope. Retain this physical card as a 10% cameo, not as a primary dog card."
+        }
+      ],
+      "scope_review": {
+        "version": "1.8.9",
+        "reviewed_on": "2026-10-31",
+        "decision": "included_cameo",
+        "subject_forms": [
+          "mega"
+        ],
+        "cameo_forms": [
+          "10_percent",
+          "50_percent",
+          "complete",
+          "cell",
+          "core"
+        ],
+        "included_cameo_forms": [
+          "10_percent"
+        ],
+        "reason": "The 10% dog Forme appears as an outlined cameo at the lower left. Mega Zygarde is the printed primary, but that primary form is outside scope. Retain this physical card as a 10% cameo, not as a primary dog card.",
+        "source_urls": [
+          "https://cardcameos.com/zygarde-10-cameo-cards/",
+          "https://bulbapedia.bulbagarden.net/wiki/Mega_Zygarde_ex_(Perfect_Order_120)",
+          "https://assets.tcgdex.net/de/me/me03/120/high.webp"
+        ]
+      }
+    }
+  },
+  {
+    "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+    "before": {
+      "id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+      "lang": "de",
+      "name": "Illumina City",
+      "english": "Lumiose City",
+      "dex": 828,
+      "subject_dex": [],
+      "cameo_dex": [
+        828
+      ],
+      "number": "077",
+      "number_key": "77",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Optimale Ordnung",
+      "year_basis": "set",
+      "date_mode": "source",
+      "rarity_code": "uncommon",
+      "rarity_state": "known",
+      "rarity_namespace": "de:Bisafans:Uncommon",
+      "rarity_label": "Nicht so häufig",
+      "rarity_family": "other",
+      "metadata_state": "approved",
+      "identity_status": "documented",
+      "status_reason": "Exact native German name/number in Bisafans; localized artwork and physical variants are still field-specific.",
+      "category": "cameo",
+      "image": null,
+      "printings": [],
+      "sources": [
+        {
+          "id": "release:de:me03",
+          "name": "Optimale Ordnung",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/me03-077",
+        "https://api.tcgdex.net/v2/en/cards/me03-077",
+        "https://pokecameos.com/pokemon/thievul",
+        "https://www.tcgplayer.com/product/684348/pokemon-me03-perfect-order-lumiose-city-077-088"
+      ],
+      "art_style": null,
+      "art_style_state": "unresolved",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "year": 2026,
+      "date_state": "provider_reference",
+      "date_source": "https://www.pokewiki.de/Erweiterung",
+      "evidence": [
+        {
+          "field": "identity / language",
+          "value": {
+            "category": "Trainer",
+            "id": "me03-077",
+            "illustrator": "MARINA Chikazawa",
+            "image": "https://assets.tcgdex.net/de/me/me03/077",
+            "localId": "077",
+            "name": "Illumina City",
+            "rarity": "Ungewöhnlich",
+            "set": {
+              "cardCount": {
+                "official": 88,
+                "total": 124
+              },
+              "id": "me03",
+              "logo": "https://assets.tcgdex.net/de/me/me03/logo",
+              "name": "Optimale Ordnung",
+              "symbol": "https://assets.tcgdex.net/univ/me/me03/symbol"
+            },
+            "variants": {
+              "firstEdition": false,
+              "holo": false,
+              "normal": true,
+              "reverse": true,
+              "wPromo": false
+            },
+            "variants_detailed": [
+              {
+                "type": "Normal",
+                "size": "Standard",
+                "thirdParty": {
+                  "tcgplayer": 684348,
+                  "cardmarket": 877494
+                },
+                "variantId": "endfynwn4n10gzq",
+                "pricing": {
+                  "cardmarket": {
+                    "updated": "2026-10-28T22:54:32.776Z",
+                    "unit": "EUR",
+                    "idProduct": 877494,
+                    "avg": 0.04,
+                    "low": 0.02,
+                    "trend": 0.05,
+                    "avg1": 0.04,
+                    "avg7": 0.04,
+                    "avg30": 0.04,
+                    "avg-holo": 0.09,
+                    "low-holo": 0.02,
+                    "trend-holo": 0.15,
+                    "avg1-holo": 0.12,
+                    "avg7-holo": 0.13,
+                    "avg30-holo": 0.11
+                  },
+                  "tcgplayer": {
+                    "unit": "USD",
+                    "updated": "2026-10-14T22:55:13.679Z",
+                    "normal": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.16,
+                      "highPrice": 19.8,
+                      "marketPrice": 0.15,
+                      "directLowPrice": 0.05
+                    },
+                    "reverse-holofoil": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.22,
+                      "highPrice": 24,
+                      "marketPrice": 0.18,
+                      "directLowPrice": 0.18
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Reverse",
+                "size": "Standard",
+                "thirdParty": {
+                  "tcgplayer": 684348,
+                  "cardmarket": 877494
+                },
+                "variantId": "cm4kqul3x1bwlz1f",
+                "pricing": {
+                  "cardmarket": {
+                    "updated": "2026-10-28T22:54:32.776Z",
+                    "unit": "EUR",
+                    "idProduct": 877494,
+                    "avg": 0.04,
+                    "low": 0.02,
+                    "trend": 0.05,
+                    "avg1": 0.04,
+                    "avg7": 0.04,
+                    "avg30": 0.04,
+                    "avg-holo": 0.09,
+                    "low-holo": 0.02,
+                    "trend-holo": 0.15,
+                    "avg1-holo": 0.12,
+                    "avg7-holo": 0.13,
+                    "avg30-holo": 0.11
+                  },
+                  "tcgplayer": {
+                    "unit": "USD",
+                    "updated": "2026-10-14T22:55:13.679Z",
+                    "normal": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.16,
+                      "highPrice": 19.8,
+                      "marketPrice": 0.15,
+                      "directLowPrice": 0.05
+                    },
+                    "reverse-holofoil": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.22,
+                      "highPrice": 24,
+                      "marketPrice": 0.18,
+                      "directLowPrice": 0.18
+                    }
+                  }
+                }
+              }
+            ],
+            "effect": "Einmal während des Zuges jedes Spielers kann jener Spieler sein Deck nach 1 Basis-Pokémon durchsuchen und es auf seine Bank legen. Jener Spieler mischt anschließend sein Deck. Wenn ein Spieler auf diese Weise sein Deck durchsucht, endet sein Zug. Du kannst während deines Zuges nur 1 Stadionkarte spielen. Lege sie neben die Aktive Position, und lege sie auf den Ablagestapel, wenn ein anderes Stadion ins Spiel kommt. Ein Stadion mit demselben Namen kann nicht gespielt werden.",
+            "trainerType": "Stadionkarte",
+            "regulationMark": "J",
+            "legal": {
+              "standard": true,
+              "expanded": true
+            },
+            "updated": "2026-08-20T08:34:47+01:00",
+            "pricing": {
+              "cardmarket": {
+                "updated": "2026-10-28T22:54:32.776Z",
+                "unit": "EUR",
+                "idProduct": 877494,
+                "avg": 0.04,
+                "low": 0.02,
+                "trend": 0.05,
+                "avg1": 0.04,
+                "avg7": 0.04,
+                "avg30": 0.04,
+                "avg-holo": 0.09,
+                "low-holo": 0.02,
+                "trend-holo": 0.15,
+                "avg1-holo": 0.12,
+                "avg7-holo": 0.13,
+                "avg30-holo": 0.11
+              },
+              "tcgplayer": {
+                "unit": "USD",
+                "updated": "2026-10-14T22:55:13.679Z",
+                "normal": {
+                  "productId": 684348,
+                  "lowPrice": 0.01,
+                  "midPrice": 0.16,
+                  "highPrice": 19.8,
+                  "marketPrice": 0.15,
+                  "directLowPrice": 0.05
+                },
+                "reverse-holofoil": {
+                  "productId": 684348,
+                  "lowPrice": 0.01,
+                  "midPrice": 0.22,
+                  "highPrice": 24,
+                  "marketPrice": 0.18,
+                  "directLowPrice": 0.18
+                }
+              }
+            }
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/me03-077",
+            "https://api.tcgdex.net/v2/en/cards/me03-077",
+            "https://pokecameos.com/pokemon/thievul",
+            "https://www.tcgplayer.com/product/684348/pokemon-me03-perfect-order-lumiose-city-077-088"
+          ],
+          "source_family": "source_inventory",
+          "disposition": "newly_admitted_provisional",
+          "summary": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "native identity / rarity",
+          "value": {
+            "number": "077",
+            "printed_number": "077/088",
+            "name": "Illumina City",
+            "rarity_label": "Uncommon",
+            "image_urls": [
+              "https://media.bisafans.de/32a223d/sammelkarten/sets/me-optimale-ordnung/077.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.bisafans.de/sammelkarten/sets/me/optimale-ordnung/kartenliste.php"
+          ],
+          "source_family": "bisafans_editorial",
+          "disposition": "new_native_inventory_check",
+          "summary": "Exact native name, set and printed number. Foil finish was not inferred from the rarity icon.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        }
+      ],
+      "rarity_key": "uncommon",
+      "rarity_order": 1,
+      "original_rarity_label": "Needs research"
+    },
+    "after": {
+      "id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+      "lang": "de",
+      "name": "Illumina City",
+      "english": "Lumiose City",
+      "dex": 828,
+      "subject_dex": [],
+      "cameo_dex": [
+        828
+      ],
+      "number": "077",
+      "number_key": "77",
+      "identifier_namespace": "collector",
+      "release": "me03",
+      "set_name": "Optimale Ordnung",
+      "year_basis": "set",
+      "date_mode": "source",
+      "rarity_code": "uncommon",
+      "rarity_state": "known",
+      "rarity_namespace": "de:Bisafans:Uncommon",
+      "rarity_label": "Nicht so häufig",
+      "rarity_family": "uncommon",
+      "metadata_state": "approved",
+      "identity_status": "documented",
+      "status_reason": "Native German 077 artwork and explicit regional physical printings verified; Thievul on the shop billboard.",
+      "category": "cameo",
+      "image": "27df32684442123df231d4e0271d184e7f04897890dc3c8a1987e63665720baa.webp",
+      "printings": [
+        {
+          "finish": "non_holo",
+          "pattern": "none",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_4ad23c25079553a4bf87c4f3c20136e4",
+          "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+          "image": "27df32684442123df231d4e0271d184e7f04897890dc3c8a1987e63665720baa.webp",
+          "image_scope": "entry",
+          "category": "cameo",
+          "provenance": {
+            "kind": "reviewed_identity_189",
+            "source_url": "https://pokezentrum.de/wp-content/uploads/Pokemon-Mega-Entwicklung-Optimale-Ordnung-Kartenliste-Checkliste-PDF-TCG.pdf",
+            "source_urls": [
+              "https://pokezentrum.de/wp-content/uploads/Pokemon-Mega-Entwicklung-Optimale-Ordnung-Kartenliste-Checkliste-PDF-TCG.pdf",
+              "https://api.tcgdex.net/v2/de/cards/me03-077",
+              "https://www.card-corner.de/optimale-ordnung-kartenliste?karte=77"
+            ],
+            "reviewed_on": "2026-10-31",
+            "evidence": "Manufacturer German checklist page 1, middle column 077: black standard-set checkbox and uncommon diamond. Native German card image confirms the identity. Exact physical API tuples retained as corroboration, not used as a generic Normal default."
+          },
+          "label": "Non-holo",
+          "collection_status": "documented",
+          "verification": {
+            "existence": {
+              "status": "documented",
+              "source_urls": [
+                "https://pokezentrum.de/wp-content/uploads/Pokemon-Mega-Entwicklung-Optimale-Ordnung-Kartenliste-Checkliste-PDF-TCG.pdf",
+                "https://api.tcgdex.net/v2/de/cards/me03-077",
+                "https://www.card-corner.de/optimale-ordnung-kartenliste?karte=77"
+              ],
+              "checked_on": "2026-10-31",
+              "method": "native_checklist_or_direct_German_merchant"
+            },
+            "specimen": {
+              "status": "not_inspected"
+            }
+          },
+          "market_candidate": {
+            "product_id": 877494,
+            "name": "Lumiose City",
+            "source_url": "https://api.tcgdex.net/v2/de/cards/me03-077",
+            "state": "unverified_provider_candidate"
+          }
+        },
+        {
+          "finish": "reverse_holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[]",
+          "id": "research_printing_f710ed1febea58428d22d9953c82018e",
+          "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+          "image": "27df32684442123df231d4e0271d184e7f04897890dc3c8a1987e63665720baa.webp",
+          "image_scope": "entry",
+          "category": "cameo",
+          "provenance": {
+            "kind": "reviewed_identity_189",
+            "source_url": "https://cardmex-shop.de/Illumina-City-POR-077-Reverse-Pokemon-Reverse-Holo-Karte-aus-Optimale-Ordnung-in-deutsch/POR-077-Reverse",
+            "source_urls": [
+              "https://cardmex-shop.de/Illumina-City-POR-077-Reverse-Pokemon-Reverse-Holo-Karte-aus-Optimale-Ordnung-in-deutsch/POR-077-Reverse",
+              "https://api.tcgdex.net/v2/de/cards/me03-077"
+            ],
+            "reviewed_on": "2026-10-31",
+            "evidence": "Direct German merchant listing explicitly identifies POR 077 Reverse, German language and reverse-holo finish. Corroborated by an explicit Reverse/Standard tuple in the native API. No special foil pattern or extra variant is inferred."
+          },
+          "label": "Reverse holo",
+          "collection_status": "documented",
+          "verification": {
+            "existence": {
+              "status": "documented",
+              "source_urls": [
+                "https://cardmex-shop.de/Illumina-City-POR-077-Reverse-Pokemon-Reverse-Holo-Karte-aus-Optimale-Ordnung-in-deutsch/POR-077-Reverse",
+                "https://api.tcgdex.net/v2/de/cards/me03-077"
+              ],
+              "checked_on": "2026-10-31",
+              "method": "native_checklist_or_direct_German_merchant"
+            },
+            "specimen": {
+              "status": "not_inspected"
+            }
+          },
+          "market_candidate": {
+            "product_id": 877494,
+            "name": "Lumiose City",
+            "source_url": "https://api.tcgdex.net/v2/de/cards/me03-077",
+            "state": "unverified_provider_candidate"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:me03",
+          "name": "Optimale Ordnung",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/me03-077",
+        "https://api.tcgdex.net/v2/en/cards/me03-077",
+        "https://pokecameos.com/pokemon/thievul",
+        "https://www.tcgplayer.com/product/684348/pokemon-me03-perfect-order-lumiose-city-077-088"
+      ],
+      "art_style": "standard",
+      "art_style_state": "visually_checked",
+      "release_date": "2026-03-27",
+      "date_precision": "day",
+      "year": 2026,
+      "date_state": "provider_reference",
+      "date_source": "https://www.pokewiki.de/Erweiterung",
+      "evidence": [
+        {
+          "field": "identity / language",
+          "value": {
+            "category": "Trainer",
+            "id": "me03-077",
+            "illustrator": "MARINA Chikazawa",
+            "image": "https://assets.tcgdex.net/de/me/me03/077",
+            "localId": "077",
+            "name": "Illumina City",
+            "rarity": "Ungewöhnlich",
+            "set": {
+              "cardCount": {
+                "official": 88,
+                "total": 124
+              },
+              "id": "me03",
+              "logo": "https://assets.tcgdex.net/de/me/me03/logo",
+              "name": "Optimale Ordnung",
+              "symbol": "https://assets.tcgdex.net/univ/me/me03/symbol"
+            },
+            "variants": {
+              "firstEdition": false,
+              "holo": false,
+              "normal": true,
+              "reverse": true,
+              "wPromo": false
+            },
+            "variants_detailed": [
+              {
+                "type": "Normal",
+                "size": "Standard",
+                "thirdParty": {
+                  "tcgplayer": 684348,
+                  "cardmarket": 877494
+                },
+                "variantId": "endfynwn4n10gzq",
+                "pricing": {
+                  "cardmarket": {
+                    "updated": "2026-10-28T22:54:32.776Z",
+                    "unit": "EUR",
+                    "idProduct": 877494,
+                    "avg": 0.04,
+                    "low": 0.02,
+                    "trend": 0.05,
+                    "avg1": 0.04,
+                    "avg7": 0.04,
+                    "avg30": 0.04,
+                    "avg-holo": 0.09,
+                    "low-holo": 0.02,
+                    "trend-holo": 0.15,
+                    "avg1-holo": 0.12,
+                    "avg7-holo": 0.13,
+                    "avg30-holo": 0.11
+                  },
+                  "tcgplayer": {
+                    "unit": "USD",
+                    "updated": "2026-10-14T22:55:13.679Z",
+                    "normal": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.16,
+                      "highPrice": 19.8,
+                      "marketPrice": 0.15,
+                      "directLowPrice": 0.05
+                    },
+                    "reverse-holofoil": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.22,
+                      "highPrice": 24,
+                      "marketPrice": 0.18,
+                      "directLowPrice": 0.18
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Reverse",
+                "size": "Standard",
+                "thirdParty": {
+                  "tcgplayer": 684348,
+                  "cardmarket": 877494
+                },
+                "variantId": "cm4kqul3x1bwlz1f",
+                "pricing": {
+                  "cardmarket": {
+                    "updated": "2026-10-28T22:54:32.776Z",
+                    "unit": "EUR",
+                    "idProduct": 877494,
+                    "avg": 0.04,
+                    "low": 0.02,
+                    "trend": 0.05,
+                    "avg1": 0.04,
+                    "avg7": 0.04,
+                    "avg30": 0.04,
+                    "avg-holo": 0.09,
+                    "low-holo": 0.02,
+                    "trend-holo": 0.15,
+                    "avg1-holo": 0.12,
+                    "avg7-holo": 0.13,
+                    "avg30-holo": 0.11
+                  },
+                  "tcgplayer": {
+                    "unit": "USD",
+                    "updated": "2026-10-14T22:55:13.679Z",
+                    "normal": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.16,
+                      "highPrice": 19.8,
+                      "marketPrice": 0.15,
+                      "directLowPrice": 0.05
+                    },
+                    "reverse-holofoil": {
+                      "productId": 684348,
+                      "lowPrice": 0.01,
+                      "midPrice": 0.22,
+                      "highPrice": 24,
+                      "marketPrice": 0.18,
+                      "directLowPrice": 0.18
+                    }
+                  }
+                }
+              }
+            ],
+            "effect": "Einmal während des Zuges jedes Spielers kann jener Spieler sein Deck nach 1 Basis-Pokémon durchsuchen und es auf seine Bank legen. Jener Spieler mischt anschließend sein Deck. Wenn ein Spieler auf diese Weise sein Deck durchsucht, endet sein Zug. Du kannst während deines Zuges nur 1 Stadionkarte spielen. Lege sie neben die Aktive Position, und lege sie auf den Ablagestapel, wenn ein anderes Stadion ins Spiel kommt. Ein Stadion mit demselben Namen kann nicht gespielt werden.",
+            "trainerType": "Stadionkarte",
+            "regulationMark": "J",
+            "legal": {
+              "standard": true,
+              "expanded": true
+            },
+            "updated": "2026-08-20T08:34:47+01:00",
+            "pricing": {
+              "cardmarket": {
+                "updated": "2026-10-28T22:54:32.776Z",
+                "unit": "EUR",
+                "idProduct": 877494,
+                "avg": 0.04,
+                "low": 0.02,
+                "trend": 0.05,
+                "avg1": 0.04,
+                "avg7": 0.04,
+                "avg30": 0.04,
+                "avg-holo": 0.09,
+                "low-holo": 0.02,
+                "trend-holo": 0.15,
+                "avg1-holo": 0.12,
+                "avg7-holo": 0.13,
+                "avg30-holo": 0.11
+              },
+              "tcgplayer": {
+                "unit": "USD",
+                "updated": "2026-10-14T22:55:13.679Z",
+                "normal": {
+                  "productId": 684348,
+                  "lowPrice": 0.01,
+                  "midPrice": 0.16,
+                  "highPrice": 19.8,
+                  "marketPrice": 0.15,
+                  "directLowPrice": 0.05
+                },
+                "reverse-holofoil": {
+                  "productId": 684348,
+                  "lowPrice": 0.01,
+                  "midPrice": 0.22,
+                  "highPrice": 24,
+                  "marketPrice": 0.18,
+                  "directLowPrice": 0.18
+                }
+              }
+            }
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/me03-077",
+            "https://api.tcgdex.net/v2/en/cards/me03-077",
+            "https://pokecameos.com/pokemon/thievul",
+            "https://www.tcgplayer.com/product/684348/pokemon-me03-perfect-order-lumiose-city-077-088"
+          ],
+          "source_family": "source_inventory",
+          "disposition": "newly_admitted_provisional",
+          "summary": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "native identity / rarity",
+          "value": {
+            "number": "077",
+            "printed_number": "077/088",
+            "name": "Illumina City",
+            "rarity_label": "Uncommon",
+            "image_urls": [
+              "https://media.bisafans.de/32a223d/sammelkarten/sets/me-optimale-ordnung/077.png"
+            ]
+          },
+          "source_urls": [
+            "https://www.bisafans.de/sammelkarten/sets/me/optimale-ordnung/kartenliste.php"
+          ],
+          "source_family": "bisafans_editorial",
+          "disposition": "new_native_inventory_check",
+          "summary": "Exact native name, set and printed number. Foil finish was not inferred from the rarity icon.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "Native German artwork / cameo",
+          "value": {
+            "image": "27df32684442123df231d4e0271d184e7f04897890dc3c8a1987e63665720baa.webp",
+            "cameo_dex": [
+              828
+            ],
+            "art_style": "standard"
+          },
+          "source_urls": [
+            "https://www.card-corner.de/optimale-ordnung-kartenliste?karte=77",
+            "https://assets.tcgdex.net/de/me/me03/077/high.webp"
+          ],
+          "source_family": "identity_corrections_189",
+          "disposition": "documented",
+          "retrieved_on": "2026-10-31",
+          "summary": "Thievul is depicted on the shop billboard at the upper right of the regular 077 artwork. Native German text and POR 077/088 are legible. The 111 full-art illustration is a separate artwork and is not inferred to share this cameo."
+        },
+        {
+          "field": "German physical printings",
+          "value": [
+            "research_printing_4ad23c25079553a4bf87c4f3c20136e4",
+            "research_printing_f710ed1febea58428d22d9953c82018e"
+          ],
+          "source_urls": [
+            "https://pokezentrum.de/wp-content/uploads/Pokemon-Mega-Entwicklung-Optimale-Ordnung-Kartenliste-Checkliste-PDF-TCG.pdf",
+            "https://api.tcgdex.net/v2/de/cards/me03-077",
+            "https://www.card-corner.de/optimale-ordnung-kartenliste?karte=77",
+            "https://cardmex-shop.de/Illumina-City-POR-077-Reverse-Pokemon-Reverse-Holo-Karte-aus-Optimale-Ordnung-in-deutsch/POR-077-Reverse"
+          ],
+          "source_family": "identity_corrections_189",
+          "disposition": "documented",
+          "retrieved_on": "2026-10-31",
+          "summary": "Non-holo from the native manufacturer checklist; reverse holo from an explicit German merchant listing. Neither finish is generated from rarity or an API generic Normal default."
+        }
+      ],
+      "rarity_key": "uncommon",
+      "rarity_order": 1,
+      "original_rarity_label": "Needs research",
+      "art_style_source": {
+        "method": "exact_native_card_image",
+        "source_urls": [
+          "https://assets.tcgdex.net/de/me/me03/077/high.webp"
+        ],
+        "inference": false
+      },
+      "image_source": {
+        "source_url": "https://assets.tcgdex.net/de/me/me03/077/high.webp",
+        "retrieved_on": "2026-10-31",
+        "native_language": "de",
+        "reference_scope": "entry"
+      }
+    }
+  }
+]

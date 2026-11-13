@@ -1,0 +1,10 @@
+DogDex 1.8.5 update
+
+1. Close DogDex and its console window.
+2. Copy all contents of the UPDATE ZIP directly into J_DogDex, replacing the included files. Do not create a nested DogDex folder.
+3. Keep my_collection and its catalog_images/backups folders. This update contains no personal database.
+4. Restart START_DOGDEX.bat. Existing 1.8.4 collections receive a before-sources-1.8.5 backup automatically.
+5. If using GitHub Pages: Data health > Backup & Trash > Export mobile view, then Commit and Push in GitHub Desktop.
+
+The full package is the same application for a fresh installation; it is not an extra required update.
+Reports and complete CSV tables: data/research/sources_185.

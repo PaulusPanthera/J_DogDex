@@ -1,0 +1,4136 @@
+{
+  "seed": 20261030,
+  "sample_size": 79,
+  "rows": [
+    {
+      "entry_id": "entry_aeb9e489ed8658bda20527357713129b",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "gym1",
+      "number": "62",
+      "name": "Blaine's Growlithe",
+      "image": "75782848eace897d9f601857a795f124fefc7148a62a4514a7bb6683ad24b38e.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "gym1",
+        "number": "62",
+        "name": "Blaine's Growlithe",
+        "species_dex": [
+          58
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/gymheroes/062.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/058.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Blaine's Growlithe",
+          "set_name": "Gym Heroes",
+          "number": "62",
+          "printed_label": "Gym Heroes62 / 132",
+          "card_url": "https://www.serebii.net/card/gymheroes/062.shtml",
+          "set_url": "https://www.serebii.net/card/gymheroes/",
+          "rarity_icons": [
+            "/card/image/common.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_aeb9e489ed8658bda20527357713129b"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_2e500a19e0995055954b008101ac989c",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo1",
+      "number": "37",
+      "name": "Granbull",
+      "image": "6f56f0e4c27bc61e5d7fd13a5bf87183a22f7513824cdfcf107cef0432106106.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "neo1",
+        "number": "37",
+        "name": "Granbull",
+        "species_dex": [
+          210
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/neogenesis/037.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/210.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Granbull",
+          "set_name": "Neo Genesis",
+          "number": "37",
+          "printed_label": "Neo Genesis37 / 111",
+          "card_url": "https://www.serebii.net/card/neogenesis/037.shtml",
+          "set_url": "https://www.serebii.net/card/neogenesis/",
+          "rarity_icons": [
+            "/card/image/uncommon.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_2e500a19e0995055954b008101ac989c"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "research_entry_d793b4c72a0e54d8b725191fbca96421",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "gym2",
+      "number": "103",
+      "name": "Erika's Kindness",
+      "image": "0258ba3d9f7efa7295ccd7bca67a89a4e6a44d9c61f1bbc45d8d9200d34227bc.webp",
+      "category": "cameo",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_395e59a9da1c53c185385efa7ba33645",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base4",
+      "number": "13",
+      "name": "Ninetales",
+      "image": "fb610a49c614c796a722d3119920406cbfb9251d206fb92c8a33b97a80932fbb.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_6c97b94bc8695631815e3c65393a1b67",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "50",
+      "name": "Light Ninetales",
+      "image": "543811f8fb547376c2bddd3b90f8c8a5f3266fc0265cc93718c6676fd9818694.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "neo4",
+        "number": "50",
+        "name": "Light Ninetales",
+        "species_dex": [
+          38
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/neodestiny/050.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/038.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Light Ninetales",
+          "set_name": "Neo Destiny",
+          "number": "50",
+          "printed_label": "Neo Destiny50 / 105",
+          "card_url": "https://www.serebii.net/card/neodestiny/050.shtml",
+          "set_url": "https://www.serebii.net/card/neodestiny/",
+          "rarity_icons": [
+            "/card/image/uncommon.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_6c97b94bc8695631815e3c65393a1b67"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_043a220aa82654d1b05c17824dad8ea3",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base4",
+      "number": "33",
+      "name": "Arcanine",
+      "image": "4ecd2f7a7ab432cd43cf9ea0dfa3b00dfab473001962d44d439d0ad92f47c8c1.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_c72c9cb5055a5686a43396b00321618b",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "lc",
+      "number": "45",
+      "name": "Growlithe",
+      "image": "b7b93c68a050bd111e045a072adfa01a1b63c42b349c535ad3bc55038491da5e.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_a5d287d5db3150c2adb868fc93a9aec1",
+      "lang": "en",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo3",
+      "number": "8",
+      "name": "Houndoom",
+      "image": "2ffffca56d0b75769c706d6f4aed4b26d7c679a54f8f7e0ca1ccfb9488a59e79.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "neo3",
+        "number": "8",
+        "name": "Houndoom",
+        "species_dex": [
+          229
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/neorevelation/008.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/229.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Houndoom",
+          "set_name": "Neo Revelation",
+          "number": "8",
+          "printed_label": "Neo Revelation8 / 64",
+          "card_url": "https://www.serebii.net/card/neorevelation/008.shtml",
+          "set_url": "https://www.serebii.net/card/neorevelation/",
+          "rarity_icons": [
+            "/card/image/holographic.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_a5d287d5db3150c2adb868fc93a9aec1"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_7e8f48e4efab54279ee7a86b34e596cc",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex7",
+      "number": "59",
+      "name": "Houndour",
+      "image": "2112daffcc54ee160e78b90d756769b74bbab52a2ac56788650e8434c7c980f8.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "pl2",
+      "number": "8",
+      "name": "Lucario GL",
+      "image": "348a84e1202c082ecdad52c9d38572b24bd8e9d4061e8f60a33b0ebaa1037a27.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "pl2",
+        "number": "8",
+        "name": "Lucario",
+        "species_dex": [
+          448
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/risingrivals/008.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/448.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Lucario",
+          "set_name": "Rising Rivals",
+          "number": "8",
+          "printed_label": "Rising Rivals8 / 111",
+          "card_url": "https://www.serebii.net/card/risingrivals/008.shtml",
+          "set_url": "https://www.serebii.net/card/risingrivals/",
+          "rarity_icons": [
+            "/card/image/holographic.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_813c8b12dfa256449f4482fd967694ec"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_380503a631ed52799484f29312f5378f",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex9",
+      "number": "48",
+      "name": "Electrike",
+      "image": "2793d18b75ef9d6ee027ef0f3263b0c004ee9ccf29cee00011ea5aaaaa2f679c.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_a38e26e56df059f1804d522144e5c924",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "pl3",
+      "number": "31",
+      "name": "Lucario C",
+      "image": "71da13b041f021e1a9ba2b330d6efac9aeb5fbf4d42340b1a536317187072e64.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "pl3",
+        "number": "31",
+        "name": "Lucario",
+        "species_dex": [
+          448
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/supremevictors/031.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/448.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Lucario",
+          "set_name": "Supreme Victors",
+          "number": "31",
+          "printed_label": "Supreme Victors31 / 147",
+          "card_url": "https://www.serebii.net/card/supremevictors/031.shtml",
+          "set_url": "https://www.serebii.net/card/supremevictors/",
+          "rarity_icons": [
+            "/card/image/rare.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_a38e26e56df059f1804d522144e5c924"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_8d3e9e558b8555be8d9bbbb349be1a62",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex8",
+      "number": "12",
+      "name": "Mightyena",
+      "image": "d21b44e3c204252bf25b402c3ea18cb55db7754fb2df2d7a1249f9bf02e73f78.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "ex8",
+        "number": "12",
+        "name": "Mightyena",
+        "species_dex": [
+          262
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/exdeoxys/012.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/262.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Mightyena",
+          "set_name": "EX Deoxys",
+          "number": "12",
+          "printed_label": "EX Deoxys12 / 107",
+          "card_url": "https://www.serebii.net/card/exdeoxys/012.shtml",
+          "set_url": "https://www.serebii.net/card/exdeoxys/",
+          "rarity_icons": [
+            "/card/image/holographic.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_8d3e9e558b8555be8d9bbbb349be1a62"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_c54bdd48708e5021abef1510d239ae4f",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex15",
+      "number": "8",
+      "name": "Ninetales",
+      "image": "5b1e8ad7f0214f3fe4b5ed7f707450d2015009608c6e83c76f7d150d1556b237.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "ex15",
+        "number": "8",
+        "name": "Ninetales δ",
+        "species_dex": [
+          38
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/exdragonfrontiers/008.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/038.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Ninetales δ",
+          "set_name": "EX Dragon Frontiers",
+          "number": "8",
+          "printed_label": "EX Dragon Frontiers8 / 101",
+          "card_url": "https://www.serebii.net/card/exdragonfrontiers/008.shtml",
+          "set_url": "https://www.serebii.net/card/exdragonfrontiers/",
+          "rarity_icons": [
+            "/card/image/holographic.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_c54bdd48708e5021abef1510d239ae4f"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_43dfc2a5d0485cd088f2b30af547b411",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex4",
+      "number": "34",
+      "name": "Team Magma's Houndoom",
+      "image": "2d4e97be8310a5ca8b2420862ff85f4a257db01462325bf1a381a99ed71cf25a.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "ex4",
+        "number": "34",
+        "name": "Team Magma's Houndoom",
+        "species_dex": [
+          229
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/exteammagmavsteamaqua/034.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/229.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Team Magma's Houndoom",
+          "set_name": "EX Team Magma VS Team Aqua",
+          "number": "34",
+          "printed_label": "EX Team Magma VS Team Aqua34 / 95",
+          "card_url": "https://www.serebii.net/card/exteammagmavsteamaqua/034.shtml",
+          "set_url": "https://www.serebii.net/card/exteammagmavsteamaqua/",
+          "rarity_icons": [
+            "/card/image/uncommon.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_43dfc2a5d0485cd088f2b30af547b411"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_447f85ffc08a5f6d8cf1eb03914047f1",
+      "lang": "en",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex6",
+      "number": "64",
+      "name": "Growlithe",
+      "image": "0b88b5714e52d1a1180ef4ccb868e6ea88b0fd7a99c7ec1ce7f3f24cc8b74e83.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "ex6",
+        "number": "64",
+        "name": "Growlithe",
+        "species_dex": [
+          58
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/exfireredandleafgreen/064.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/058.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Growlithe",
+          "set_name": "EX FireRed and Leaf Green",
+          "number": "64",
+          "printed_label": "EX FireRed and Leaf Green64 / 112",
+          "card_url": "https://www.serebii.net/card/exfireredandleafgreen/064.shtml",
+          "set_url": "https://www.serebii.net/card/exfireredandleafgreen/",
+          "rarity_icons": [
+            "/card/image/common.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_447f85ffc08a5f6d8cf1eb03914047f1"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_3acbf55b30d952cea06dbefcc38cea15",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy10",
+      "number": "11",
+      "name": "Fennekin",
+      "image": "bdacd70caed5cac65ccd5a2b54a27fdc39b8dad37cac738754a3596a0d31f5ab.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "11",
+        "name": "Fennekin",
+        "rarity_symbol": "●",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              51.03,
+              495.13,
+              55.53,
+              499.63
+            ]
+          },
+          {
+            "color": [
+              0,
+              125,
+              183
+            ],
+            "shape": "square",
+            "bbox": [
+              61.83,
+              495.13,
+              66.33,
+              499.63
+            ]
+          }
+        ],
+        "entry_id": "entry_3acbf55b30d952cea06dbefcc38cea15",
+        "lang": "en",
+        "release": "xy10",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy10_web_cardlist_en.pdf",
+        "source_sha256": "2e4d6d062ee7f5af16d09637a33566f686ef14e6df602efef4e2b0e7113a941f",
+        "rarity_code": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_1aa763dcdea55ea89121f67ef5d7c5cd",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy3",
+      "number": "107",
+      "name": "Lucario EX",
+      "image": "ca30ea496e218a3e96bda61e4961ad54c53afddf39e1ce385e5417e32cfd3281.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "107",
+        "name": "Lucario-EX",
+        "rarity_symbol": "★U",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              237,
+              28,
+              36
+            ],
+            "shape": "square",
+            "bbox": [
+              478.56,
+              597.38,
+              484.44,
+              603.26
+            ]
+          }
+        ],
+        "entry_id": "entry_1aa763dcdea55ea89121f67ef5d7c5cd",
+        "lang": "en",
+        "release": "xy3",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy3_web_cardlist_en.pdf",
+        "source_sha256": "32ba5bc15911e0072e2d44c023ab8860048f42b3b2cbedb424acb63e8e1eae55",
+        "rarity_code": "ultra_rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_08c9d0e6c44752808bd44dce95706c39",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-xy-p",
+      "number": "22",
+      "name": "Manectric",
+      "image": "9e5d7e25ca5f253093897dc3e14b6dbad1c705994aaa50670c332a3efbd5b53c.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_6dc3ac29cbc85254a71c12af46a8054a",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "bw7",
+      "number": "121",
+      "name": "Herdier",
+      "image": "7d8b99ca1905d73090182cfc598017fd60b501250034964458c9936675d356b0.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "121",
+        "name": "Herdier",
+        "rarity_symbol": "◆",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              0,
+              0,
+              0
+            ],
+            "shape": "square",
+            "bbox": [
+              471.91,
+              307.89,
+              478.13,
+              314.12
+            ]
+          },
+          {
+            "color": [
+              0,
+              0,
+              0
+            ],
+            "shape": "hexagon",
+            "bbox": [
+              482.87,
+              307.35,
+              488.77,
+              314.49
+            ]
+          }
+        ],
+        "entry_id": "entry_6dc3ac29cbc85254a71c12af46a8054a",
+        "lang": "en",
+        "release": "bw7",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/bw7_web_cardlist_en.pdf",
+        "source_sha256": "02004d352b0db7d085fa27da7157dca567c64be780894f3c54befb0fcf219fe8",
+        "rarity_code": "uncommon",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_3754cd3b90255a57bcf9ac2b82a3094a",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy10",
+      "number": "63",
+      "name": "Lucario",
+      "image": "dd44ce3c547a7509d4be6f7c954fbf914f80768f4c2d7343d49d72213ac74a79.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "63",
+        "name": "Lucario",
+        "rarity_symbol": "★H",
+        "page": 1,
+        "pack_finishes": [
+          "holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              237,
+              28,
+              36
+            ],
+            "shape": "square",
+            "bbox": [
+              326.97,
+              383.49,
+              331.47,
+              387.99
+            ]
+          },
+          {
+            "color": [
+              0,
+              125,
+              183
+            ],
+            "shape": "square",
+            "bbox": [
+              337.77,
+              383.49,
+              342.27,
+              387.99
+            ]
+          }
+        ],
+        "entry_id": "entry_3754cd3b90255a57bcf9ac2b82a3094a",
+        "lang": "en",
+        "release": "xy10",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy10_web_cardlist_en.pdf",
+        "source_sha256": "2e4d6d062ee7f5af16d09637a33566f686ef14e6df602efef4e2b0e7113a941f",
+        "rarity_code": "rare_holo",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy10",
+      "number": "105",
+      "name": "N",
+      "image": "686b14a0a4c583f5d38f35f84c352f838bd4aad22895d15e2d95f97fc33fa4eb.webp",
+      "category": "cameo",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "105",
+        "name": "N",
+        "rarity_symbol": "◆",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              464.94,
+              506.25,
+              469.44,
+              510.75
+            ]
+          },
+          {
+            "color": [
+              0,
+              125,
+              183
+            ],
+            "shape": "square",
+            "bbox": [
+              475.74,
+              506.25,
+              480.24,
+              510.75
+            ]
+          }
+        ],
+        "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+        "lang": "en",
+        "release": "xy10",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy10_web_cardlist_en.pdf",
+        "source_sha256": "2e4d6d062ee7f5af16d09637a33566f686ef14e6df602efef4e2b0e7113a941f",
+        "rarity_code": "uncommon",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_8c37d41bb363590c84c5805eb3e86659",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy12",
+      "number": "14",
+      "name": "Vulpix",
+      "image": "8bc72e32f553970b37d10472461d74265126423d3564b05d60733aa576cea90b.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "14",
+        "name": "Vulpix",
+        "rarity_symbol": "●",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              50.6,
+              538.13,
+              55.96,
+              543.5
+            ]
+          },
+          {
+            "color": [
+              0,
+              125,
+              183
+            ],
+            "shape": "square",
+            "bbox": [
+              61.4,
+              538.13,
+              66.76,
+              543.5
+            ]
+          }
+        ],
+        "entry_id": "entry_8c37d41bb363590c84c5805eb3e86659",
+        "lang": "en",
+        "release": "xy12",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy12_web_cardlist_en.pdf",
+        "source_sha256": "b79e7b5bb74dd02fcdc3a426dbaaf6b3f39fec49bb214643d37ad556897c7dfe",
+        "rarity_code": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_ac6b395ffc695aa29c541306f264e2f9",
+      "lang": "en",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-xy-p",
+      "number": "28",
+      "name": "Electrike",
+      "image": "083b1abed91e6d2bab175497ea15441e173a9287b868261c90f3b606710f93e4.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_fffaf405ccef54e284ea88e2b3098c4b",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm3",
+      "number": "155",
+      "name": "Lycanroc GX",
+      "image": "ea633e34c24f8b6d604d1671c5af89de32a52bf5cf5ebabd11ac2ce36143b426.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "sm3",
+        "number": "155",
+        "name": "Lycanroc GX",
+        "species_dex": [
+          745
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/burningshadows/155.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/745.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Lycanroc GX",
+          "set_name": "Burning Shadows",
+          "number": "155",
+          "printed_label": "Burning Shadows155 / 147",
+          "card_url": "https://www.serebii.net/card/burningshadows/155.shtml",
+          "set_url": "https://www.serebii.net/card/burningshadows/",
+          "rarity_icons": [
+            "/card/image/lvxrare.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_fffaf405ccef54e284ea88e2b3098c4b"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_c2d876f112345bc5890d3c8d0397e29a",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh9",
+      "number": "057",
+      "name": "Granbull V",
+      "image": "e9bdd600f62dac76b997c40cde2a1ac487b16e1fe085c2eee44063f1ced40a90.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "057",
+        "name": "Granbull V",
+        "rarity_symbol": "★",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              239,
+              64,
+              86
+            ],
+            "shape": "square",
+            "bbox": [
+              185.65,
+              300.56,
+              195.8,
+              307.72
+            ]
+          }
+        ],
+        "entry_id": "entry_c2d876f112345bc5890d3c8d0397e29a",
+        "lang": "en",
+        "release": "swsh9",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/swsh9_web_cardlist_en.pdf",
+        "source_sha256": "a5f21ecb1f07d5ce04b8e52a94891cb81fef3443f6dce72517d431a4ee3c78ef",
+        "rarity_code": "rare_holo_v",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_92c340f768595adbac00b11329278460",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm3.5",
+      "number": "53",
+      "name": "Zoroark GX",
+      "image": "92a77d214779f74ec2550b9783f02c0ddd31c7032390477b3c28be9e325e7007.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "53",
+        "name": "Zoroark-GX",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              135,
+              131,
+              131
+            ],
+            "shape": "square",
+            "bbox": [
+              326.2,
+              611.82,
+              332.42,
+              618.05
+            ]
+          }
+        ],
+        "entry_id": "entry_92c340f768595adbac00b11329278460",
+        "lang": "en",
+        "release": "sm3.5",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm35_web_cardlist_en.pdf",
+        "source_sha256": "31648b98146de35129f1f152dce9fbe54b104380bfe211119e7cf737030402b4",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_261088a11a4f5720b1425f9422d0d886",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm11",
+      "number": "124",
+      "name": "Zygarde",
+      "image": "1ad65a3f5b3205bad906b188c38bbb74aa71e2789c2f5d513493479105207900.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "124",
+        "name": "Zygarde",
+        "rarity_symbol": "★",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              327.0,
+              189.74,
+              331.84,
+              194.59
+            ]
+          },
+          {
+            "color": [
+              136,
+              52,
+              121
+            ],
+            "shape": "square",
+            "bbox": [
+              338.19,
+              189.74,
+              343.03,
+              194.59
+            ]
+          }
+        ],
+        "entry_id": "entry_261088a11a4f5720b1425f9422d0d886",
+        "lang": "en",
+        "release": "sm11",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm11_web_cardlist_en.pdf",
+        "source_sha256": "1c44ee5d86c42db5f3e3b98f5d6f04c554da823fff62bc798b9ee24926221fed",
+        "rarity_code": "rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_19ad5046de3557f88775e6bcdc6feed2",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh8",
+      "number": "116",
+      "name": "Granbull",
+      "image": "3ce30e5ff022c94b930fb640671c55cd018932d703b3980584b3daa1656c32e3.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "116",
+        "name": "Granbull",
+        "rarity_symbol": "★",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              0,
+              0,
+              0
+            ],
+            "shape": "square",
+            "bbox": [
+              189.34,
+              493.47,
+              199.48,
+              500.51
+            ]
+          },
+          {
+            "color": [
+              0,
+              134,
+              195
+            ],
+            "shape": "square",
+            "bbox": [
+              204.01,
+              493.51,
+              209.34,
+              500.51
+            ]
+          }
+        ],
+        "entry_id": "entry_19ad5046de3557f88775e6bcdc6feed2",
+        "lang": "en",
+        "release": "swsh8",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/swsh8_web_cardlist_en.pdf",
+        "source_sha256": "8ed36ebef1f7e585180e99b5785c7f0fa19af88f35f344bed0330b8782d3472c",
+        "rarity_code": "rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_e6a10073fb0957f19f0fa368d20002f7",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm8",
+      "number": "46",
+      "name": "Houndoom",
+      "image": "0f462e3f564871fa2e2665d40d5f609a55f546ee08dba74780aef947717111f9.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "46",
+        "name": "Houndoom",
+        "rarity_symbol": "★",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              52.14,
+              663.6,
+              56.88,
+              668.35
+            ]
+          },
+          {
+            "color": [
+              136,
+              52,
+              121
+            ],
+            "shape": "square",
+            "bbox": [
+              63.11,
+              663.6,
+              67.85,
+              668.35
+            ]
+          }
+        ],
+        "entry_id": "entry_e6a10073fb0957f19f0fa368d20002f7",
+        "lang": "en",
+        "release": "sm8",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm8_web_cardlist_en.pdf",
+        "source_sha256": "133cfc79effa12659efc710afaeee872c38655b5782aed133674fe2a47ad3677",
+        "rarity_code": "rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_981697963c125511a5fc96be7fc453f1",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh12",
+      "number": "034",
+      "name": "Alolan Vulpix VSTAR",
+      "image": "f37cdf5f97ed0a28f551f1064487be3c700afc9882139e38b5e7164105999674.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "034",
+        "name": "Alolan Vulpix VSTAR",
+        "rarity_symbol": "V★",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              239,
+              63,
+              86
+            ],
+            "shape": "square",
+            "bbox": [
+              24.01,
+              496.95,
+              35.17,
+              504.69
+            ]
+          }
+        ],
+        "entry_id": "entry_981697963c125511a5fc96be7fc453f1",
+        "lang": "en",
+        "release": "swsh12",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/swsh12_web_cardlist_en.pdf",
+        "source_sha256": "c57e49c72eb1bb48c025fd447227745f035727c22b09854267a3a845aeec119f",
+        "rarity_code": "rare_holo_vstar",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_bb824a407e5054ecacb00c6699e3f3b9",
+      "lang": "en",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm12",
+      "number": "145",
+      "name": "Alolan Ninetales",
+      "image": "37efe427ef1aad52a33f2e5d3656e4b11af030bc45482e407c38ec5df1220585.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "145",
+        "name": "Alolan Ninetales",
+        "rarity_symbol": "★H",
+        "page": 1,
+        "pack_finishes": [
+          "holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              242,
+              101,
+              34
+            ],
+            "shape": "square",
+            "bbox": [
+              323.4,
+              397.98,
+              328.24,
+              402.83
+            ]
+          },
+          {
+            "color": [
+              136,
+              52,
+              121
+            ],
+            "shape": "square",
+            "bbox": [
+              334.59,
+              397.98,
+              339.43,
+              402.83
+            ]
+          }
+        ],
+        "entry_id": "entry_bb824a407e5054ecacb00c6699e3f3b9",
+        "lang": "en",
+        "release": "sm12",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm12_web_cardlist_en.pdf",
+        "source_sha256": "ecdc1375be9b194a15e44b3536f123c8b0057f5a443bda1ca38cba65d908de40",
+        "rarity_code": "rare_holo",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "research_entry_d6111b6ade83596e814d9da635421453",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv04",
+      "number": "202",
+      "name": "Garganacl",
+      "image": "005b7fed95dbacd87b1561f3a3b075cba1509cd71f6b28b4691eb1e92641cc9e.webp",
+      "category": "cameo",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "202",
+        "name": "Garganacl",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              239,
+              63,
+              86
+            ],
+            "shape": "square",
+            "bbox": [
+              426.27,
+              272.48,
+              435.02,
+              280.52
+            ]
+          }
+        ],
+        "entry_id": "research_entry_d6111b6ade83596e814d9da635421453",
+        "lang": "en",
+        "release": "sv04",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/par_web_cardlist_en.pdf",
+        "source_sha256": "bbd94edf50e596251da255988264063c0a4cc65826cf77d39e0d333d3719a7c7",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_74a6ecd2d6c059158d60a448e9043a39",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv02",
+      "number": "116",
+      "name": "Rockruff",
+      "image": "f8da4b3f95dec90cb71366e9198b36b4a73691dd09387ae701eb149d3d373613.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "116",
+        "name": "Rockruff",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              223.72,
+              322.88,
+              233.42,
+              330.92
+            ]
+          }
+        ],
+        "entry_id": "entry_74a6ecd2d6c059158d60a448e9043a39",
+        "lang": "en",
+        "release": "sv02",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/pal_web_cardlist_en.pdf",
+        "source_sha256": "274c2339426f1573e1c9d099b567f921ea8078fba7520edf0da1f04992b07ebc",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_90055faf75c2551fadee9b20de65dee1",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "svp",
+      "number": "198",
+      "name": "Zacian ex",
+      "image": "f4460170dcf002f55487f85d44c298f50bc92782dca5a361c451fb7fad9cbbdd.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "svp",
+        "number": "198",
+        "name": "Zacian ex",
+        "species_dex": [
+          888
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/svpromos/198.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/888.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Zacian ex",
+          "set_name": "SV Promos",
+          "number": "198",
+          "printed_label": "SV Promos198",
+          "card_url": "https://www.serebii.net/card/svpromos/198.shtml",
+          "set_url": "https://www.serebii.net/card/svpromos/",
+          "rarity_icons": [
+            "/card/image/promo.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_90055faf75c2551fadee9b20de65dee1"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_aa7e41b50b5d5f92adc08015a695549e",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "30th",
+      "number": "083",
+      "name": "Lucario",
+      "image": "08778b28a8af9496e84bddf1cc42d600083c8e97292badd1b5b887637dc6134e.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "30th",
+        "number": "83",
+        "name": "Lucario",
+        "species_dex": [
+          448
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/30thcelebration/083.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/448.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Lucario",
+          "set_name": "30th Celebration",
+          "number": "83",
+          "printed_label": "30th Celebration83 / 128",
+          "card_url": "https://www.serebii.net/card/30thcelebration/083.shtml",
+          "set_url": "https://www.serebii.net/card/30thcelebration/",
+          "rarity_icons": [
+            "/card/image/common.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_aa7e41b50b5d5f92adc08015a695549e"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_cd52ee6d07d65b0b94bba114325f6aa8",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "me02.5",
+      "number": "286",
+      "name": "N's Zoroark ex",
+      "image": "966759b6a8664ba3b75c8a6e65af5d68481f69f8408f7f9792646c6bdbb8fc16.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "me02.5",
+        "number": "286",
+        "name": "N's Zoroark ex",
+        "species_dex": [
+          571
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/ascendedheroes/286.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/571.shtml",
+        "locator": "",
+        "raw": {
+          "name": "N's Zoroark ex",
+          "set_name": "Ascended Heroes",
+          "number": "286",
+          "printed_label": "Ascended Heroes286 / 217",
+          "card_url": "https://www.serebii.net/card/ascendedheroes/286.shtml",
+          "set_url": "https://www.serebii.net/card/ascendedheroes/",
+          "rarity_icons": [
+            "/card/image/goldtwostar.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_cd52ee6d07d65b0b94bba114325f6aa8"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_67125aa4f0ad550591378073b5301951",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv03",
+      "number": "170",
+      "name": "Lillipup",
+      "image": "5c0796a2186d539c83f1ac1a4aab8e75fcf40ab9262f859c8689874bef67392b.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "170",
+        "name": "Lillipup",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              392.0,
+              488.68,
+              402.68,
+              496.72
+            ]
+          }
+        ],
+        "entry_id": "entry_67125aa4f0ad550591378073b5301951",
+        "lang": "en",
+        "release": "sv03",
+        "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/obf_web_cardlist_en.pdf",
+        "source_sha256": "d37a9f610f84a497555ca16d9745d4e1e22b52792a1cdfae1dc4f380db8e2e09",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_74babca524ca572bb6d585df5c349f01",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "me01",
+      "number": "050",
+      "name": "Mega Manectric ex",
+      "image": "18ea57814f0aa65c11c7b53f392e2886fccf8209bf4ac0cdc4d0d5f43a6c54a3.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "me01",
+        "number": "50",
+        "name": "Mega Manectric ex",
+        "species_dex": [
+          310
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/megaevolution/050.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/310.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Mega Manectric ex",
+          "set_name": "Mega Evolution",
+          "number": "50",
+          "printed_label": "Mega Evolution50 / 132",
+          "card_url": "https://www.serebii.net/card/megaevolution/050.shtml",
+          "set_url": "https://www.serebii.net/card/megaevolution/",
+          "rarity_icons": [
+            "/card/image/twostar.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_74babca524ca572bb6d585df5c349f01"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_00d83e5c8c8556ef96f8f4b71a52ff70",
+      "lang": "en",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv06",
+      "number": "100",
+      "name": "Hisuian Arcanine",
+      "image": "2080181c8ccf01e86c609dbbce3a47a2bae5540e1888c976fd519130b9eac6aa.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "family": "serebii",
+        "lang": "en",
+        "release": "sv06",
+        "number": "100",
+        "name": "Hisuian Arcanine",
+        "species_dex": [
+          59
+        ],
+        "cameo": false,
+        "source_url": "https://www.serebii.net/card/twilightmasquerade/100.shtml",
+        "inventory_url": "https://www.serebii.net/card/dex/059.shtml",
+        "locator": "",
+        "raw": {
+          "name": "Hisuian Arcanine",
+          "set_name": "Twilight Masquerade",
+          "number": "100",
+          "printed_label": "Twilight Masquerade100 / 167",
+          "card_url": "https://www.serebii.net/card/twilightmasquerade/100.shtml",
+          "set_url": "https://www.serebii.net/card/twilightmasquerade/",
+          "rarity_icons": [
+            "/card/image/holographic.png"
+          ]
+        },
+        "disposition": "matched",
+        "entry_id": "entry_00d83e5c8c8556ef96f8f4b71a52ff70"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_64c3d1082b765a2bad8ba83cbc6c9831",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo2",
+      "number": "30",
+      "name": "Farbeagle",
+      "image": "8d679cfe4ded424961c71cd5d864d44d18787d0932426548272e6d094b101bbe.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "30",
+        "printed_number": "30/75",
+        "name": "Farbeagle",
+        "rarity_label": "Rare",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=370",
+        "entry_id": "entry_64c3d1082b765a2bad8ba83cbc6c9831",
+        "lang": "de",
+        "release": "neo2",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=10",
+        "source_sha256": "cbfe0659a6d34dfeb99c85651ce043297b5ec0be275ce9bba6fb4872bba6c533",
+        "expected_rarity": "rare",
+        "catalog_rarity": "rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_0f9469e13a7456d9b655ea5a40a0784f",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo2",
+      "number": "39",
+      "name": "Hunduster",
+      "image": "d4259e209c920f746e166b6c84f984d91aaa60356819fcbeb0e38e3a01a9f62b.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "39",
+        "printed_number": "39/75",
+        "name": "Hunduster",
+        "rarity_label": "Uncommon",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=318",
+        "entry_id": "entry_0f9469e13a7456d9b655ea5a40a0784f",
+        "lang": "de",
+        "release": "neo2",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=10",
+        "source_sha256": "cbfe0659a6d34dfeb99c85651ce043297b5ec0be275ce9bba6fb4872bba6c533",
+        "expected_rarity": "uncommon",
+        "catalog_rarity": "uncommon",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_315f05838361501bbef58b70e247b3bc",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "43",
+      "name": "Hunduster",
+      "image": "4c646784e4fff8f81a80f22dd9114101111d027b744b88f10a9cf9da72626825.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "43",
+        "printed_number": "43/105",
+        "name": "Hunduster",
+        "rarity_label": "Uncommon",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=1310",
+        "entry_id": "entry_315f05838361501bbef58b70e247b3bc",
+        "lang": "de",
+        "release": "neo4",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=12",
+        "source_sha256": "191af4b800535064a184c2686ba7976eac48ece467118fdb019af8d4e459f25f",
+        "expected_rarity": "uncommon",
+        "catalog_rarity": "uncommon",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_57f406e3a227546398a85fa8556d9f51",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "68",
+      "name": "Fukano",
+      "image": "b7b1d261744633c3f9adb8c83f7e9c3815eae5d37339ccc793b25e761ce3caee.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "68",
+        "printed_number": "68/105",
+        "name": "Fukano",
+        "rarity_label": "Common",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=1967",
+        "entry_id": "entry_57f406e3a227546398a85fa8556d9f51",
+        "lang": "de",
+        "release": "neo4",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=12",
+        "source_sha256": "191af4b800535064a184c2686ba7976eac48ece467118fdb019af8d4e459f25f",
+        "expected_rarity": "common",
+        "catalog_rarity": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_65ed505b5deb550ba0435b2413f1de6e",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "neo4",
+      "number": "50",
+      "name": "Helles Vulnona",
+      "image": "fbb64f6bcd55dc848003ff0362156b9711ace8e6ed99963b90985f225e7e131c.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "50",
+        "printed_number": "50/105",
+        "name": "Helles Vulnona",
+        "rarity_label": "Uncommon",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=2682",
+        "entry_id": "entry_65ed505b5deb550ba0435b2413f1de6e",
+        "lang": "de",
+        "release": "neo4",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=12",
+        "source_sha256": "191af4b800535064a184c2686ba7976eac48ece467118fdb019af8d4e459f25f",
+        "expected_rarity": "uncommon",
+        "catalog_rarity": "uncommon",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_e67aa6dbf9045b6c8adf8882bcf4d765",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base1",
+      "number": "12",
+      "name": "Vulnona",
+      "image": null,
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "12",
+        "printed_number": "12/102",
+        "name": "Vulnona",
+        "rarity_label": "Holo",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=522",
+        "entry_id": "entry_e67aa6dbf9045b6c8adf8882bcf4d765",
+        "lang": "de",
+        "release": "base1",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=1",
+        "source_sha256": "2b66ab01365a65c43e716219234963bb957510c6fb3288d7d3da2e504e2d93e9",
+        "expected_rarity": "rare_holo",
+        "catalog_rarity": "rare_holo",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "unassessed_missing_picture",
+        "observed_identity_error": null,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_ed8b4ba18d1f575997fe90e66035e757",
+      "lang": "de",
+      "stratum": [
+        1996,
+        2002
+      ],
+      "release": "base1",
+      "number": "23",
+      "name": "Arkani",
+      "image": "874aa14c3049193891132af14a87c14338acbe4bd32ca805d86e906dac9318e8.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "23",
+        "printed_number": "23/102",
+        "name": "Arkani",
+        "rarity_label": "Uncommon",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=878",
+        "entry_id": "entry_ed8b4ba18d1f575997fe90e66035e757",
+        "lang": "de",
+        "release": "base1",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=1",
+        "source_sha256": "2b66ab01365a65c43e716219234963bb957510c6fb3288d7d3da2e504e2d93e9",
+        "expected_rarity": "uncommon",
+        "catalog_rarity": "uncommon",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_89e3172d9b3d57f48efa6dc4e950f05e",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex4",
+      "number": "55",
+      "name": "Team Aquas Fiffyen",
+      "image": "6316e3d8383c762b8edc84dfe17532b909c6120b438aa1237b9cbddebb415109.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "55",
+        "printed_number": "55/95",
+        "name": "Team Aquas Fiffyen",
+        "rarity_label": "Common",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=1303",
+        "entry_id": "entry_89e3172d9b3d57f48efa6dc4e950f05e",
+        "lang": "de",
+        "release": "ex4",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=21",
+        "source_sha256": "1816405d1f68c6296838f4e16cac9cb7cb49b1a6740911f269daf3fc06dccaf7",
+        "expected_rarity": "common",
+        "catalog_rarity": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_b28da62f0df15585ac298d0ac00193b4",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex13",
+      "number": "80",
+      "name": "Fiffyen",
+      "image": null,
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "80",
+        "printed_number": "80/110",
+        "name": "Fiffyen",
+        "rarity_label": "Common",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=5235",
+        "entry_id": "entry_b28da62f0df15585ac298d0ac00193b4",
+        "lang": "de",
+        "release": "ex13",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=152",
+        "source_sha256": "07abc6fdb8a254a70f8711e70b5224ce6299a66630bfc63509038b151a358767",
+        "expected_rarity": "common",
+        "catalog_rarity": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "unassessed_missing_picture",
+        "observed_identity_error": null,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_1d82ee12ff7052a381490982711b3f29",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex4",
+      "number": "10",
+      "name": "Team Magmas Hundemon",
+      "image": "64e12f4244612721f85003412c72e0429600a614c95a71f2480e750b66783c70.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "10",
+        "printed_number": "10/95",
+        "name": "Team Magmas Hundemon",
+        "rarity_label": "Holo",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=3401",
+        "entry_id": "entry_1d82ee12ff7052a381490982711b3f29",
+        "lang": "de",
+        "release": "ex4",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=21",
+        "source_sha256": "1816405d1f68c6296838f4e16cac9cb7cb49b1a6740911f269daf3fc06dccaf7",
+        "expected_rarity": "rare_holo",
+        "catalog_rarity": "rare_holo",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_20ca395f702c5bfca02a2aa5f1d6c5d4",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ecard2",
+      "number": "H11",
+      "name": "Hundemon",
+      "image": "27f01f9b6e448734110ca3350f6c4c5c10f60a538719c88a503c94dc0bba1d8d.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_e0d3acf6c55a59f281055a076f04febd",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "dp1",
+      "number": "6",
+      "name": "Lucario",
+      "image": "9f653b2655d0628539ee6404502e5994d88e891b471113aee6749865ca7a6800.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "6",
+        "name": "Lucario",
+        "rarity_symbol": "\tH",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": [],
+        "entry_id": "entry_e0d3acf6c55a59f281055a076f04febd",
+        "lang": "de",
+        "release": "dp1",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/dp1_web_cardlist_de.pdf",
+        "source_sha256": "380fc91dc4a4c114510a2b678ced5d8e12d80e6dcb22aee246455f3ce26d1d24",
+        "rarity_code": "rare_holo",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_7a7455ddfe3657399233a78f8cff6183",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex1",
+      "number": "65",
+      "name": "Fiffyen",
+      "image": "670f85444def07a41310182e6e61e500a438b08bd3283cb6c0f0e6457be2c485.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "65",
+        "printed_number": "65/109",
+        "name": "Fiffyen",
+        "rarity_label": "Common",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=2442",
+        "entry_id": "entry_7a7455ddfe3657399233a78f8cff6183",
+        "lang": "de",
+        "release": "ex1",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=18",
+        "source_sha256": "a6a8e28fd987c64b4252e5d3a3a8a2d313be519a59ccc9492c831cbccf557155",
+        "expected_rarity": "common",
+        "catalog_rarity": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_3c8d6c8248995085a9e48308942a8b7b",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "dp2",
+      "number": "28",
+      "name": "Voltenso",
+      "image": "072e982d460fa337e140d628e93e04da536805790685acb5100b43dbb0e4e2b7.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "28",
+        "name": "Voltenso",
+        "rarity_symbol": "H",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": [],
+        "entry_id": "entry_3c8d6c8248995085a9e48308942a8b7b",
+        "lang": "de",
+        "release": "dp2",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/dp2_web_cardlist_de.pdf",
+        "source_sha256": "c43e4b90ccae1e997f3b18c5c17dc60e45f7bd0802073de0e4284d5edb130591",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_19f942646a1652d6a1b4231833928501",
+      "lang": "de",
+      "stratum": [
+        2003,
+        2009
+      ],
+      "release": "ex11",
+      "number": "79",
+      "name": "Fiffyen",
+      "image": null,
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "79",
+        "printed_number": "79/113",
+        "name": "Fiffyen",
+        "rarity_label": "Common",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=4592",
+        "entry_id": "entry_19f942646a1652d6a1b4231833928501",
+        "lang": "de",
+        "release": "ex11",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=126",
+        "source_sha256": "1597853485bb8178e16d108d1c65c1e522e01a9332255c79e58d299306c7707a",
+        "expected_rarity": "common",
+        "catalog_rarity": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "unassessed_missing_picture",
+        "observed_identity_error": null,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "research_entry_393122199aea57a2ac5bff1295bfe6af",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-bw-e",
+      "number": "27",
+      "name": "Yorkleff",
+      "image": null,
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "unassessed_missing_picture",
+        "observed_identity_error": null,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_d4ce2a4609a8510587bc1ea8c1ac6d74",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy8",
+      "number": "154",
+      "name": "M-Hundemon EX",
+      "image": "15f8c86642b1cd43101b05fc5709d95233d270932c57df5acebafc88301ff78c.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "154",
+        "name": "M-Hundemon-EX",
+        "rarity_symbol": "★U",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              237,
+              29,
+              36
+            ],
+            "shape": "square",
+            "bbox": [
+              463.88,
+              609.6,
+              469.06,
+              614.79
+            ]
+          }
+        ],
+        "entry_id": "entry_d4ce2a4609a8510587bc1ea8c1ac6d74",
+        "lang": "de",
+        "release": "xy8",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy8_web_cardlist_de.pdf",
+        "source_sha256": "76a2f049104c109f2fb9c35d398a206b61365316514af588c4fea64da2b9b512",
+        "rarity_code": "ultra_rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "research_entry_21320733a3d554178594822bfae95978",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "tk-xy-n",
+      "number": "20",
+      "name": "Coiffwaff",
+      "image": null,
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "unassessed_missing_picture",
+        "observed_identity_error": null,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_1d95c0faedc452738f82e0852381683c",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "hgss3",
+      "number": "8",
+      "name": "Farbeagle",
+      "image": "03b717762329614625d4076f49c16eb45b6a29c29945355472ce34e4488685f1.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "8",
+        "name": "Farbeagle",
+        "rarity_symbol": "★H",
+        "page": 1,
+        "pack_finishes": [],
+        "checkbox_evidence": [],
+        "entry_id": "entry_1d95c0faedc452738f82e0852381683c",
+        "lang": "de",
+        "release": "hgss3",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/hgss3_web_cardlist_de.pdf",
+        "source_sha256": "da4540b7da6a9694ffbf9d0860e4d9deba3cdeaef6166a7ee7a5bfa63ec16348",
+        "rarity_code": "rare_holo",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_66e67346ab145500a3b18604380b340b",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy4",
+      "number": "120",
+      "name": "M Voltenso EX",
+      "image": "0a7ceafecd878bb2f7267efeea1e4a125df18650fb6f011051252944cb430598.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "120",
+        "printed_number": "120/119",
+        "name": "M-Voltenso EX",
+        "rarity_label": "Secret Rare",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=10711",
+        "entry_id": "entry_66e67346ab145500a3b18604380b340b",
+        "lang": "de",
+        "release": "xy4",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=263",
+        "source_sha256": "311efb633eea83995196c185edcc26bc8f4ead1fb63c712e227b082692f91e2a",
+        "expected_rarity": null,
+        "catalog_rarity": "secret_rare",
+        "rarity_status": "unmapped_broader_native_category"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_8effde00dfeb5f218731c73502e9ee4c",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "hgss2",
+      "number": "19",
+      "name": "Lucario",
+      "image": "6f514fb07b0cbe4a511df59d8c1e57880111f4c6c465a32ed995b0ff531388c1.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "19",
+        "printed_number": "19/95",
+        "name": "Lucario",
+        "rarity_label": "Rare",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=8218",
+        "entry_id": "entry_8effde00dfeb5f218731c73502e9ee4c",
+        "lang": "de",
+        "release": "hgss2",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=234",
+        "source_sha256": "86f2034207c8aeb5570602223ccd0152139ca6d60b50817f87c91c7029f8998c",
+        "expected_rarity": "rare",
+        "catalog_rarity": "rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_32ba66d1a6e05dafabe338ee767e7f0e",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "xy4",
+      "number": "23",
+      "name": "Voltenso EX",
+      "image": "91ece1c790290fd8e6a426b4ee2d3c93704bf8c67dbacebd9c7f918c65ade49f.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "23",
+        "name": "Voltenso-EX",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              190,
+              0,
+              39
+            ],
+            "shape": "square",
+            "bbox": [
+              31.62,
+              573.78,
+              37.5,
+              579.66
+            ]
+          }
+        ],
+        "entry_id": "entry_32ba66d1a6e05dafabe338ee767e7f0e",
+        "lang": "de",
+        "release": "xy4",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/xy4_web_cardlist_de.pdf",
+        "source_sha256": "45cdff78af00ac52ad295d135471fad865eda8bb3561c7c12ffa42920e1ae42d",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_2d8e3f14ccd75d1789266782a72abd22",
+      "lang": "de",
+      "stratum": [
+        2010,
+        2016
+      ],
+      "release": "2011bw",
+      "number": "9",
+      "name": "Zorua",
+      "image": "75023a30df0b3d88f18918b00b7da5f8f12c77f788639c5ec0daa995d92a6d23.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_c4dec6cbfbb8570f8c0967f08d68a0db",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm12",
+      "number": "22",
+      "name": "Glurak & Rutena GX",
+      "image": "7ab58b53e96a61770c16f33151047c8e0c1886ce5c7b138db8e078b9501b1c40.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "22",
+        "name": "Glurak & Rutena-GX",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              242,
+              101,
+              34
+            ],
+            "shape": "square",
+            "bbox": [
+              50.74,
+              369.9,
+              55.57,
+              374.75
+            ]
+          }
+        ],
+        "entry_id": "entry_c4dec6cbfbb8570f8c0967f08d68a0db",
+        "lang": "de",
+        "release": "sm12",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm12_web_cardlist_de.pdf",
+        "source_sha256": "d66bf76fd4c508983d2aa1db5af5f0e7684093967d5bccf956400d3ee7fb3ecc",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_b412e6c6a29e5f2ebde51b70d8ec6cd8",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh1",
+      "number": "196",
+      "name": "Zamazenta V",
+      "image": "b58146923d54c92ef4bd1ccd5f4578f38093a9092f6a03e8a0a38c4f628a6206.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "196",
+        "name": "Zamazenta-V",
+        "rarity_symbol": "★U",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              239,
+              63,
+              86
+            ],
+            "shape": "square",
+            "bbox": [
+              459.71,
+              613.58,
+              464.55,
+              618.43
+            ]
+          }
+        ],
+        "entry_id": "entry_b412e6c6a29e5f2ebde51b70d8ec6cd8",
+        "lang": "de",
+        "release": "swsh1",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh1_web_cardlist_de.pdf",
+        "source_sha256": "324ed1623388907527decade7df9c260b4ade527b677f17e2ce7c0cbe512f453",
+        "rarity_code": "ultra_rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_2a71f33091755804bf9f9f365059de7e",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm6",
+      "number": "135",
+      "name": "Lucario GX",
+      "image": "300f253e217ee9d731d53e260b0316d9c2fa5ecd6d92689e61dbef61d3e83ce7.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "135",
+        "printed_number": "135/131",
+        "name": "Lucario GX",
+        "rarity_label": "Secret Rare",
+        "card_url": "https://www.carddex.net/index.php?page=DB_KARTE&id=13224",
+        "entry_id": "entry_2a71f33091755804bf9f9f365059de7e",
+        "lang": "de",
+        "release": "sm6",
+        "source_url": "https://www.carddex.net/index.php?page=DB_SERIE&suche=284",
+        "source_sha256": "ea8310de8c141a8913b301bc3ac716ce414aa02e22c07de0c3396995ea084926",
+        "expected_rarity": null,
+        "catalog_rarity": "secret_rare",
+        "rarity_status": "unmapped_broader_native_category"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_36dbce6d3dc45cd087540102d141f6b8",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swshp",
+      "number": "SWSH199",
+      "name": "Wolwerock V",
+      "image": "5316adb454800324a14e903305315c01d2cfa3b26786f2c51ed14ffb5e79f4a1.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_6105a658b5fb5666b3ecaccb408418f8",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sma",
+      "number": "SV23",
+      "name": "Wuffels",
+      "image": "7e5171751efabc8df0d9d0a68ac0bfd0ed3a9ed119bed4fad59af76f8ee623cd.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "SV23",
+        "name": "Wuffels",
+        "rarity_symbol": "★SH",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              0,
+              163,
+              218
+            ],
+            "shape": "square",
+            "bbox": [
+              56.03,
+              724.18,
+              60.87,
+              729.03
+            ]
+          }
+        ],
+        "entry_id": "entry_6105a658b5fb5666b3ecaccb408418f8",
+        "lang": "de",
+        "release": "sma",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm115_web_cardlist_de.pdf",
+        "source_sha256": "0ca6629416cb9b11f585d7afbedc48f4ee92ae10d9269a116d4b553679edbbfc",
+        "rarity_code": "shiny_rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_cf324b082bc0556b9ce0afd5a2e6ba0a",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm2",
+      "number": "138",
+      "name": "Wolwerock GX",
+      "image": "456c9a2292f2ff39086508bd6bed3c4cfa708f9872a409faafab3f593752256f.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "138",
+        "name": "Wolwerock-GX",
+        "rarity_symbol": "★U",
+        "page": 1,
+        "pack_finishes": [
+          "holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              242,
+              101,
+              34
+            ],
+            "shape": "square",
+            "bbox": [
+              460.4,
+              604.69,
+              466.1,
+              610.4
+            ]
+          }
+        ],
+        "entry_id": "entry_cf324b082bc0556b9ce0afd5a2e6ba0a",
+        "lang": "de",
+        "release": "sm2",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm2_web_cardlist_de.pdf",
+        "source_sha256": "d3d7123fee73f251ed790487f2d69dacfa98f7a503f3cba361af39652be9741b",
+        "rarity_code": "ultra_rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_7fecfc862ae557949cc2416c8bcb7c7a",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "sm11",
+      "number": "116",
+      "name": "Riolu",
+      "image": "be644cbba72144fbdc3c7fb9c30a820e9e428f317addd1f4e74496d74d8b40aa.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "116",
+        "name": "Riolu",
+        "rarity_symbol": "●",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              190.67,
+              690.69,
+              195.51,
+              695.53
+            ]
+          },
+          {
+            "color": [
+              136,
+              52,
+              121
+            ],
+            "shape": "square",
+            "bbox": [
+              201.86,
+              690.69,
+              206.69,
+              695.53
+            ]
+          }
+        ],
+        "entry_id": "entry_7fecfc862ae557949cc2416c8bcb7c7a",
+        "lang": "de",
+        "release": "sm11",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/sm11_web_cardlist_de.pdf",
+        "source_sha256": "845b3b6489cdc51c2e023947a7266f5e5db0501c68102e3be7d56d4ba404cb3a",
+        "rarity_code": "common",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_6425c73aac225f67a499f0d569a82244",
+      "lang": "de",
+      "stratum": [
+        2017,
+        2022
+      ],
+      "release": "swsh7",
+      "number": "103",
+      "name": "Zoroark",
+      "image": "27a51bf9395a27610b08c4727cf48b6ce99884362f2936927965356dfc3960a7.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "103",
+        "name": "Zoroark",
+        "rarity_symbol": "★H",
+        "page": 1,
+        "pack_finishes": [
+          "holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              239,
+              63,
+              86
+            ],
+            "shape": "square",
+            "bbox": [
+              322.64,
+              197.95,
+              332.79,
+              205.1
+            ]
+          },
+          {
+            "color": [
+              0,
+              134,
+              195
+            ],
+            "shape": "square",
+            "bbox": [
+              337.32,
+              197.95,
+              342.64,
+              204.95
+            ]
+          }
+        ],
+        "entry_id": "entry_6425c73aac225f67a499f0d569a82244",
+        "lang": "de",
+        "release": "swsh7",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh7_web_cardlist_de.pdf",
+        "source_sha256": "200254d55b8183f080ee129b9a06ef7faeca1e7a6f2cdb54864f5ea591fb181e",
+        "rarity_code": "rare_holo",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_ddd6ba851e315ad69079d3fd6573b939",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv10",
+      "number": "201",
+      "name": "Zamazenta",
+      "image": "b3b081714330e5646af6f46c3898c5280e44affbed9bb5a1263f4a5a0296cfc2.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_5bcba1ad2a5153e58aaaf46cddaa33ab",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "mep",
+      "number": "010",
+      "name": "Riolu",
+      "image": "fedc8fc04714fdd9b50d1c70028f423382c54ea1bceecf38a88f4793e2a25ef3.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_1ea4691f75e95b3995fb7b84699dcbce",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv04.5",
+      "number": "039",
+      "name": "Backel",
+      "image": "4817ad82f7b8e2385b2092e42a3ed626e80d1d5a717fd0d8ae82112d4ffec055.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_f7acf7156bfd544896d1a508ed51bdc6",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv06",
+      "number": "111",
+      "name": "Boninu",
+      "image": "08bb4aa48f7914b359e6557484510c9ddf2439d5619af9ec876bd1940d41cca0.webp",
+      "category": "standard",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_4aaf0689c74753789c794b9d093dce40",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv04",
+      "number": "119",
+      "name": "Kleptifux",
+      "image": "2872a97d8e13451c2d957476bdd6eb93dffd2fca9e0c24e90ed9d40eb282165c.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "119",
+        "name": "Kleptifux",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              223.72,
+              360.67,
+              233.42,
+              368.72
+            ]
+          }
+        ],
+        "entry_id": "entry_4aaf0689c74753789c794b9d093dce40",
+        "lang": "de",
+        "release": "sv04",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/par_web_cardlist_de.pdf",
+        "source_sha256": "cdca42bfa6a1c8f767ff92de10cf0c215c0727c181ecc98fd98f50f681830d8f",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_ad2172d0f8105b9f9daa159f20b7b627",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "swsh12.5",
+      "number": "074",
+      "name": "Wolwerock",
+      "image": "e735f909f5456cbce40a2113eff1901ca20ca76a388f6c3b3bb190ca9fbb3c1b.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "074",
+        "name": "Wolwerock",
+        "rarity_symbol": "★",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo",
+          "reverse_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              174.46,
+              552.45,
+              185.63,
+              560.19
+            ]
+          },
+          {
+            "color": [
+              0,
+              134,
+              195
+            ],
+            "shape": "square",
+            "bbox": [
+              190.61,
+              552.49,
+              196.47,
+              560.19
+            ]
+          }
+        ],
+        "entry_id": "entry_ad2172d0f8105b9f9daa159f20b7b627",
+        "lang": "de",
+        "release": "swsh12.5",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/swsh125_web_cardlist_de.pdf",
+        "source_sha256": "4e01402ce22151bd8061db6343dcbe1e30a433cd4eeefc4ab2c95be651e44216",
+        "rarity_code": "rare",
+        "rarity_status": "agrees"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "entry_470e4ea9789e506588b6e85e04499555",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv03",
+      "number": "133",
+      "name": "Hundemon",
+      "image": "2cb377d7dcfb20fe401bd1e4ec1c781679049f7d203ceef56b9fbd54a4630e05.webp",
+      "category": "standard",
+      "assessed_fields": [
+        "name",
+        "number"
+      ],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity"
+      ],
+      "independent_reference": {
+        "number": "133",
+        "name": "Hundemon",
+        "rarity_symbol": "",
+        "page": 1,
+        "pack_finishes": [
+          "non_holo"
+        ],
+        "checkbox_evidence": [
+          {
+            "color": [
+              35,
+              31,
+              32
+            ],
+            "shape": "square",
+            "bbox": [
+              264.21,
+              605.68,
+              274.88,
+              613.72
+            ]
+          }
+        ],
+        "entry_id": "entry_470e4ea9789e506588b6e85e04499555",
+        "lang": "de",
+        "release": "sv03",
+        "source_url": "https://assets.pokemon.com/assets/cms2-de-de/pdf/trading-card-game/checklist/obf_web_cardlist_de.pdf",
+        "source_sha256": "7e80947ae02d53878feaaf9e40c203fa2dc9cfd6f97524afcca414dab629c7ee",
+        "rarity_code": null,
+        "rarity_status": "not_decoded"
+      },
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    },
+    {
+      "entry_id": "research_entry_10a55bd4f2d55fb0a97c59fded72beab",
+      "lang": "de",
+      "stratum": [
+        2023,
+        2026
+      ],
+      "release": "sv06",
+      "number": "078",
+      "name": "Piepi",
+      "image": "bdfd04e50d38090e7623acdb9809af98bccd15af9dead29f4512af3adb33d341.webp",
+      "category": "cameo",
+      "assessed_fields": [],
+      "unassessed_fields": [
+        "release_date",
+        "all_physical_variants",
+        "marketplace_identity",
+        "name",
+        "number"
+      ],
+      "independent_reference": null,
+      "observed_errors": [],
+      "comparison_rule": "Compare native printed name and collector number; SP owner marker GL/C and separate delta symbol are retained as catalogue aliases, not identity errors.",
+      "artwork_assessment": "See numbered artwork_review.json; not a date/finish verification.",
+      "shared_image_assessment": {
+        "state": "visually_assessed",
+        "observed_identity_error": false,
+        "scope": "Shared face name/number; not every edition, foil or regional product."
+      }
+    }
+  ],
+  "records_with_observed_errors": 0,
+  "name_number_assessed": 61,
+  "visual_review": {
+    "images_assessed": 74,
+    "images_unassessed": 5,
+    "identity_image_errors_observed": 0,
+    "method": "All 79 frozen positions inspected on two saved contact sheets; 5 absent pictures unassessed. This checks the shared card face, not every printing or language release."
+  },
+  "limits": [
+    "A diagnostic sample with field-specific assessment, not an accuracy estimate.",
+    "Unknown-year records excluded; seven remaining early German records were all selected.",
+    "Existing publisher/Carddex evidence is explicitly reused, not newly retrieved.",
+    "Dates, every physical variant and marketplace identities were not assessed by this sample."
+  ]
+}

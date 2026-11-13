@@ -1,0 +1,9 @@
+DogDex UI update 1.8.7 from 1.8.6
+
+Close DogDex and its console. Merge this ZIP directly into J_DogDex.
+Keep my_collection, data and all pictures. No collection or catalog data is shipped in this patch.
+Restart, then Export mobile view and Commit / Push to update GitHub Pages.
+
+Top navigation; flags one row lower; short search and right-aligned filters; no logo; two-column species list.
+Cameos / Jumbo now combine with species. Click an active category to clear it; All Pokemon clears species only.
+Read UI_UPDATE_1_8_7.md and UI_VALIDATION_1_8_7.md.

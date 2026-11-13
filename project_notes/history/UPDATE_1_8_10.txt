@@ -1,0 +1,14 @@
+DogDex UI update 1.8.10 (for an existing 1.8.9 folder)
+
+Close DogDex. Extract this ZIP directly into J_DogDex and replace matching files.
+Do not create another DogDex subfolder. Start DogDex and press Ctrl+F5 if needed.
+
+Data health and save/update status are now in the header. A small DogDex title
+returns at the top of the desktop sidebar, with more space for all 41 species.
+No catalogue or personal collection files are replaced by this patch.
+
+For GitHub/mobile: export the mobile viewer, commit the generated docs changes
+in GitHub Desktop, and push. You only need this patch for your current folder;
+the full package already contains it.
+
+Details: UI_UPDATE_1_8_10.md and UI_VALIDATION_1_8_10.md.

@@ -1,0 +1,589 @@
+[
+  {
+    "family": "pokumon_ja_inventory",
+    "lang": "ja",
+    "url": "https://pokumon.com/advanced-search-results/?_sft_language=japanese&_sft_cardname=vulpix,ninetales,growlithe,arcanine,snubbull,granbull,houndour,houndoom,smeargle,poochyena,mightyena,zigzagoon,electrike,manectric,riolu,lucario,lillipup,herdier,stoutland,zorua,zoroark,fennekin,braixen,delphox,furfrou,zygarde,rockruff,lycanroc,nickit,thievul,yamper,boltund,zacian,zamazenta,fidough,dachsbun,maschiff,mabosstiff,greavard,houndstone,okidogi",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/55ac8a5c94db95aa1dfa5c5c.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/advanced-search-results/?_sft_language=japanese&_sft_cardname=vulpix,ninetales,growlithe,arcanine,snubbull,granbull,houndour,houndoom,smeargle,poochyena,mightyena,zigzagoon,electrike,manectric,riolu,lucario,lillipup,herdier,stoutland,zorua,zoroark,fennekin,braixen,delphox,furfrou,zygarde,rockruff,lycanroc,nickit,thievul,yamper,boltund,zacian,zamazenta,fidough,dachsbun,maschiff,mabosstiff,greavard,houndstone,okidogi",
+    "content_type": "text/html; charset=UTF-8",
+    "state": "cached",
+    "sha256": "5596bb99b781c062adbf58886640e5dee2c616ee203f0a35bcfe3474352afef1",
+    "bytes": 258886,
+    "rows": [
+      {
+        "url": "https://pokumon.com/card/alolan-ninetales-218-sm-p-japanese-promo/",
+        "title": "Alolan Ninetales (218/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-ninetales-389-sm-p-japanese-promo/",
+        "title": "Alolan Ninetales (389/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-023-sm-p-japanese-promo/",
+        "title": "Alolan Vulpix (023/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-052-sm-p-japanese-promo/",
+        "title": "Alolan Vulpix (052/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-147-sm-p-japanese-promo/",
+        "title": "Alolan Vulpix (147/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-206-sm-p-japanese-promo/",
+        "title": "Alolan Vulpix (206/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-293-sm-p-japanese-promo/",
+        "title": "Alolan Vulpix (293/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-379-sm-p-japanese-promo/",
+        "title": "Alolan Vulpix (379/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/arcanine-003-sv-p-japanese-promo/",
+        "title": "Arcanine (003/SV-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/arcanine-338-s-p-japanese-promo/",
+        "title": "Arcanine (338/S-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/arcanine-break-267-xy-p-japanese-promo/",
+        "title": "Arcanine Break (267/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/arcanine-toyota-campaign-pokemon-song-best-collection-cd-1997-unnumbered/",
+        "title": "Arcanine (Toyota campaign, Pokemon Song Best Collection CD 1997) (Unnumbered)"
+      },
+      {
+        "url": "https://pokumon.com/card/arvens-mabosstiff-256-sv-p-japanese-promo/",
+        "title": "Arven’s Mabosstiff (256/SV-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/auras-lucario-075-pcg-p-japanese-promo/",
+        "title": "Aura’s Lucario (075/PCG-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/auras-lucario-079-pcg-p-japanese-promo/",
+        "title": "Aura’s Lucario (079/PCG-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/auras-lucario-090-pcg-p-japanese-promo/",
+        "title": "Aura’s Lucario (090/PCG-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/auras-lucario-092-pcg-p-japanese-promo/",
+        "title": "Aura’s Lucario (092/PCG-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/auras-lucario-093-pcg-p-japanese-promo/",
+        "title": "Aura’s Lucario (093/PCG-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/blaines-growlithe-corocoro-1999-unnumbered/",
+        "title": "Blaine’s Growlithe (CoroCoro 1999) (Unnumbered)"
+      },
+      {
+        "url": "https://pokumon.com/card/braixen-237-xy-p-japanese-promo/",
+        "title": "Braixen (237/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/daiichi-pan-fennekin-035-xy-p-japanese-promo/",
+        "title": "Daiichi Pan Fennekin (035/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/delphox-072-xy-p-japanese-promo/",
+        "title": "Delphox (072/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/delphox-ex-048-xy-p-japanese-promo/",
+        "title": "Delphox EX (048/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/fennekin-035-xy-p-japanese-promo/",
+        "title": "Fennekin (035/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/fennekin-062-xy-p-japanese-promo/",
+        "title": "Fennekin (062/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/galarian-zigzagoon-135-s-p-japanese-promo/",
+        "title": "Galarian Zigzagoon (135/S-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/growlithe-024-sv-p-japanese-promo/",
+        "title": "Growlithe (024/SV-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/growlithe-030-p-japanese-promo/",
+        "title": "Growlithe (030/P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/growlithe-expansion-sheet-3-1998-vending/",
+        "title": "Growlithe (Expansion Sheet 3 1998) (Vending)"
+      },
+      {
+        "url": "https://pokumon.com/card/houndour-050-l-p-japanese-promo/",
+        "title": "Houndour (050/L-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/houndour-077-sv-p-japanese-promo/",
+        "title": "Houndour (077/SV-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/houndstone-026-sv-p-japanese-promo/",
+        "title": "Houndstone (026/SV-P Japanese Promo)"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_ko_inventory",
+    "lang": "ko",
+    "url": "https://pokumon.com/advanced-search-results/?_sft_language=korean&_sft_cardname=vulpix,ninetales,growlithe,arcanine,snubbull,granbull,houndour,houndoom,smeargle,poochyena,mightyena,zigzagoon,electrike,manectric,riolu,lucario,lillipup,herdier,stoutland,zorua,zoroark,fennekin,braixen,delphox,furfrou,zygarde,rockruff,lycanroc,nickit,thievul,yamper,boltund,zacian,zamazenta,fidough,dachsbun,maschiff,mabosstiff,greavard,houndstone,okidogi",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/82e655de45f6ba92b39a851d.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/advanced-search-results/?_sft_language=korean&_sft_cardname=vulpix,ninetales,growlithe,arcanine,snubbull,granbull,houndour,houndoom,smeargle,poochyena,mightyena,zigzagoon,electrike,manectric,riolu,lucario,lillipup,herdier,stoutland,zorua,zoroark,fennekin,braixen,delphox,furfrou,zygarde,rockruff,lycanroc,nickit,thievul,yamper,boltund,zacian,zamazenta,fidough,dachsbun,maschiff,mabosstiff,greavard,houndstone,okidogi",
+    "content_type": "text/html; charset=UTF-8",
+    "state": "cached",
+    "sha256": "92e9eada149496198ffac87eb2c8ac2ee0e98fdb571e5891464b86436bd0b286",
+    "bytes": 171065,
+    "rows": [
+      {
+        "url": "https://pokumon.com/card/alolan-ninetales-090-sm-p-korean-promo/",
+        "title": "Alolan Ninetales (090/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-053-sm-p-korean-promo/",
+        "title": "Alolan Vulpix (053/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/alolan-vulpix-092-sm-p-korean-promo/",
+        "title": "Alolan Vulpix (092/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/arcanine-002-sv-p-korean-promo/",
+        "title": "Arcanine (002/SV-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/arvens-mabosstiff-ex-171-sv-p-korean-promo/",
+        "title": "Arven’s Mabosstiff ex (171/SV-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/braixen-151-xy-p-korean-promo/",
+        "title": "Braixen (151/XY-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/fennekin-008-xy-p-korean-promo/",
+        "title": "Fennekin (008/XY-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/growlithe-010-sv-p-korean-promo/",
+        "title": "Growlithe (010/SV-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/houndstone-012-sv-p-korean-promo/",
+        "title": "Houndstone (012/SV-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-023-bw-korean-promo/",
+        "title": "Lucario (023/BW Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-039-sm-p-korean-promo/",
+        "title": "Lucario (039/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-v-185-s-p-korean-promo/",
+        "title": "Lucario V (185/S-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-vstar-186-s-p-korean-promo/",
+        "title": "Lucario VSTAR (186/S-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lycanroc-029-sm-p-korean-promo/",
+        "title": "Lycanroc (029/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lycanroc-067-sm-p-korean-promo/",
+        "title": "Lycanroc (067/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lycanroc-080-sm-p-korean-promo/",
+        "title": "Lycanroc (080/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/mabosstiff-ex-035-sv-p-korean-promo/",
+        "title": "Mabosstiff ex (035/SV-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/ninetales-ex-104-xy-p-korean-promo/",
+        "title": "Ninetales EX (104/XY-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/ns-zorua-157-sv-p-korean-promo/",
+        "title": "N’s Zorua (157/SV-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-009-nintendo-black-star-korean-promo/",
+        "title": "Riolu (009/Nintendo Black Star Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-061-sm-p-korean-promo/",
+        "title": "Riolu (061/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-146-s-p-korean-promo/",
+        "title": "Riolu (146/S-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-154-sm-p-korean-promo/",
+        "title": "Riolu (154/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/vulpix-059-xy-p-korean-promo/",
+        "title": "Vulpix (059/XY-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zoroark-064-sm-p-korean-promo/",
+        "title": "Zoroark (064/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zorua-010-bw-korean-promo/",
+        "title": "Zorua (010/BW Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zorua-025-bw-korean-promo/",
+        "title": "Zorua (025/BW Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zorua-031-sm-p-korean-promo/",
+        "title": "Zorua (031/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zygarde-081-sm-p-korean-promo/",
+        "title": "Zygarde (081/SM-P Korean Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zygarde-gx-088-sm-p-korean-promo/",
+        "title": "Zygarde GX (088/SM-P Korean Promo)"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_ja_inventory",
+    "lang": "ja",
+    "url": "https://pokumon.com/cards/?_sft_language=japanese&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=2",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/cdd7e2b0a1b88e4513a14c2b.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=japanese&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=2",
+    "content_type": "text/html; charset=UTF-8",
+    "state": "cached",
+    "sha256": "9fe87c6d0a89cd6d22a6f02c74d8ab63e661cbcea457c60d508a9faddc2a5ac4",
+    "bytes": 439552,
+    "rows": [
+      {
+        "url": "https://pokumon.com/card/illusions-zoroark-pokemon-card-design-contest-2010-l-p/",
+        "title": "Illusion’s Zoroark (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zoroark-pokemon-card-design-contest-2010-l-p-2/",
+        "title": "Illusion’s Zoroark (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zoroark-pokemon-card-design-contest-2010-l-p-3/",
+        "title": "Illusion’s Zoroark (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zoroark-pokemon-card-design-contest-2010-l-p-4/",
+        "title": "Illusion’s Zoroark (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zoroark-pokemon-card-design-contest-2010-l-p-5/",
+        "title": "Illusion’s Zoroark (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zorua-pokemon-card-design-contest-2010-l-p/",
+        "title": "Illusion’s Zorua (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zorua-pokemon-card-design-contest-2010-l-p-2/",
+        "title": "Illusion’s Zorua (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zorua-pokemon-card-design-contest-2010-l-p-3/",
+        "title": "Illusion’s Zorua (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zorua-pokemon-card-design-contest-2010-l-p-4/",
+        "title": "Illusion’s Zorua (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zorua-pokemon-card-design-contest-2010-l-p-5/",
+        "title": "Illusion’s Zorua (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zorua-pokemon-card-design-contest-2010-l-p-6/",
+        "title": "Illusion’s Zorua (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/illusions-zorua-pokemon-card-design-contest-2010-l-p-7/",
+        "title": "Illusion’s Zorua (Pokemon Card Design Contest 2010) (L-P)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-002-dp-p-japanese-promo/",
+        "title": "Lucario (002/DP-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-015-dpt-p-japanese-promo/",
+        "title": "Lucario (015/DPt-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-069-sm-p-japanese-promo/",
+        "title": "Lucario (069/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-096-dp-p-japanese-promo/",
+        "title": "Lucario (096/DP-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-106-bw-p-japanese-promo/",
+        "title": "Lucario (106/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-154-m-p-japanese-promo/",
+        "title": "Lucario (154/M-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-203-bw-p-japanese-promo/",
+        "title": "Lucario (203/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-214-xy-p-japanese-promo/",
+        "title": "Lucario (214/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-ex-066-xy-p-japanese-promo/",
+        "title": "Lucario EX (066/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-lv-x-004-dp-p-japanese-promo/",
+        "title": "Lucario LV.X (004/DP-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-v-304-s-p-japanese-promo/",
+        "title": "Lucario V (304/S-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lucario-vstar-305-s-p-japanese-promo/",
+        "title": "Lucario VSTAR (305/S-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lycanroc-103-sm-p-japanese-promo/",
+        "title": "Lycanroc (103/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lycanroc-115-sm-p-japanese-promo/",
+        "title": "Lycanroc (115/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lycanroc-151-sm-p-japanese-promo/",
+        "title": "Lycanroc (151/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/lycanroc-221-sm-p-japanese-promo/",
+        "title": "Lycanroc (221/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/mabosstiff-ex-055-sv-p-japanese-promo/",
+        "title": "Mabosstiff ex (055/SV-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/mega-delphox-ex-096-m-p-japanese-promo/",
+        "title": "Mega Delphox ex (096/M-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/ninetales-123-bw-p-japanese-promo/",
+        "title": "Ninetales (123/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/ninetales-ex-193-xy-p-japanese-promo/",
+        "title": "Ninetales EX (193/XY-P Japanese Promo)"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_ja_inventory",
+    "lang": "ja",
+    "url": "https://pokumon.com/cards/?_sft_language=japanese&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=3",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/3882d2f7783681e18bc1e4d8.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=japanese&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=3",
+    "content_type": "text/html; charset=UTF-8",
+    "state": "cached",
+    "sha256": "17bbe18a3c8a697818d5eff2754ad09b55191ed2f1276da9e0612da963dda041",
+    "bytes": 438460,
+    "rows": [
+      {
+        "url": "https://pokumon.com/card/ns-zorua-200-sv-p-japanese-promo/",
+        "title": "N’s Zorua (200/SV-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/quick-starter-growlithe-quick-starter-gift-set-1998-vending/",
+        "title": "Quick Starter Growlithe (Quick Starter Gift Set 1998) (Vending)"
+      },
+      {
+        "url": "https://pokumon.com/card/quick-starter-vulpix-quick-starter-gift-set-1998-vending/",
+        "title": "Quick Starter Vulpix (Quick Starter Gift Set 1998) (Vending)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-001-dp-p-japanese-promo/",
+        "title": "Riolu (001/DP-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-022-m-p-japanese-promo/",
+        "title": "Riolu (022/M-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-066-dp-p-japanese-promo/",
+        "title": "Riolu (066/DP-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-076-sv-p-japanese-promo/",
+        "title": "Riolu (076/SV-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-088-dp-p-japanese-promo/",
+        "title": "Riolu (088/DP-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-104-bw-p-japanese-promo/",
+        "title": "Riolu (104/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-155-m-p-japanese-promo/",
+        "title": "Riolu (155/M-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-159-sm-p-japanese-promo/",
+        "title": "Riolu (159/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-260-s-p-japanese-promo/",
+        "title": "Riolu (260/S-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/riolu-315-sm-p-japanese-promo/",
+        "title": "Riolu (315/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/rockruff-021-sm-p-japanese-promo/",
+        "title": "Rockruff (021/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/rockruff-150-sm-p-japanese-promo/",
+        "title": "Rockruff (150/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/smeargle-227-xy-p-japanese-promo/",
+        "title": "Smeargle (227/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/smeargle-pokemon-card-trainers-magazine-2000-unnumbered/",
+        "title": "Smeargle (Pokemon Card Trainers Magazine 2000) (Unnumbered)"
+      },
+      {
+        "url": "https://pokumon.com/card/thievul-084-s-p-japanese-promo/",
+        "title": "Thievul (084/S-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/vulpix-005-mcdonalds-japanese-promo/",
+        "title": "Vulpix (005/McDonalds Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/vulpix-110-xy-p-japanese-promo/",
+        "title": "Vulpix (110/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/vulpix-146-sm-p-japanese-promo/",
+        "title": "Vulpix (146/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/vulpix-expansion-sheet-3-1998-vending/",
+        "title": "Vulpix (Expansion Sheet 3 1998) (Vending)"
+      },
+      {
+        "url": "https://pokumon.com/card/yamper-244-s-p-japanese-promo/",
+        "title": "Yamper (244/S-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zoroark-007-bw-p-japanese-promo/",
+        "title": "Zoroark (007/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zoroark-024-bw-p-japanese-promo/",
+        "title": "Zoroark (024/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zoroark-162-sm-p-japanese-promo/",
+        "title": "Zoroark (162/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zorua-021-bw-p-japanese-promo/",
+        "title": "Zorua (021/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zorua-032-bw-p-japanese-promo/",
+        "title": "Zorua (032/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zorua-105-sm-p-japanese-promo/",
+        "title": "Zorua (105/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zorua-116-bw-p-japanese-promo/",
+        "title": "Zorua (116/BW-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zygarde-178-sm-p-japanese-promo/",
+        "title": "Zygarde (178/SM-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zygarde-251-xy-p-japanese-promo/",
+        "title": "Zygarde (251/XY-P Japanese Promo)"
+      }
+    ]
+  },
+  {
+    "family": "pokumon_ja_inventory",
+    "lang": "ja",
+    "url": "https://pokumon.com/cards/?_sft_language=japanese&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=4",
+    "retrieved_on": "2026-10-29",
+    "cache_file": "cache/b94c817ea7548d31beca38fa.raw",
+    "status": 200,
+    "final_url": "https://pokumon.com/cards/?_sft_language=japanese&_sft_cardname=vulpix%2Cninetales%2Cgrowlithe%2Carcanine%2Csnubbull%2Cgranbull%2Choundour%2Choundoom%2Csmeargle%2Cpoochyena%2Cmightyena%2Czigzagoon%2Celectrike%2Cmanectric%2Criolu%2Clucario%2Clillipup%2Cherdier%2Cstoutland%2Czorua%2Czoroark%2Cfennekin%2Cbraixen%2Cdelphox%2Cfurfrou%2Czygarde%2Crockruff%2Clycanroc%2Cnickit%2Cthievul%2Cyamper%2Cboltund%2Czacian%2Czamazenta%2Cfidough%2Cdachsbun%2Cmaschiff%2Cmabosstiff%2Cgreavard%2Choundstone%2Cokidogi&sf_paged=4",
+    "content_type": "text/html; charset=UTF-8",
+    "state": "cached",
+    "sha256": "0cae7ab504969b047b94a7fe8af03b385291f9eb021ecf0327fd753581cc9b65",
+    "bytes": 401967,
+    "rows": [
+      {
+        "url": "https://pokumon.com/card/zygarde-252-xy-p-japanese-promo/",
+        "title": "Zygarde (252/XY-P Japanese Promo)"
+      },
+      {
+        "url": "https://pokumon.com/card/zygarde-gx-216-sm-p-japanese-promo/",
+        "title": "Zygarde GX (216/SM-P Japanese Promo)"
+      }
+    ]
+  }
+]

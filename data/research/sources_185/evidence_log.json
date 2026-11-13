@@ -1,0 +1,212 @@
+[
+  {
+    "key": "cz",
+    "source_url": "https://press.pokemon.com/en-AU/MEDIA-ALERT-New-Pokemon-Trading-Card-Game-Crown-Zenith-Expansion-Intro",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Crown Zenith includes the Galarian Gallery subset. Box promos are additional promotional cards, not part of the booster numbering.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "shf",
+    "source_url": "https://www.pokemon.com/uk/pokemon-tcg/shining-fates",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "One Shining Fates expansion; its card database and checklist retain separately numbered Shiny Vault cards.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "shf_sv",
+    "source_url": "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/swsh45sv/SV122",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Official SV collector namespace within Shining Fates: Shiny Vault.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "hf",
+    "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/sm115_web_cardlist_en.pdf",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Hidden Fates official checklist includes a Shiny Vault section with SV numbering.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "tg9",
+    "source_url": "https://www.pokemon.com/uk/pokemon-tcg/sword-shield-brilliant-stars?section=overview",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Official expansion overview identifies the 30-card Trainer Gallery as a subset.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "tg10",
+    "source_url": "https://www.pokemon.com/uk/news/a-peek-at-the-cards-of-the-pokemon-tcg-sword-shield-astral-radiance-trainer-gallery",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Official article identifies the Trainer Gallery as a subset with its own TG numbering.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "tg11",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Lost_Origin_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "The Trainer Gallery is an internal numbered section of Lost Origin.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "tg12",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Silver_Tempest",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "Silver Tempest lists Trainer Gallery as an internal numbered section.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "cel",
+    "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/celebrations",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Western Celebrations includes the Classic Collection. Commercial product promos remain outside that numbered expansion.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "cel_asia",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/S8aP",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "Japanese and Korean 25th anniversary reprint cards are distributed as separate promo packs; do not merge them into S8a.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "lt_rc",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Legendary_Treasures_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "Radiant Collection uses RC numbers inside Legendary Treasures; original card numbering is retained.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "g_rc",
+    "source_url": "https://www.pokemon.com/de/pokemon-sammelkartenspiel/generationen",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Official German expansion overview describes the additional 32-card special-art section; the Radiant Collection uses RC numbering.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "pl_sh",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Platinum_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "SH-numbered Shiny cards stay inside their own expansion. The numbering series is not a new expansion shared across eras.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "col_sl",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Call_of_Legends_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "SL-numbered Shiny Legendary cards remain inside Call of Legends.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "lucario_box",
+    "source_url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/lucario-vstar-premium-collection",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "The same product contains Lucario V, Lucario VSTAR and a separate oversized Lucario VSTAR. Size distinction is preserved.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "cz_products",
+    "source_url": "https://press.pokemon.com/en-AU/MEDIA-ALERT-Pokemon-Trading-Card-Game-Crown-Zenith-Expansion-Released-",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Crown Zenith product contents distinguish booster packs from separate Lucario, Shiny Zacian and Shiny Zamazenta promos.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "etb_upc",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Elite_Trainer_Box_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "The Zacian and Zamazenta ETB Plus products are separate from the North American UPC. The UPC includes both gold promos; an ETB Plus contains its respective one.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "sf_sh",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Stormfront_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "Stormfront has an internal SH-numbered Shiny section.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "rr_rt",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Rising_Rivals_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "Rising Rivals has an internal RT1–RT5 Rotom section, not a separate expansion.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "sv_sh",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Supreme_Victors_(TCG)",
+    "source_family": "Bulbapedia",
+    "reviewed_on": "2026-10-30",
+    "claim": "Supreme Victors retains its own SH7–SH9 section.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "ar_sections",
+    "source_url": "https://assets.pokemon.com/assets/cms-de-de/pdf/tcg/checklists/PL4_Cardlist_Lo.pdf",
+    "source_family": "The Pokemon Company",
+    "reviewed_on": "2026-10-30",
+    "claim": "Arceus checklist contains both AR1–AR9 and SH10–SH12 inside the expansion. No out-of-roster cards are added.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "new source-structure review"
+  },
+  {
+    "key": "regional_sma",
+    "source_url": "https://pokemoncard.co.kr/card/97",
+    "source_family": "Pokemon Korea",
+    "reviewed_on": "2026-10-30",
+    "claim": "Korean sma is a Sun & Moon starter set, not the Western Hidden Fates Shiny Vault.",
+    "scope": "Source organization only; not a new printing-completeness assessment.",
+    "method": "existing regional metadata/provider evidence rechecked; no new native specimen inspection"
+  },
+  {
+    "key": "checklist_scope_limit",
+    "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/swsh9_web_cardlist_en.pdf",
+    "reviewed_on": "2026-10-30",
+    "claim": "This accessible checklist does not include TG rows in its extracted text. It was not used as proof of Trainer Gallery; the official expansion overview/article supplies that relationship."
+  },
+  {
+    "key": "generations_pdf_access",
+    "source_url": "https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/xy9pt5_web_cardlist_en.pdf",
+    "reviewed_on": "2026-10-30",
+    "claim": "Inaccessible via retrieval tool. Used official German Generations overview plus existing collector identifiers; did not retry the access wall."
+  }
+]

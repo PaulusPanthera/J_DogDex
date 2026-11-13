@@ -1,3 +1,10 @@
+# DogDex 1.8.18: source and viewer
+
+The desktop app and public viewer share the application version. Export mobile
+view again after updating, then review and commit the changed files. Source
+tracking rules now include the public app, catalogue and tests while excluding
+your private collection. See DEVELOPMENT.md for the current workflow.
+
 Cardmarket links in 1.8.14: the read-only viewer uses the published confirmed products and automatically filters outgoing offers by ledger language, edition and reverse-holo status. Minimum condition defaults to Excellent+ and is saved separately in each browser. Guide prices remain product-wide. Re-export and push docs after updating the desktop application.
 
 # Mobile data update 1.8.9
@@ -8,7 +15,7 @@ Export the mobile view after installing the update, then commit and push docs in
 
 After installing the UI patch, export the mobile view again, then commit and push the changed docs folder in GitHub Desktop. The export includes local set symbols and the new sidebar controls. It does not sync automatically before an export.
 
-# DogDex on PC and mobile — version 1.8.7
+# DogDex on PC and mobile
 
 1.8.7 updates navigation and lets Cameos / Jumbo combine with species. After updating the PC application, export the mobile view again, then Commit and Push. Ownership and personal data continue to come from your current PC collection.
 
@@ -24,8 +31,8 @@ Android app or a second editable collection.
 ## Update the PC application
 
 1. Close the running DogDex console. Keep an exported collection backup.
-2. Extract this package somewhere temporary. Copy the **contents** of its
-   `DogDex` folder into your existing `J_DogDex`, replacing matching files, including supplied catalogue data.
+2. Extract the update ZIP directly into the existing `J_DogDex` folder and
+   run `UPDATE_DOGDEX.bat`. Use the full Windows package only for a fresh install.
 3. Keep your existing **`my_collection`** folder. Do not replace or delete it.
 4. Start `START_DOGDEX.bat` from `J_DogDex` as usual.
 
@@ -43,9 +50,11 @@ saves an automatic pre-upgrade backup for an existing collection.
    `J_DogDex` folder, and use **create a repository here** if it is not one yet.
    Keep the existing folder; avoid creating another nested `J_DogDex` folder.
    Do not choose a new gitignore template: the supplied `.gitignore` already
-   limits commits to the mobile viewer and these instructions.
-3. Review the changes. You should see `docs`, `.gitignore` and this guide.
-   You should **not** see `runtime`, `my_collection`, research ZIPs or databases.
+   excludes private collection files, backups and the runtime.
+3. Review the changes. The public viewer in `docs`, application source, tests,
+   public research and the immutable original catalogue may appear.
+   You should **not** see `runtime`, `my_collection`, review ZIPs, backups or
+   private databases. The derived collector database remains ignored.
    Commit, then choose **Publish repository**, with **Keep this code private**
    unchecked. Use a new DogDex repository, not your existing PaxDex project.
 4. On that repository's GitHub website go to **Settings → Pages**.
@@ -67,7 +76,9 @@ the phone. There is no mobile editing or two-way synchronization to manage.
 The export contains ownership counts, wishlist, catalog fields, images and
 available guide prices. Purchase costs, copy notes, audit logs, SQLite files,
 backups and editing tokens are not part of the viewer. The supplied `.gitignore`
-keeps all other files local; this does not replace your ordinary backup.
+keeps private files local while allowing public project source. Ignore rules do
+not untrack files already committed; review the proposed diff. This does not
+replace your ordinary backup.
 
 ## Sources, grouping and pictures
 

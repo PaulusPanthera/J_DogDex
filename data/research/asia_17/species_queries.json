@@ -1,0 +1,248 @@
+[
+  {
+    "dex": 37,
+    "english": "Vulpix",
+    "ja": "ロコン",
+    "ko": "식스테일"
+  },
+  {
+    "dex": 38,
+    "english": "Ninetales",
+    "ja": "キュウコン",
+    "ko": "나인테일"
+  },
+  {
+    "dex": 58,
+    "english": "Growlithe",
+    "ja": "ガーディ",
+    "ko": "가디"
+  },
+  {
+    "dex": 59,
+    "english": "Arcanine",
+    "ja": "ウインディ",
+    "ko": "윈디"
+  },
+  {
+    "dex": 209,
+    "english": "Snubbull",
+    "ja": "ブルー",
+    "ko": "블루"
+  },
+  {
+    "dex": 210,
+    "english": "Granbull",
+    "ja": "グランブル",
+    "ko": "그랑블루"
+  },
+  {
+    "dex": 228,
+    "english": "Houndour",
+    "ja": "デルビル",
+    "ko": "델빌"
+  },
+  {
+    "dex": 229,
+    "english": "Houndoom",
+    "ja": "ヘルガー",
+    "ko": "헬가"
+  },
+  {
+    "dex": 235,
+    "english": "Smeargle",
+    "ja": "ドーブル",
+    "ko": "루브도"
+  },
+  {
+    "dex": 261,
+    "english": "Poochyena",
+    "ja": "ポチエナ",
+    "ko": "포챠나"
+  },
+  {
+    "dex": 262,
+    "english": "Mightyena",
+    "ja": "グラエナ",
+    "ko": "그라에나"
+  },
+  {
+    "dex": 263,
+    "english": "Zigzagoon",
+    "ja": "ジグザグマ",
+    "ko": "지그제구리"
+  },
+  {
+    "dex": 309,
+    "english": "Electrike",
+    "ja": "ラクライ",
+    "ko": "썬더라이"
+  },
+  {
+    "dex": 310,
+    "english": "Manectric",
+    "ja": "ライボルト",
+    "ko": "썬더볼트"
+  },
+  {
+    "dex": 447,
+    "english": "Riolu",
+    "ja": "リオル",
+    "ko": "리오르"
+  },
+  {
+    "dex": 448,
+    "english": "Lucario",
+    "ja": "ルカリオ",
+    "ko": "루카리오"
+  },
+  {
+    "dex": 506,
+    "english": "Lillipup",
+    "ja": "ヨーテリー",
+    "ko": "요테리"
+  },
+  {
+    "dex": 507,
+    "english": "Herdier",
+    "ja": "ハーデリア",
+    "ko": "하데리어"
+  },
+  {
+    "dex": 508,
+    "english": "Stoutland",
+    "ja": "ムーランド",
+    "ko": "바랜드"
+  },
+  {
+    "dex": 570,
+    "english": "Zorua",
+    "ja": "ゾロア",
+    "ko": "조로아"
+  },
+  {
+    "dex": 571,
+    "english": "Zoroark",
+    "ja": "ゾロアーク",
+    "ko": "조로아크"
+  },
+  {
+    "dex": 653,
+    "english": "Fennekin",
+    "ja": "フォッコ",
+    "ko": "푸호꼬"
+  },
+  {
+    "dex": 654,
+    "english": "Braixen",
+    "ja": "テールナー",
+    "ko": "테르나"
+  },
+  {
+    "dex": 655,
+    "english": "Delphox",
+    "ja": "マフォクシー",
+    "ko": "마폭시"
+  },
+  {
+    "dex": 676,
+    "english": "Furfrou",
+    "ja": "トリミアン",
+    "ko": "트리미앙"
+  },
+  {
+    "dex": 718,
+    "english": "Zygarde",
+    "ja": "ジガルデ",
+    "ko": "지가르데"
+  },
+  {
+    "dex": 744,
+    "english": "Rockruff",
+    "ja": "イワンコ",
+    "ko": "암멍이"
+  },
+  {
+    "dex": 745,
+    "english": "Lycanroc",
+    "ja": "ルガルガン",
+    "ko": "루가루암"
+  },
+  {
+    "dex": 827,
+    "english": "Nickit",
+    "ja": "クスネ",
+    "ko": "훔처우"
+  },
+  {
+    "dex": 828,
+    "english": "Thievul",
+    "ja": "フォクスライ",
+    "ko": "폭슬라이"
+  },
+  {
+    "dex": 835,
+    "english": "Yamper",
+    "ja": "ワンパチ",
+    "ko": "멍파치"
+  },
+  {
+    "dex": 836,
+    "english": "Boltund",
+    "ja": "パルスワン",
+    "ko": "펄스멍"
+  },
+  {
+    "dex": 888,
+    "english": "Zacian",
+    "ja": "ザシアン",
+    "ko": "자시안"
+  },
+  {
+    "dex": 889,
+    "english": "Zamazenta",
+    "ja": "ザマゼンタ",
+    "ko": "자마젠타"
+  },
+  {
+    "dex": 926,
+    "english": "Fidough",
+    "ja": "パピモッチ",
+    "ko": "쫀도기"
+  },
+  {
+    "dex": 927,
+    "english": "Dachsbun",
+    "ja": "バウッツェル",
+    "ko": "바우첼"
+  },
+  {
+    "dex": 942,
+    "english": "Maschiff",
+    "ja": "オラチフ",
+    "ko": "오라티프"
+  },
+  {
+    "dex": 943,
+    "english": "Mabosstiff",
+    "ja": "マフィティフ",
+    "ko": "마피티프"
+  },
+  {
+    "dex": 971,
+    "english": "Greavard",
+    "ja": "ボチ",
+    "ko": "망망이"
+  },
+  {
+    "dex": 972,
+    "english": "Houndstone",
+    "ja": "ハカドッグ",
+    "ko": "묘두기"
+  },
+  {
+    "dex": 1014,
+    "english": "Okidogi",
+    "ja": "イイネイヌ",
+    "ko": "조타구"
+  }
+]

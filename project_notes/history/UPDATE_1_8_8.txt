@@ -1,0 +1,13 @@
+DogDex UI update 1.8.8
+
+Close DogDex. Extract this ZIP directly into J_DogDex and replace the included files. Restart DogDex, then refresh any old browser tab.
+
+Your collection, costs, wishlists, catalog edits, custom images and catalogue files are not replaced by this patch.
+
+The panel button beside the top navigation hides/restores the species sidebar. Species are grouped by generation. Gallery captions now include available set symbols.
+
+To update GitHub/mobile: Export mobile view from Data health -> Commit -> Push in GitHub Desktop.
+
+Only this patch is needed for an existing installation. The full Windows package is the fresh-install alternative.
+
+See UI_UPDATE_1_8_8.md and UI_VALIDATION_1_8_8.md for the changes and verification limits.

@@ -1,0 +1,58 @@
+[
+  {
+    "kind": "construction",
+    "page": 2,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=2",
+    "sha256": "82225203d0f69c2cbfc60e51e01aa2a46885bdfbaf68bc7e10abeb7bf817ee5f",
+    "file": "construction-2.json"
+  },
+  {
+    "kind": "construction",
+    "page": 4,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=4",
+    "sha256": "2f413d20154ac6465d0ba6b9b6e66cac2f77b8e8f6fba878c70a3d6ef6060c86",
+    "file": "construction-4.json"
+  },
+  {
+    "kind": "construction",
+    "page": 5,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=5",
+    "sha256": "8ae4ff3e53f36c6babbc36b0ca51b774889d935ac07f2d1fafd80e643cbabc33",
+    "file": "construction-5.json"
+  },
+  {
+    "kind": "construction",
+    "page": 8,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=8",
+    "sha256": "a5c3dea524702eb64865027a5f0c6929aa2ca83edcdead4dec41e6243219e8e4",
+    "file": "construction-8.json"
+  },
+  {
+    "kind": "construction",
+    "page": 6,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=6",
+    "sha256": "74220aaec322f1cde4c21797cae14f2ef2ea4f82caa6c7ee0a88693373303339",
+    "file": "construction-6.json"
+  },
+  {
+    "kind": "construction",
+    "page": 7,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7",
+    "sha256": "3b70635ef26f57add1d91fb40f8c4dbc4905e0c127dd04d1025e7c472ae5abb8",
+    "file": "construction-7.json"
+  },
+  {
+    "kind": "others",
+    "page": 11,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11",
+    "sha256": "03237b34f75113f3e4aaba26a31414618df878e5151b73b2733f9eb6ba4279c6",
+    "file": "others-11.json"
+  },
+  {
+    "kind": "others",
+    "page": 12,
+    "url": "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12",
+    "sha256": "e2108e55411915019a7f858211216f06055d23e61ee7b3458233667c3b230eb6",
+    "file": "others-12.json"
+  }
+]

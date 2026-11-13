@@ -1,0 +1,1530 @@
+{
+  "scope": "Source structure only; resume individual printing research separately if requested.",
+  "unresolved_sources": [
+    {
+      "source_id": "release:de:30th-c",
+      "set_code": "30th-c",
+      "upstream_provider_id": null,
+      "display_name": "30 Jahre",
+      "language": "de",
+      "era": "Mega Evolution · Generation IX",
+      "release_date": "2026-11",
+      "date_precision": "month",
+      "date_state": "sourced_regional",
+      "old_parent": null,
+      "old_subset": null,
+      "card_identities": 1,
+      "accepted_printing_records": 0,
+      "held_printing_claims": 0,
+      "retired_card_identities": 0,
+      "retired_printing_records": 0,
+      "old_overview_visible": false,
+      "active_source": true,
+      "removed": false,
+      "manual": false,
+      "source_role": "numbered_set",
+      "canonical_expansion_id": "western:30th-c",
+      "canonical_source_id": "release:de:30th-c",
+      "canonical_name": "30 Jahre",
+      "subset_key": "main",
+      "subset_name": "",
+      "numbering_namespace": null,
+      "overview_section": "sets",
+      "recommendation": "investigate",
+      "structure_state": "investigate",
+      "justification": "Future Classic Collection relationship is not resolved by a similar display name. No automatic merge.",
+      "evidence_urls": [
+        "https://www.pokemon.com/uk/news/pokemon-tcg-30th-celebration-product-showcase"
+      ],
+      "structure_issues": [
+        "Future Classic Collection relationship is not resolved by a similar display name. No automatic merge."
+      ]
+    },
+    {
+      "source_id": "release:en:30th-c",
+      "set_code": "30th-c",
+      "upstream_provider_id": null,
+      "display_name": "30th Classic Collection",
+      "language": "en",
+      "era": "Mega Evolution · Generation IX",
+      "release_date": "2026-11",
+      "date_precision": "month",
+      "date_state": "sourced_regional",
+      "old_parent": null,
+      "old_subset": null,
+      "card_identities": 1,
+      "accepted_printing_records": 0,
+      "held_printing_claims": 0,
+      "retired_card_identities": 0,
+      "retired_printing_records": 0,
+      "old_overview_visible": false,
+      "active_source": true,
+      "removed": false,
+      "manual": false,
+      "source_role": "numbered_set",
+      "canonical_expansion_id": "western:30th-c",
+      "canonical_source_id": "release:en:30th-c",
+      "canonical_name": "30th Classic Collection",
+      "subset_key": "main",
+      "subset_name": "",
+      "numbering_namespace": null,
+      "overview_section": "sets",
+      "recommendation": "investigate",
+      "structure_state": "investigate",
+      "justification": "Future Classic Collection relationship is not resolved by a similar display name. No automatic merge.",
+      "evidence_urls": [
+        "https://www.pokemon.com/uk/news/pokemon-tcg-30th-celebration-product-showcase"
+      ],
+      "structure_issues": [
+        "Future Classic Collection relationship is not resolved by a similar display name. No automatic merge."
+      ]
+    },
+    {
+      "source_id": "release:en:box-topper",
+      "set_code": "box-topper",
+      "upstream_provider_id": null,
+      "display_name": "Box Topper",
+      "language": "en",
+      "era": "Other products / era unassigned",
+      "release_date": null,
+      "date_precision": null,
+      "date_state": "unresolved",
+      "old_parent": null,
+      "old_subset": null,
+      "card_identities": 0,
+      "accepted_printing_records": 0,
+      "held_printing_claims": 0,
+      "retired_card_identities": 1,
+      "retired_printing_records": 0,
+      "old_overview_visible": false,
+      "active_source": false,
+      "removed": false,
+      "manual": false,
+      "source_role": "unresolved",
+      "canonical_expansion_id": "western:box-topper",
+      "canonical_source_id": "release:en:box-topper",
+      "canonical_name": "Box Topper",
+      "subset_key": "main",
+      "subset_name": "",
+      "numbering_namespace": null,
+      "overview_section": "products",
+      "recommendation": "investigate",
+      "structure_state": "investigate",
+      "justification": "Archived numbered oversized supplement context with no indexed target here. Retain in product inventory; no expansion parent or physical printing inferred.",
+      "evidence_urls": [
+        "https://api.tcgdex.net/v2/en/sets/box-topper"
+      ],
+      "structure_issues": [
+        "Archived numbered oversized supplement context with no indexed target here. Retain in product inventory; no expansion parent or physical printing inferred."
+      ]
+    },
+    {
+      "source_id": "source_product_42193955e0f352bbab12c5a692dd88f0",
+      "set_code": null,
+      "upstream_provider_id": null,
+      "display_name": "Evolution Celebration Tin — Sylveon-GX",
+      "language": "en",
+      "era": "Other products / era unassigned",
+      "release_date": null,
+      "date_precision": null,
+      "date_state": "unresolved",
+      "old_parent": null,
+      "old_subset": null,
+      "card_identities": 0,
+      "accepted_printing_records": 0,
+      "held_printing_claims": 0,
+      "retired_card_identities": 1,
+      "retired_printing_records": 1,
+      "old_overview_visible": false,
+      "active_source": false,
+      "removed": false,
+      "manual": false,
+      "source_role": "product",
+      "canonical_expansion_id": "source:source_product_42193955e0f352bbab12c5a692dd88f0",
+      "canonical_source_id": "source_product_42193955e0f352bbab12c5a692dd88f0",
+      "canonical_name": "Evolution Celebration Tin — Sylveon-GX",
+      "subset_key": "main",
+      "subset_name": "",
+      "numbering_namespace": null,
+      "overview_section": "products",
+      "recommendation": "investigate",
+      "structure_state": "investigate",
+      "justification": "Distribution context is unresolved; retained as a research source without merging identities.",
+      "evidence_urls": [],
+      "structure_issues": [
+        "Distribution context is unresolved; retained as a research source without merging identities."
+      ]
+    },
+    {
+      "source_id": "research_product_f32ed52d41c35a7fad5c28ef85d1b219",
+      "set_code": null,
+      "upstream_provider_id": null,
+      "display_name": "Galar Collection",
+      "language": "en",
+      "era": "Other products / era unassigned",
+      "release_date": null,
+      "date_precision": null,
+      "date_state": "unresolved",
+      "old_parent": null,
+      "old_subset": null,
+      "card_identities": 2,
+      "accepted_printing_records": 2,
+      "held_printing_claims": 0,
+      "retired_card_identities": 0,
+      "retired_printing_records": 0,
+      "old_overview_visible": true,
+      "active_source": true,
+      "removed": false,
+      "manual": false,
+      "source_role": "product",
+      "canonical_expansion_id": "source:research_product_f32ed52d41c35a7fad5c28ef85d1b219",
+      "canonical_source_id": "research_product_f32ed52d41c35a7fad5c28ef85d1b219",
+      "canonical_name": "Galar Collection",
+      "subset_key": "main",
+      "subset_name": "",
+      "numbering_namespace": null,
+      "overview_section": "products",
+      "recommendation": "investigate",
+      "structure_state": "investigate",
+      "justification": "Keep existing oversized identities and product provenance. Recorded foil pattern is unspecified while historical provenance is more specific; no printing change in this source pass.",
+      "evidence_urls": [
+        "https://pokumon.com/card/zacian-v-138-202-galar-collection-special-print/"
+      ],
+      "structure_issues": [
+        "Keep existing oversized identities and product provenance. Recorded foil pattern is unspecified while historical provenance is more specific; no printing change in this source pass."
+      ]
+    },
+    {
+      "source_id": "source_product_2a55f7b4ff2b543d9c6e739c2f5f2f36",
+      "set_code": null,
+      "upstream_provider_id": null,
+      "display_name": "Hidden Fates Great Ball Collection — Shiny Zoroark-GX",
+      "language": "en",
+      "era": "Other products / era unassigned",
+      "release_date": null,
+      "date_precision": null,
+      "date_state": "unresolved",
+      "old_parent": null,
+      "old_subset": null,
+      "card_identities": 1,
+      "accepted_printing_records": 1,
+      "held_printing_claims": 0,
+      "retired_card_identities": 0,
+      "retired_printing_records": 0,
+      "old_overview_visible": true,
+      "active_source": true,
+      "removed": false,
+      "manual": false,
+      "source_role": "product",
+      "canonical_expansion_id": "source:source_product_2a55f7b4ff2b543d9c6e739c2f5f2f36",
+      "canonical_source_id": "source_product_2a55f7b4ff2b543d9c6e739c2f5f2f36",
+      "canonical_name": "Hidden Fates Great Ball Collection — Shiny Zoroark-GX",
+      "subset_key": "main",
+      "subset_name": "",
+      "numbering_namespace": null,
+      "overview_section": "products",
+      "recommendation": "investigate",
+      "structure_state": "investigate",
+      "justification": "Distribution context is unresolved; retained as a research source without merging identities.",
+      "evidence_urls": [],
+      "structure_issues": [
+        "Distribution context is unresolved; retained as a research source without merging identities."
+      ]
+    },
+    {
+      "source_id": "source_product_104710a06ce051359f43e8a4c89750e3",
+      "set_code": null,
+      "upstream_provider_id": null,
+      "display_name": "Pikachu & Eevee Poké Ball Collection",
+      "language": "en",
+      "era": "Other products / era unassigned",
+      "release_date": null,
+      "date_precision": null,
+      "date_state": "unresolved",
+      "old_parent": null,
+      "old_subset": null,
+      "card_identities": 0,
+      "accepted_printing_records": 0,
+      "held_printing_claims": 0,
+      "retired_card_identities": 1,
+      "retired_printing_records": 1,
+      "old_overview_visible": false,
+      "active_source": false,
+      "removed": false,
+      "manual": false,
+      "source_role": "product",
+      "canonical_expansion_id": "source:source_product_104710a06ce051359f43e8a4c89750e3",
+      "canonical_source_id": "source_product_104710a06ce051359f43e8a4c89750e3",
+      "canonical_name": "Pikachu & Eevee Poké Ball Collection",
+      "subset_key": "main",
+      "subset_name": "",
+      "numbering_namespace": null,
+      "overview_section": "products",
+      "recommendation": "investigate",
+      "structure_state": "investigate",
+      "justification": "Distribution context is unresolved; retained as a research source without merging identities.",
+      "evidence_urls": [],
+      "structure_issues": [
+        "Distribution context is unresolved; retained as a research source without merging identities."
+      ]
+    }
+  ],
+  "unresolved_product_bindings": [
+    {
+      "old_source_id": "release:ko:bgr",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/5"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:bgz",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/5"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:bgc",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:ssd",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/3"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:hrk",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/3"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:st2d",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://api.tcgdex.net/v2/ko/sets/st2d"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:st1",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://api.tcgdex.net/v2/ko/sets/st1"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_42193955e0f352bbab12c5a692dd88f0",
+      "entry_id": "entry_bf613be2dada58149bfe5330e46420a0",
+      "printing_id": "variant_1c4a3c6768415bc49a041eedc0d8bbd0",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_2a55f7b4ff2b543d9c6e739c2f5f2f36",
+      "entry_id": "entry_22e9fe06471851959c4c3a45f3d0acb1",
+      "printing_id": "variant_2e8da49895895fb0bfe7e465623129e1",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_5202fdba57185dcd875a6627bd822e3b",
+      "entry_id": "entry_1b6cc2b4d2495301ae5f83d178fd14bc",
+      "printing_id": "variant_efbf2888d54856f0a74ce0a318e74519",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_8b3758b1d5c4597d8715a68f2426df52",
+      "entry_id": "entry_72bf2190fd145ad6b992202e5a68f50d",
+      "printing_id": "variant_41618fadc1e7546782434661586244eb",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.man-of-games.de/p/pokemon-kollektion-hops-zacian-ex-deutsch",
+        "https://cardsrfun.de/products/hops-zacian-ex-box-de"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:MC",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/864"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_104710a06ce051359f43e8a4c89750e3",
+      "entry_id": "entry_e2ca9f533855536dbdc5b06297fbb2ee",
+      "printing_id": "variant_fd7b21b04d955cb1910e759dd14c669f",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+      "entry_id": "entry_4058bff703c556ea93c351b8e341adf3",
+      "printing_id": "variant_b561f77bfb525feea60733bf25fe537e",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+      "entry_id": "entry_2ee1b4328e9354bcaf20ae88ae9137ca",
+      "printing_id": "variant_16e761e883595c2f8c9fd555f2ac80be",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+      "entry_id": "entry_42442353f2495d85a2a48b512dbbe20a",
+      "printing_id": "variant_d2c1b5ea035954dcbb201b59b7cc040a",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_27408b92d23557e891cf95da8b20cfc4",
+      "entry_id": "entry_b7813baad1c45ec7b7fb79bedf1d91e1",
+      "printing_id": "variant_98aede28db7a53fdb91f917da0a97a2d",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/de/pokemon-sammelkartenspiel/Produktgalerie/spezial-kollektion-pokemon-v-union-mewtu-quajutsu-zacian/",
+        "https://www.deckshop.de/products/zacian-v-union-swsh163-166-de",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_59505c171a205167b55790b85f205f2f",
+      "printing_id": "variant_0b4bc4d0472b5c548bcfa4a9ad0cb04a",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_59505c171a205167b55790b85f205f2f",
+      "printing_id": "variant_89fd639de469596fad06ec9bcdd670b5",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_7b4c0c6f8fe95f44916193d77b8f801b",
+      "printing_id": "variant_3d007d9516265ec0b7953519d1a2d1cb",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_7b4c0c6f8fe95f44916193d77b8f801b",
+      "printing_id": "variant_cd6e988f0c9b594f930d745dcbfcbd0c",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_96c6258ad19a5baeb924147a519b3f09",
+      "printing_id": "variant_fc559149358c5cb2924ecc678558c497",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_0fdddd4316fa5ab598b6f0d57f4cf1b3",
+      "printing_id": "variant_6ff0f57429945aa3aad894257a4f2d11",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_0fdddd4316fa5ab598b6f0d57f4cf1b3",
+      "printing_id": "variant_fc119b3751935bc3bdd36476db6f3f04",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_fbf0dd651c815080b957ce0a5b67f153",
+      "printing_id": "variant_b5773ed582485d67a0358e4ded4d7e9c",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_fbf0dd651c815080b957ce0a5b67f153",
+      "printing_id": "variant_e0c0202b361b5ea38092b25206eb6bbe",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_3f8323ef91fa5a33a8f8338a9fe903e8",
+      "printing_id": "variant_316807a8c0da5da3b62db192e0cda488",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db8340f0f07d58fd86b4f1df020630cf",
+      "entry_id": "entry_3f8323ef91fa5a33a8f8338a9fe903e8",
+      "printing_id": "variant_6a80fabfe3b05a6191e495af0e5cd1f4",
+      "language": "de",
+      "association_basis": "card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:xye",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/52"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:ubd",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/54"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:xyh",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/70"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:xyg",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/66"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:xyd",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/49"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:xya",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/34"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:xyb",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/38"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+      "entry_id": "entry_8ae68399fa1752b5bddd5b935c3bb9ee",
+      "printing_id": "variant_0e547e5217855065884891d055adc140",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+      "entry_id": "entry_4c18bbcc4f1b560793d1a8422f3c1089",
+      "printing_id": "variant_e2d1f28f75c8500a94df1be052c57859",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+      "entry_id": "entry_fceb06a308335c788a67e516eec9df49",
+      "printing_id": "variant_83a8863dbcb65dc1acf76be9002a6b53",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "research_product_7ef627b0b921520b8bde7474cbd4f1f5",
+      "entry_id": "entry_1bd40c7ec29059b49ca254ecb26be8f7",
+      "printing_id": "variant_5eacdeff7d515158894a29705e317ae7",
+      "language": "en",
+      "association_basis": "card",
+      "evidence_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/pokemon-v-union-special-collection-mewtwo-greninja-zacian",
+        "https://www.pokemons.dk/product/zacian-v-union-jumbokort/",
+        "https://bulbapedia.bulbagarden.net/wiki/Zacian_V-UNION_(SWSH_Promo_163)"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SP1",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/info/2019/20191213_002222.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:HSm",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:HSZp",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=6"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:HSPm",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SMP1",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/info/2016/20161015_000319.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:El",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt-EPd",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt3-Sg",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt3-Sl",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:GBR",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt-GBna",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt-GBhi",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:CS1m",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:CPs",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:CPm",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:CPr",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=12"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt2-Se",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt2-Sg",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SZD",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=6"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SMM",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=4"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SVLS",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://api.tcgdex.net/v2/ja/sets/SVLS"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SVLN",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://api.tcgdex.net/v2/ja/sets/SVLN"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:MBD",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/info/005175.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SA",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=4"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SCS",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/s/sc.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SLL",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/s/sl.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:MEE",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/ex/me/#mee"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:MEZ",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/ex/me/#mez"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SVAM",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/ex/sva/"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SVC",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/ex/svc/"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SVAL",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/ex/sva/"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:MDB",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:SGG",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/s/sg.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:Bb",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:Br",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=others&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=11"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:BKc",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:BKZ",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:BKR",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DP1",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://github.com/tcgdex/cards-database/blob/cbddf7e54033b1b58e44af1049c88832e55b94d0/data-asia/DP/DP1a.ts"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_2a62cd77cba95100b4300ce48ffc1111",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_113b639b7a745a6095d10f234e2e5e1f",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_677b539b474d5794858e27e03a4b4d6e",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_45c0c2653159565e933e8b9258bb9335",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_510346a8a74952669b31973e74f1a01a",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_d3c35f8b0d615ccfa7e07055f648974c",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_a7a3ee8f8741583f8ebb5ac28b835b40",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:XYG",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/xy/xygh.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:XYH",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/xy/xygh.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:XYB",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/xy/metal60.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:XYA",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/xy/xy2.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:XYD",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/xy/xyd.html"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_24f9090b559657ffb1815994226df878",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_1b25d5fba2965b85b8dacc495167dc88",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_a97062fa2b5b597cb51c1f4679e11da9",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_a9ef167a047452e9abc53e4a07fe945a",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_b0ee5380f89f5668a87d0455e35d9d3a",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_8eee3a9c05e5533899bad9cfa1c01586",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_29ccfb9857455d72a04e148134382032",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_db9ee415466055358b25d189e88c36ab",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_430cbf575a985a1ab8d0b72b078616dd",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_d4cd232b25015dc891b75d5daf89b8d1",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "source_product_5ccc6f7b4a3a5d358e64f4224e7e78c2",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:DPt4-Slp",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ja:L2-Sb",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ja",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://www.pokemon-card.com/products/resultAPI.php?productType=construction&dateLowerY=1996&dateLowerM=1&dateLowerD=1&dateUpperY=2026&dateUpperM=12&dateUpperD=31&page=7"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SN",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/436"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SGG",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/370"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SP1",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/312"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SO",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/491"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SJ",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/396"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SVD",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/564"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SVM",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/692"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SVHK",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/613"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SVHM",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/612"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SVG",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/583"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:smd",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/115"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SM30A",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://api.tcgdex.net/v2/ko/sets/SM30A"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:sma",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/97"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:SMN",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://pokemoncard.co.kr/card/195"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    },
+    {
+      "old_source_id": "release:ko:smL",
+      "entry_id": null,
+      "printing_id": null,
+      "language": "ko",
+      "association_basis": "no indexed card",
+      "evidence_urls": [
+        "https://api.tcgdex.net/v2/ko/sets/smL"
+      ],
+      "classification": "Unresolved identity/distribution requiring manual verification"
+    }
+  ],
+  "next_actions": [
+    "Manually verify unresolved source structure rather than inferring a parent from a name.",
+    "Resolve recorded jumbo pattern contradictions only in a separately requested printing audit.",
+    "Future user sources are included by the runtime inventory exporter."
+  ]
+}

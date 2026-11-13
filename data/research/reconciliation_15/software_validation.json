@@ -1,0 +1,28 @@
+{
+  "revision": "1.5.0",
+  "python_tests_passed": 65,
+  "node_dom_http_tests_passed": 12,
+  "reproducible_build_hashes": {
+    "data/catalog.json": "867ffe3e4da84fe0d87a7518f1cd7639eedd1dfd1c858af81a5c9f33c30fe3ca",
+    "data/catalog-collector.sqlite3": "1cf5c59eb1a8b481112d7310c9103da4705aac9d67c3d7cc7792a1c6ddd97eee"
+  },
+  "original_sqlite_sha256": "e79d48ff8d056d88fa0d6b1f0771f220d79f62d82797c886183e20ada9c22da0",
+  "sqlite_integrity_and_foreign_keys": "passed",
+  "all_140_entry_and_printing_ids_preserved": "passed",
+  "withdrawn_target_copies_costs_wishlist_manual_edits_picture_backup_restore": "passed",
+  "roster_41_and_secondary_entry_bytes": "unchanged",
+  "static_ui_hashes_unchanged": {
+    "static/index.html": "2fe2d19cd55620bbcf19e08168a353fdf3b46e1abd4d91f84121e3ea7283dbf5",
+    "static/editor-ui.mjs": "54a296f7fd580f75b1a92141540d8b7240842544c23e68b3b06bda4fd7019ca4",
+    "static/catalog.mjs": "b70e89a47933d603ebc325bbdc4bfd42b3e30cfe10273dd30e2e73720ea6facd",
+    "static/app.css": "955a106ac8b329f0507176822700c74bafeef73f0118c01ada96c8b35b2458ae",
+    "static/app.js": "4feff03871009514c44fb9438654e8db02e97013c69fb8a23c2cbf26f0fbe108",
+    "static/flags/en.svg": "74bff49790e399006ddc404e80771c8ef37e179bae51c561c268269089d4fb3a",
+    "static/flags/ja.svg": "c26913f4e33c74faad9c339b21fa6d6ffc9f5acf97481db9a0961d7ff017ddea",
+    "static/flags/ko.svg": "f02523eec55dd36de43d50cb66f809a2cee707f882b44e6f6b0566a5413bffb8",
+    "static/flags/de.svg": "79bf80f86a091ae4f3001b8ada467d3a3a881ef40c86d93a44c1e06e415fcecb"
+  },
+  "native_windows_execution": false,
+  "package_checks": "package.py validates CRC and every manifest hash; final fresh extraction receipt supplied in research evidence archive",
+  "factual_accuracy": "separate field ledger and diagnostic sample; not established by software tests"
+}

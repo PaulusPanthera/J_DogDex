@@ -1,0 +1,582 @@
+[
+  {
+    "entry_id": "entry_1b37b93b321255ecb224d2dd475ab539",
+    "card_id": "base1-68",
+    "name": "Vulpix",
+    "number": "68",
+    "release": "base1",
+    "url": "https://arcatcg.com/cards/base1-68",
+    "file": "evidence/arca_base1-68.html",
+    "sha256": "d3334dd2aef2863da145641e71a106898d81e5301b22c52c0fc410ca675cb550",
+    "bytes": 46305,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Shadowless",
+      "Unlimited",
+      "Unlimited Shadowless"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_d0c6cbfb62835f0d9cb4466a8001cd8f",
+    "card_id": "gym1-65",
+    "name": "Blaine’s Vulpix",
+    "number": "65",
+    "release": "gym1",
+    "url": "https://arcatcg.com/cards/gym1-65",
+    "file": "evidence/arca_gym1-65.html",
+    "sha256": "ba6a00101e5c3085fb002ec9214150afa70f3ce477ce6ec49e26d12344846b35",
+    "bytes": 46609,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_4187e52a0c265ab5bcaf63cd55cf84f2",
+    "card_id": "gym1-73",
+    "name": "Brock’s Vulpix",
+    "number": "73",
+    "release": "gym1",
+    "url": "https://arcatcg.com/cards/gym1-73",
+    "file": "evidence/arca_gym1-73.html",
+    "sha256": "30f5cf92b8e7e046ee021db754d27b3e4dd873c4a4279e963eeee733efc07d80",
+    "bytes": 46413,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_7cc51911ac1f57e987af2f7a3f688b3f",
+    "card_id": "gym2-37",
+    "name": "Brock’s Vulpix",
+    "number": "37",
+    "release": "gym2",
+    "url": "https://arcatcg.com/cards/gym2-37",
+    "file": "evidence/arca_gym2-37.html",
+    "sha256": "10ecbe352084a0dd68cef0a6ba0aa8b8d5e0ac42ba407dc13e5f399c2752d650",
+    "bytes": 46382,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_910614cb034054c49dc1c888d032d1b5",
+    "card_id": "gym2-66",
+    "name": "Blaine’s Vulpix",
+    "number": "66",
+    "release": "gym2",
+    "url": "https://arcatcg.com/cards/gym2-66",
+    "file": "evidence/arca_gym2-66.html",
+    "sha256": "ceffb3f46802906dbda047e46a208c7790f4f46f1e980fe327b1f0134e0ca190",
+    "bytes": 46031,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_f7780486d2005b68abeb6f6be6f7ed86",
+    "card_id": "neo4-91",
+    "name": "Vulpix",
+    "number": "91",
+    "release": "neo4",
+    "url": "https://arcatcg.com/cards/neo4-91",
+    "file": "evidence/arca_neo4-91.html",
+    "sha256": "ece245dd1b6f6ca75617eb2eddc19d469ace3c3456049ffd166d3ba55af22df4",
+    "bytes": 45777,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_fab936f454ea54668b176d776a9c43ae",
+    "card_id": "base1-12",
+    "name": "Ninetales",
+    "number": "12",
+    "release": "base1",
+    "url": "https://arcatcg.com/cards/base1-12",
+    "file": "evidence/arca_base1-12.html",
+    "sha256": "e6febfcd79c9908a5fc632198499c837614799b849c2aa8c3eab134b85794d87",
+    "bytes": 47719,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Shadowless Holofoil",
+      "Unlimited Holofoil",
+      "Unlimited Shadowless Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_bd0869e76a845acbac6ad4d356de1c3b",
+    "card_id": "gym2-21",
+    "name": "Blaine’s Ninetales",
+    "number": "21",
+    "release": "gym2",
+    "url": "https://arcatcg.com/cards/gym2-21",
+    "file": "evidence/arca_gym2-21.html",
+    "sha256": "2166b68d7ce0a3ce5171b8ea44b4f862cbf25cc83eda81c545f43b1624a2a329",
+    "bytes": 46550,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_33751739635c579587e45d3b6dbf42fb",
+    "card_id": "gym2-3",
+    "name": "Brock’s Ninetales",
+    "number": "3",
+    "release": "gym2",
+    "url": "https://arcatcg.com/cards/gym2-3",
+    "file": "evidence/arca_gym2-3.html",
+    "sha256": "71b4d95ea4c7a388f0da7ea88ee2b60a91ae7ec308e8faa2aa9a39714868ab4e",
+    "bytes": 47241,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_6c97b94bc8695631815e3c65393a1b67",
+    "card_id": "neo4-50",
+    "name": "Light Ninetales",
+    "number": "50",
+    "release": "neo4",
+    "url": "https://arcatcg.com/cards/neo4-50",
+    "file": "evidence/arca_neo4-50.html",
+    "sha256": "e8b92faac5245fc1329a352f7e64b11c11cedcc329dcddf4b1ab9098f1f67144",
+    "bytes": 47544,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_33f556015aa455788c790c54111c27d6",
+    "card_id": "base1-28",
+    "name": "Growlithe",
+    "number": "28",
+    "release": "base1",
+    "url": "https://arcatcg.com/cards/base1-28",
+    "file": "evidence/arca_base1-28.html",
+    "sha256": "6789b7ed76b4d2fdbb2d034cc2f539700331de33377426af96a30d46b6da87be",
+    "bytes": 47421,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Shadowless",
+      "Unlimited",
+      "Unlimited Shadowless"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_d62e2bf855c556ce973982572bb52042",
+    "card_id": "gym1-35",
+    "name": "Blaine's Growlithe",
+    "number": "35",
+    "release": "gym1",
+    "url": "https://arcatcg.com/cards/gym1-35",
+    "file": "evidence/arca_gym1-35.html",
+    "sha256": "42337e4b65d5b03d7ec1e8e15e39a409961097a34a4cfd38d7c1d469f8e1ed9f",
+    "bytes": 46501,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_aeb9e489ed8658bda20527357713129b",
+    "card_id": "gym1-62",
+    "name": "Blaine's Growlithe",
+    "number": "62",
+    "release": "gym1",
+    "url": "https://arcatcg.com/cards/gym1-62",
+    "file": "evidence/arca_gym1-62.html",
+    "sha256": "0b608264bd3203659e3b5c3a10865772d2cf7b737d015e7a0e79445564a17945",
+    "bytes": 46164,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_15354d06f2ff59bf8822afef43e417cb",
+    "card_id": "gym2-62",
+    "name": "Blaine's Growlithe",
+    "number": "62",
+    "release": "gym2",
+    "url": "https://arcatcg.com/cards/gym2-62",
+    "file": "evidence/arca_gym2-62.html",
+    "sha256": "0099d77fbceb10c153c7670b59853fc23e5b135d3698e98f458d514e0009d822",
+    "bytes": 46581,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_d815afe7ed4751b8aeec3aa668cd0137",
+    "card_id": "neo4-68",
+    "name": "Growlithe",
+    "number": "68",
+    "release": "neo4",
+    "url": "https://arcatcg.com/cards/neo4-68",
+    "file": "evidence/arca_neo4-68.html",
+    "sha256": "6b12b64a09db1901dfab7cf8d74584dd18e2be96dda7ab84525e24ab85fa999a",
+    "bytes": 45755,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_4915b15abe325fac9b43debd39e7dda5",
+    "card_id": "base1-23",
+    "name": "Arcanine",
+    "number": "23",
+    "release": "base1",
+    "url": "https://arcatcg.com/cards/base1-23",
+    "file": "evidence/arca_base1-23.html",
+    "sha256": "c5244d1a5ba2f080dd259eba8581267473cc039375ecf33fc4464dd023e8f7bd",
+    "bytes": 47549,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Shadowless",
+      "Unlimited",
+      "Unlimited Shadowless"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_f9e50887407450b187ac5db2873f20b8",
+    "card_id": "gym2-1",
+    "name": "Blaine's Arcanine",
+    "number": "1",
+    "release": "gym2",
+    "url": "https://arcatcg.com/cards/gym2-1",
+    "file": "evidence/arca_gym2-1.html",
+    "sha256": "149dd4c38095dee3b534f0e1cb048797ed79bef35e6cd5dea1a3ebbce36e3219",
+    "bytes": 47836,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_b471a1ecfa8c550a9005312f81b33c62",
+    "card_id": "neo4-12",
+    "name": "Light Arcanine",
+    "number": "12",
+    "release": "neo4",
+    "url": "https://arcatcg.com/cards/neo4-12",
+    "file": "evidence/arca_neo4-12.html",
+    "sha256": "659056438168b2278034a5d791c533fb9fc37e349c3b00dccde2845f2f2aebbc",
+    "bytes": 48072,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_b5f4d1dbddb25690a9d4a7c447783f23",
+    "card_id": "neo1-74",
+    "name": "Snubbull",
+    "number": "74",
+    "release": "neo1",
+    "url": "https://arcatcg.com/cards/neo1-74",
+    "file": "evidence/arca_neo1-74.html",
+    "sha256": "401888ac0efdc402905c1fdc95c2fa0c6de57ae000fd719a3582f2ccc3aa1051",
+    "bytes": 46570,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_e79302ae3f9854ebb92f20eb97eb23e3",
+    "card_id": "neo3-55",
+    "name": "Snubbull",
+    "number": "55",
+    "release": "neo3",
+    "url": "https://arcatcg.com/cards/neo3-55",
+    "file": "evidence/arca_neo3-55.html",
+    "sha256": "70ae466399ebb7de2c23a47e075b1f437e8bc067523256d2c79a1b5969d3ff37",
+    "bytes": 46516,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_2e500a19e0995055954b008101ac989c",
+    "card_id": "neo1-37",
+    "name": "Granbull",
+    "number": "37",
+    "release": "neo1",
+    "url": "https://arcatcg.com/cards/neo1-37",
+    "file": "evidence/arca_neo1-37.html",
+    "sha256": "7ef2c898d837c2919bc9cb578da9e7cdb80870f919ed4bdaa03de68d327fbe34",
+    "bytes": 47010,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_b9408944e0605c7c8cc80a4d84f344d0",
+    "card_id": "neo2-24",
+    "name": "Houndour",
+    "number": "24",
+    "release": "neo2",
+    "url": "https://arcatcg.com/cards/neo2-24",
+    "file": "evidence/arca_neo2-24.html",
+    "sha256": "ea82ccea654b0e9209431a6e541ed0b9a4fd9086605a1b7b9983a9e72e310517",
+    "bytes": 47331,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_9303ab52422d51c6a099c4f23769b4a2",
+    "card_id": "neo2-39",
+    "name": "Houndour",
+    "number": "39",
+    "release": "neo2",
+    "url": "https://arcatcg.com/cards/neo2-39",
+    "file": "evidence/arca_neo2-39.html",
+    "sha256": "e29a3e81ea8ab016b16639f5e14a108e5b2526693c7e7c338250223e2eb18fea",
+    "bytes": 46141,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_15005ddb542c5cca8efd3e1e16e3d997",
+    "card_id": "neo2-5",
+    "name": "Houndour",
+    "number": "5",
+    "release": "neo2",
+    "url": "https://arcatcg.com/cards/neo2-5",
+    "file": "evidence/arca_neo2-5.html",
+    "sha256": "75857184fbb0bde797cbd73e9ae6b32f5bb70397edfe992b50b26b03e6c6033d",
+    "bytes": 47541,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_f464759ee1d45e2ca7fc055882dfa7fe",
+    "card_id": "neo4-43",
+    "name": "Houndour",
+    "number": "43",
+    "release": "neo4",
+    "url": "https://arcatcg.com/cards/neo4-43",
+    "file": "evidence/arca_neo4-43.html",
+    "sha256": "c2a2b95f1bd7920fa58a50ecc0558c5cee266c75f52e8b6a2dfc085682713ae4",
+    "bytes": 46155,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_bdb5a9e797ae5284bc6c938ea17cc3c3",
+    "card_id": "neo2-23",
+    "name": "Houndoom",
+    "number": "23",
+    "release": "neo2",
+    "url": "https://arcatcg.com/cards/neo2-23",
+    "file": "evidence/arca_neo2-23.html",
+    "sha256": "7245764aba754b84cfddd8a59af8eff6d9b6cf069b06cfbbe0e5d9f9bf5aff5e",
+    "bytes": 47091,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_13b1f9d730a65b0fb459dd8eae117e63",
+    "card_id": "neo2-4",
+    "name": "Houndoom",
+    "number": "4",
+    "release": "neo2",
+    "url": "https://arcatcg.com/cards/neo2-4",
+    "file": "evidence/arca_neo2-4.html",
+    "sha256": "c9cfb72ac00ad789066441bb3ae8a2110cb6ddba01c0bf766d840da63628eb34",
+    "bytes": 47927,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_a5d287d5db3150c2adb868fc93a9aec1",
+    "card_id": "neo3-8",
+    "name": "Houndoom",
+    "number": "8",
+    "release": "neo3",
+    "url": "https://arcatcg.com/cards/neo3-8",
+    "file": "evidence/arca_neo3-8.html",
+    "sha256": "1e5e0012b6c37c8fc1b76d224b578d5c63873c8142efbda5ebc2877a4a3a4f1b",
+    "bytes": 46750,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_4e5cd285875851558ae62d8213b58e42",
+    "card_id": "neo4-7",
+    "name": "Dark Houndoom",
+    "number": "7",
+    "release": "neo4",
+    "url": "https://arcatcg.com/cards/neo4-7",
+    "file": "evidence/arca_neo4-7.html",
+    "sha256": "8328ace482d6efa843155d709b9b3f86a84f82fa75a73708582f7e6604356239",
+    "bytes": 46979,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_b9c05a06ffb55e8e9a189f4c43d830e7",
+    "card_id": "neo2-11",
+    "name": "Smeargle",
+    "number": "11",
+    "release": "neo2",
+    "url": "https://arcatcg.com/cards/neo2-11",
+    "file": "evidence/arca_neo2-11.html",
+    "sha256": "4328f03413d477427ebacda87885cbe526e72366e025bbee51141ff368613568",
+    "bytes": 47583,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition Holofoil",
+      "Unlimited Holofoil"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "entry_c7d4ddcffcaa587280c7e093de6a06fc",
+    "card_id": "neo2-30",
+    "name": "Smeargle",
+    "number": "30",
+    "release": "neo2",
+    "url": "https://arcatcg.com/cards/neo2-30",
+    "file": "evidence/arca_neo2-30.html",
+    "sha256": "929fdd9a530f5ddc007b5cf273e62c5e3a42a188fa40d13e8586d5675a970df9",
+    "bytes": 47290,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  },
+  {
+    "entry_id": "research_entry_d793b4c72a0e54d8b725191fbca96421",
+    "card_id": "gym2-103",
+    "name": "Erika's Kindness",
+    "number": "103",
+    "release": "gym2",
+    "url": "https://arcatcg.com/cards/gym2-103",
+    "file": "evidence/arca_gym2-103.html",
+    "sha256": "57c827fea06899c58c50d79294b95f2d0a4c7cba171edda53a7ae845c5b4fac2",
+    "bytes": 43959,
+    "source_family": "tcgplayer_inventory",
+    "provider": "arcatcg_display",
+    "original_variant_labels": [
+      "First Edition",
+      "Unlimited"
+    ],
+    "retrieved_on": "2026-10-31"
+  }
+]

@@ -1,0 +1,13 @@
+DogDex 1.8.15 — clean prices and printing order
+
+Apply over 1.8.14: close DogDex, extract this ZIP directly into J_DogDex, merge/replace supplied files, restart and refresh (Ctrl+F5 if necessary).
+
+The Guide suffix beside gallery prices is removed. Scope remains in the tooltip and card details.
+
+Editions of the same card now follow their known printing sequence instead of alphabetical labels. English Base Set: First Edition / Shadowless > unstamped Shadowless > Unlimited > 1999-2000 copyright. Newest-first sorting reverses this sequence. Details and editor choices use the same oldest-first order. No individual release dates are invented.
+
+Price values, product matching, offer filters, printing IDs, pictures, owned copies, costs, wishlists and all catalogue records are preserved.
+
+Re-export the mobile viewer and commit/push docs to update GitHub Pages.
+
+Validation uses the existing price, catalogue chronology, card UI, real HTTP product-reuse workflow and public-export tests, plus the reported Base Set order case. The release package checks ZIP/file integrity and the patch overlay. No personal, catalogue, image or generated docs files are replaced.

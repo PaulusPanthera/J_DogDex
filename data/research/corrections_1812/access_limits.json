@@ -1,0 +1,16 @@
+{
+  "retrieved_on": "2026-10-31",
+  "limits": [
+    {
+      "url": "https://tcgcsv.com/tcgplayer/3/groups",
+      "result": "HTTP 401 in direct download; not retried",
+      "alternative": "Exact English edition pages cached from Arca TCG / TCGplayer family."
+    },
+    {
+      "provider": "Pok\u00e9mon TCG API bulk set requests",
+      "result": "Batch encountered HTTP 502; gym1 and neo1 set files and neo4-91 single-card response were cached. Uncached requests are not evidence of absence.",
+      "alternative": "32 exact cached English edition pages provided explicit labels."
+    }
+  ],
+  "source_family_note": "TCGplayer, Arca and TCGPlayer price information carried by PokemonTCG API are one upstream family; no independent corroboration is claimed."
+}

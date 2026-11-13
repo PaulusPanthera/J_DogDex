@@ -1,0 +1,15 @@
+DogDex UI update 1.8.13 — Data health picture coverage
+
+Requires the existing DogDex 1.8.12 application.
+
+1. Close DogDex and its running Python window.
+2. Extract this ZIP directly into J_DogDex. Merge/replace the supplied files.
+3. Start DogDex again and refresh the browser (Ctrl+F5 if needed).
+
+No reuploading or duplicate shared reference is necessary. If each printing has a picture, the card leaves Data health > Missing pictures. Its thumbnail can use a saved printing picture when no shared reference exists. A genuinely missing sibling picture stays flagged; image verification is separate.
+
+This patch contains no catalogue data, collection database, uploaded images or generated docs. Keep your existing my_collection folder. Gallery and detail pictures retain their exact printing associations.
+
+To publish the updated viewer, use Export mobile view, then commit and push docs with GitHub Desktop.
+
+See UI_UPDATE_1_8_13.md and UI_VALIDATION_1_8_13.md.

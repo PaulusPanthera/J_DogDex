@@ -1,0 +1,1219 @@
+{
+  "reference": {
+    "reference": "Arca TCG English edition inventory (TCGplayer upstream)",
+    "checked_identity_count": 32,
+    "already_matched": 5,
+    "missing_unlimited_added": 27,
+    "sets": [
+      "base1",
+      "gym1",
+      "gym2",
+      "neo1",
+      "neo2",
+      "neo3",
+      "neo4"
+    ],
+    "matrix_file": "english_edition_matrix.json",
+    "limits": "Reconciles existing in-scope English card identities from the First Edition-era expansions. It is not proof that every cameo identity or obscure paper variation has been discovered."
+  },
+  "rows": [
+    {
+      "entry_id": "entry_1b37b93b321255ecb224d2dd475ab539",
+      "lang": "en",
+      "release": "base1",
+      "set_name": "Base Set",
+      "name": "Vulpix",
+      "number": "68",
+      "reference_name": "Vulpix",
+      "reference_title": "Vulpix 68/102 Base price | Arca TCG",
+      "reference_number": "No. 68/102",
+      "original_variant_labels": [
+        "First Edition Shadowless",
+        "Unlimited",
+        "Unlimited Shadowless"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/base1-68",
+      "source_file": "evidence/arca_base1-68.html",
+      "source_sha256": "d3334dd2aef2863da145641e71a106898d81e5301b22c52c0fc410ca675cb550",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_3f0a5cbecf3a5b1fb5836fc5aa56922f"
+      ],
+      "before_unlimited_ids": [
+        "variant_fb60fc17b4da53e5beb6d559a0f73fcb"
+      ],
+      "disposition": "matched_existing",
+      "notes": "Existing Base Set shadowless/copyright distinctions stay intact; no same-artwork cross-product generation.",
+      "canonical_unlimited_id": "variant_fb60fc17b4da53e5beb6d559a0f73fcb",
+      "after_disposition": "existing_printing_retained"
+    },
+    {
+      "entry_id": "entry_d0c6cbfb62835f0d9cb4466a8001cd8f",
+      "lang": "en",
+      "release": "gym1",
+      "set_name": "Gym Heroes",
+      "name": "Blaine’s Vulpix",
+      "number": "65",
+      "reference_name": "Blaine's Vulpix",
+      "reference_title": "Blaine's Vulpix 65/132 Gym Heroes price | Arca TCG",
+      "reference_number": "No. 65/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym1-65",
+      "source_file": "evidence/arca_gym1-65.html",
+      "source_sha256": "ba6a00101e5c3085fb002ec9214150afa70f3ce477ce6ec49e26d12344846b35",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_e2dda9c7f34857c9b6a1de3651c7c9c2"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_869a35b22c735bccbfe387085995c2d6",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_4187e52a0c265ab5bcaf63cd55cf84f2",
+      "lang": "en",
+      "release": "gym1",
+      "set_name": "Gym Heroes",
+      "name": "Brock’s Vulpix",
+      "number": "73",
+      "reference_name": "Brock's Vulpix",
+      "reference_title": "Brock's Vulpix 73/132 Gym Heroes price | Arca TCG",
+      "reference_number": "No. 73/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym1-73",
+      "source_file": "evidence/arca_gym1-73.html",
+      "source_sha256": "30f5cf92b8e7e046ee021db754d27b3e4dd873c4a4279e963eeee733efc07d80",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_088d758df3c85494a655270ae9778800"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_17cb7f25126d5ddc82f05649043d4086",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_7cc51911ac1f57e987af2f7a3f688b3f",
+      "lang": "en",
+      "release": "gym2",
+      "set_name": "Gym Challenge",
+      "name": "Brock’s Vulpix",
+      "number": "37",
+      "reference_name": "Brock's Vulpix",
+      "reference_title": "Brock's Vulpix 37/132 Gym Challenge price | Arca TCG",
+      "reference_number": "No. 37/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym2-37",
+      "source_file": "evidence/arca_gym2-37.html",
+      "source_sha256": "10ecbe352084a0dd68cef0a6ba0aa8b8d5e0ac42ba407dc13e5f399c2752d650",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_7a17be33976553a690d3be12ebcc8742"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_28ae3fd2033d5485950561c222214e82",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_910614cb034054c49dc1c888d032d1b5",
+      "lang": "en",
+      "release": "gym2",
+      "set_name": "Gym Challenge",
+      "name": "Blaine’s Vulpix",
+      "number": "66",
+      "reference_name": "Blaine's Vulpix",
+      "reference_title": "Blaine's Vulpix 66/132 Gym Challenge price | Arca TCG",
+      "reference_number": "No. 66/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym2-66",
+      "source_file": "evidence/arca_gym2-66.html",
+      "source_sha256": "ceffb3f46802906dbda047e46a208c7790f4f46f1e980fe327b1f0134e0ca190",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_bd20052019395aefbc95c410cbe190d7"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_089daa8d8a9b52f19877694606d3400e",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_f7780486d2005b68abeb6f6be6f7ed86",
+      "lang": "en",
+      "release": "neo4",
+      "set_name": "Neo Destiny",
+      "name": "Vulpix",
+      "number": "91",
+      "reference_name": "Vulpix",
+      "reference_title": "Vulpix 91/105 Neo Destiny price | Arca TCG",
+      "reference_number": "No. 91/105",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo4-91",
+      "source_file": "evidence/arca_neo4-91.html",
+      "source_sha256": "ece245dd1b6f6ca75617eb2eddc19d469ace3c3456049ffd166d3ba55af22df4",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_f0c205cc5fc4521ab7eda75293cab1a5"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_c472b37a8b9352a0b5dcf1e4a60bc12d",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_fab936f454ea54668b176d776a9c43ae",
+      "lang": "en",
+      "release": "base1",
+      "set_name": "Base Set",
+      "name": "Ninetales",
+      "number": "12",
+      "reference_name": "Ninetales",
+      "reference_title": "Ninetales 12/102 Base price | Arca TCG",
+      "reference_number": "No. 12/102",
+      "original_variant_labels": [
+        "First Edition Shadowless Holofoil",
+        "Unlimited Holofoil",
+        "Unlimited Shadowless Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/base1-12",
+      "source_file": "evidence/arca_base1-12.html",
+      "source_sha256": "e6febfcd79c9908a5fc632198499c837614799b849c2aa8c3eab134b85794d87",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_9075408f318c539fb3a7f1570d138ec8"
+      ],
+      "before_unlimited_ids": [
+        "variant_281fc802ac66562b83969f95153f544e"
+      ],
+      "disposition": "matched_existing",
+      "notes": "Existing Base Set shadowless/copyright distinctions stay intact; no same-artwork cross-product generation.",
+      "canonical_unlimited_id": "variant_281fc802ac66562b83969f95153f544e",
+      "after_disposition": "existing_printing_retained"
+    },
+    {
+      "entry_id": "entry_bd0869e76a845acbac6ad4d356de1c3b",
+      "lang": "en",
+      "release": "gym2",
+      "set_name": "Gym Challenge",
+      "name": "Blaine’s Ninetales",
+      "number": "21",
+      "reference_name": "Blaine's Ninetales",
+      "reference_title": "Blaine's Ninetales 21/132 Gym Challenge price | Arca TCG",
+      "reference_number": "No. 21/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym2-21",
+      "source_file": "evidence/arca_gym2-21.html",
+      "source_sha256": "2166b68d7ce0a3ce5171b8ea44b4f862cbf25cc83eda81c545f43b1624a2a329",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_7cf5a78cae685888ad26e0af7cac9cb5"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_ad01b721458d5682b8e5f9a3368610ca",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_33751739635c579587e45d3b6dbf42fb",
+      "lang": "en",
+      "release": "gym2",
+      "set_name": "Gym Challenge",
+      "name": "Brock’s Ninetales",
+      "number": "3",
+      "reference_name": "Brock's Ninetales",
+      "reference_title": "Brock's Ninetales 3/132 Gym Challenge price | Arca TCG",
+      "reference_number": "No. 3/132",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/gym2-3",
+      "source_file": "evidence/arca_gym2-3.html",
+      "source_sha256": "71b4d95ea4c7a388f0da7ea88ee2b60a91ae7ec308e8faa2aa9a39714868ab4e",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_793c5f86c26b55739e52da568a9287e7"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_2a5ca297a01b57668d61c2e1b8302f34",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_6c97b94bc8695631815e3c65393a1b67",
+      "lang": "en",
+      "release": "neo4",
+      "set_name": "Neo Destiny",
+      "name": "Light Ninetales",
+      "number": "50",
+      "reference_name": "Light Ninetales",
+      "reference_title": "Light Ninetales 50/105 Neo Destiny price | Arca TCG",
+      "reference_number": "No. 50/105",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo4-50",
+      "source_file": "evidence/arca_neo4-50.html",
+      "source_sha256": "e8b92faac5245fc1329a352f7e64b11c11cedcc329dcddf4b1ab9098f1f67144",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_2a2deb9abeac5f10ad9e88e71599e01f"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_c9cadd1240ae526fb00e66098820e6a6",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_33f556015aa455788c790c54111c27d6",
+      "lang": "en",
+      "release": "base1",
+      "set_name": "Base Set",
+      "name": "Growlithe",
+      "number": "28",
+      "reference_name": "Growlithe",
+      "reference_title": "Growlithe 28/102 Base price | Arca TCG",
+      "reference_number": "No. 28/102",
+      "original_variant_labels": [
+        "First Edition Shadowless",
+        "Unlimited",
+        "Unlimited Shadowless"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/base1-28",
+      "source_file": "evidence/arca_base1-28.html",
+      "source_sha256": "6789b7ed76b4d2fdbb2d034cc2f539700331de33377426af96a30d46b6da87be",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_2ca82f754375569f8a69dd689c560e88"
+      ],
+      "before_unlimited_ids": [
+        "variant_a0fe863f1369528d9fbac9baf2cd779f"
+      ],
+      "disposition": "matched_existing",
+      "notes": "Existing Base Set shadowless/copyright distinctions stay intact; no same-artwork cross-product generation.",
+      "canonical_unlimited_id": "variant_a0fe863f1369528d9fbac9baf2cd779f",
+      "after_disposition": "existing_printing_retained"
+    },
+    {
+      "entry_id": "entry_d62e2bf855c556ce973982572bb52042",
+      "lang": "en",
+      "release": "gym1",
+      "set_name": "Gym Heroes",
+      "name": "Blaine's Growlithe",
+      "number": "35",
+      "reference_name": "Blaine's Growlithe",
+      "reference_title": "Blaine's Growlithe 35/132 Gym Heroes price | Arca TCG",
+      "reference_number": "No. 35/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym1-35",
+      "source_file": "evidence/arca_gym1-35.html",
+      "source_sha256": "42337e4b65d5b03d7ec1e8e15e39a409961097a34a4cfd38d7c1d469f8e1ed9f",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_338e7ab71fc95157bf77e1cc957c0945"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_fb5f63904ab750d7895d141a452466bd",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_aeb9e489ed8658bda20527357713129b",
+      "lang": "en",
+      "release": "gym1",
+      "set_name": "Gym Heroes",
+      "name": "Blaine's Growlithe",
+      "number": "62",
+      "reference_name": "Blaine's Growlithe",
+      "reference_title": "Blaine's Growlithe 62/132 Gym Heroes price | Arca TCG",
+      "reference_number": "No. 62/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym1-62",
+      "source_file": "evidence/arca_gym1-62.html",
+      "source_sha256": "0b608264bd3203659e3b5c3a10865772d2cf7b737d015e7a0e79445564a17945",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_51956485048a56a884b5dd82d729cf80"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_99b086d725715d11a46cb6443f92fea1",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_15354d06f2ff59bf8822afef43e417cb",
+      "lang": "en",
+      "release": "gym2",
+      "set_name": "Gym Challenge",
+      "name": "Blaine's Growlithe",
+      "number": "62",
+      "reference_name": "Blaine's Growlithe",
+      "reference_title": "Blaine's Growlithe 62/132 Gym Challenge price | Arca TCG",
+      "reference_number": "No. 62/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym2-62",
+      "source_file": "evidence/arca_gym2-62.html",
+      "source_sha256": "0099d77fbceb10c153c7670b59853fc23e5b135d3698e98f458d514e0009d822",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_1cdd6c7a417b5cad8cbe9820d634a426"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_7e368e6512d0507aaeee39a27d14b3fa",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_d815afe7ed4751b8aeec3aa668cd0137",
+      "lang": "en",
+      "release": "neo4",
+      "set_name": "Neo Destiny",
+      "name": "Growlithe",
+      "number": "68",
+      "reference_name": "Growlithe",
+      "reference_title": "Growlithe 68/105 Neo Destiny price | Arca TCG",
+      "reference_number": "No. 68/105",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo4-68",
+      "source_file": "evidence/arca_neo4-68.html",
+      "source_sha256": "6b12b64a09db1901dfab7cf8d74584dd18e2be96dda7ab84525e24ab85fa999a",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_ef9896bdbcc65be6ae9a3133ce5842d1"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_2e462ba7e6b15d33bb3f088180ce2b5a",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_4915b15abe325fac9b43debd39e7dda5",
+      "lang": "en",
+      "release": "base1",
+      "set_name": "Base Set",
+      "name": "Arcanine",
+      "number": "23",
+      "reference_name": "Arcanine",
+      "reference_title": "Arcanine 23/102 Base price | Arca TCG",
+      "reference_number": "No. 23/102",
+      "original_variant_labels": [
+        "First Edition Shadowless",
+        "Unlimited",
+        "Unlimited Shadowless"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/base1-23",
+      "source_file": "evidence/arca_base1-23.html",
+      "source_sha256": "c5244d1a5ba2f080dd259eba8581267473cc039375ecf33fc4464dd023e8f7bd",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_065304d883c056c4a82b2ba58d91bdf9"
+      ],
+      "before_unlimited_ids": [
+        "variant_77d51c9edd0e599eacabcfbbf5a3e6ac"
+      ],
+      "disposition": "matched_existing",
+      "notes": "Existing Base Set shadowless/copyright distinctions stay intact; no same-artwork cross-product generation.",
+      "canonical_unlimited_id": "variant_77d51c9edd0e599eacabcfbbf5a3e6ac",
+      "after_disposition": "existing_printing_retained"
+    },
+    {
+      "entry_id": "entry_f9e50887407450b187ac5db2873f20b8",
+      "lang": "en",
+      "release": "gym2",
+      "set_name": "Gym Challenge",
+      "name": "Blaine's Arcanine",
+      "number": "1",
+      "reference_name": "Blaine's Arcanine",
+      "reference_title": "Blaine's Arcanine 1/132 Gym Challenge price | Arca TCG",
+      "reference_number": "No. 1/132",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/gym2-1",
+      "source_file": "evidence/arca_gym2-1.html",
+      "source_sha256": "149dd4c38095dee3b534f0e1cb048797ed79bef35e6cd5dea1a3ebbce36e3219",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_6855c065f2bc5a0f8297a3c53534a0ba"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_5b4ab0d063d75974ae81f79e577df935",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_b471a1ecfa8c550a9005312f81b33c62",
+      "lang": "en",
+      "release": "neo4",
+      "set_name": "Neo Destiny",
+      "name": "Light Arcanine",
+      "number": "12",
+      "reference_name": "Light Arcanine",
+      "reference_title": "Light Arcanine 12/105 Neo Destiny price | Arca TCG",
+      "reference_number": "No. 12/105",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/neo4-12",
+      "source_file": "evidence/arca_neo4-12.html",
+      "source_sha256": "659056438168b2278034a5d791c533fb9fc37e349c3b00dccde2845f2f2aebbc",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_b28532cd0c49584080b9b1ee65c89a75"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_7c1d0e2ec4cd51c9895ea6e018385019",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_b5f4d1dbddb25690a9d4a7c447783f23",
+      "lang": "en",
+      "release": "neo1",
+      "set_name": "Neo Genesis",
+      "name": "Snubbull",
+      "number": "74",
+      "reference_name": "Snubbull",
+      "reference_title": "Snubbull 74/111 Neo Genesis price | Arca TCG",
+      "reference_number": "No. 74/111",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo1-74",
+      "source_file": "evidence/arca_neo1-74.html",
+      "source_sha256": "401888ac0efdc402905c1fdc95c2fa0c6de57ae000fd719a3582f2ccc3aa1051",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_5a5419a67bb15a219a8ec62e598eca85"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_79819046fbbe54b2a26cc9ff8b0e4d6c",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_e79302ae3f9854ebb92f20eb97eb23e3",
+      "lang": "en",
+      "release": "neo3",
+      "set_name": "Neo Revelation",
+      "name": "Snubbull",
+      "number": "55",
+      "reference_name": "Snubbull",
+      "reference_title": "Snubbull 55/64 Neo Revelation price | Arca TCG",
+      "reference_number": "No. 55/64",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo3-55",
+      "source_file": "evidence/arca_neo3-55.html",
+      "source_sha256": "70ae466399ebb7de2c23a47e075b1f437e8bc067523256d2c79a1b5969d3ff37",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_319a1443cc32587785af877fdbd6f2db"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_39d0d97a08a35eebae7caecfd31597bf",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_2e500a19e0995055954b008101ac989c",
+      "lang": "en",
+      "release": "neo1",
+      "set_name": "Neo Genesis",
+      "name": "Granbull",
+      "number": "37",
+      "reference_name": "Granbull",
+      "reference_title": "Granbull 37/111 Neo Genesis price | Arca TCG",
+      "reference_number": "No. 37/111",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo1-37",
+      "source_file": "evidence/arca_neo1-37.html",
+      "source_sha256": "7ef2c898d837c2919bc9cb578da9e7cdb80870f919ed4bdaa03de68d327fbe34",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_7ebcab28137d5cb7a798f3356875f50a"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_4ca685f5a84454fda807ea466c22a0a4",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_b9408944e0605c7c8cc80a4d84f344d0",
+      "lang": "en",
+      "release": "neo2",
+      "set_name": "Neo Discovery",
+      "name": "Houndour",
+      "number": "24",
+      "reference_name": "Houndour",
+      "reference_title": "Houndour 24/75 Neo Discovery price | Arca TCG",
+      "reference_number": "No. 24/75",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo2-24",
+      "source_file": "evidence/arca_neo2-24.html",
+      "source_sha256": "ea82ccea654b0e9209431a6e541ed0b9a4fd9086605a1b7b9983a9e72e310517",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_3a401435ec0c52aeac37ccc6299d5855"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_e25cd5bcd86e575baa2c987b3e202cee",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_9303ab52422d51c6a099c4f23769b4a2",
+      "lang": "en",
+      "release": "neo2",
+      "set_name": "Neo Discovery",
+      "name": "Houndour",
+      "number": "39",
+      "reference_name": "Houndour",
+      "reference_title": "Houndour 39/75 Neo Discovery price | Arca TCG",
+      "reference_number": "No. 39/75",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo2-39",
+      "source_file": "evidence/arca_neo2-39.html",
+      "source_sha256": "e29a3e81ea8ab016b16639f5e14a108e5b2526693c7e7c338250223e2eb18fea",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_86176aa6025054fdbacb55a3ff40cc87"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_0520e6a230775d9394373f2ca7cb79df",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_15005ddb542c5cca8efd3e1e16e3d997",
+      "lang": "en",
+      "release": "neo2",
+      "set_name": "Neo Discovery",
+      "name": "Houndour",
+      "number": "5",
+      "reference_name": "Houndour",
+      "reference_title": "Houndour 5/75 Neo Discovery price | Arca TCG",
+      "reference_number": "No. 5/75",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/neo2-5",
+      "source_file": "evidence/arca_neo2-5.html",
+      "source_sha256": "75857184fbb0bde797cbd73e9ae6b32f5bb70397edfe992b50b26b03e6c6033d",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_1f76d5112e8855d8913aaf29164bbb6e"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_6a484d5fabcc527b91c7d174e097fae2",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_f464759ee1d45e2ca7fc055882dfa7fe",
+      "lang": "en",
+      "release": "neo4",
+      "set_name": "Neo Destiny",
+      "name": "Houndour",
+      "number": "43",
+      "reference_name": "Houndour",
+      "reference_title": "Houndour 43/105 Neo Destiny price | Arca TCG",
+      "reference_number": "No. 43/105",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo4-43",
+      "source_file": "evidence/arca_neo4-43.html",
+      "source_sha256": "c2a2b95f1bd7920fa58a50ecc0558c5cee266c75f52e8b6a2dfc085682713ae4",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_965a03fb4db15ccaa5f57f01a29bf65e"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_e04f46e5a7ec55e9acbaa2f496b4a0c0",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_bdb5a9e797ae5284bc6c938ea17cc3c3",
+      "lang": "en",
+      "release": "neo2",
+      "set_name": "Neo Discovery",
+      "name": "Houndoom",
+      "number": "23",
+      "reference_name": "Houndoom",
+      "reference_title": "Houndoom 23/75 Neo Discovery price | Arca TCG",
+      "reference_number": "No. 23/75",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo2-23",
+      "source_file": "evidence/arca_neo2-23.html",
+      "source_sha256": "7245764aba754b84cfddd8a59af8eff6d9b6cf069b06cfbbe0e5d9f9bf5aff5e",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_ed29326ae87751bab30dd59b41be2798"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_26313fbdb60c5a45b89fdb61f771e905",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_13b1f9d730a65b0fb459dd8eae117e63",
+      "lang": "en",
+      "release": "neo2",
+      "set_name": "Neo Discovery",
+      "name": "Houndoom",
+      "number": "4",
+      "reference_name": "Houndoom",
+      "reference_title": "Houndoom 4/75 Neo Discovery price | Arca TCG",
+      "reference_number": "No. 4/75",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/neo2-4",
+      "source_file": "evidence/arca_neo2-4.html",
+      "source_sha256": "c9cfb72ac00ad789066441bb3ae8a2110cb6ddba01c0bf766d840da63628eb34",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_cbf5d0b7f2545992a2719f0ed8c515ee"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_f38b4f1a498056f08df3ea2ae39d5adb",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_a5d287d5db3150c2adb868fc93a9aec1",
+      "lang": "en",
+      "release": "neo3",
+      "set_name": "Neo Revelation",
+      "name": "Houndoom",
+      "number": "8",
+      "reference_name": "Houndoom",
+      "reference_title": "Houndoom 8/64 Neo Revelation price | Arca TCG",
+      "reference_number": "No. 8/64",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/neo3-8",
+      "source_file": "evidence/arca_neo3-8.html",
+      "source_sha256": "1e5e0012b6c37c8fc1b76d224b578d5c63873c8142efbda5ebc2877a4a3a4f1b",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_ffe319dc7bb051fdaf0b7c281d5c5dc6"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_0357791f362a51b8989ded4a3948003a",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_4e5cd285875851558ae62d8213b58e42",
+      "lang": "en",
+      "release": "neo4",
+      "set_name": "Neo Destiny",
+      "name": "Dark Houndoom",
+      "number": "7",
+      "reference_name": "Dark Houndoom",
+      "reference_title": "Dark Houndoom 7/105 Neo Destiny price | Arca TCG",
+      "reference_number": "No. 7/105",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/neo4-7",
+      "source_file": "evidence/arca_neo4-7.html",
+      "source_sha256": "8328ace482d6efa843155d709b9b3f86a84f82fa75a73708582f7e6604356239",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_2f44868f6b815248872f578e6ce47f7a"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_36ed9eb8d94758639e11306107649360",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_b9c05a06ffb55e8e9a189f4c43d830e7",
+      "lang": "en",
+      "release": "neo2",
+      "set_name": "Neo Discovery",
+      "name": "Smeargle",
+      "number": "11",
+      "reference_name": "Smeargle",
+      "reference_title": "Smeargle 11/75 Neo Discovery price | Arca TCG",
+      "reference_number": "No. 11/75",
+      "original_variant_labels": [
+        "First Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "selected_variant_label": "Unlimited Holofoil",
+      "selected_finish": "holo",
+      "source_url": "https://arcatcg.com/cards/neo2-11",
+      "source_file": "evidence/arca_neo2-11.html",
+      "source_sha256": "4328f03413d477427ebacda87885cbe526e72366e025bbee51141ff368613568",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_914944f8008156bda7ab9241c84b9bc7"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_a0ee8ae47c19537f982b9015d3f3cd46",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "entry_c7d4ddcffcaa587280c7e093de6a06fc",
+      "lang": "en",
+      "release": "neo2",
+      "set_name": "Neo Discovery",
+      "name": "Smeargle",
+      "number": "30",
+      "reference_name": "Smeargle",
+      "reference_title": "Smeargle 30/75 Neo Discovery price | Arca TCG",
+      "reference_number": "No. 30/75",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/neo2-30",
+      "source_file": "evidence/arca_neo2-30.html",
+      "source_sha256": "929fdd9a530f5ddc007b5cf273e62c5e3a42a188fa40d13e8586d5675a970df9",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "variant_2b6f8f66dcb551f8b1e613af87f15870"
+      ],
+      "before_unlimited_ids": [],
+      "disposition": "newly_documented",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_ef867f69d42b5731a01375893c2732eb",
+      "after_disposition": "added_without_changing_old_ids"
+    },
+    {
+      "entry_id": "research_entry_d793b4c72a0e54d8b725191fbca96421",
+      "lang": "en",
+      "release": "gym2",
+      "set_name": "Gym Challenge",
+      "name": "Erika's Kindness",
+      "number": "103",
+      "reference_name": "Erika's Kindness",
+      "reference_title": "Erika's Kindness 103/132 Gym Challenge price | Arca TCG",
+      "reference_number": "No. 103/132",
+      "original_variant_labels": [
+        "First Edition",
+        "Unlimited"
+      ],
+      "selected_variant_label": "Unlimited",
+      "selected_finish": "non_holo",
+      "source_url": "https://arcatcg.com/cards/gym2-103",
+      "source_file": "evidence/arca_gym2-103.html",
+      "source_sha256": "57c827fea06899c58c50d79294b95f2d0a4c7cba171edda53a7ae845c5b4fac2",
+      "source_family": "tcgplayer_inventory",
+      "checked_fields": [
+        "language-inventory",
+        "name",
+        "set",
+        "collector_number",
+        "edition",
+        "finish"
+      ],
+      "before_first_edition_ids": [
+        "research_printing_6cd19fc364ba5fb0adab47947498c37b"
+      ],
+      "before_unlimited_ids": [
+        "research_printing_86a538548dc256f8af518b3aba2d5f1f"
+      ],
+      "disposition": "matched_existing",
+      "notes": "",
+      "canonical_unlimited_id": "research_printing_86a538548dc256f8af518b3aba2d5f1f",
+      "after_disposition": "existing_printing_retained"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {createRequire} from 'node:module';
+import {fileURLToPath} from 'node:url';
+import {execFileSync} from 'node:child_process';
+const require=createRequire(import.meta.url);
+const {JSDOM}=require(process.env.DOGDEX_QA_NODE_MODULES?path.join(process.env.DOGDEX_QA_NODE_MODULES,'jsdom'):'jsdom');
+const root=fileURLToPath(new URL('../',import.meta.url));
+
+test('public viewer works at a GitHub project subpath and exposes no edit controls',{timeout:30000},async()=>{
+ const code="import sys,json,tempfile;from pathlib import Path;sys.path.insert(0,sys.argv[1]);from dogdex.collector import Collection;from dogdex.mobile_export import build_snapshot;t=tempfile.TemporaryDirectory();s=Collection(Path(sys.argv[1]),t.name);print(json.dumps(build_snapshot(s)))";
+ const snapshot=JSON.parse(execFileSync('python3',['-c',code,root],{maxBuffer:50000000}));
+ const card=snapshot.entries.find(e=>e.lang==='en'&&e.release==='base1'&&e.number==='68');
+ const pid=card.printings[0].id;snapshot.ownership[pid]=2;snapshot.prices={updated_at:'2026-10-29T02:52:59+0100',printings:{[pid]:{trend:1.25,avg30:2,series:'standard'}}};
+ const html=fs.readFileSync(path.join(root,'static/index.html'),'utf8').replace('<html lang="en">','<html lang="en" data-readonly="true">');
+ const dom=new JSDOM(html,{url:'https://example.github.io/DogDex/',runScripts:'outside-only',pretendToBeVisual:true});const w=dom.window;
+ w.scrollTo=()=>{};w.HTMLDialogElement.prototype.showModal=function(){this.open=true;};w.HTMLDialogElement.prototype.close=function(){this.open=false;};
+ const requests=[];w.fetch=async input=>{const url=new URL(input,w.location.href);requests.push(url.href);assert.equal(url.pathname,'/DogDex/snapshot.json');return {ok:true,json:async()=>snapshot};};
+ const script=['set-symbols.mjs','source-ui.mjs','localization.mjs','catalog.mjs','prices.mjs','appearance.mjs'].map(f=>fs.readFileSync(path.join(root,'static',f),'utf8').replace(/\bexport /g,'')).join('\n')+'\nfunction makeMarketFinder(){return {click:async()=>false,change:()=>false,submit:async()=>false};}\nfunction makeEditor(){return {click:async()=>false,change:()=>false,submit:async()=>false};}\n'+fs.readFileSync(path.join(root,'static/app.js'),'utf8').replace(/^import[^\n]*\n/gm,'')+'\nwindow.qa={ui,detail,render,post};';w.eval(script);
+ for(let i=0;i<100&&!w.document.querySelector('.card');i++)await new Promise(r=>setTimeout(r,10));
+ assert.ok(w.document.querySelector('.card'));assert.equal(requests.length,1);
+ assert.equal(w.document.querySelector('#nav-health'),null);assert.equal(w.document.querySelector('.add'),null);assert.equal(w.document.querySelector('.wish-btn'),null);
+ for(const img of w.document.querySelectorAll('img'))assert.ok(img.src.startsWith('https://example.github.io/DogDex/'),img.src);
+ w.qa.detail(pid);const dialog=w.document.querySelector('#dialog');
+ assert.match(dialog.textContent,/2 copies collected/);assert.match(dialog.textContent,/€1\.25/);assert.equal(dialog.querySelector('.market-guide').open,false);assert.equal(dialog.querySelector('.copy-cost'),null);assert.equal(dialog.querySelector('.copy-item'),null);
+ const pricedTile=[...w.document.querySelectorAll('.card')].find(el=>el.querySelector('.card-visual')?.dataset.id===pid);assert.equal(pricedTile.querySelector('.card-price strong').textContent,'€1.25');assert.ok(pricedTile.querySelector('.rarity-badge'));
+ assert.equal(dialog.querySelector('[data-action="wish-detail"]'),null);assert.equal(pricedTile.querySelector('.count-badge'),null);assert.ok(pricedTile.querySelector('.card-heading>.card-price'));assert.equal(dialog.querySelector('[data-action="add"]'),null);assert.equal(dialog.querySelector('[data-action="picture"]'),null);assert.equal(dialog.querySelector('[data-action="review"]'),null);
+ assert.equal(dialog.querySelector('img.detail-image').className,'detail-image');assert.equal(dialog.querySelector('[data-action="market-find"]'),null);
+ w.qa.ui.view='sources';w.qa.render();assert.ok(w.document.querySelector('.source-series h2'));
+ assert.equal(w.document.querySelector('[data-action="edit-source"]'),null);
+ await assert.rejects(w.qa.post('copy/add',{}),/read-only/);assert.equal(requests.length,1);
+ w.close();
+});

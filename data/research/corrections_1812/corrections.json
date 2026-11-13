@@ -1,0 +1,748 @@
+{
+  "version": "1.8.12",
+  "reviewed_on": "2026-10-31",
+  "printings": [
+    {
+      "entry_id": "entry_d0c6cbfb62835f0d9cb4466a8001cd8f",
+      "lang": "en",
+      "release": "gym1",
+      "number": "65",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym1-65"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym1-65.html",
+      "reference_sha256": "ba6a00101e5c3085fb002ec9214150afa70f3ce477ce6ec49e26d12344846b35"
+    },
+    {
+      "entry_id": "entry_4187e52a0c265ab5bcaf63cd55cf84f2",
+      "lang": "en",
+      "release": "gym1",
+      "number": "73",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym1-73"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym1-73.html",
+      "reference_sha256": "30f5cf92b8e7e046ee021db754d27b3e4dd873c4a4279e963eeee733efc07d80"
+    },
+    {
+      "entry_id": "entry_7cc51911ac1f57e987af2f7a3f688b3f",
+      "lang": "en",
+      "release": "gym2",
+      "number": "37",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym2-37"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym2-37.html",
+      "reference_sha256": "10ecbe352084a0dd68cef0a6ba0aa8b8d5e0ac42ba407dc13e5f399c2752d650"
+    },
+    {
+      "entry_id": "entry_910614cb034054c49dc1c888d032d1b5",
+      "lang": "en",
+      "release": "gym2",
+      "number": "66",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym2-66"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym2-66.html",
+      "reference_sha256": "ceffb3f46802906dbda047e46a208c7790f4f46f1e980fe327b1f0134e0ca190"
+    },
+    {
+      "entry_id": "entry_f7780486d2005b68abeb6f6be6f7ed86",
+      "lang": "en",
+      "release": "neo4",
+      "number": "91",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo4-91"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo4-91.html",
+      "reference_sha256": "ece245dd1b6f6ca75617eb2eddc19d469ace3c3456049ffd166d3ba55af22df4"
+    },
+    {
+      "entry_id": "entry_bd0869e76a845acbac6ad4d356de1c3b",
+      "lang": "en",
+      "release": "gym2",
+      "number": "21",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym2-21"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym2-21.html",
+      "reference_sha256": "2166b68d7ce0a3ce5171b8ea44b4f862cbf25cc83eda81c545f43b1624a2a329"
+    },
+    {
+      "entry_id": "entry_33751739635c579587e45d3b6dbf42fb",
+      "lang": "en",
+      "release": "gym2",
+      "number": "3",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym2-3"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_gym2-3.html",
+      "reference_sha256": "71b4d95ea4c7a388f0da7ea88ee2b60a91ae7ec308e8faa2aa9a39714868ab4e"
+    },
+    {
+      "entry_id": "entry_6c97b94bc8695631815e3c65393a1b67",
+      "lang": "en",
+      "release": "neo4",
+      "number": "50",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo4-50"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo4-50.html",
+      "reference_sha256": "e8b92faac5245fc1329a352f7e64b11c11cedcc329dcddf4b1ab9098f1f67144"
+    },
+    {
+      "entry_id": "entry_d62e2bf855c556ce973982572bb52042",
+      "lang": "en",
+      "release": "gym1",
+      "number": "35",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym1-35"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym1-35.html",
+      "reference_sha256": "42337e4b65d5b03d7ec1e8e15e39a409961097a34a4cfd38d7c1d469f8e1ed9f"
+    },
+    {
+      "entry_id": "entry_aeb9e489ed8658bda20527357713129b",
+      "lang": "en",
+      "release": "gym1",
+      "number": "62",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym1-62"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym1-62.html",
+      "reference_sha256": "0b608264bd3203659e3b5c3a10865772d2cf7b737d015e7a0e79445564a17945"
+    },
+    {
+      "entry_id": "entry_15354d06f2ff59bf8822afef43e417cb",
+      "lang": "en",
+      "release": "gym2",
+      "number": "62",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym2-62"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_gym2-62.html",
+      "reference_sha256": "0099d77fbceb10c153c7670b59853fc23e5b135d3698e98f458d514e0009d822"
+    },
+    {
+      "entry_id": "entry_d815afe7ed4751b8aeec3aa668cd0137",
+      "lang": "en",
+      "release": "neo4",
+      "number": "68",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo4-68"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo4-68.html",
+      "reference_sha256": "6b12b64a09db1901dfab7cf8d74584dd18e2be96dda7ab84525e24ab85fa999a"
+    },
+    {
+      "entry_id": "entry_f9e50887407450b187ac5db2873f20b8",
+      "lang": "en",
+      "release": "gym2",
+      "number": "1",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/gym2-1"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_gym2-1.html",
+      "reference_sha256": "149dd4c38095dee3b534f0e1cb048797ed79bef35e6cd5dea1a3ebbce36e3219"
+    },
+    {
+      "entry_id": "entry_b471a1ecfa8c550a9005312f81b33c62",
+      "lang": "en",
+      "release": "neo4",
+      "number": "12",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo4-12"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_neo4-12.html",
+      "reference_sha256": "659056438168b2278034a5d791c533fb9fc37e349c3b00dccde2845f2f2aebbc"
+    },
+    {
+      "entry_id": "entry_b5f4d1dbddb25690a9d4a7c447783f23",
+      "lang": "en",
+      "release": "neo1",
+      "number": "74",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.tcgplayer.com/product/89412/pokemon-neo-genesis-snubbull",
+        "https://arcatcg.com/cards/neo1-74"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "The cached PkmnCards photo has a 1st Edition stamp. It identifies the card, not an Unlimited specimen. Keep it as a shared entry reference, without claiming an exact Unlimited image.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo1-74.html",
+      "reference_sha256": "401888ac0efdc402905c1fdc95c2fa0c6de57ae000fd719a3582f2ccc3aa1051"
+    },
+    {
+      "entry_id": "entry_e79302ae3f9854ebb92f20eb97eb23e3",
+      "lang": "en",
+      "release": "neo3",
+      "number": "55",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/price-guides/neo-revelation",
+        "https://arcatcg.com/cards/neo3-55"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "The cached PkmnCards photo has a 1st Edition stamp. It identifies the card, not an Unlimited specimen. Keep it as a shared entry reference, without claiming an exact Unlimited image.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo3-55.html",
+      "reference_sha256": "70ae466399ebb7de2c23a47e075b1f437e8bc067523256d2c79a1b5969d3ff37"
+    },
+    {
+      "entry_id": "entry_2e500a19e0995055954b008101ac989c",
+      "lang": "en",
+      "release": "neo1",
+      "number": "37",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo1-37"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo1-37.html",
+      "reference_sha256": "7ef2c898d837c2919bc9cb578da9e7cdb80870f919ed4bdaa03de68d327fbe34"
+    },
+    {
+      "entry_id": "entry_b9408944e0605c7c8cc80a4d84f344d0",
+      "lang": "en",
+      "release": "neo2",
+      "number": "24",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo2-24"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo2-24.html",
+      "reference_sha256": "ea82ccea654b0e9209431a6e541ed0b9a4fd9086605a1b7b9983a9e72e310517"
+    },
+    {
+      "entry_id": "entry_9303ab52422d51c6a099c4f23769b4a2",
+      "lang": "en",
+      "release": "neo2",
+      "number": "39",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo2-39"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo2-39.html",
+      "reference_sha256": "e29a3e81ea8ab016b16639f5e14a108e5b2526693c7e7c338250223e2eb18fea"
+    },
+    {
+      "entry_id": "entry_15005ddb542c5cca8efd3e1e16e3d997",
+      "lang": "en",
+      "release": "neo2",
+      "number": "5",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo2-5"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_neo2-5.html",
+      "reference_sha256": "75857184fbb0bde797cbd73e9ae6b32f5bb70397edfe992b50b26b03e6c6033d"
+    },
+    {
+      "entry_id": "entry_f464759ee1d45e2ca7fc055882dfa7fe",
+      "lang": "en",
+      "release": "neo4",
+      "number": "43",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo4-43"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo4-43.html",
+      "reference_sha256": "c2a2b95f1bd7920fa58a50ecc0558c5cee266c75f52e8b6a2dfc085682713ae4"
+    },
+    {
+      "entry_id": "entry_bdb5a9e797ae5284bc6c938ea17cc3c3",
+      "lang": "en",
+      "release": "neo2",
+      "number": "23",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo2-23"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo2-23.html",
+      "reference_sha256": "7245764aba754b84cfddd8a59af8eff6d9b6cf069b06cfbbe0e5d9f9bf5aff5e"
+    },
+    {
+      "entry_id": "entry_13b1f9d730a65b0fb459dd8eae117e63",
+      "lang": "en",
+      "release": "neo2",
+      "number": "4",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo2-4"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_neo2-4.html",
+      "reference_sha256": "c9cfb72ac00ad789066441bb3ae8a2110cb6ddba01c0bf766d840da63628eb34"
+    },
+    {
+      "entry_id": "entry_a5d287d5db3150c2adb868fc93a9aec1",
+      "lang": "en",
+      "release": "neo3",
+      "number": "8",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo3-8"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_neo3-8.html",
+      "reference_sha256": "1e5e0012b6c37c8fc1b76d224b578d5c63873c8142efbda5ebc2877a4a3a4f1b"
+    },
+    {
+      "entry_id": "entry_4e5cd285875851558ae62d8213b58e42",
+      "lang": "en",
+      "release": "neo4",
+      "number": "7",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo4-7"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_neo4-7.html",
+      "reference_sha256": "8328ace482d6efa843155d709b9b3f86a84f82fa75a73708582f7e6604356239"
+    },
+    {
+      "entry_id": "entry_b9c05a06ffb55e8e9a189f4c43d830e7",
+      "lang": "en",
+      "release": "neo2",
+      "number": "11",
+      "printing": {
+        "finish": "holo",
+        "pattern": "unspecified",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo2-11"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited Holofoil', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited Holofoil",
+      "reference_file": "evidence/arca_neo2-11.html",
+      "reference_sha256": "4328f03413d477427ebacda87885cbe526e72366e025bbee51141ff368613568"
+    },
+    {
+      "entry_id": "entry_c7d4ddcffcaa587280c7e093de6a06fc",
+      "lang": "en",
+      "release": "neo2",
+      "number": "30",
+      "printing": {
+        "finish": "non_holo",
+        "pattern": "none",
+        "edition": "unlimited",
+        "layout": "standard",
+        "size": "standard",
+        "material": "paper",
+        "stamps_json": "[]",
+        "print_state": "standard"
+      },
+      "source_urls": [
+        "https://arcatcg.com/cards/neo2-30"
+      ],
+      "source_family": "tcgplayer_inventory",
+      "evidence": "Exact English name, expansion and collector number matched to the cached inventory page. Its explicit physical-printing label is 'Unlimited', separately from 1st Edition. TCGplayer-derived displays and API values are one upstream family, not independent corroboration. No tournament-legality flag, generic Normal field, rarity, or shared artwork is used to generate this tuple.",
+      "specimen_status": "not_inspected",
+      "image_limit": "Keep the existing shared entry reference; no exact Unlimited specimen image was inspected for this record.",
+      "reference_variant_label": "Unlimited",
+      "reference_file": "evidence/arca_neo2-30.html",
+      "reference_sha256": "929fdd9a530f5ddc007b5cf273e62c5e3a42a188fa40d13e8586d5675a970df9"
+    }
+  ],
+  "release": {
+    "lang": "de",
+    "release": "ecard3",
+    "selected_date": "2003-08-15",
+    "source_url": "https://bulbapedia.bulbagarden.net/wiki/Skyridge_(TCG)",
+    "source_family": "bulbapedia_editorial",
+    "evidence": "The Information section explicitly assigns August 15, 2003 to the German expansion, separately from the English May 12 date.",
+    "date_state": "sourced_regional_date_conflict",
+    "conflicting_claim": {
+      "value": "Winter 2003/2004",
+      "source_url": "https://www.bisafans.de/sammelkarten/sets/e-card/skyridge.php",
+      "source_family": "bisafans_editorial"
+    },
+    "reason": "Select the traceable exact German date requested by the collector and explicitly recorded by Bulbapedia. Retain the incompatible native Bisafans period and the previous selection as unresolved historical evidence. No contemporary manufacturer confirmation was located in this bounded pass."
+  },
+  "limits": [
+    "27 explicit English Unlimited printing tuples across Gym Heroes, Gym Challenge and Neo Genesis/Discovery/Revelation/Destiny. Five existing Unlimited controls are retained.",
+    "Arca and PokemonTCG API price/printing information share the TCGplayer upstream family; no independence is claimed.",
+    "New Unlimited images are shared entry references, not exact specimen verification.",
+    "The German Skyridge date is a selected sourced date with a retained conflict, not manufacturer-verified consensus."
+  ],
+  "english_era_inventory": {
+    "reference": "Arca TCG English edition inventory (TCGplayer upstream)",
+    "checked_identity_count": 32,
+    "already_matched": 5,
+    "missing_unlimited_added": 27,
+    "sets": [
+      "base1",
+      "gym1",
+      "gym2",
+      "neo1",
+      "neo2",
+      "neo3",
+      "neo4"
+    ],
+    "matrix_file": "english_edition_matrix.json",
+    "limits": "Reconciles existing in-scope English card identities from the First Edition-era expansions. It is not proof that every cameo identity or obscure paper variation has been discovered."
+  }
+}

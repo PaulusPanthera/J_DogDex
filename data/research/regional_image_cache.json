@@ -1,0 +1,818 @@
+{
+  "entry_fa95ec34bc5b5baca0fa120b95ac8332": {
+    "entry_id": "entry_fa95ec34bc5b5baca0fa120b95ac8332",
+    "lang": "de",
+    "release": "pl1",
+    "number": "SH6",
+    "name": "Vulpix",
+    "source_url": "https://limitlesstcg.com/cards/de/PL/SH6",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_e67aa6dbf9045b6c8adf8882bcf4d765": {
+    "entry_id": "entry_e67aa6dbf9045b6c8adf8882bcf4d765",
+    "lang": "de",
+    "release": "base1",
+    "number": "12",
+    "name": "Vulnona",
+    "source_url": "https://limitlesstcg.com/cards/de/BS/12",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_59dfe768d8bd54a5a2b42c08c88dc231": {
+    "entry_id": "entry_59dfe768d8bd54a5a2b42c08c88dc231",
+    "lang": "de",
+    "release": "ecard2",
+    "number": "H19",
+    "name": "Vulnona",
+    "source_url": "https://limitlesstcg.com/cards/de/AQ/H19",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_884c879c222c547ebbc8e4a0690990d4": {
+    "entry_id": "entry_884c879c222c547ebbc8e4a0690990d4",
+    "lang": "de",
+    "release": "2022swsh",
+    "number": "4",
+    "name": "Fukano",
+    "source_url": "https://limitlesstcg.com/cards/de//4",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_c9b09b2d4e70551fa2555c0cbea6a600": {
+    "entry_id": "entry_c9b09b2d4e70551fa2555c0cbea6a600",
+    "lang": "de",
+    "release": "ecard2",
+    "number": "H02",
+    "name": "Arkani",
+    "source_url": "https://limitlesstcg.com/cards/de/AQ/H02",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_67f07ef84a6c5e2380372ff3dc1dead2": {
+    "entry_id": "entry_67f07ef84a6c5e2380372ff3dc1dead2",
+    "lang": "de",
+    "release": "dp4",
+    "number": "84",
+    "name": "Snubbull",
+    "source_url": "https://limitlesstcg.com/cards/de/GE/84",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_5b9ea342b4c755d9b22137a4bd64a8b8": {
+    "entry_id": "entry_5b9ea342b4c755d9b22137a4bd64a8b8",
+    "lang": "de",
+    "release": "dp6",
+    "number": "103",
+    "name": "Hunduster",
+    "source_url": "https://limitlesstcg.com/cards/de/LA/103",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_b1ae4b8fbc1b5c46921b0a99d2b63ece": {
+    "entry_id": "entry_b1ae4b8fbc1b5c46921b0a99d2b63ece",
+    "lang": "de",
+    "release": "ecard2",
+    "number": "86",
+    "name": "Hunduster",
+    "source_url": "https://limitlesstcg.com/cards/de/AQ/86",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_9a987c0dd82f5cbfbb7ba99347d11e07": {
+    "entry_id": "entry_9a987c0dd82f5cbfbb7ba99347d11e07",
+    "lang": "de",
+    "release": "ex3",
+    "number": "59",
+    "name": "Hunduster",
+    "source_url": "https://limitlesstcg.com/cards/de/DR/59",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_50f9bf4e7a63503a9c5275b065058414": {
+    "entry_id": "entry_50f9bf4e7a63503a9c5275b065058414",
+    "lang": "de",
+    "release": "ex3",
+    "number": "34",
+    "name": "Hundemon",
+    "source_url": "https://limitlesstcg.com/cards/de/DR/34",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_4798f13c0cda59e288221526a57def7f": {
+    "entry_id": "entry_4798f13c0cda59e288221526a57def7f",
+    "lang": "de",
+    "release": "2022swsh",
+    "number": "15",
+    "name": "Farbeagle",
+    "source_url": "https://limitlesstcg.com/cards/de//15",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_19f942646a1652d6a1b4231833928501": {
+    "entry_id": "entry_19f942646a1652d6a1b4231833928501",
+    "lang": "de",
+    "release": "ex11",
+    "number": "79",
+    "name": "Fiffyen",
+    "source_url": "https://limitlesstcg.com/cards/de/DS/79",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_b28da62f0df15585ac298d0ac00193b4": {
+    "entry_id": "entry_b28da62f0df15585ac298d0ac00193b4",
+    "lang": "de",
+    "release": "ex13",
+    "number": "80",
+    "name": "Fiffyen",
+    "source_url": "https://limitlesstcg.com/cards/de/HP/80",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_eb26422902ec53a2b59c14b4e241c7ec": {
+    "entry_id": "entry_eb26422902ec53a2b59c14b4e241c7ec",
+    "lang": "de",
+    "release": "ex4",
+    "number": "54",
+    "name": "Team Aquas Fiffyen",
+    "source_url": "https://limitlesstcg.com/cards/de/MA/54",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_34143c8ec09854d786b7128860bbf99b": {
+    "entry_id": "entry_34143c8ec09854d786b7128860bbf99b",
+    "lang": "de",
+    "release": "ex4",
+    "number": "65",
+    "name": "Team Magmas Fiffyen",
+    "source_url": "https://limitlesstcg.com/cards/de/MA/65",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_20341734d7195a57981bd573aa9c7ab8": {
+    "entry_id": "entry_20341734d7195a57981bd573aa9c7ab8",
+    "lang": "de",
+    "release": "ex4",
+    "number": "66",
+    "name": "Team Magmas Fiffyen",
+    "source_url": "https://limitlesstcg.com/cards/de/MA/66",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_e7894c80c62051fa848f8af73f52885c": {
+    "entry_id": "entry_e7894c80c62051fa848f8af73f52885c",
+    "lang": "de",
+    "release": "swsh12.5gg",
+    "number": "GG33",
+    "name": "Fiffyen",
+    "source_url": "https://limitlesstcg.com/cards/de/CRZ/GG33",
+    "candidates": [
+      "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_GG33_R_DE_LG.png"
+    ],
+    "filename": "6cc901de7e74c473c841e525e07cfe6725c31012be2c03722608fa16fb4da977.webp",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_GG33_R_DE_LG.png",
+    "source_image_sha256": "6ddb491f1d9af3002f788187b1f708b9a680147cfb18d2f3186ed03f521a601e",
+    "width": 460,
+    "height": 640,
+    "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+    "reviewed_on": "2026-10-28",
+    "review_state": "verified"
+  },
+  "entry_b2610f4d46f7504baef97d5af72876a1": {
+    "entry_id": "entry_b2610f4d46f7504baef97d5af72876a1",
+    "lang": "de",
+    "release": "dp6",
+    "number": "66",
+    "name": "Magnayen",
+    "source_url": "https://limitlesstcg.com/cards/de/LA/66",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_853019fea53554769a31f91426aa5593": {
+    "entry_id": "entry_853019fea53554769a31f91426aa5593",
+    "lang": "de",
+    "release": "ex11",
+    "number": "24",
+    "name": "Magnayen δ",
+    "source_url": "https://limitlesstcg.com/cards/de/DS/24",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_3dfeede41e355e478682e0374b5feea8": {
+    "entry_id": "entry_3dfeede41e355e478682e0374b5feea8",
+    "lang": "de",
+    "release": "ex4",
+    "number": "15",
+    "name": "Team Aquas Magnayen",
+    "source_url": "https://limitlesstcg.com/cards/de/MA/15",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_0e3c560b740059d5bd91d28f51a6dc68": {
+    "entry_id": "entry_0e3c560b740059d5bd91d28f51a6dc68",
+    "lang": "de",
+    "release": "ex8",
+    "number": "12",
+    "name": "Magnayen",
+    "source_url": "https://limitlesstcg.com/cards/de/DX/12",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_3748d0c51d0c588ba9734984e3638016": {
+    "entry_id": "entry_3748d0c51d0c588ba9734984e3638016",
+    "lang": "de",
+    "release": "tk-ex-latio",
+    "number": "7",
+    "name": "Zigzachs",
+    "source_url": "https://limitlesstcg.com/cards/de//7",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_659d5209931056e59ea6114b5c46b4a6": {
+    "entry_id": "entry_659d5209931056e59ea6114b5c46b4a6",
+    "lang": "de",
+    "release": "ex4",
+    "number": "52",
+    "name": "Team Aquas Frizelbliz",
+    "source_url": "https://limitlesstcg.com/cards/de/MA/52",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_97c1739b9c9750328349e90dc6b808ae": {
+    "entry_id": "entry_97c1739b9c9750328349e90dc6b808ae",
+    "lang": "de",
+    "release": "ex8",
+    "number": "59",
+    "name": "Frizelbliz",
+    "source_url": "https://limitlesstcg.com/cards/de/DX/59",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_964df8aa77eb507e923198589efdc655": {
+    "entry_id": "entry_964df8aa77eb507e923198589efdc655",
+    "lang": "de",
+    "release": "ex9",
+    "number": "47",
+    "name": "Frizelbliz",
+    "source_url": "https://limitlesstcg.com/cards/de/EM/47",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_9cf0592c8f7c5580addc0744800b126f": {
+    "entry_id": "entry_9cf0592c8f7c5580addc0744800b126f",
+    "lang": "de",
+    "release": "ex9",
+    "number": "48",
+    "name": "Frizelbliz",
+    "source_url": "https://limitlesstcg.com/cards/de/EM/48",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_f048d1a065ab5d58b60f608d175f2f62": {
+    "entry_id": "entry_f048d1a065ab5d58b60f608d175f2f62",
+    "lang": "de",
+    "release": "tk-ex-latio",
+    "number": "1",
+    "name": "Frizelbliz",
+    "source_url": "https://limitlesstcg.com/cards/de//1",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_500f887552965e35bbebc3982beb6c21": {
+    "entry_id": "entry_500f887552965e35bbebc3982beb6c21",
+    "lang": "de",
+    "release": "ex9",
+    "number": "16",
+    "name": "Voltenso",
+    "source_url": "https://limitlesstcg.com/cards/de/EM/16",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_37c96b23ce5157939d1914ac5fd1948f": {
+    "entry_id": "entry_37c96b23ce5157939d1914ac5fd1948f",
+    "lang": "de",
+    "release": "pl1",
+    "number": "11",
+    "name": "Voltenso",
+    "source_url": "https://limitlesstcg.com/cards/de/PL/11",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_3cb9429418f855758d5ded5298e2fca4": {
+    "entry_id": "entry_3cb9429418f855758d5ded5298e2fca4",
+    "lang": "de",
+    "release": "pl4",
+    "number": "44",
+    "name": "Voltenso",
+    "source_url": "https://limitlesstcg.com/cards/de/AR/44",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_c59e25968321585c8c9a7c4a58d642df": {
+    "entry_id": "entry_c59e25968321585c8c9a7c4a58d642df",
+    "lang": "de",
+    "release": "pl1",
+    "number": "91",
+    "name": "Riolu",
+    "source_url": "https://limitlesstcg.com/cards/de/PL/91",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_c6a285b633935256bb47855b29752e51": {
+    "entry_id": "entry_c6a285b633935256bb47855b29752e51",
+    "lang": "de",
+    "release": "pop6",
+    "number": "8",
+    "name": "Riolu",
+    "source_url": "https://limitlesstcg.com/cards/de//8",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_0ee9771e252950dca861bcaaa31fe450": {
+    "entry_id": "entry_0ee9771e252950dca861bcaaa31fe450",
+    "lang": "de",
+    "release": "swsh12.5gg",
+    "number": "GG26",
+    "name": "Riolu",
+    "source_url": "https://limitlesstcg.com/cards/de/CRZ/GG26",
+    "candidates": [
+      "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_GG26_R_DE_LG.png"
+    ],
+    "filename": "f74700ce34bbef492d1a5f82d664ae9ec468e151d9da0293cc5a3e3866a70d8a.webp",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_GG26_R_DE_LG.png",
+    "source_image_sha256": "9b4c8acd6cf0a53a99e6218d4f2a7ef873208894841ef4d1e0ce38228ceda778",
+    "width": 460,
+    "height": 640,
+    "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+    "reviewed_on": "2026-10-28",
+    "review_state": "verified"
+  },
+  "entry_e634c6a4c1ba502989d7ee451b821b5e": {
+    "entry_id": "entry_e634c6a4c1ba502989d7ee451b821b5e",
+    "lang": "de",
+    "release": "dp2",
+    "number": "122",
+    "name": "Lucario",
+    "source_url": "https://limitlesstcg.com/cards/de/MT/122",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_b84820fe73fe5308ad28e783bf8a9cec": {
+    "entry_id": "entry_b84820fe73fe5308ad28e783bf8a9cec",
+    "lang": "de",
+    "release": "dp6",
+    "number": "61",
+    "name": "Lucario",
+    "source_url": "https://limitlesstcg.com/cards/de/LA/61",
+    "held": "No exact native scan in selected language"
+  },
+  "entry_b94688631cce5e18a48a4a437978a162": {
+    "entry_id": "entry_b94688631cce5e18a48a4a437978a162",
+    "lang": "de",
+    "release": "mep",
+    "number": "012",
+    "name": "Mega-Lucario-ex",
+    "source_url": "https://limitlesstcg.com/cards/de/MEP/12",
+    "candidates": [
+      "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_012_R_DE_LG.png"
+    ],
+    "filename": "cb417e492a73eecc1f4185a0a592fa3c6f7676269366df7d99f39d4c51b7513b.webp",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_012_R_DE_LG.png",
+    "source_image_sha256": "a4eb454252f818255360462479b3320e71203497b3c51b29563b970e6c75ca03",
+    "width": 460,
+    "height": 640,
+    "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+    "reviewed_on": "2026-10-28",
+    "review_state": "verified"
+  },
+  "entry_59229963e86f5723ab151da4a2b0d91a": {
+    "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+    "lang": "de",
+    "release": "smp",
+    "number": "SM83",
+    "name": "Zorua",
+    "source_url": "https://limitlesstcg.com/cards/de/SMP/83",
+    "filename": "43fd90791eaa9fab0e1a5e8c81f4bf274f0f1a50c8c17a7bf67140ce2d5fc5dc.webp",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_083_R_DE_LG.png",
+    "source_sha256": "a14768f6b8124f4e2e49ccaa1bcef27895fad918c1d9d303456dc7d3d0431de4",
+    "image_sha256": "386f202b92a3efc74b675ceccc1998b332178bd710fa91f8b596f2cf46de04a9",
+    "width": 460,
+    "height": 640,
+    "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+    "reviewed_on": "2026-10-28",
+    "review_state": "verified"
+  },
+  "entry_efadb93c5c84578d909f00d2afe1b792": {
+    "entry_id": "entry_efadb93c5c84578d909f00d2afe1b792",
+    "lang": "de",
+    "release": "2021swsh",
+    "number": "14",
+    "name": "Fynx",
+    "source_url": "https://limitlesstcg.com/cards/de//14",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_a9e4f80463f554a0b106ba92f544692d": {
+    "entry_id": "entry_a9e4f80463f554a0b106ba92f544692d",
+    "lang": "de",
+    "release": "swsh12tg",
+    "number": "TG01",
+    "name": "Rutena",
+    "source_url": "https://limitlesstcg.com/cards/de/SIT/TG1",
+    "candidates": [
+      "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG1_R_DE_LG.png"
+    ],
+    "filename": "10f46412231062d466d30b1c137efa75dcc3a0aec85e6a92dcdc983758fadbdd.webp",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG1_R_DE_LG.png",
+    "source_image_sha256": "39405f0eead3cc0f9488bd2edf7dbfa5c535de25cf2f186797755bdbded1f97b",
+    "width": 460,
+    "height": 640,
+    "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+    "reviewed_on": "2026-10-28",
+    "review_state": "verified"
+  },
+  "entry_92615b2058355129af2e477950788f30": {
+    "entry_id": "entry_92615b2058355129af2e477950788f30",
+    "lang": "de",
+    "release": "swsh4.5sv",
+    "number": "SV081",
+    "name": "Kleptifux",
+    "source_url": "https://limitlesstcg.com/cards/de/SHF/SV81",
+    "candidates": [
+      "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV81_R_DE_LG.png"
+    ],
+    "filename": "0b33d81d349d60a93c395babc0b2a50cedb887bacb30d1b5b6ae23d257acbcc5.webp",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV81_R_DE_LG.png",
+    "source_image_sha256": "7b714ada4bd5889aab348df448b815a325611d1865a07dea551ccca71ad841d4",
+    "width": 460,
+    "height": 640,
+    "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+    "reviewed_on": "2026-10-28",
+    "review_state": "verified"
+  },
+  "entry_e27713fdcd665ae28ad189d5b484c7b8": {
+    "entry_id": "entry_e27713fdcd665ae28ad189d5b484c7b8",
+    "lang": "de",
+    "release": "30th-c",
+    "number": "028",
+    "name": "Zacian-V",
+    "source_url": "https://limitlesstcg.com/cards/de/30C/028",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_bec46d8b6d9a55c2904ce1caa0c6d7f2": {
+    "entry_id": "entry_bec46d8b6d9a55c2904ce1caa0c6d7f2",
+    "lang": "de",
+    "release": "swsh12.5gg",
+    "number": "GG54",
+    "name": "Zamazenta V",
+    "source_url": "https://limitlesstcg.com/cards/de/CRZ/GG54",
+    "candidates": [
+      "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_GG54_R_DE_LG.png"
+    ],
+    "filename": "61def8aa25161f577c780b830bea3c99bdabcbb51f8f81567898d9691f6228e4.webp",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_GG54_R_DE_LG.png",
+    "source_image_sha256": "285fb247e25c42662ad3060d7e72e9200a18566359c062c4118ee92ba624234f",
+    "width": 460,
+    "height": 640,
+    "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+    "reviewed_on": "2026-10-28",
+    "review_state": "verified"
+  },
+  "entry_b864b147ce5d56f3adbe3f13d200f9f3": {
+    "entry_id": "entry_b864b147ce5d56f3adbe3f13d200f9f3",
+    "lang": "en",
+    "release": "tk-ex-m",
+    "number": "7",
+    "name": "Vulpix",
+    "source_url": "https://limitlesstcg.com/cards/en/TK2M/7",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_d3b1c6266b095fa4b5935ae10c28a124": {
+    "entry_id": "entry_d3b1c6266b095fa4b5935ae10c28a124",
+    "lang": "en",
+    "release": "mfb",
+    "number": "Unnumbered",
+    "name": "Ninetales",
+    "source_url": "https://limitlesstcg.com/cards/en/MFB/Unnumbered",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_207494cf4b975d45b27db40df7c6805e": {
+    "entry_id": "entry_207494cf4b975d45b27db40df7c6805e",
+    "lang": "en",
+    "release": "2018sm",
+    "number": "1",
+    "name": "Growlithe",
+    "source_url": "https://limitlesstcg.com/cards/en/MCD18/1",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_695d4e077d4d5c10aff68c3048e14275": {
+    "entry_id": "entry_695d4e077d4d5c10aff68c3048e14275",
+    "lang": "en",
+    "release": "mfb",
+    "number": "Unnumbered",
+    "name": "Growlithe",
+    "source_url": "https://limitlesstcg.com/cards/en/MFB/Unnumbered",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_ba6f6f5f3ed05d7ba7926a1c5418ee35": {
+    "entry_id": "entry_ba6f6f5f3ed05d7ba7926a1c5418ee35",
+    "lang": "en",
+    "release": "mfb",
+    "number": "Unnumbered",
+    "name": "Arcanine",
+    "source_url": "https://limitlesstcg.com/cards/en/MFB/Unnumbered",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_0d0687d68c1c54ceadcccd88e4fc184b": {
+    "entry_id": "entry_0d0687d68c1c54ceadcccd88e4fc184b",
+    "lang": "en",
+    "release": "2014xy",
+    "number": "8",
+    "name": "Snubbull",
+    "source_url": "https://limitlesstcg.com/cards/en/MCD14/8",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_995e7b0198ac59b09c13f63968aae7fb": {
+    "entry_id": "entry_995e7b0198ac59b09c13f63968aae7fb",
+    "lang": "en",
+    "release": "2015xy",
+    "number": "11",
+    "name": "Zigzagoon",
+    "source_url": "https://limitlesstcg.com/cards/en/MCD15/11",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_d698e7b760a050adb1e8ec549a47abde": {
+    "entry_id": "entry_d698e7b760a050adb1e8ec549a47abde",
+    "lang": "en",
+    "release": "2015xy",
+    "number": "7",
+    "name": "Electrike",
+    "source_url": "https://limitlesstcg.com/cards/en/MCD15/7",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_6e8f40db5a2d576bbc2c3825dc80ca57": {
+    "entry_id": "entry_6e8f40db5a2d576bbc2c3825dc80ca57",
+    "lang": "en",
+    "release": "2014xy",
+    "number": "3",
+    "name": "Fennekin",
+    "source_url": "https://limitlesstcg.com/cards/en/MCD14/3",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_3d07ed070f355151b218be01858ce2b1": {
+    "entry_id": "entry_3d07ed070f355151b218be01858ce2b1",
+    "lang": "en",
+    "release": "2014xy",
+    "number": "12",
+    "name": "Furfrou",
+    "source_url": "https://limitlesstcg.com/cards/en/MCD14/12",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "entry_7505c0d299d857cca8a88eaa81a74542": {
+    "entry_id": "entry_7505c0d299d857cca8a88eaa81a74542",
+    "lang": "en",
+    "release": "30th-c",
+    "number": "028",
+    "name": "Zacian V",
+    "source_url": "https://limitlesstcg.com/cards/en/30C/028",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_9f8b99fe87e8511cac1b09cdff36e84e": {
+    "entry_id": "research_entry_9f8b99fe87e8511cac1b09cdff36e84e",
+    "lang": "de",
+    "release": "tk-bw-e",
+    "number": "1",
+    "name": "Yorkleff",
+    "source_url": "https://limitlesstcg.com/cards/de/TK5E/1",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_393122199aea57a2ac5bff1295bfe6af": {
+    "entry_id": "research_entry_393122199aea57a2ac5bff1295bfe6af",
+    "lang": "de",
+    "release": "tk-bw-e",
+    "number": "27",
+    "name": "Yorkleff",
+    "source_url": "https://limitlesstcg.com/cards/de/TK5E/27",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_218477a9ce5a5bd7910e14fbe0ff2218": {
+    "entry_id": "research_entry_218477a9ce5a5bd7910e14fbe0ff2218",
+    "lang": "de",
+    "release": "tk-bw-e",
+    "number": "19",
+    "name": "Terribark",
+    "source_url": "https://limitlesstcg.com/cards/de/TK5E/19",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_62c5d523f7e551e0a55384c7e0d59e02": {
+    "entry_id": "research_entry_62c5d523f7e551e0a55384c7e0d59e02",
+    "lang": "de",
+    "release": "tk-bw-z",
+    "number": "13",
+    "name": "Zorua",
+    "source_url": "https://limitlesstcg.com/cards/de/TK5Z/13",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_bea52b09fde058159fa06fbc09a2a627": {
+    "entry_id": "research_entry_bea52b09fde058159fa06fbc09a2a627",
+    "lang": "de",
+    "release": "tk-bw-z",
+    "number": "23",
+    "name": "Zorua",
+    "source_url": "https://limitlesstcg.com/cards/de/TK5Z/23",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_adeefcde42ca584dbef38674b61b0ba1": {
+    "entry_id": "research_entry_adeefcde42ca584dbef38674b61b0ba1",
+    "lang": "de",
+    "release": "tk-bw-z",
+    "number": "17",
+    "name": "Zoroark",
+    "source_url": "https://limitlesstcg.com/cards/de/TK5Z/17",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_ddff4bdc2d585e7eab3c2995a15d8aea": {
+    "entry_id": "research_entry_ddff4bdc2d585e7eab3c2995a15d8aea",
+    "lang": "de",
+    "release": "tk-xy-sy",
+    "number": "11",
+    "name": "Snubbull",
+    "source_url": "https://limitlesstcg.com/cards/de/TK6S/11",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_f8811c948baa53b5a4794deda1ffa63b": {
+    "entry_id": "research_entry_f8811c948baa53b5a4794deda1ffa63b",
+    "lang": "de",
+    "release": "tk-xy-sy",
+    "number": "27",
+    "name": "Snubbull",
+    "source_url": "https://limitlesstcg.com/cards/de/TK6S/27",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_673131bc84065735886fc1eb57e749bc": {
+    "entry_id": "research_entry_673131bc84065735886fc1eb57e749bc",
+    "lang": "de",
+    "release": "tk-xy-sy",
+    "number": "14",
+    "name": "Granbull",
+    "source_url": "https://limitlesstcg.com/cards/de/TK6S/14",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_9fc3e7aab37f58c588f1be26bf66c521": {
+    "entry_id": "research_entry_9fc3e7aab37f58c588f1be26bf66c521",
+    "lang": "de",
+    "release": "tk-xy-sy",
+    "number": "29",
+    "name": "Granbull",
+    "source_url": "https://limitlesstcg.com/cards/de/TK6S/29",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_1880a9ce92e05b76b1b89397c83b71ab": {
+    "entry_id": "research_entry_1880a9ce92e05b76b1b89397c83b71ab",
+    "lang": "de",
+    "release": "tk-xy-sy",
+    "number": "16",
+    "name": "Coiffwaff",
+    "source_url": "https://limitlesstcg.com/cards/de/TK6S/16",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_beb21128479d530298b721397b5d1018": {
+    "entry_id": "research_entry_beb21128479d530298b721397b5d1018",
+    "lang": "de",
+    "release": "tk-xy-sy",
+    "number": "22",
+    "name": "Coiffwaff",
+    "source_url": "https://limitlesstcg.com/cards/de/TK6S/22",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_21320733a3d554178594822bfae95978": {
+    "entry_id": "research_entry_21320733a3d554178594822bfae95978",
+    "lang": "de",
+    "release": "tk-xy-n",
+    "number": "20",
+    "name": "Coiffwaff",
+    "source_url": "https://limitlesstcg.com/cards/de/TK6N/20",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_62e9a3c7d1e151099146d036fdb0a89d": {
+    "entry_id": "research_entry_62e9a3c7d1e151099146d036fdb0a89d",
+    "lang": "de",
+    "release": "tk-xy-p",
+    "number": "11",
+    "name": "Frizelbliz",
+    "source_url": "https://limitlesstcg.com/cards/de/TK9P/11",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_d1e14c7031cb5b1eb0e22e45fbf6db4b": {
+    "entry_id": "research_entry_d1e14c7031cb5b1eb0e22e45fbf6db4b",
+    "lang": "de",
+    "release": "tk-xy-p",
+    "number": "28",
+    "name": "Frizelbliz",
+    "source_url": "https://limitlesstcg.com/cards/de/TK9P/28",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_84fc0b6341105642bbbc6b0cf0148965": {
+    "entry_id": "research_entry_84fc0b6341105642bbbc6b0cf0148965",
+    "lang": "de",
+    "release": "tk-xy-p",
+    "number": "13",
+    "name": "Voltenso",
+    "source_url": "https://limitlesstcg.com/cards/de/TK9P/13",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_a832e72c6db65d008ee32cc614bfa8f7": {
+    "entry_id": "research_entry_a832e72c6db65d008ee32cc614bfa8f7",
+    "lang": "de",
+    "release": "tk-xy-p",
+    "number": "22",
+    "name": "Voltenso",
+    "source_url": "https://limitlesstcg.com/cards/de/TK9P/22",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_03c9c67061875fe483a1eef01e3f8815": {
+    "entry_id": "research_entry_03c9c67061875fe483a1eef01e3f8815",
+    "lang": "de",
+    "release": "tk-sm-l",
+    "number": "14",
+    "name": "Wuffels",
+    "source_url": "https://limitlesstcg.com/cards/de/TK10L/14",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_4d1aa90ebd1a5a2588d311d446e9735a": {
+    "entry_id": "research_entry_4d1aa90ebd1a5a2588d311d446e9735a",
+    "lang": "de",
+    "release": "tk-sm-l",
+    "number": "29",
+    "name": "Wuffels",
+    "source_url": "https://limitlesstcg.com/cards/de/TK10L/29",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_acbc403a51c856e6b8e9153762ed39cf": {
+    "entry_id": "research_entry_acbc403a51c856e6b8e9153762ed39cf",
+    "lang": "de",
+    "release": "tk-sm-l",
+    "number": "16",
+    "name": "Wolwerock",
+    "source_url": "https://limitlesstcg.com/cards/de/TK10L/16",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_0b7708d67ed058349e194a1466a3903e": {
+    "entry_id": "research_entry_0b7708d67ed058349e194a1466a3903e",
+    "lang": "de",
+    "release": "mfb",
+    "number": "Unnumbered",
+    "name": "Vulpix",
+    "source_url": "https://limitlesstcg.com/cards/de//Unnumbered",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_b938e9a100ed514ca67d86b1823ba2f1": {
+    "entry_id": "research_entry_b938e9a100ed514ca67d86b1823ba2f1",
+    "lang": "de",
+    "release": "mfb",
+    "number": "Unnumbered",
+    "name": "Fukano",
+    "source_url": "https://limitlesstcg.com/cards/de//Unnumbered",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_954bfeff624455149999c43991a2acd2": {
+    "entry_id": "research_entry_954bfeff624455149999c43991a2acd2",
+    "lang": "de",
+    "release": "mfb",
+    "number": "Unnumbered",
+    "name": "Arkani",
+    "source_url": "https://limitlesstcg.com/cards/de//Unnumbered",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_55324bd7c6405fb5b4c56f9f460b7c6c": {
+    "entry_id": "research_entry_55324bd7c6405fb5b4c56f9f460b7c6c",
+    "lang": "en",
+    "release": "tk-ex-p",
+    "number": "2",
+    "name": "Electrike",
+    "source_url": "https://limitlesstcg.com/cards/en/TK-EX-P/2",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "research_entry_663e83244a065f8ca33c5232a608db6d": {
+    "entry_id": "research_entry_663e83244a065f8ca33c5232a608db6d",
+    "lang": "en",
+    "release": "tk-dp-l",
+    "number": "6",
+    "name": "Riolu",
+    "source_url": "https://limitlesstcg.com/cards/en/TK3L/6",
+    "held": "Native reference unavailable",
+    "error": "HTTP Error 404: Not Found"
+  }
+}

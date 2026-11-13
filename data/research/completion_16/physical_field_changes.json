@@ -1,0 +1,4346 @@
+{
+  "rows": [
+    {
+      "entry_id": "entry_86736a210a9a5f8baa474548473ac40b",
+      "printing_id": "variant_67b68f67a25859de889ecb3d9e5c20f9",
+      "lang": "de",
+      "fields": {
+        "collection_status": {
+          "before": null,
+          "after": "disputed"
+        }
+      },
+      "source_urls": []
+    },
+    {
+      "entry_id": "entry_a1944421c77353bebfc30d8399ed8f0f",
+      "printing_id": "variant_f5167b8be1545ab7afe1345e2a4d6cc3",
+      "lang": "de",
+      "fields": {
+        "collection_status": {
+          "before": null,
+          "after": "disputed"
+        }
+      },
+      "source_urls": []
+    },
+    {
+      "entry_id": "entry_8d52f26cbed65134bcf568c1c202ed0e",
+      "printing_id": "variant_ecfce9bce181528494a20fe8d907a146",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/vulpix-1-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2016",
+              "date_precision": "year",
+              "year": 2016,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/vulpix-1-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/vulpix-1-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_6a2c7722b6a1558d8b4ca2a93c83c86c",
+      "printing_id": "research_printing_82352f76af4f51fe85a00aae3be9d49c",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_ea879b7ca9895884af194d99bf7079c8",
+              "name": "Ultra Prism Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/alolan-vulpix-21a-145-ultra-prism-blisters-special-print/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/alolan-vulpix-21a-145-ultra-prism-blisters-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/alolan-vulpix-21a-145-ultra-prism-blisters-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_39f9872ac9005f02bfaef247b8d9d08f",
+      "printing_id": "research_printing_7318310497b259f4bf945d5a775b1c45",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_bfa55bf9b609594d855e66941f5a488f",
+              "name": "Plasma Storm Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/ninetales-bw66-english-promo/"
+              ],
+              "release_date": "2013",
+              "date_precision": "year",
+              "year": 2013,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/ninetales-bw66-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/ninetales-bw66-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_207494cf4b975d45b27db40df7c6805e",
+      "printing_id": "variant_fbee086cc1f358da91467d0b96df2599",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/growlithe-1-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/growlithe-1-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/growlithe-1-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_eccec929af2f5faa90c299ddfac935af",
+      "printing_id": "variant_3242bd6db8ea5651a6972d6c8f7d7c7e",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/growlithe-4-15-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/growlithe-4-15-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/growlithe-4-15-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_7dd5b2e264555ebb9f16f74a75521546",
+      "printing_id": "research_printing_1b723c76bbca56e3b41665910c1f323b",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_05d747ae9b2059d2aadf7c8147c1048e",
+              "name": "Paldea Evolved Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/growlithe-svp024-english-promo/"
+              ],
+              "release_date": "2023",
+              "date_precision": "year",
+              "year": 2023,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/growlithe-svp024-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/growlithe-svp024-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_3e93f8e4d6a95390895f397edf18e0e0",
+      "printing_id": "variant_bca6c7f5cc0d5aa1aee0b273060ecee0",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2010"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_94c7d4b67ebf5e94b84929dd254fbb7b",
+              "name": "Ember Spark Theme Deck",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/non-holo-arcanine-1-123-ember-spark-theme-deck-special-print/"
+              ],
+              "release_date": "2010",
+              "date_precision": "year",
+              "year": 2010,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/non-holo-arcanine-1-123-ember-spark-theme-deck-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/non-holo-arcanine-1-123-ember-spark-theme-deck-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_58df5f1c144b5dd3878f46c907b64baf",
+      "printing_id": "variant_e1ac592e3b7f54da8df76d0e447a1c9c",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2019"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_762b7e25de045b479716b0a695eee093",
+              "name": "Cosmic Eclipse Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holofoil-arcanine-22-214-cosmic-eclipse-blisters-special-print/"
+              ],
+              "release_date": "2019",
+              "date_precision": "year",
+              "year": 2019,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holofoil-arcanine-22-214-cosmic-eclipse-blisters-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holofoil-arcanine-22-214-cosmic-eclipse-blisters-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_b2eea243424c5399bc1e68faeac123b7",
+      "printing_id": "research_printing_00fb990b9ddf5e7fa05baf88612c4fd1",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2023"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_1ac71119e3b65744aa9173e7c6369ae6",
+              "name": "Scarlet & Violet Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/arcanine-svp011-english-promo/"
+              ],
+              "release_date": "2023",
+              "date_precision": "year",
+              "year": 2023,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/arcanine-svp011-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/arcanine-svp011-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_6e8a05dd54b75b8ea1dfc434f73fd481",
+      "printing_id": "research_printing_105be23b5fdb5998a49c65fc01b5da22",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_3e5caf04c04f5eebbbdd21f07bb648f2",
+              "name": "Pokémon Trading Card Game Illustration Contest",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/arcanine-swsh304-english-promo/"
+              ]
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/arcanine-swsh304-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_52c6bc1c3adb5293a938015bceda429e",
+      "printing_id": "research_printing_cd62413153d15b48af71a3f250dade5c",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "spinning_squares"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_d550a27e29db558db0a634c53c48af0c",
+              "name": "Arcanine BREAK Evolution Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/arcanine-break-xy180-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/arcanine-break-xy180-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/arcanine-break-xy180-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_0d0687d68c1c54ceadcccd88e4fc184b",
+      "printing_id": "research_printing_54ad427b69c751398a74581f0810afe7",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/snubbull-8-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2014",
+              "date_precision": "year",
+              "year": 2014,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/snubbull-8-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/snubbull-8-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_6e3594f662d15d1baf9e8bd9aa73b6cb",
+      "printing_id": "variant_b29b92eb9fbc5905a1e90d2b06a9453b",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_caae03be6e935af8a78d768aba4ba1a6",
+              "name": "Houndoom ex Battle Deck",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/houndoom-svp103-english-promo/"
+              ],
+              "release_date": "2024",
+              "date_precision": "year",
+              "year": 2024,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/houndoom-svp103-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/houndoom-svp103-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_c141e83172a155cea3469a0194898d1d",
+      "printing_id": "research_printing_a068a5bc4119556093f93a4e1911798e",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "line"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_5a3b0787bd695233976b1652a130db55",
+              "name": "Battle Styles Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/houndoom-swsh090-english-promo/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/houndoom-swsh090-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/houndoom-swsh090-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_b33de58aa27350f196b83cf9f64b2467",
+      "printing_id": "variant_ba89c45d3c9d52a288a5014b9807f909",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/smeargle-15-15-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/smeargle-15-15-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/smeargle-15-15-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_995e7b0198ac59b09c13f63968aae7fb",
+      "printing_id": "variant_67f90025573557d4b4080c0f1dfdaa21",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zigzagoon-11-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2015",
+              "date_precision": "year",
+              "year": 2015,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zigzagoon-11-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zigzagoon-11-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_d698e7b760a050adb1e8ec549a47abde",
+      "printing_id": "variant_0b9e71c46d0756079d07e60093e71f20",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/electrike-7-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2015",
+              "date_precision": "year",
+              "year": 2015,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/electrike-7-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/electrike-7-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_acdf74a3b20b5aa2a760f98603b83e43",
+      "printing_id": "variant_a1669c9bb8d256d79a18a7aed5ef6182",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2006"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_1eddfcdfd8ea53068d869ff85774b5c5",
+              "name": "Wildfire Theme Deck",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/non-holo-manectric-7-106-wildfire-theme-deck-special-print/"
+              ],
+              "release_date": "2006",
+              "date_precision": "year",
+              "year": 2006,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/non-holo-manectric-7-106-wildfire-theme-deck-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/non-holo-manectric-7-106-wildfire-theme-deck-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_1aabe1b6f56658c8b217e7a32ce853d1",
+      "printing_id": "variant_dc75512f67d15216b6b9503d4a22b87f",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_8fac8e24a8e75eeab411659ee73220c6",
+              "name": "Celestial Storm Build & Battle Box",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM130",
+                "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+              ],
+              "notes": "Exact EN promo identity SM130 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM130 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-07-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_8fac8e24a8e75eeab411659ee73220c6",
+              "name": "Celestial Storm Build & Battle Box",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM130",
+                "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+              ],
+              "notes": "Exact EN promo identity SM130 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM130 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-07-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)"
+            },
+            {
+              "id": "research_product_ac8a729f74495bb4a89d3bef56732619",
+              "name": "Celestial Storm Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/manectric-sm130-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/manectric-sm130-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM130",
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "https://pokumon.com/card/manectric-sm130-english-promo/",
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+      ]
+    },
+    {
+      "entry_id": "entry_1aabe1b6f56658c8b217e7a32ce853d1",
+      "printing_id": "research_printing_92fcde52f7a75b2a8705eeb301f7f607",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_ef6109b6dfa8585795051d8cdef61331",
+              "name": "Celestial Storm Build & Battle Box — STAFF",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+                "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+              ],
+              "notes": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card.",
+              "release_date": "2018-07-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_ef6109b6dfa8585795051d8cdef61331",
+              "name": "Celestial Storm Build & Battle Box — STAFF",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+                "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+              ],
+              "notes": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card.",
+              "release_date": "2018-07-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)"
+            },
+            {
+              "id": "research_product_ac8a729f74495bb4a89d3bef56732619",
+              "name": "Celestial Storm Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/staff-manectric-sm130-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/staff-manectric-sm130-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Manectric_(SM_Promo_130)",
+        "https://pokumon.com/card/staff-manectric-sm130-english-promo/",
+        "https://www.bisafans.de/sammelkarten/sets/sm/sturm-am-firmament/pressemeldungen.php"
+      ]
+    },
+    {
+      "entry_id": "entry_15e0f7557d9c53bd8c0911969d0c370c",
+      "printing_id": "research_printing_ec4a32adb37f5af0bcf11772ad492b17",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_62cde955915352d081003d7202993d0e",
+              "name": "Mega Powers Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/mega-manectric-ex-24a-119-mega-powers-collection-special-print/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/mega-manectric-ex-24a-119-mega-powers-collection-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/mega-manectric-ex-24a-119-mega-powers-collection-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_a72fdea86689594ea963efd0e762d3c7",
+      "printing_id": "research_printing_c3c4394bbe5650fdb72537e1e358d9c0",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_e5a1737903f65ed3b1523b4621eb44b4",
+              "name": "Next Destinies Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/riolu-bw33-english-promo/"
+              ],
+              "release_date": "2012",
+              "date_precision": "year",
+              "year": 2012,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/riolu-bw33-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/riolu-bw33-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a72fdea86689594ea963efd0e762d3c7",
+      "printing_id": "research_printing_a05effe91822547c9b4e713ebea69076",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_4013a7af27805ed58a31388d284e8ee9",
+              "name": "Dark Explorers Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/non-holo-riolu-bw33-english-promo/"
+              ],
+              "release_date": "2012",
+              "date_precision": "year",
+              "year": 2012,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/non-holo-riolu-bw33-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/non-holo-riolu-bw33-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_021be3e1012b5417bc3ed93131e91998",
+      "printing_id": "variant_217f720ad747517192e6f6352693c7be",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2025"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_69709e2022af52c3b3df54d695e6f5dc",
+              "name": "Mega Evolution Elite Trainer Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/riolu-mep010-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/riolu-mep010-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/riolu-mep010-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_021be3e1012b5417bc3ed93131e91998",
+      "printing_id": "research_printing_8ea6359bb718599d89a12ec8f6f51890",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_f03d398b064a55be836275fb8d2650ec",
+              "name": "Mega Evolution Pokémon Center Elite Trainer Box — Mega Lucario",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Riolu_(MEP_Promo_10)"
+              ],
+              "notes": "English Riolu MEP010 also has a Pokémon Center logo above the Retreat Cost in the exclusive English ETB. The German standard product does not imply this stamped variant.",
+              "release_date": "2025-09-26",
+              "date_precision": "day",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Riolu_(MEP_Promo_10)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_f03d398b064a55be836275fb8d2650ec",
+              "name": "Mega Evolution Pokémon Center Elite Trainer Box — Mega Lucario",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Riolu_(MEP_Promo_10)"
+              ],
+              "notes": "English Riolu MEP010 also has a Pokémon Center logo above the Retreat Cost in the exclusive English ETB. The German standard product does not imply this stamped variant.",
+              "release_date": "2025-09-26",
+              "date_precision": "day",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Riolu_(MEP_Promo_10)"
+            },
+            {
+              "id": "research_product_69709e2022af52c3b3df54d695e6f5dc",
+              "name": "Mega Evolution Elite Trainer Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/pokemon-center-stamp-riolu-mep010-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/pokemon-center-stamp-riolu-mep010-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Riolu_(MEP_Promo_10)",
+        "https://pokumon.com/card/pokemon-center-stamp-riolu-mep010-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_b17c5fe77acb563b8a3a301e250b53fc",
+      "printing_id": "variant_f4cd26b55fb75c79b03fff6da7138325",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2007"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_2ef1980fc5635c84aa51d4b602f0d987",
+              "name": "Pokémon Organized Play events",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/riolu-8-17-pokemon-organized-play-events-pop-series-6/"
+              ],
+              "release_date": "2007",
+              "date_precision": "year",
+              "year": 2007,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/riolu-8-17-pokemon-organized-play-events-pop-series-6/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/riolu-8-17-pokemon-organized-play-events-pop-series-6/"
+      ]
+    },
+    {
+      "entry_id": "entry_b17c5fe77acb563b8a3a301e250b53fc",
+      "printing_id": "variant_90ea2b7af7cf5002a0862c440898958e",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2008"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_df1e57295f7353e3ac8af5bd29cd9137",
+              "name": "Great Encounters Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/holofoil-riolu-8-17-great-encounters-blisters-pop-series-6/"
+              ],
+              "release_date": "2008",
+              "date_precision": "year",
+              "year": 2008,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/holofoil-riolu-8-17-great-encounters-blisters-pop-series-6/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/holofoil-riolu-8-17-great-encounters-blisters-pop-series-6/"
+      ]
+    },
+    {
+      "entry_id": "entry_b177127ed42357a795700216dbf45af3",
+      "printing_id": "variant_e77bd03023b759fe8ce65b7b171cf9b5",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2008"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_2ef1980fc5635c84aa51d4b602f0d987",
+              "name": "Pokémon Organized Play events",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/riolu-16-17-pokemon-organized-play-events-pop-series-8/"
+              ],
+              "release_date": "2008",
+              "date_precision": "year",
+              "year": 2008,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/riolu-16-17-pokemon-organized-play-events-pop-series-8/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/riolu-16-17-pokemon-organized-play-events-pop-series-8/"
+      ]
+    },
+    {
+      "entry_id": "entry_0a5d1e3c416a5c73acbcfef4087059b5",
+      "printing_id": "variant_95e365d891e15e07a7da8017a464f2e0",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2014"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_6cda9026e15c5e0395b5b7294b528f40",
+              "name": "Mega Lucario Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-lucario-80-113-mega-lucario-collection-special-print/"
+              ],
+              "release_date": "2014",
+              "date_precision": "year",
+              "year": 2014,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-lucario-80-113-mega-lucario-collection-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-lucario-80-113-mega-lucario-collection-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_f1b263700f0a5e7cbf5be4acde3aa5fd",
+      "printing_id": "variant_96f03ca2ad225cc097885b383fc766df",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2012"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_4013a7af27805ed58a31388d284e8ee9",
+              "name": "Dark Explorers Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-lucario-64-99-dark-explorers-blisters-special-print/"
+              ],
+              "release_date": "2012",
+              "date_precision": "year",
+              "year": 2012,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-lucario-64-99-dark-explorers-blisters-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-lucario-64-99-dark-explorers-blisters-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_03e0c876bf2055dd9101dc6d9faded15",
+      "printing_id": "research_printing_9480a87462f156b28a241e23bad7e518",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_b56c6c5f59265a67918a850205e99549",
+              "name": "Plasma Blast Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-bw85-english-promo/"
+              ],
+              "release_date": "2013",
+              "date_precision": "year",
+              "year": 2013,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-bw85-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-bw85-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a52c23e2e4275df284ec2e617c2afefa",
+      "printing_id": "variant_7106638f98715eaabea25cc0b3873cb2",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cracked_ice"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2011"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_cc93e2300c6b5f20861b0fced4ddfecb",
+              "name": "Retort Theme Deck",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cracked-ice-lucario-14-95-retort-theme-deck-special-print/"
+              ],
+              "release_date": "2011",
+              "date_precision": "year",
+              "year": 2011,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cracked-ice-lucario-14-95-retort-theme-deck-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cracked-ice-lucario-14-95-retort-theme-deck-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_a083ccd290f155a7ad892c5cb5332b84",
+      "printing_id": "variant_e948b2a87e4c56d3bd1fdb5d792caef2",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_f869598203a35acd933e9f5b6ef7c024",
+              "name": "Lucario Collector's Tin",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-lv-x-dp12-english-promo/"
+              ],
+              "release_date": "2008",
+              "date_precision": "year",
+              "year": 2008,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-lv-x-dp12-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-lv-x-dp12-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_eb113aa9d0605e478028fb843bc57967",
+      "printing_id": "research_printing_d1c67bc3103e5b3ab19e6d8859e790a2",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_caf636ce55cf52358836560ce6901548",
+              "name": "Mega Lucario ex Figure Collection",
+              "state": "verified_product"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_caf636ce55cf52358836560ce6901548",
+              "name": "Mega Lucario ex Figure Collection",
+              "state": "verified_product"
+            },
+            {
+              "id": "research_product_8ea69e82319a502dbfad37b15ef58dd0",
+              "name": "Mega Lucario ex Figure Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/jumbo-mega-lucario-ex-mep012-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/jumbo-mega-lucario-ex-mep012-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/jumbo-mega-lucario-ex-mep012-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_887d510655565be19582c92c291fb083",
+      "printing_id": "variant_4eb24685fe045e5e9d80da7e6b2c825e",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_acad045e2f2a53b5a406d401c6670fef",
+              "name": "Ascended Heroes Premium Poster Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/mega-lucario-ex-mep033-english-promo/"
+              ],
+              "release_date": "2026",
+              "date_precision": "year",
+              "year": 2026,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/mega-lucario-ex-mep033-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/mega-lucario-ex-mep033-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_813c8b12dfa256449f4482fd967694ec",
+      "printing_id": "variant_b1b17a4dc6375ce482e9a4ee303f45bd",
+      "lang": "en",
+      "fields": {
+        "collection_status": {
+          "before": null,
+          "after": "disputed"
+        }
+      },
+      "source_urls": []
+    },
+    {
+      "entry_id": "entry_489f5b1818c452c292f1c507eb104fee",
+      "printing_id": "variant_cc3d11eca96b5db180ca06da68ff19fe",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2007"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_2ef1980fc5635c84aa51d4b602f0d987",
+              "name": "Pokémon Organized Play events",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-6/"
+              ],
+              "release_date": "2007",
+              "date_precision": "year",
+              "year": 2007,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-6/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-6/"
+      ]
+    },
+    {
+      "entry_id": "entry_fec626bf875c5934960cedb21645198f",
+      "printing_id": "variant_8b7ccaeed0bf546bb8c18659d3e6206c",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2008"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_2ef1980fc5635c84aa51d4b602f0d987",
+              "name": "Pokémon Organized Play events",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-8/"
+              ],
+              "release_date": "2008",
+              "date_precision": "year",
+              "year": 2008,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-8/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-2-17-pokemon-organized-play-events-pop-series-8/"
+      ]
+    },
+    {
+      "entry_id": "entry_0305f6bce00f5f7581254d8bda86cfdb",
+      "printing_id": "variant_3b2d6db1733c5957bfec9764f065807c",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_f5a096d10fb55ac18b8dbb713a36e64f",
+              "name": "Lucario-GX Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-gx-sm100-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-gx-sm100-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-gx-sm100-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_32522a1c833950df8e9cdb367fc8a339",
+      "printing_id": "variant_d7d6b18aff0d5ef2874aae04616a3701",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_3591bcb317f5522387cd8b04db91201e",
+              "name": "Crimson Invasion Three Pack Blister — Lucario",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM54"
+              ],
+              "notes": "Exact EN promo identity SM54 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM54 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-11-03",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_3591bcb317f5522387cd8b04db91201e",
+              "name": "Crimson Invasion Three Pack Blister — Lucario",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM54"
+              ],
+              "notes": "Exact EN promo identity SM54 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM54 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-11-03",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)"
+            },
+            {
+              "id": "research_product_85ad7eae54ae5c7898429af5643c5203",
+              "name": "Crimson Invasion Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-sm54-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-sm54-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM54",
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_54)",
+        "https://pokumon.com/card/lucario-sm54-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_6d32527a63685a26b9a772fb18ad3b7a",
+      "printing_id": "variant_ecdc26e6e35d5d3b85b50838a8981736",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_52e1b535fabd5b8c9f7656b8bc5424cd",
+              "name": "Ultra Prism Prerelease Kit",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM95",
+                "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+              ],
+              "notes": "Exact EN promo identity SM95 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM95 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-01-20",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_52e1b535fabd5b8c9f7656b8bc5424cd",
+              "name": "Ultra Prism Prerelease Kit",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM95",
+                "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+              ],
+              "notes": "Exact EN promo identity SM95 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM95 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-01-20",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)"
+            },
+            {
+              "id": "research_product_c3ada55d9d45543db4cccd36d254a197",
+              "name": "Ultra Prism Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-sm95-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-sm95-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM95",
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)",
+        "https://pokumon.com/card/lucario-sm95-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_6d32527a63685a26b9a772fb18ad3b7a",
+      "printing_id": "research_printing_61045cc094ac54e88883dbe13e928b68",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_8b1d8132977a5b09ac0214cabc8a62e5",
+              "name": "Ultra Prism Prerelease Kit — STAFF",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+                "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+              ],
+              "notes": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card.",
+              "release_date": "2018-01-20",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_8b1d8132977a5b09ac0214cabc8a62e5",
+              "name": "Ultra Prism Prerelease Kit — STAFF",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+                "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)"
+              ],
+              "notes": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card.",
+              "release_date": "2018-01-20",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)"
+            },
+            {
+              "id": "research_product_c3ada55d9d45543db4cccd36d254a197",
+              "name": "Ultra Prism Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/staff-lucario-sm95-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/staff-lucario-sm95-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Lucario_(SM_Promo_95)",
+        "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_Prerelease_Kit_(TCG)",
+        "https://pokumon.com/card/staff-lucario-sm95-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_43398c7a572b50508fbbd1ecfb1606bf",
+      "printing_id": "variant_5525243137495c7aa4fb8e5a239608ad",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "sparkle"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_9db678d462a45f48afbb9405431215a8",
+              "name": "Lucario ex Battle Deck",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-ex-svp017-english-promo/"
+              ],
+              "release_date": "2023",
+              "date_precision": "year",
+              "year": 2023,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-ex-svp017-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-ex-svp017-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_c744fb8291545cbab49c66db12a4abdb",
+      "printing_id": "research_printing_f9498bf20d8852ebaee0d6aac306c74a",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "line"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_aab81af60bb25aa88f7ae9040c08bfdb",
+              "name": "Brilliant Stars Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-swsh186-english-promo/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-swsh186-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-swsh186-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_f3e6d7c5b7555bb4b068f58b20e70ea6",
+      "printing_id": "variant_26af7ff9e987588491e8bd4f10455d97",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_9f4e935ced975173bdeb54bd3c455b92",
+              "name": "Lucario VSTAR Premium Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-v-swsh213-english-promo/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-v-swsh213-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-v-swsh213-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_289c9a4d7120588c947c4c117cb02b87",
+      "printing_id": "variant_305ddbad5d0f5ace880e091e9017b96d",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_9f4e935ced975173bdeb54bd3c455b92",
+              "name": "Lucario VSTAR Premium Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-vstar-swsh214-english-promo/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-vstar-swsh214-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-vstar-swsh214-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_94c9c9e50c9951ceadec8bc56f11efe0",
+      "printing_id": "variant_7f0fb87d2f2e5188845f731f5a743892",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_3c302a80a09356a48001673835128918",
+              "name": "Crown Zenith Elite Trainer Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-vstar-swsh291-english-promo/"
+              ]
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-vstar-swsh291-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_3754cd3b90255a57bcf9ac2b82a3094a",
+      "printing_id": "variant_1c266cbba4ec562182fffdd102c17ebb",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2017"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_0627cb1e66e057658cc5f8835d588dfa",
+              "name": "Sun & Moon Knock Out Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-lucario-63-124-sun-moon-knock-out-collection-special-print/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-lucario-63-124-sun-moon-knock-out-collection-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-lucario-63-124-sun-moon-knock-out-collection-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_0168d0f2c639522e8174d7b0783a429e",
+      "printing_id": "research_printing_fba5dad6ffb65f0595c555692939c083",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_62cde955915352d081003d7202993d0e",
+              "name": "Mega Powers Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/mega-lucario-ex-55a-111-mega-powers-collection-special-print/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/mega-lucario-ex-55a-111-mega-powers-collection-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/mega-lucario-ex-55a-111-mega-powers-collection-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_b96ce51da6735fb58d3982bc7e6a2858",
+      "printing_id": "research_printing_8482ebdb9958564d8a5812cdfad11280",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_687091bc671a5408bed2a7c1532a5a8e",
+              "name": "Steam Siege Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lucario-xy140-english-promo/"
+              ],
+              "release_date": "2016",
+              "date_precision": "year",
+              "year": 2016,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lucario-xy140-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lucario-xy140-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a23c55e240095e5fa2e886893b3273e2",
+      "printing_id": "research_printing_6620efe1a7f958fbb66f18c059b7f8f6",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_4a5b99a95f405582a70be1f01d468ecd",
+              "name": "Emerging Challenges Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lillipup-bw52-english-promo/"
+              ],
+              "release_date": "2012",
+              "date_precision": "year",
+              "year": 2012,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lillipup-bw52-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lillipup-bw52-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_3b2fe6fdb09858bca51c85cf29706b14",
+      "printing_id": "variant_f72e4165c7125ea9a9ca9fef207664cf",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zorua-9-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2011",
+              "date_precision": "year",
+              "year": 2011,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zorua-9-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zorua-9-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_0c2c83746d605fc79fc10d8fd5fd64bf",
+      "printing_id": "research_printing_550593f53d435751bd8436a3bb7d4f39",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_4f9936a452f65f1e96cb774e83c4a6b6",
+              "name": "Emerging Powers Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zorua-bw12-english-promo/"
+              ],
+              "release_date": "2011",
+              "date_precision": "year",
+              "year": 2011,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zorua-bw12-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zorua-bw12-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_2c518d858a97510291a2cf56f49abb88",
+      "printing_id": "variant_3ee558d71e7b513091069abfb07db03f",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_bf8f1495c1a454ed92fb9366a406475b",
+              "name": "Shining Legends Special Collection — Zoroark-GX",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM83",
+                "https://www.pokemon.com/us/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+              ],
+              "notes": "Exact EN promo identity SM83 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM83 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-11-03",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_bf8f1495c1a454ed92fb9366a406475b",
+              "name": "Shining Legends Special Collection — Zoroark-GX",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM83",
+                "https://www.pokemon.com/us/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+              ],
+              "notes": "Exact EN promo identity SM83 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM83 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-11-03",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)"
+            },
+            {
+              "id": "research_product_ce847d994b905d0894b1fc82b2fd05f5",
+              "name": "Shining Legends Special Collection—Zoroark-GX",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zorua-sm83-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zorua-sm83-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM83",
+        "https://bulbapedia.bulbagarden.net/wiki/Zorua_(SM_Promo_83)",
+        "https://pokumon.com/card/zorua-sm83-english-promo/",
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/shining-legends-special-collection-zoroark-gx"
+      ]
+    },
+    {
+      "entry_id": "entry_f12fbf9e2ea45c3bb9f44492d5e0190b",
+      "printing_id": "variant_2c0d46bef36556beb5e8a04e2fdf8ebb",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_9962701ed40554dda2c0e3b56e95996a",
+              "name": "Journey Together Elite Trainer Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/ns-zorua-svp189-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/ns-zorua-svp189-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/ns-zorua-svp189-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_5cf7df0b84ed55e0ab4446a98cee5877",
+      "printing_id": "variant_5e3d065ef19c5ec589625cb8d78aaae5",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cracked_ice"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2012"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_e5a1737903f65ed3b1523b4621eb44b4",
+              "name": "Next Destinies Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cracked-ice-zoroark-71-114-next-destinies-blisters-special-print/"
+              ],
+              "release_date": "2012",
+              "date_precision": "year",
+              "year": 2012,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cracked-ice-zoroark-71-114-next-destinies-blisters-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cracked-ice-zoroark-71-114-next-destinies-blisters-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_c9622af8c6895e64b6b2f65eb7578de7",
+      "printing_id": "variant_68b9553f04025a9ea58665500c8e2aad",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2014"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_b1e522c32193557490d52aee669b245a",
+              "name": "Furious Fists Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-zoroark-90-113-furious-fists-blisters-special-print/"
+              ],
+              "release_date": "2014",
+              "date_precision": "year",
+              "year": 2014,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-zoroark-90-113-furious-fists-blisters-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-zoroark-90-113-furious-fists-blisters-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_eff0bd77f3125a89b6e990f568d66e77",
+      "printing_id": "research_printing_c93d3e5c685d534aa93d717ce2a0d1d9",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_06ba57b3f82859bf8c7c96b9665a2bc0",
+              "name": "Victini Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zoroark-bw09-english-promo/"
+              ],
+              "release_date": "2011",
+              "date_precision": "year",
+              "year": 2011,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zoroark-bw09-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zoroark-bw09-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_ca9b079bf6ca53d7b1d26cac741a369d",
+      "printing_id": "research_printing_5846f64c23875de3863ec628f72ff3a6",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_734e2d72dfb35747bceabc7c871115cd",
+              "name": "Zoroark-Illusions Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zoroark-bw19-english-promo/"
+              ],
+              "release_date": "2011",
+              "date_precision": "year",
+              "year": 2011,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zoroark-bw19-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zoroark-bw19-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a2f88ee5109550b99c0fba88ed1bf03e",
+      "printing_id": "variant_e566df308a5a56e79565e2959b7ba3f8",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_ce847d994b905d0894b1fc82b2fd05f5",
+              "name": "Shining Legends Special Collection—Zoroark-GX",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zoroark-gx-sm84-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zoroark-gx-sm84-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zoroark-gx-sm84-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_fb9c0f0f32f35c63a1b2d5a449ac27eb",
+      "printing_id": "variant_e6a85a6ec35653a9ab2185daab1d0da0",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_55cbd5faf57759b0a42cc90ad2d74299",
+              "name": "Shining Legends Pin Collection — Zoroark",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM89"
+              ],
+              "notes": "Exact EN promo identity SM89 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM89 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-12-01",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_55cbd5faf57759b0a42cc90ad2d74299",
+              "name": "Shining Legends Pin Collection — Zoroark",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM89"
+              ],
+              "notes": "Exact EN promo identity SM89 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM89 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-12-01",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)"
+            },
+            {
+              "id": "research_product_e06fca1c98005aac85b03c3973984ca9",
+              "name": "Shining Legends Pin Collection—Zoroark",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zoroark-sm89-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zoroark-sm89-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM89",
+        "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(SM_Promo_89)",
+        "https://pokumon.com/card/zoroark-sm89-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a376927d5e825f6588abd9e6a9befdad",
+      "printing_id": "variant_882decf5fe5851f4943e063f2628ac06",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "line"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2022"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_72a66b8ec3e9580cae30106d8dc8ecf5",
+              "name": "Line Holo \"Lost Origin\" stamp gift with purchase exclusive (various countries)",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/stamped-hisuian-zoroark-076-196-line-holo-lost-origin-stamp-gift-with-purchase-exclusive-various-countries-special-print/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/stamped-hisuian-zoroark-076-196-line-holo-lost-origin-stamp-gift-with-purchase-exclusive-various-countries-special-print/"
+            },
+            {
+              "id": "research_product_64d3d2ce374b5b1a99ac58fd93b70c1c",
+              "name": "Line Holo \"Gamestop\" stamp gift with purchase exclusive (USA)",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/gamestop-hisuian-zoroark-076-196-line-holo-gamestop-stamp-gift-with-purchase-exclusive-usa-special-print/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/gamestop-hisuian-zoroark-076-196-line-holo-gamestop-stamp-gift-with-purchase-exclusive-usa-special-print/"
+            },
+            {
+              "id": "research_product_a9db0c11679c5d8a9c97aaae26235d83",
+              "name": "Line Holo \"EB Games\" stamp gift with purchase exclusive (Australia)",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/eb-games-hisuian-zoroark-076-196-line-holo-eb-games-stamp-gift-with-purchase-exclusive-australia-special-print/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/eb-games-hisuian-zoroark-076-196-line-holo-eb-games-stamp-gift-with-purchase-exclusive-australia-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/eb-games-hisuian-zoroark-076-196-line-holo-eb-games-stamp-gift-with-purchase-exclusive-australia-special-print/",
+        "https://pokumon.com/card/gamestop-hisuian-zoroark-076-196-line-holo-gamestop-stamp-gift-with-purchase-exclusive-usa-special-print/",
+        "https://pokumon.com/card/stamped-hisuian-zoroark-076-196-line-holo-lost-origin-stamp-gift-with-purchase-exclusive-various-countries-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_b538c4ffb9ca5e44a66ce867799efff0",
+      "printing_id": "variant_d2afc06c8d795a2ba7ba12fc4d989a07",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_34da726eadaf50e6b6d990137b8a6eb5",
+              "name": "Hisuian Zoroark VSTAR Premium Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/hisuian-zoroark-v-swsh297-english-promo/"
+              ],
+              "release_date": "2023",
+              "date_precision": "year",
+              "year": 2023,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/hisuian-zoroark-v-swsh297-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/hisuian-zoroark-v-swsh297-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_75e1827359f0553bb69112e5930e2d0e",
+      "printing_id": "variant_64873f6cc1d151f7ad20b62be45a3cc0",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_34da726eadaf50e6b6d990137b8a6eb5",
+              "name": "Hisuian Zoroark VSTAR Premium Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/hisuian-zoroark-vstar-swsh298-english-promo/"
+              ],
+              "release_date": "2023",
+              "date_precision": "year",
+              "year": 2023,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/hisuian-zoroark-vstar-swsh298-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/hisuian-zoroark-vstar-swsh298-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_c778a34f32ab561f8a3bd433846ba878",
+      "printing_id": "variant_21fbafa19fd75c848bd41813bc65d73e",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2015"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_df0282e2ae825808990ef58255e234b7",
+              "name": "Primal Clash Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-zoroark-73-146-primal-clash-blisters-special-print/"
+              ],
+              "release_date": "2015",
+              "date_precision": "year",
+              "year": 2015,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-zoroark-73-146-primal-clash-blisters-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-zoroark-73-146-primal-clash-blisters-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_d4b9cc1054cb5a829ad7c79fcbd4353f",
+      "printing_id": "variant_6c3819b252f95400a9a24f8f01a18080",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2017"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_0627cb1e66e057658cc5f8835d588dfa",
+              "name": "Sun & Moon Knock Out Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-zoroark-91-162-sun-moon-knock-out-collection-special-print/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-zoroark-91-162-sun-moon-knock-out-collection-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-zoroark-91-162-sun-moon-knock-out-collection-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_6e8f40db5a2d576bbc2c3825dc80ca57",
+      "printing_id": "research_printing_dbae9d351c625181a14c0fbf96c47dfb",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2014",
+              "date_precision": "year",
+              "year": 2014,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_e7da6514218051f496adf00caef01f21",
+      "printing_id": "variant_d9bf7b44f04f5fcca98b63989b2cf2cb",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "confetti"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection-2/"
+              ],
+              "release_date": "2016",
+              "date_precision": "year",
+              "year": 2016,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection-2/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/fennekin-3-12-mcdonalds-mcdonalds-collection-2/"
+      ]
+    },
+    {
+      "entry_id": "entry_c67438e5edfd53d1969a54cd81083f18",
+      "printing_id": "research_printing_a7afaea4a5285d6b934bfe036b388f36",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/fennekin-14-25-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/fennekin-14-25-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/fennekin-14-25-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_c67438e5edfd53d1969a54cd81083f18",
+      "printing_id": "research_printing_748a22e3a3a35ac8a0faa49bf17f5930",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/holofoil-fennekin-14-25-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/holofoil-fennekin-14-25-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/holofoil-fennekin-14-25-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_58256ba9ef7e55f8a3a9fcd1a1ca88da",
+      "printing_id": "variant_0cc7fce6f0bd5bcd819ef3075f75c12a",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_a97bda9320925659999165b19cac18d6",
+              "name": "Chaos Rising Elite Trainer Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/fennekin-mep080-english-promo/"
+              ],
+              "release_date": "2026",
+              "date_precision": "year",
+              "year": 2026,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/fennekin-mep080-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/fennekin-mep080-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_9e76b95eb14a5b4bbe791bbf4c3f2890",
+      "printing_id": "research_printing_8dd7edd3b4a85fce884afb7e55083404",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2013"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_952c6597d47251bbad783d0296f01fea",
+              "name": "Fennekin Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/fennekin-xy02-english-promo/"
+              ],
+              "release_date": "2013",
+              "date_precision": "year",
+              "year": 2013,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/fennekin-xy02-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/fennekin-xy02-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_0e887284cbd758babbd88105a5b950e1",
+      "printing_id": "research_printing_336e11db29245718bc651a21555eb15f",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_c1a0733a049057e28185511aadf281b9",
+              "name": "Evolutions Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/braixen-xy161-english-promo/"
+              ],
+              "release_date": "2016",
+              "date_precision": "year",
+              "year": 2016,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/braixen-xy161-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/braixen-xy161-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_949937b7d2be552d918d33bd5ed64309",
+      "printing_id": "research_printing_24a1f060252d58a4969632c8068f2a4c",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_f91fe4c36a825e09a7fa7cecd8617796",
+              "name": "Chaos Rising Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/delphox-mep074-english-promo/"
+              ],
+              "release_date": "2026",
+              "date_precision": "year",
+              "year": 2026,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/delphox-mep074-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/delphox-mep074-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_949937b7d2be552d918d33bd5ed64309",
+      "printing_id": "research_printing_68c959ee7e3a595d9c09eb389bdf30ca",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_f91fe4c36a825e09a7fa7cecd8617796",
+              "name": "Chaos Rising Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/staff-delphox-mep074-english-promo/"
+              ],
+              "release_date": "2026",
+              "date_precision": "year",
+              "year": 2026,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/staff-delphox-mep074-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/staff-delphox-mep074-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_bd9be5f1d11c543e8427177b1052b6d6",
+      "printing_id": "variant_23b2bc2018185d51aa2c67d4ac97ae54",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2015"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_20d699a585985c7aa0a41bd6d3ed6b79",
+              "name": "Ancient Origins Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-delphox-26-146-ancient-origins-blisters-special-print/"
+              ],
+              "release_date": "2015",
+              "date_precision": "year",
+              "year": 2015,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-delphox-26-146-ancient-origins-blisters-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-delphox-26-146-ancient-origins-blisters-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_84437414936e5e0faff465c22c192d1c",
+      "printing_id": "research_printing_9f79e9b3b3bc5046818fd3b047a1191f",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_5e7c6b056401508d86afd9f482ecc5f2",
+              "name": "Kalos Power Tins",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/delphox-ex-xy19-english-promo/"
+              ],
+              "release_date": "2014",
+              "date_precision": "year",
+              "year": 2014,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/delphox-ex-xy19-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/delphox-ex-xy19-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_3d07ed070f355151b218be01858ce2b1",
+      "printing_id": "research_printing_40d96a5b1bd5555e9397a3075116772f",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_51af4fdca0c053dda0ba011887f13b6c",
+              "name": "McDonald's",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/furfrou-12-12-mcdonalds-mcdonalds-collection/"
+              ],
+              "release_date": "2014",
+              "date_precision": "year",
+              "year": 2014,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/furfrou-12-12-mcdonalds-mcdonalds-collection/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/furfrou-12-12-mcdonalds-mcdonalds-collection/"
+      ]
+    },
+    {
+      "entry_id": "entry_161e1a1674fa5602a17769346d0d93a1",
+      "printing_id": "variant_58eb1fc9d0225571970c52fffc045e68",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2015"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_77495dd044fe5e73995987c2d90fd61a",
+              "name": "Primal Clash Blisters, Primal Clash Launch Kit",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holo-furfrou-114-146-primal-clash-blistersprimal-clash-launch-kit-special-print/"
+              ],
+              "release_date": "2015",
+              "date_precision": "year",
+              "year": 2015,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holo-furfrou-114-146-primal-clash-blistersprimal-clash-launch-kit-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holo-furfrou-114-146-primal-clash-blistersprimal-clash-launch-kit-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_a15a89f26a5a5088a491eaa4a267f170",
+      "printing_id": "variant_f1d13435f78b5bf5b9ccf880279c81ee",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_70e89691094c53deb5b3523a64820811",
+              "name": "Sun & Moon Single Pack Blister — Rockruff",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM06"
+              ],
+              "notes": "Exact EN promo identity SM06 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM06 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-02-03",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_70e89691094c53deb5b3523a64820811",
+              "name": "Sun & Moon Single Pack Blister — Rockruff",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM06"
+              ],
+              "notes": "Exact EN promo identity SM06 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM06 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2017-02-03",
+              "date_precision": "day",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)"
+            },
+            {
+              "id": "research_product_40ec0b7bf2815ae3816e1eebf4880e5c",
+              "name": "Sun & Moon Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/rockruff-sm06-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/rockruff-sm06-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM06",
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+        "https://pokumon.com/card/rockruff-sm06-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a15a89f26a5a5088a491eaa4a267f170",
+      "printing_id": "research_printing_a3dc364a7c515ac9a4f5487d622a2715",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_121b8bdc199259a18b60bf3afb3d1370",
+              "name": "General Mills Sun & Moon Mini Packs — Fruit Snacks 2018",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+                "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_TCG_Series_merchandise#General_Mills_Sun_&_Moon_Mini_Packs"
+              ],
+              "notes": "Rockruff SM06 has a Sequin Holofoil food-promotion print, distributed in the fruit-snack mini-packs from mid-February 2018, distinct from the Cosmos blister print. Month precision retained.",
+              "release_date": "2018-02",
+              "date_precision": "month",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_121b8bdc199259a18b60bf3afb3d1370",
+              "name": "General Mills Sun & Moon Mini Packs — Fruit Snacks 2018",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+                "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_TCG_Series_merchandise#General_Mills_Sun_&_Moon_Mini_Packs"
+              ],
+              "notes": "Rockruff SM06 has a Sequin Holofoil food-promotion print, distributed in the fruit-snack mini-packs from mid-February 2018, distinct from the Cosmos blister print. Month precision retained.",
+              "release_date": "2018-02",
+              "date_precision": "month",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)"
+            },
+            {
+              "id": "research_product_c4f9ba682d635583970277e4421fcf31",
+              "name": "General Mills Sun & Moon Mini Packs",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/sequin-holofoil-rockruff-sm06-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/sequin-holofoil-rockruff-sm06-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_6)",
+        "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_TCG_Series_merchandise#General_Mills_Sun_&_Moon_Mini_Packs",
+        "https://pokumon.com/card/sequin-holofoil-rockruff-sm06-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_bfe842510ace526586e29157058c6ca4",
+      "printing_id": "variant_1cc36409b7e053019b4bdaeacde03749",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_e26a11394b5a503e9573df7272ec60df",
+              "name": "Forbidden Light Single Pack Blister — Rockruff",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM120"
+              ],
+              "notes": "Exact EN promo identity SM120 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM120 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-05-04",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_e26a11394b5a503e9573df7272ec60df",
+              "name": "Forbidden Light Single Pack Blister — Rockruff",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM120"
+              ],
+              "notes": "Exact EN promo identity SM120 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM120 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-05-04",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)"
+            },
+            {
+              "id": "research_product_3e772b7fdbe45a0980cca2011dced025",
+              "name": "Forbidden Light Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/rockruff-sm120-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/rockruff-sm120-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM120",
+        "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(SM_Promo_120)",
+        "https://pokumon.com/card/rockruff-sm120-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_2e3644c52567568392bd23bc5cf2b34b",
+      "printing_id": "variant_8f02d6b806635a808d79aa29577d189b",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_ac31f44a263851bf8fa6c7c18e11b7f7",
+              "name": "Spring 2018 Collector Chest",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM105"
+              ],
+              "notes": "Exact EN promo identity SM105 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM105 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-03-23",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_ac31f44a263851bf8fa6c7c18e11b7f7",
+              "name": "Spring 2018 Collector Chest",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM105"
+              ],
+              "notes": "Exact EN promo identity SM105 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. English SM105 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-03-23",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)"
+            },
+            {
+              "id": "research_product_ca299409907d50ac80545397049cd388",
+              "name": "Spring 2018 Collector Chest",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lycanroc-sm105-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lycanroc-sm105-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM105",
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_105)",
+        "https://pokumon.com/card/lycanroc-sm105-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_c8ba9288b102522cac6d860631b13e12",
+      "printing_id": "variant_d9cf3b90ec355c4fb5601114ef352de5",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_a1b4876e848057aa91df3015fb558875",
+              "name": "Forbidden Light Build & Battle Box",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM118",
+                "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+              ],
+              "notes": "Exact EN promo identity SM118 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM118 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-04-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_a1b4876e848057aa91df3015fb558875",
+              "name": "Forbidden Light Build & Battle Box",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+                "https://api.tcgdex.net/v2/en/cards/smp-SM118",
+                "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+              ],
+              "notes": "Exact EN promo identity SM118 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. The native card image visibly carries the expansion logo; STAFF is a separate additional stamp. English SM118 dates the named physical product or prerelease distribution, rather than the whole promo series or later main expansion.",
+              "release_date": "2018-04-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)"
+            },
+            {
+              "id": "research_product_9f169a6e8cec5dfeb24c91f432b3e150",
+              "name": "Forbidden Light Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lycanroc-sm118-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lycanroc-sm118-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/smp-SM118",
+        "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "https://pokumon.com/card/lycanroc-sm118-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_c8ba9288b102522cac6d860631b13e12",
+      "printing_id": "research_printing_cb938a1189fb5998a7dbcfc8e32358a2",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_0648c1c556745bfda96de5924714cd61",
+              "name": "Forbidden Light Build & Battle Box — STAFF",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+                "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+              ],
+              "notes": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card.",
+              "release_date": "2018-04-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_0648c1c556745bfda96de5924714cd61",
+              "name": "Forbidden Light Build & Battle Box — STAFF",
+              "state": "verified_product",
+              "kind": "promo",
+              "links": [
+                "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+                "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)"
+              ],
+              "notes": "Exact English prerelease promo documents a gold STAFF variant in addition to the expansion logo. It is not interchangeable with the participation card.",
+              "release_date": "2018-04-21",
+              "date_precision": "day",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)"
+            },
+            {
+              "id": "research_product_9f169a6e8cec5dfeb24c91f432b3e150",
+              "name": "Forbidden Light Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/staff-lycanroc-sm118-english-promo/"
+              ],
+              "release_date": "2018",
+              "date_precision": "year",
+              "year": 2018,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/staff-lycanroc-sm118-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_Build_%26_Battle_Box_(TCG)",
+        "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(SM_Promo_118)",
+        "https://pokumon.com/card/staff-lycanroc-sm118-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_1b6ed01050d55684864fa3a3600a8cc8",
+      "printing_id": "variant_7971ea24dcbe515391bae61e667f6c9f",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "ripple"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_b4375c64347c50c4bd79b8898d3b33f8",
+              "name": "Lycanroc-GX Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lycanroc-gx-sm14-english-promo/"
+              ],
+              "release_date": "2017",
+              "date_precision": "year",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lycanroc-gx-sm14-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lycanroc-gx-sm14-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_ee265e6cdecb5407b24ec96c83cd5238",
+      "printing_id": "variant_121bf2a8edae5923a30b79d8265de7d7",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2023"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_d3c375b1dc6553fa812db2332d56e539",
+              "name": "Trick or Trade",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/trick-or-trade-lycanroc-095-185-trick-or-trade-special-print/"
+              ],
+              "release_date": "2023",
+              "date_precision": "year",
+              "year": 2023,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/trick-or-trade-lycanroc-095-185-trick-or-trade-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/trick-or-trade-lycanroc-095-185-trick-or-trade-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_4bc4386dd6ed5e5987856d518cb7cc81",
+      "printing_id": "variant_6a67f0a1b5935c4f9edad035e2f91395",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_c394ae61b6015354bf8c9cc2e6096644",
+              "name": "V Battle Deck",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/lycanroc-v-swsh199-english-promo/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/lycanroc-v-swsh199-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/lycanroc-v-swsh199-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_31baf3d3bc675802b0e98ee644e897a5",
+      "printing_id": "variant_83398686d6395363bebaa2382e54cfb2",
+      "lang": "en",
+      "fields": {
+        "release_date": {
+          "before": null,
+          "after": "2022"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_135234d762bb53f185abcf277b6e486f",
+              "name": "Non Holo Pikachu jack-o’-lantern stamp Trick or Trade BOOster Bundle exclusive",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/trick-or-trade-nickit-103-189-non-holo-pikachu-jack-o-lantern-stamp-trick-or-trade-booster-bundle-exclusive-special-print/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/trick-or-trade-nickit-103-189-non-holo-pikachu-jack-o-lantern-stamp-trick-or-trade-booster-bundle-exclusive-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/trick-or-trade-nickit-103-189-non-holo-pikachu-jack-o-lantern-stamp-trick-or-trade-booster-bundle-exclusive-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_ee420e256eef501d95b0361f896e2376",
+      "printing_id": "variant_5127c7356e6f53678b92f0040485d50b",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "cosmos"
+        },
+        "release_date": {
+          "before": null,
+          "after": "2022"
+        },
+        "date_state": {
+          "before": null,
+          "after": "sourced_product"
+        },
+        "date_mode": {
+          "before": null,
+          "after": "product"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_30ff8467d8a9579b9975afc84c215d06",
+              "name": "Sword & Shield Knock Out Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/cosmos-holofoil-boltund-076-202-sword-shield-knock-out-collection-special-print/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/cosmos-holofoil-boltund-076-202-sword-shield-knock-out-collection-special-print/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/cosmos-holofoil-boltund-076-202-sword-shield-knock-out-collection-special-print/"
+      ]
+    },
+    {
+      "entry_id": "entry_00cb767efd545f4fa8bc4716c94805d0",
+      "printing_id": "variant_2bc692a8742c51dca02d4aa6ceaf60d7",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_40389771dbbc5c7daf3b8ec2e5fc6d3b",
+              "name": "Shining Fates Collection, Shining Fates Tins",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/boltund-v-swsh085-english-promo/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/boltund-v-swsh085-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/boltund-v-swsh085-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_74eece45dbce5443ae1d6acda92d035f",
+      "printing_id": "variant_66efeac9aeea52fbb20a735bc2e56788",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_b0e973b1660d5629a55a33b88d4c1323",
+              "name": "Boltund V Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/boltund-v-swsh219-english-promo/"
+              ],
+              "release_date": "2022",
+              "date_precision": "year",
+              "year": 2022,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/boltund-v-swsh219-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/boltund-v-swsh219-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a4900385e62a529594dd39b9db382166",
+      "printing_id": "research_printing_eee82d2163145e9f902502fc6b8820a6",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_e74479b3fe6c598698fe553ed560a913",
+              "name": "Phantasmal Flames Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-mep015-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-mep015-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-mep015-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_a4900385e62a529594dd39b9db382166",
+      "printing_id": "research_printing_dc37f36a3a855532bf51425a34d7bc92",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_e74479b3fe6c598698fe553ed560a913",
+              "name": "Phantasmal Flames Prerelease",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/staff-zacian-mep015-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/staff-zacian-mep015-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/staff-zacian-mep015-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_1b6cc2b4d2495301ae5f83d178fd14bc",
+      "printing_id": "variant_efbf2888d54856f0a74ce0a318e74519",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "sparkle"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_85ce031dde6d5837a421d178c623cc8d",
+              "name": "Hop's Zacian ex Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/hops-zacian-ex-svp193-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/hops-zacian-ex-svp193-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/hops-zacian-ex-svp193-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_1b6cc2b4d2495301ae5f83d178fd14bc",
+      "printing_id": "research_printing_85c4beeab4aa5ef481c7ceff993ac7cc",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "sparkle"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_5202fdba57185dcd875a6627bd822e3b",
+              "name": "Hop's Zacian ex Box",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+              ],
+              "notes": "The specific native product explicitly includes an oversized foil Hops/Hop's Zacian-ex SVP193, independently from the normal foil card.",
+              "release_date": "2025-03-28",
+              "date_precision": "day",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_5202fdba57185dcd875a6627bd822e3b",
+              "name": "Hop's Zacian ex Box",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+              ],
+              "notes": "The specific native product explicitly includes an oversized foil Hops/Hop's Zacian-ex SVP193, independently from the normal foil card.",
+              "release_date": "2025-03-28",
+              "date_precision": "day",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+            },
+            {
+              "id": "research_product_85ce031dde6d5837a421d178c623cc8d",
+              "name": "Hop's Zacian ex Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/jumbo-hops-zacian-ex-svp193-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/jumbo-hops-zacian-ex-svp193-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/jumbo-hops-zacian-ex-svp193-english-promo/",
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/hops-zacian-ex-box"
+      ]
+    },
+    {
+      "entry_id": "entry_90055faf75c2551fadee9b20de65dee1",
+      "printing_id": "variant_ff9eed0a8ad35c76893b4bf7c0037caf",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "sparkle"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_845dbd5e7cd25ebe9da76da031977544",
+              "name": "Slashing Legends Tins",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-ex-svp198-english-promo/"
+              ],
+              "release_date": "2025",
+              "date_precision": "year",
+              "year": 2025,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-ex-svp198-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-ex-svp198-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_ed9887bc5b1b5eb59777098921b64069",
+      "printing_id": "variant_4a231b7eba1d5e15b26e11fbbced1848",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_c12656d83c6d5edf840711a92d4a1580",
+              "name": "Legends of Galar Tins",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-v-swsh018-english-promo/"
+              ],
+              "release_date": "2020",
+              "date_precision": "year",
+              "year": 2020,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-v-swsh018-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-v-swsh018-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_17e40a41fdfc5cb0b4822aa8a4b72a9f",
+      "printing_id": "research_printing_12af175d813c5bca9e82ba72e71b77da",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_f50437e56b91594f8c5aeb712db02d6b",
+              "name": "True Steel Premium Collections",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-swsh033-english-promo/"
+              ],
+              "release_date": "2020",
+              "date_precision": "year",
+              "year": 2020,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-swsh033-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-swsh033-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_5dbbd8c1517a5878891684c7f8764d01",
+      "printing_id": "variant_7c5affe4586357aba8368c81ef5c716a",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_ad7d582149195d998c4f80dc4a063447",
+              "name": "Sword & Shield Elite Trainer Box Plus, Sword & Shield Ultra-Premium Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-v-swsh076-english-promo/"
+              ],
+              "release_date": "2020",
+              "date_precision": "year",
+              "year": 2020,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-v-swsh076-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-v-swsh076-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_8ae68399fa1752b5bddd5b935c3bb9ee",
+      "printing_id": "variant_0e547e5217855065884891d055adc140",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_d1f864a478a550918734859a9a4d55f8",
+              "name": "Zacian V-UNION Special Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-v-union-swsh163-english-promo/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-v-union-swsh163-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-v-union-swsh163-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_4c18bbcc4f1b560793d1a8422f3c1089",
+      "printing_id": "variant_e2d1f28f75c8500a94df1be052c57859",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_d1f864a478a550918734859a9a4d55f8",
+              "name": "Zacian V-UNION Special Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-v-union-swsh164-english-promo/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-v-union-swsh164-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-v-union-swsh164-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_fceb06a308335c788a67e516eec9df49",
+      "printing_id": "variant_83a8863dbcb65dc1acf76be9002a6b53",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_d1f864a478a550918734859a9a4d55f8",
+              "name": "Zacian V-UNION Special Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-v-union-swsh165-english-promo/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-v-union-swsh165-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-v-union-swsh165-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_1bd40c7ec29059b49ca254ecb26be8f7",
+      "printing_id": "variant_5eacdeff7d515158894a29705e317ae7",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_d1f864a478a550918734859a9a4d55f8",
+              "name": "Zacian V-UNION Special Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-v-union-swsh166-english-promo/"
+              ],
+              "release_date": "2021",
+              "date_precision": "year",
+              "year": 2021,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zacian-v-union-swsh166-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-v-union-swsh166-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_39502d7678885cfabd3132f51b024eeb",
+      "printing_id": "variant_1f743989b0b1596d9c719d3bbcae9f46",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_7ca2ed66e4ab5fe8bb3d1f7ea5d42fe8",
+              "name": "Crown Zenith Premium Figure Collection Shiny Zacian",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zacian-v-swsh292-english-promo/"
+              ]
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zacian-v-swsh292-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_93d661f4d41a5c9ba4ec28131b9381c7",
+      "printing_id": "variant_aebe70ded24d5f7583a29cfe7393d2d6",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_c12656d83c6d5edf840711a92d4a1580",
+              "name": "Legends of Galar Tins",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zamazenta-v-swsh019-english-promo/"
+              ],
+              "release_date": "2020",
+              "date_precision": "year",
+              "year": 2020,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zamazenta-v-swsh019-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zamazenta-v-swsh019-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_6ef3c8be444b5346a80e8b59b59356ee",
+      "printing_id": "research_printing_bbfa88c8505a57f2a67c6c12f1895154",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_f50437e56b91594f8c5aeb712db02d6b",
+              "name": "True Steel Premium Collections",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zamazenta-swsh034-english-promo/"
+              ],
+              "release_date": "2020",
+              "date_precision": "year",
+              "year": 2020,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zamazenta-swsh034-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zamazenta-swsh034-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_88b4abf265f95193b51af19378ee58c3",
+      "printing_id": "variant_05f7c671ac80596f9713f46b8cb49ff5",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_ad7d582149195d998c4f80dc4a063447",
+              "name": "Sword & Shield Elite Trainer Box Plus, Sword & Shield Ultra-Premium Collection",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zamazenta-v-swsh077-english-promo/"
+              ],
+              "release_date": "2020",
+              "date_precision": "year",
+              "year": 2020,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/zamazenta-v-swsh077-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zamazenta-v-swsh077-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_9de06ab3bf485257b63af172531f9c93",
+      "printing_id": "variant_bca6df3e9449546a9fc4478b3c48ec81",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_ba771f2808845ae59b4176c799cb42ff",
+              "name": "Crown Zenith Premium Figure Collection Shiny Zamazenta",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/zamazenta-v-swsh293-english-promo/"
+              ]
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/zamazenta-v-swsh293-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_f171f76f07a954e7bcc5c01ec61c519d",
+      "printing_id": "variant_1c3065b4b3985f3d9ffc7c431be6ca70",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_9b05401a09f05af1bd9d188a9f69edab",
+              "name": "Paldean Fates Blisters, Paldean Fates Tech Sticker Collections",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/fidough-svp069-english-promo/"
+              ],
+              "release_date": "2024",
+              "date_precision": "year",
+              "year": 2024,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/fidough-svp069-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/fidough-svp069-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_57ece4ebed2952439cdef87cf93e5c80",
+      "printing_id": "variant_d154774989e1528eace7adbe809e64c8",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_9b05401a09f05af1bd9d188a9f69edab",
+              "name": "Paldean Fates Blisters, Paldean Fates Tech Sticker Collections",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/maschiff-svp071-english-promo/"
+              ],
+              "release_date": "2024",
+              "date_precision": "year",
+              "year": 2024,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/maschiff-svp071-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/maschiff-svp071-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_344f87d37ac9570fa9934fd4a2c98207",
+      "printing_id": "variant_b38dd6d0769b57dc81adfc4f9c225c46",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "sparkle"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_664fe6916c9054508c66046c1efb898d",
+              "name": "Mabosstiff ex Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/mabosstiff-ex-svp086-english-promo/"
+              ],
+              "release_date": "2024",
+              "date_precision": "year",
+              "year": 2024,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/mabosstiff-ex-svp086-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/mabosstiff-ex-svp086-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_116af9dde7685636ae20430c05e6ba5d",
+      "printing_id": "variant_467fdd8774bd58a98807e8237ea694dc",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_9b05401a09f05af1bd9d188a9f69edab",
+              "name": "Paldean Fates Blisters, Paldean Fates Tech Sticker Collections",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/greavard-svp070-english-promo/"
+              ],
+              "release_date": "2024",
+              "date_precision": "year",
+              "year": 2024,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/greavard-svp070-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/greavard-svp070-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_faee69bba9c957f08a96fd39dcb02d55",
+      "printing_id": "variant_2adb69fdf9ed599aa3113a0e62aa3536",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "sparkle"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_ad1fc2c1a88450b7b76501243a0188b9",
+              "name": "Houndstone ex Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/houndstone-ex-svp162-english-promo/"
+              ],
+              "release_date": "2024",
+              "date_precision": "year",
+              "year": 2024,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/houndstone-ex-svp162-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/houndstone-ex-svp162-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_faee69bba9c957f08a96fd39dcb02d55",
+      "printing_id": "research_printing_4e9cb1ea6d9a5d548676b04d4a366c10",
+      "lang": "en",
+      "fields": {
+        "pattern": {
+          "before": "unspecified",
+          "after": "sparkle"
+        },
+        "sources": {
+          "before": [
+            {
+              "id": "research_product_4a068a98a72e5305af5ed9b5a0c00125",
+              "name": "Houndstone ex Box",
+              "state": "verified_product"
+            }
+          ],
+          "after": [
+            {
+              "id": "research_product_4a068a98a72e5305af5ed9b5a0c00125",
+              "name": "Houndstone ex Box",
+              "state": "verified_product"
+            },
+            {
+              "id": "research_product_ad1fc2c1a88450b7b76501243a0188b9",
+              "name": "Houndstone ex Box",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/jumbo-houndstone-ex-svp162-english-promo/"
+              ],
+              "release_date": "2024",
+              "date_precision": "year",
+              "year": 2024,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/jumbo-houndstone-ex-svp162-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/jumbo-houndstone-ex-svp162-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "entry_c57cfc33fbf752ee9492b05e3d43ae52",
+      "printing_id": "research_printing_32280249cc72513fbe98564cf27fe196",
+      "lang": "en",
+      "fields": {
+        "sources": {
+          "before": null,
+          "after": [
+            {
+              "id": "research_product_1a44861803be5e4da8a8573b30742f9a",
+              "name": "Obsidian Flames Blisters",
+              "state": "documented_product",
+              "links": [
+                "https://pokumon.com/card/houndstone-svp042-english-promo/"
+              ],
+              "release_date": "2023",
+              "date_precision": "year",
+              "year": 2023,
+              "date_state": "sourced_product",
+              "date_source": "https://pokumon.com/card/houndstone-svp042-english-promo/"
+            }
+          ]
+        }
+      },
+      "source_urls": [
+        "https://pokumon.com/card/houndstone-svp042-english-promo/"
+      ]
+    },
+    {
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_acd5a3c47da353f8bb1a335ca63c19b3",
+      "lang": "de",
+      "fields": {
+        "collection_status": {
+          "before": null,
+          "after": "disputed"
+        }
+      },
+      "source_urls": []
+    },
+    {
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "printing_id": "research_printing_304bf3da304c59ccba41ad4315915387",
+      "lang": "de",
+      "fields": {
+        "collection_status": {
+          "before": null,
+          "after": "disputed"
+        }
+      },
+      "source_urls": []
+    }
+  ],
+  "limits": "Changes include additional provenance and qualified precision, not just demonstrated errors. Stable printing IDs are unchanged."
+}

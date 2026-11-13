@@ -1,0 +1,15 @@
+DogDex UI update 1.8.11
+
+Close DogDex. Extract this ZIP directly into J_DogDex, replace matching files,
+then restart. Press Ctrl+F5 if the old layout is cached.
+
+Gallery: one unified tile; name/number and price; set symbol/name/year;
+rarity/finish and add button. No owned badge or wishlist heart on the image.
+Owned tiles are subtly tinted. Wishlist is beside Printing in details.
+Details keep the full available release date. Small Growlithe logo included.
+
+Catalogue and personal collection files are unchanged.
+For mobile/GitHub: export the mobile viewer, commit docs changes and push.
+Only this patch is needed for the current installation.
+
+See UI_UPDATE_1_8_11.md and UI_VALIDATION_1_8_11.md.

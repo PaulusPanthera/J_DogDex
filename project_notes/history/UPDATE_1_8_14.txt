@@ -1,0 +1,13 @@
+DogDex Cardmarket update 1.8.14 — apply over 1.8.13
+
+Close DogDex, then extract this ZIP directly into J_DogDex. Merge/replace the supplied files. Restart DogDex and refresh the browser (Ctrl+F5 if necessary).
+
+Open Find Cardmarket product / Change product. Existing IDs and listing URLs are prefilled, confirmed related matches appear first, and eligible related printings can be confirmed together. Review the selected checkboxes before Confirm & save. V1 / Shadowless V2 remain separate.
+
+Open offers applies language, edition, reverse-holo status and your selected minimum condition (default Excellent+). The automatic price remains a product-wide Guide; filters do not generate filtered prices.
+
+Your collection database, catalogue, uploaded images and existing matches are not replaced. No re-entry is required. The patch itself does not automatically change product mappings.
+
+For the public website, Export mobile view again and commit/push docs with GitHub Desktop.
+
+See CARDMARKET_UPDATE_1_8_14.md and CARDMARKET_VALIDATION_1_8_14.md.
