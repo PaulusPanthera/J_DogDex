@@ -5,6 +5,7 @@ from dogdex.collector import Collection
 from dogdex.marketplace import provider_products,provider_variant_matches,search_products
 from dogdex.printing_model import physical_key
 from dogdex.reference_review import apply
+from catalog_history import catalog_at
 
 ROOT=Path(__file__).resolve().parents[1]
 def digest(v):return hashlib.sha256(json.dumps(v,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
@@ -12,7 +13,7 @@ def digest(v):return hashlib.sha256(json.dumps(v,ensure_ascii=False,sort_keys=Tr
 class ReferenceReviewTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.c=json.loads((ROOT/'data/catalog.json').read_text(encoding='utf-8'))
+        cls.c=catalog_at('1.8.19')
         cls.f=json.loads((ROOT/'data/research/reference_1819/facts.json').read_text(encoding='utf-8'))
         cls.base=json.loads((ROOT/'data/research/reference_1819/baseline_1818.json').read_text(encoding='utf-8'))
 

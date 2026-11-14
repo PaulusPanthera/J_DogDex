@@ -1,0 +1,2764 @@
+{
+  "format": 1,
+  "reviewed_on": "2026-11-13",
+  "scope": [
+    "en",
+    "de"
+  ],
+  "sources": [
+    "https://cardcameos.com/",
+    "https://pokecameos.com/",
+    "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+  ],
+  "limitations": [
+    "Positive reference coverage is not proof that every printed artwork has been exhaustively inspected.",
+    "CardCameos excludes many reprints; Pokecameos and the community list contain foreign-only and mislabelled references. Each EN/DE claim is assessed separately.",
+    "All original identifiers, printing fields, Japanese/Korean records and collection files are preserved.",
+    "Marketplace IDs are unconfirmed candidates; no filtered offer prices or automatic product confirmations are added."
+  ],
+  "appearances": [
+    {
+      "entry_id": "research_entry_4a92b14594d05a548833e1de331be5f2",
+      "identity": [
+        "de",
+        "30th",
+        "collector",
+        "148"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "identity": [
+        "de",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "identity": [
+        "de",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 570,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-zorua-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-zorua",
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/de/cards/30th-150"
+      ]
+    },
+    {
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "identity": [
+        "de",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-zoroark",
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/de/cards/30th-150"
+      ]
+    },
+    {
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "identity": [
+        "de",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 745,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/lycanroc-midnight-cameo-cards/",
+        "https://pokecameos.com/pokemon/lycanroc-midnight",
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/de/cards/30th-150"
+      ]
+    },
+    {
+      "entry_id": "research_entry_a39cd1666dd25f89abd98ef74ae3fedd",
+      "identity": [
+        "de",
+        "bw7",
+        "collector",
+        "127"
+      ],
+      "dex": 506,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lillipup-cameo-cards/",
+        "https://pokecameos.com/pokemon/lillipup",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "entry_53d715523acb5d5d9a4f1ee1bfd46853",
+      "identity": [
+        "de",
+        "cel25",
+        "collector",
+        "16"
+      ],
+      "dex": 889,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/crowned-zamazenta-cameo-cards/",
+        "https://pokecameos.com/pokemon/crowned-zamazenta"
+      ]
+    },
+    {
+      "entry_id": "entry_f67d35e75d3a587fbaecc5d51ed27e29",
+      "identity": [
+        "de",
+        "cel25",
+        "collector",
+        "18"
+      ],
+      "dex": 888,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/crowned-zacian-cameo-cards/",
+        "https://pokecameos.com/pokemon/crowned-zacian"
+      ]
+    },
+    {
+      "entry_id": "entry_d588890c50a954d9b91ca424a47c5388",
+      "identity": [
+        "de",
+        "me01",
+        "collector",
+        "158"
+      ],
+      "dex": 310,
+      "role": "subject",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/manectric-cameo-cards/",
+        "https://pokecameos.com/pokemon/manectric"
+      ]
+    },
+    {
+      "entry_id": "entry_7ff8a26b413455c9ae48cca42816129e",
+      "identity": [
+        "de",
+        "me01",
+        "collector",
+        "160"
+      ],
+      "dex": 448,
+      "role": "subject",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "entry_470b97a91b29569fbf7161f95dbbf94c",
+      "identity": [
+        "de",
+        "me01",
+        "collector",
+        "179"
+      ],
+      "dex": 310,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mega-manectric-cameo-cards/",
+        "https://pokecameos.com/pokemon/mega-manectric"
+      ]
+    },
+    {
+      "entry_id": "research_entry_453f9e8eeb2552cab2739fb7116b1cce",
+      "identity": [
+        "de",
+        "me03",
+        "collector",
+        "077"
+      ],
+      "dex": 828,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/thievul-cameo-cards/",
+        "https://pokecameos.com/pokemon/thievul"
+      ]
+    },
+    {
+      "entry_id": "research_entry_ab0768432f7554e1b9ff0bc2733a53ac",
+      "identity": [
+        "de",
+        "me03",
+        "collector",
+        "120"
+      ],
+      "dex": 718,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zygarde-10-cameo-cards/",
+        "https://pokecameos.com/pokemon/zygarde-10"
+      ]
+    },
+    {
+      "entry_id": "research_entry_3dcfdad312b05a6c821bb932d5cc0221",
+      "identity": [
+        "de",
+        "me06",
+        "collector",
+        "095"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-095",
+        "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/me06/95/",
+        "https://www.pokemon.com/de/features/wirf-einen-blick-auf-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-delta-herrschaft",
+        "https://holoncardshop.com/edition/delta-herrschaft/"
+      ],
+      "basis": "localized_face_and_release_review_1820"
+    },
+    {
+      "entry_id": "entry_51efe6958973554fa36af66430284d80",
+      "identity": [
+        "de",
+        "mep",
+        "collector",
+        "059"
+      ],
+      "dex": 263,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/zigzagoon-cameo-cards/",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d3c9ae11eb5d53b1b1f787290044dfd2",
+      "identity": [
+        "de",
+        "mep",
+        "collector",
+        "092"
+      ],
+      "dex": 926,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/fidough-cameo-cards/",
+        "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+        "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)",
+        "https://www.tcgplayer.com/product/714597",
+        "https://www.tcgplayer.com/product/714598",
+        "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+        "https://www.ebay.de/itm/377466687245"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5110b6a3c88d58deb6976bde0926f4df",
+      "identity": [
+        "de",
+        "mep",
+        "collector",
+        "108"
+      ],
+      "dex": 37,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/vulpix-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-108"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5110b6a3c88d58deb6976bde0926f4df",
+      "identity": [
+        "de",
+        "mep",
+        "collector",
+        "108"
+      ],
+      "dex": 38,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/ninetales-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-108"
+      ]
+    },
+    {
+      "entry_id": "research_entry_0246d03ae9f65678919701fb433df437",
+      "identity": [
+        "de",
+        "mep",
+        "collector",
+        "110"
+      ],
+      "dex": 570,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/zorua-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-110"
+      ]
+    },
+    {
+      "entry_id": "research_entry_0246d03ae9f65678919701fb433df437",
+      "identity": [
+        "de",
+        "mep",
+        "collector",
+        "110"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-110"
+      ]
+    },
+    {
+      "entry_id": "research_entry_fceaa7efbf4356d5ab8ed7275157f4a3",
+      "identity": [
+        "de",
+        "sm3",
+        "collector",
+        "79"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "entry_becd8d5477e7572f8a2752e4ee0915bc",
+      "identity": [
+        "de",
+        "sm3.5",
+        "collector",
+        "52"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_520707cc24e350a681d5a70e5919f966",
+      "identity": [
+        "de",
+        "sm8",
+        "collector",
+        "100"
+      ],
+      "dex": 447,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/riolu-cameo-cards/",
+        "https://pokecameos.com/pokemon/riolu"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c73e7684b1ad58ab8cfc526eb374aeab",
+      "identity": [
+        "de",
+        "sma",
+        "collector",
+        "SV82"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_6d507b452f83550da033630d88cc5ae8",
+      "identity": [
+        "de",
+        "smp",
+        "collector",
+        "SM231"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105",
+        "https://bulbapedia.bulbagarden.net/wiki/Champions_Festival_(SM_Promo_231)",
+        "https://api.tcgdex.net/v2/de/cards/smp-SM231"
+      ]
+    },
+    {
+      "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+      "identity": [
+        "de",
+        "smp",
+        "collector",
+        "SM83"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_083_R_DE_LG.png"
+      ]
+    },
+    {
+      "entry_id": "entry_8a8c0e0c4c0a5d2db9f2aea8d327b878",
+      "identity": [
+        "de",
+        "sv01",
+        "collector",
+        "215"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "research_entry_492eb6c702565a3a8c72ef54050fe24b",
+      "identity": [
+        "de",
+        "sv01",
+        "collector",
+        "244"
+      ],
+      "dex": 927,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/dachsbun-cameo-cards/",
+        "https://pokecameos.com/pokemon/dachsbun"
+      ]
+    },
+    {
+      "entry_id": "research_entry_54c4de3c533e56baa3e4f7dfd2195758",
+      "identity": [
+        "de",
+        "sv01",
+        "collector",
+        "249"
+      ],
+      "dex": 943,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mabosstiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/mabosstiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_439c3bd446db5f32bcdb33306b201b43",
+      "identity": [
+        "de",
+        "sv03.5",
+        "collector",
+        "173"
+      ],
+      "dex": 37,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/vulpix"
+      ]
+    },
+    {
+      "entry_id": "research_entry_439c3bd446db5f32bcdb33306b201b43",
+      "identity": [
+        "de",
+        "sv03.5",
+        "collector",
+        "173"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/growlithe"
+      ]
+    },
+    {
+      "entry_id": "research_entry_8b7ba2001c80514aa6e32b296aa5be16",
+      "identity": [
+        "de",
+        "sv04",
+        "collector",
+        "196"
+      ],
+      "dex": 835,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/yamper-cameo-cards/",
+        "https://pokecameos.com/pokemon/yamper"
+      ]
+    },
+    {
+      "entry_id": "research_entry_eb2d955050c35f43ba80bbf73a59f3e9",
+      "identity": [
+        "de",
+        "sv04",
+        "collector",
+        "202"
+      ],
+      "dex": 744,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/rockruff-cameo-cards/",
+        "https://pokecameos.com/pokemon/rockruff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_10a55bd4f2d55fb0a97c59fded72beab",
+      "identity": [
+        "de",
+        "sv06",
+        "collector",
+        "078"
+      ],
+      "dex": 1014,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/okidogi-cameo-cards/",
+        "https://pokecameos.com/pokemon/okidogi"
+      ]
+    },
+    {
+      "entry_id": "research_entry_dff5e82d6b0c5c67a046c5d154d755db",
+      "identity": [
+        "de",
+        "sv06",
+        "collector",
+        "138"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-growlithe"
+      ]
+    },
+    {
+      "entry_id": "research_entry_862a508f510b5d158d79112a361c2ffe",
+      "identity": [
+        "de",
+        "sv06",
+        "collector",
+        "182"
+      ],
+      "dex": 836,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/boltund-cameo-cards/",
+        "https://pokecameos.com/pokemon/boltund"
+      ]
+    },
+    {
+      "entry_id": "research_entry_e74bdb3b71875af9acd9ed6c0f003047",
+      "identity": [
+        "de",
+        "sv06",
+        "collector",
+        "210"
+      ],
+      "dex": 836,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/boltund-cameo-cards/",
+        "https://pokecameos.com/pokemon/boltund"
+      ]
+    },
+    {
+      "entry_id": "research_entry_e63aaa876aae52a095687ce3f1976191",
+      "identity": [
+        "de",
+        "sv06",
+        "collector",
+        "220"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-growlithe",
+        "https://api.tcgdex.net/v2/de/cards/sv06-220",
+        "https://www.pokemon.com/de/pokemon-news/illustrationen-der-pokemon-sammelkartenspiel-erweiterung-karmesin-purpur-maskerade-im-zwielicht"
+      ]
+    },
+    {
+      "entry_id": "entry_103ae0b92e765dcaa1593e22fb64428e",
+      "identity": [
+        "de",
+        "sv09",
+        "collector",
+        "166"
+      ],
+      "dex": 744,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/rockruff-cameo-cards/",
+        "https://pokecameos.com/pokemon/rockruff"
+      ]
+    },
+    {
+      "entry_id": "entry_d6a51ddc420a5b779646b4917b9d7153",
+      "identity": [
+        "de",
+        "sv10.5w",
+        "collector",
+        "155"
+      ],
+      "dex": 506,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lillipup-cameo-cards/",
+        "https://pokecameos.com/pokemon/lillipup"
+      ]
+    },
+    {
+      "entry_id": "research_entry_76785dac006f5da2a4a59010cbe590ab",
+      "identity": [
+        "de",
+        "swsh10.5",
+        "collector",
+        "060"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c6407668eb11509297764d068ee21e68",
+      "identity": [
+        "de",
+        "swsh12.5",
+        "collector",
+        "160"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c6407668eb11509297764d068ee21e68",
+      "identity": [
+        "de",
+        "swsh12.5",
+        "collector",
+        "160"
+      ],
+      "dex": 888,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/crowned-zacian-cameo-cards/",
+        "https://pokecameos.com/pokemon/crowned-zacian",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_6702543d4f005ba18f04b34766f73f8a",
+      "identity": [
+        "de",
+        "swsh3",
+        "collector",
+        "166"
+      ],
+      "dex": 835,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/yamper-cameo-cards/",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5f8f7d04f4fc5c96b426cf57e98eeb56",
+      "identity": [
+        "de",
+        "swsh3",
+        "collector",
+        "188"
+      ],
+      "dex": 835,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/yamper-cameo-cards/",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_43a3ecfe97d55b4e90503cc70123e2f2",
+      "identity": [
+        "de",
+        "swsh4.5",
+        "collector",
+        "36"
+      ],
+      "dex": 209,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/snubbull-cameo-cards/",
+        "https://pokecameos.com/pokemon/snubbull",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_44b964df7c6551428fa5ee58c0c192f9",
+      "identity": [
+        "de",
+        "swsh4.5",
+        "collector",
+        "61"
+      ],
+      "dex": 889,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zamazenta-cameo-cards/",
+        "https://pokecameos.com/pokemon/zamazenta",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5f9293f57a6d596d89c80d840b85fc6a",
+      "identity": [
+        "de",
+        "swsh4.5",
+        "collector",
+        "62"
+      ],
+      "dex": 888,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zacian-cameo-cards/",
+        "https://pokecameos.com/pokemon/zacian",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_391e4f81792555efa9e85824f633125d",
+      "identity": [
+        "de",
+        "swsh6",
+        "collector",
+        "185"
+      ],
+      "dex": 744,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/rockruff-cameo-cards/",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_87f7a17412c35a43ab5575623e3eac7f",
+      "identity": [
+        "de",
+        "swsh7",
+        "collector",
+        "16"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle"
+      ]
+    },
+    {
+      "entry_id": "research_entry_15af939707bc5140859a2ce36635ce76",
+      "identity": [
+        "de",
+        "swsh7",
+        "collector",
+        "182"
+      ],
+      "dex": 827,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/nickit-cameo-cards/",
+        "https://pokecameos.com/pokemon/nickit",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c95da4d26062575da1ff4f4dfd505e26",
+      "identity": [
+        "de",
+        "swsh8",
+        "collector",
+        "119"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle"
+      ]
+    },
+    {
+      "entry_id": "research_entry_13a070f9d383574b9797d049994da4da",
+      "identity": [
+        "de",
+        "swsh8",
+        "collector",
+        "199"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle"
+      ]
+    },
+    {
+      "entry_id": "research_entry_3b515e539c375038b060df0765f70b4a",
+      "identity": [
+        "de",
+        "swsh8",
+        "collector",
+        "251"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_49b2ba66582c5759a7ab45a58f01d8f3",
+      "identity": [
+        "de",
+        "swsh8",
+        "collector",
+        "255"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_8da036548d1c5b638867e23945a02dfc",
+      "identity": [
+        "de",
+        "swsh8",
+        "collector",
+        "259"
+      ],
+      "dex": 836,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/boltund-cameo-cards/",
+        "https://pokecameos.com/pokemon/boltund"
+      ]
+    },
+    {
+      "entry_id": "research_entry_bc819b3fe57851b3bc02c45986d3ce72",
+      "identity": [
+        "de",
+        "xy10",
+        "collector",
+        "105"
+      ],
+      "dex": 570,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zorua-cameo-cards/",
+        "https://pokecameos.com/pokemon/zorua",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_0387516a54f358a88ee3f7910eaede85",
+      "identity": [
+        "de",
+        "xy4",
+        "collector",
+        "100"
+      ],
+      "dex": 310,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mega-manectric-cameo-cards/",
+        "https://pokecameos.com/pokemon/mega-manectric"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5318bdd91c375afa9355baf64e4408d6",
+      "identity": [
+        "de",
+        "xy4",
+        "collector",
+        "108"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_de30fe7924695bf2b2f8dd84a99a8c00",
+      "identity": [
+        "de",
+        "xy8",
+        "collector",
+        "102"
+      ],
+      "dex": 209,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/snubbull-cameo-cards/",
+        "https://pokecameos.com/pokemon/snubbull",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_1f6ad9d102ce546f9cc47054524e1a67",
+      "identity": [
+        "de",
+        "xy8",
+        "collector",
+        "142"
+      ],
+      "dex": 229,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mega-houndoom-cameo-cards/",
+        "https://pokecameos.com/pokemon/mega-houndoom"
+      ]
+    },
+    {
+      "entry_id": "research_entry_83b91d6fc54e55cbac87939f1dc99ad1",
+      "identity": [
+        "de",
+        "xy8",
+        "collector",
+        "163"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b890b68816e95925bb0e9ba5d21b530b",
+      "identity": [
+        "de",
+        "xy9",
+        "collector",
+        "1"
+      ],
+      "dex": 653,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/fennekin-cameo-cards/",
+        "https://pokecameos.com/pokemon/fennekin",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_61e945dd701f5ca283d714b3d2e862d9",
+      "identity": [
+        "en",
+        "30th",
+        "collector",
+        "148"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "identity": [
+        "en",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "identity": [
+        "en",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 570,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-zorua-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-zorua",
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/en/cards/30th-150"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "identity": [
+        "en",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-zoroark",
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/en/cards/30th-150"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "identity": [
+        "en",
+        "30th",
+        "collector",
+        "150"
+      ],
+      "dex": 745,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/lycanroc-midnight-cameo-cards/",
+        "https://pokecameos.com/pokemon/lycanroc-midnight",
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/en/cards/30th-150"
+      ]
+    },
+    {
+      "entry_id": "research_entry_bf9da969f0375e31899bf486b84eb591",
+      "identity": [
+        "en",
+        "bw7",
+        "collector",
+        "127"
+      ],
+      "dex": 506,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lillipup-cameo-cards/",
+        "https://pokecameos.com/pokemon/lillipup",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "entry_1487763915fa598fb0594af89bd7b96a",
+      "identity": [
+        "en",
+        "cel25",
+        "collector",
+        "16"
+      ],
+      "dex": 889,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/crowned-zamazenta-cameo-cards/",
+        "https://pokecameos.com/pokemon/crowned-zamazenta"
+      ]
+    },
+    {
+      "entry_id": "entry_754fdad345025142a63b7f2d22c502b3",
+      "identity": [
+        "en",
+        "cel25",
+        "collector",
+        "18"
+      ],
+      "dex": 888,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/crowned-zacian-cameo-cards/",
+        "https://pokecameos.com/pokemon/crowned-zacian"
+      ]
+    },
+    {
+      "entry_id": "research_entry_a1f15ebb203e5012808b47739931cf65",
+      "identity": [
+        "en",
+        "dc1",
+        "collector",
+        "22"
+      ],
+      "dex": 262,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mightyena-cameo-cards/",
+        "https://pokecameos.com/pokemon/mightyena",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_98c6d5c6a8715700bf2e2565589a2064",
+      "identity": [
+        "en",
+        "dp1",
+        "collector",
+        "119"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_6887902e5bad5140ae219c1172fa4996",
+      "identity": [
+        "en",
+        "dp3",
+        "collector",
+        "128"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_97d58cdeaf53501486f7456f33a41964",
+      "identity": [
+        "en",
+        "dp7",
+        "collector",
+        "89"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_1487763f3cc55fcf8506d10e568b8ce2",
+      "identity": [
+        "en",
+        "dp7",
+        "collector",
+        "93"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_f6cdd2225bc853cea7a02e3ae323f3fd",
+      "identity": [
+        "en",
+        "ecard2",
+        "collector",
+        "130"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d793b4c72a0e54d8b725191fbca96421",
+      "identity": [
+        "en",
+        "gym2",
+        "collector",
+        "103"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "entry_c493ea6999fa53e59e1b480194425f78",
+      "identity": [
+        "en",
+        "me01",
+        "collector",
+        "158"
+      ],
+      "dex": 310,
+      "role": "subject",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/manectric-cameo-cards/",
+        "https://pokecameos.com/pokemon/manectric"
+      ]
+    },
+    {
+      "entry_id": "entry_58cb50a96f01505a9756356d6b8fb29c",
+      "identity": [
+        "en",
+        "me01",
+        "collector",
+        "160"
+      ],
+      "dex": 448,
+      "role": "subject",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "entry_1495530a1d8951539040d315a3bac9be",
+      "identity": [
+        "en",
+        "me01",
+        "collector",
+        "179"
+      ],
+      "dex": 310,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mega-manectric-cameo-cards/",
+        "https://pokecameos.com/pokemon/mega-manectric"
+      ]
+    },
+    {
+      "entry_id": "research_entry_a852769921405c55a37ec382ef74f412",
+      "identity": [
+        "en",
+        "me03",
+        "collector",
+        "077"
+      ],
+      "dex": 828,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/thievul-cameo-cards/",
+        "https://pokecameos.com/pokemon/thievul"
+      ]
+    },
+    {
+      "entry_id": "research_entry_76e47aa4bc1150d99a266eddd3b43727",
+      "identity": [
+        "en",
+        "me03",
+        "collector",
+        "120"
+      ],
+      "dex": 718,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zygarde-10-cameo-cards/",
+        "https://pokecameos.com/pokemon/zygarde-10"
+      ]
+    },
+    {
+      "entry_id": "research_entry_e95fefbb550f5d76b5016135107986ab",
+      "identity": [
+        "en",
+        "me06",
+        "collector",
+        "095"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-095",
+        "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/me06/95/",
+        "https://www.pokemon.com/de/features/wirf-einen-blick-auf-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-delta-herrschaft",
+        "https://holoncardshop.com/edition/delta-herrschaft/"
+      ],
+      "basis": "localized_face_and_release_review_1820"
+    },
+    {
+      "entry_id": "entry_0e34481cdeab5ff784edf840eb36c7f3",
+      "identity": [
+        "en",
+        "mep",
+        "collector",
+        "059"
+      ],
+      "dex": 263,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zigzagoon-cameo-cards/"
+      ]
+    },
+    {
+      "entry_id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "identity": [
+        "en",
+        "mep",
+        "collector",
+        "108"
+      ],
+      "dex": 37,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/vulpix-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-108"
+      ]
+    },
+    {
+      "entry_id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "identity": [
+        "en",
+        "mep",
+        "collector",
+        "108"
+      ],
+      "dex": 38,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/ninetales-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-108"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "identity": [
+        "en",
+        "mep",
+        "collector",
+        "110"
+      ],
+      "dex": 570,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/zorua-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-110"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "identity": [
+        "en",
+        "mep",
+        "collector",
+        "110"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-110"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "identity": [
+        "en",
+        "mep",
+        "collector",
+        "92"
+      ],
+      "dex": 926,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/fidough-cameo-cards/",
+        "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+        "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)",
+        "https://www.tcgplayer.com/product/714597",
+        "https://www.tcgplayer.com/product/714598",
+        "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+        "https://www.ebay.de/itm/377466687245"
+      ]
+    },
+    {
+      "entry_id": "research_entry_e253b1ac80b75c67a8cd0b29c7e7f48b",
+      "identity": [
+        "en",
+        "ru1",
+        "collector",
+        "7"
+      ],
+      "dex": 37,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/vulpix-cameo-cards/",
+        "https://pokecameos.com/pokemon/vulpix"
+      ]
+    },
+    {
+      "entry_id": "research_entry_7528c87ffcd15e40875d68e6f03400a9",
+      "identity": [
+        "en",
+        "sm3",
+        "collector",
+        "79"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "entry_44d137b91fb7552e9d326764f223c1f7",
+      "identity": [
+        "en",
+        "sm3.5",
+        "collector",
+        "52"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_eabf2f239cee53f580284c7eef1744fc",
+      "identity": [
+        "en",
+        "sm3.5",
+        "collector",
+        "63"
+      ],
+      "dex": 744,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/rockruff-cameo-cards/",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_8e6f18cbb3ef5bc8bdab67be2c02b609",
+      "identity": [
+        "en",
+        "sm8",
+        "collector",
+        "100"
+      ],
+      "dex": 447,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/riolu-cameo-cards/",
+        "https://pokecameos.com/pokemon/riolu"
+      ]
+    },
+    {
+      "entry_id": "research_entry_767b71dae81352f69c96e3ce265764c1",
+      "identity": [
+        "en",
+        "sma",
+        "collector",
+        "SV82"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_95533b7aeff05c1490720383ed2be3ea",
+      "identity": [
+        "en",
+        "smp",
+        "collector",
+        "SM231"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "entry_2c518d858a97510291a2cf56f49abb88",
+      "identity": [
+        "en",
+        "smp",
+        "collector",
+        "SM83"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "entry_b0185c7495f6567ca2a0f032fb99732f",
+      "identity": [
+        "en",
+        "sv01",
+        "collector",
+        "215"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c2cafe7a5c5c55f588af2b7de37e186b",
+      "identity": [
+        "en",
+        "sv01",
+        "collector",
+        "244"
+      ],
+      "dex": 927,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/dachsbun-cameo-cards/",
+        "https://pokecameos.com/pokemon/dachsbun"
+      ]
+    },
+    {
+      "entry_id": "research_entry_1ba4c15249735915b6e3b79e591066ea",
+      "identity": [
+        "en",
+        "sv01",
+        "collector",
+        "249"
+      ],
+      "dex": 943,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mabosstiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/mabosstiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_3ec77172373455ad92f95d36267a825f",
+      "identity": [
+        "en",
+        "sv03.5",
+        "collector",
+        "173"
+      ],
+      "dex": 37,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://pokecameos.com/pokemon/vulpix"
+      ]
+    },
+    {
+      "entry_id": "research_entry_3ec77172373455ad92f95d36267a825f",
+      "identity": [
+        "en",
+        "sv03.5",
+        "collector",
+        "173"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/growlithe"
+      ]
+    },
+    {
+      "entry_id": "research_entry_db996b41bb3353a18da1e99e5d9ba748",
+      "identity": [
+        "en",
+        "sv04",
+        "collector",
+        "196"
+      ],
+      "dex": 835,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/yamper-cameo-cards/",
+        "https://pokecameos.com/pokemon/yamper"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d6111b6ade83596e814d9da635421453",
+      "identity": [
+        "en",
+        "sv04",
+        "collector",
+        "202"
+      ],
+      "dex": 744,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/rockruff-cameo-cards/",
+        "https://pokecameos.com/pokemon/rockruff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_31dff2d3be905c5d8e32ca1c0abbd58c",
+      "identity": [
+        "en",
+        "sv04.5",
+        "collector",
+        "235"
+      ],
+      "dex": 943,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mabosstiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/mabosstiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b181a275d19d5ca0be7fe601d2b392d1",
+      "identity": [
+        "en",
+        "sv05",
+        "collector",
+        "210"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/lucario"
+      ]
+    },
+    {
+      "entry_id": "research_entry_842039108fdc527dbbe7a100c2c136dc",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "078"
+      ],
+      "dex": 1014,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/okidogi-cameo-cards/",
+        "https://pokecameos.com/pokemon/okidogi"
+      ]
+    },
+    {
+      "entry_id": "research_entry_183ba9b6ad0253f4b073f0bdcca380f4",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "138"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-growlithe"
+      ]
+    },
+    {
+      "entry_id": "research_entry_f74c5bfb1f275e3e8effc5ba18e76df7",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "144"
+      ],
+      "dex": 1014,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/okidogi-cameo-cards/",
+        "https://pokecameos.com/pokemon/okidogi"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c23b8aabf55250db9d4f3f59afcdf8d2",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "146"
+      ],
+      "dex": 1014,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/okidogi-cameo-cards/",
+        "https://pokecameos.com/pokemon/okidogi"
+      ]
+    },
+    {
+      "entry_id": "research_entry_e67a324a236556ad9dea4e6273b88942",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "182"
+      ],
+      "dex": 836,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/boltund-cameo-cards/",
+        "https://pokecameos.com/pokemon/boltund"
+      ]
+    },
+    {
+      "entry_id": "research_entry_95ec0b5c02155c6f8bfa6388bd11a93e",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "210"
+      ],
+      "dex": 836,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/boltund-cameo-cards/",
+        "https://pokecameos.com/pokemon/boltund"
+      ]
+    },
+    {
+      "entry_id": "research_entry_4615268359af5adcb36f78b36d970295",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "218"
+      ],
+      "dex": 942,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/maschiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/maschiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_4615268359af5adcb36f78b36d970295",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "218"
+      ],
+      "dex": 1014,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/okidogi-cameo-cards/",
+        "https://pokecameos.com/pokemon/okidogi"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d1433f4889575cfc9573877d1c7ad2f4",
+      "identity": [
+        "en",
+        "sv06",
+        "collector",
+        "220"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "localized_face_and_release_review_1820",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-growlithe",
+        "https://api.tcgdex.net/v2/en/cards/sv06-220",
+        "https://www.pokemon.com/de/pokemon-news/illustrationen-der-pokemon-sammelkartenspiel-erweiterung-karmesin-purpur-maskerade-im-zwielicht"
+      ]
+    },
+    {
+      "entry_id": "research_entry_37a2e268b896557b9caaf4315e78d804",
+      "identity": [
+        "en",
+        "sv07",
+        "collector",
+        "172"
+      ],
+      "dex": 942,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/maschiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/maschiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_ea0674cf724d55438440db536dbee9dd",
+      "identity": [
+        "en",
+        "sv08",
+        "collector",
+        "174"
+      ],
+      "dex": 942,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/maschiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/maschiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5251c82dd68952e6a2a9a6160512293e",
+      "identity": [
+        "en",
+        "sv08",
+        "collector",
+        "232"
+      ],
+      "dex": 942,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/maschiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/maschiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_44030505179a5bc6909f96575f5ecbd8",
+      "identity": [
+        "en",
+        "sv08",
+        "collector",
+        "244"
+      ],
+      "dex": 942,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/maschiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/maschiff"
+      ]
+    },
+    {
+      "entry_id": "research_entry_09f2d9610c9f594cb2eddc4f5d9c331c",
+      "identity": [
+        "en",
+        "sv08.5",
+        "collector",
+        "172"
+      ],
+      "dex": 942,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/maschiff-cameo-cards/",
+        "https://pokecameos.com/pokemon/maschiff"
+      ]
+    },
+    {
+      "entry_id": "entry_a55794364de851e3981bbc5da3708e97",
+      "identity": [
+        "en",
+        "sv09",
+        "collector",
+        "166"
+      ],
+      "dex": 744,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/rockruff-cameo-cards/",
+        "https://pokecameos.com/pokemon/rockruff"
+      ]
+    },
+    {
+      "entry_id": "entry_70cf13ef5d5f513b96c803c0001a38fc",
+      "identity": [
+        "en",
+        "sv10.5w",
+        "collector",
+        "155"
+      ],
+      "dex": 506,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/lillipup-cameo-cards/",
+        "https://pokecameos.com/pokemon/lillipup"
+      ]
+    },
+    {
+      "entry_id": "research_entry_36f4d87edbd65cb6a84345decca732ae",
+      "identity": [
+        "en",
+        "swsh10.5",
+        "collector",
+        "060"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_52f84b173a5155d4ad1d9e38d792c48b",
+      "identity": [
+        "en",
+        "swsh12.5",
+        "collector",
+        "160"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/hisuian-zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/hisuian-zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_52f84b173a5155d4ad1d9e38d792c48b",
+      "identity": [
+        "en",
+        "swsh12.5",
+        "collector",
+        "160"
+      ],
+      "dex": 888,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/crowned-zacian-cameo-cards/",
+        "https://pokecameos.com/pokemon/crowned-zacian",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_60054912c520540fbdce2d33efe9667d",
+      "identity": [
+        "en",
+        "swsh3",
+        "collector",
+        "166"
+      ],
+      "dex": 835,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/yamper-cameo-cards/",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_a513167677705eadb389527843a08e22",
+      "identity": [
+        "en",
+        "swsh3",
+        "collector",
+        "188"
+      ],
+      "dex": 835,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/yamper-cameo-cards/",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_8a82e7f67f225960a635b98a67ae2c72",
+      "identity": [
+        "en",
+        "swsh3",
+        "collector",
+        "195"
+      ],
+      "dex": 835,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/yamper-cameo-cards/",
+        "https://pokecameos.com/pokemon/yamper",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b463462088b95ec08f48d25d82ab1343",
+      "identity": [
+        "en",
+        "swsh4.5",
+        "collector",
+        "36"
+      ],
+      "dex": 209,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/snubbull-cameo-cards/",
+        "https://pokecameos.com/pokemon/snubbull",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_dc48cf27153a5361b2591c57f273bb70",
+      "identity": [
+        "en",
+        "swsh4.5",
+        "collector",
+        "61"
+      ],
+      "dex": 889,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zamazenta-cameo-cards/",
+        "https://pokecameos.com/pokemon/zamazenta",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_433ca343a3305814ba564c5c6b7f88c6",
+      "identity": [
+        "en",
+        "swsh4.5",
+        "collector",
+        "62"
+      ],
+      "dex": 888,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zacian-cameo-cards/",
+        "https://pokecameos.com/pokemon/zacian",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_324d6ded8a8753039ecb637a4ee43175",
+      "identity": [
+        "en",
+        "swsh6",
+        "collector",
+        "185"
+      ],
+      "dex": 744,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/rockruff-cameo-cards/",
+        "https://pokecameos.com/pokemon/rockruff",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_423973354c7c54fcb94c2a796f025c4a",
+      "identity": [
+        "en",
+        "swsh7",
+        "collector",
+        "16"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle"
+      ]
+    },
+    {
+      "entry_id": "research_entry_4f3fc3129a5b52e0ac0f304531d9fc5e",
+      "identity": [
+        "en",
+        "swsh7",
+        "collector",
+        "182"
+      ],
+      "dex": 827,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/nickit-cameo-cards/",
+        "https://pokecameos.com/pokemon/nickit",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_1d80522cc2c4517a80db242a6141b06b",
+      "identity": [
+        "en",
+        "swsh8",
+        "collector",
+        "119"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle"
+      ]
+    },
+    {
+      "entry_id": "research_entry_9b68090b2a15501ca5f41393430b83c6",
+      "identity": [
+        "en",
+        "swsh8",
+        "collector",
+        "199"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle"
+      ]
+    },
+    {
+      "entry_id": "research_entry_68ec4801fbf55eeebcbb88d497266d89",
+      "identity": [
+        "en",
+        "swsh8",
+        "collector",
+        "251"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_23843a3960e05ad3a270df4565128910",
+      "identity": [
+        "en",
+        "swsh8",
+        "collector",
+        "255"
+      ],
+      "dex": 235,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/smeargle-cameo-cards/",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b48d1fe8caed556eb2ad68e434eafd8f",
+      "identity": [
+        "en",
+        "swsh8",
+        "collector",
+        "259"
+      ],
+      "dex": 836,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/boltund-cameo-cards/",
+        "https://pokecameos.com/pokemon/boltund"
+      ]
+    },
+    {
+      "entry_id": "research_entry_4d937a1e6fdb529baed813fccaac84d7",
+      "identity": [
+        "en",
+        "swsh8",
+        "collector",
+        "274"
+      ],
+      "dex": 836,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/boltund-cameo-cards/",
+        "https://pokecameos.com/pokemon/boltund"
+      ]
+    },
+    {
+      "entry_id": "research_entry_267ad75676d55267aa082e197e08911a",
+      "identity": [
+        "en",
+        "swshp",
+        "collector",
+        "SWSH116"
+      ],
+      "dex": 827,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/nickit-cameo-cards/",
+        "https://pokecameos.com/pokemon/nickit",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_679a06e459635d9182f3be2ca3472b47",
+      "identity": [
+        "en",
+        "swshp",
+        "collector",
+        "SWSH244"
+      ],
+      "dex": 58,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/growlithe-cameo-cards/",
+        "https://pokecameos.com/pokemon/growlithe",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b14e58ec83395e6cac5a0ea724121b64",
+      "identity": [
+        "en",
+        "xy10",
+        "collector",
+        "105"
+      ],
+      "dex": 570,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zorua-cameo-cards/",
+        "https://pokecameos.com/pokemon/zorua",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5d2a8ff129ee5e07a02318805838a0b3",
+      "identity": [
+        "en",
+        "xy4",
+        "collector",
+        "100"
+      ],
+      "dex": 310,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mega-manectric-cameo-cards/",
+        "https://pokecameos.com/pokemon/mega-manectric"
+      ]
+    },
+    {
+      "entry_id": "research_entry_2100ffb73c195f4a9a403317676d277b",
+      "identity": [
+        "en",
+        "xy4",
+        "collector",
+        "108"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_66538109729e547c9638b672f3b064c2",
+      "identity": [
+        "en",
+        "xy8",
+        "collector",
+        "102"
+      ],
+      "dex": 209,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/snubbull-cameo-cards/",
+        "https://pokecameos.com/pokemon/snubbull",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_a7b20f64fe7b585abdd32520572e46fd",
+      "identity": [
+        "en",
+        "xy8",
+        "collector",
+        "142"
+      ],
+      "dex": 229,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mega-houndoom-cameo-cards/",
+        "https://pokecameos.com/pokemon/mega-houndoom"
+      ]
+    },
+    {
+      "entry_id": "research_entry_37da22e2c86354f9807fad07f35ff78d",
+      "identity": [
+        "en",
+        "xy8",
+        "collector",
+        "163"
+      ],
+      "dex": 571,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/zoroark-cameo-cards/",
+        "https://pokecameos.com/pokemon/zoroark",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_708c198064655f24a5514a5b24b3ab03",
+      "identity": [
+        "en",
+        "xy9",
+        "collector",
+        "1"
+      ],
+      "dex": 653,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/fennekin-cameo-cards/",
+        "https://pokecameos.com/pokemon/fennekin",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d70311bdd2bc512795e1964dfd064856",
+      "identity": [
+        "en",
+        "xy9",
+        "collector",
+        "98a"
+      ],
+      "dex": 261,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/poochyena-cameo-cards/",
+        "https://pokecameos.com/pokemon/poochyena",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_f4356b06dd2e54c8aa20f44406d7748d",
+      "identity": [
+        "en",
+        "xy9",
+        "collector",
+        "98b"
+      ],
+      "dex": 262,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mightyena-cameo-cards/",
+        "https://pokecameos.com/pokemon/mightyena",
+        "https://www.elitefourum.com/t/list-of-all-pokemon-tcg-cameos-english/31105"
+      ]
+    },
+    {
+      "entry_id": "research_entry_866476a07875526698023369479a84c4",
+      "identity": [
+        "en",
+        "xyp",
+        "collector",
+        "XY211"
+      ],
+      "dex": 448,
+      "role": "cameo",
+      "basis": "existing_accepted_appearance_with_external_reference",
+      "source_urls": [
+        "https://cardcameos.com/mega-lucario-cameo-cards/",
+        "https://pokecameos.com/pokemon/mega-lucario"
+      ]
+    }
+  ],
+  "physical_printings": [
+    {
+      "entry_id": "research_entry_3dcfdad312b05a6c821bb932d5cc0221",
+      "printing_id": "research_printing_1815008ab26259b599b38b18e67c6e7a",
+      "physical_key": [
+        "research_entry_3dcfdad312b05a6c821bb932d5cc0221",
+        "non_holo",
+        "none",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "printing_id": "research_printing_20b4facda87d58199b073c32970cfcf4",
+      "physical_key": [
+        "research_entry_59c4b1dcfc88528598f3abb74c375618",
+        "holo",
+        "unspecified",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[\"30th_anniversary\"]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_0246d03ae9f65678919701fb433df437",
+      "printing_id": "research_printing_26648df8bf7f562ebc894cc2b82eaad3",
+      "physical_key": [
+        "research_entry_0246d03ae9f65678919701fb433df437",
+        "holo",
+        "unspecified",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[\"30th_anniversary\"]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_e63aaa876aae52a095687ce3f1976191",
+      "printing_id": "research_printing_4dade24bfcc956b6b9211a1406e50bc7",
+      "physical_key": [
+        "research_entry_e63aaa876aae52a095687ce3f1976191",
+        "holo",
+        "unspecified",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d1433f4889575cfc9573877d1c7ad2f4",
+      "printing_id": "research_printing_57389d8c9462504190982522f8da500e",
+      "physical_key": [
+        "research_entry_d1433f4889575cfc9573877d1c7ad2f4",
+        "holo",
+        "unspecified",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_5110b6a3c88d58deb6976bde0926f4df",
+      "printing_id": "research_printing_773dfb0daf745a85ae46a808bcdb1365",
+      "physical_key": [
+        "research_entry_5110b6a3c88d58deb6976bde0926f4df",
+        "holo",
+        "unspecified",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[\"30th_anniversary\"]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "printing_id": "research_printing_877f6401cead598ab1d9559c789cde53",
+      "physical_key": [
+        "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+        "non_holo",
+        "none",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[\"staff\"]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_6d507b452f83550da033630d88cc5ae8",
+      "printing_id": "research_printing_a179b84b00d7542bbb6bdb4208a1bafa",
+      "physical_key": [
+        "research_entry_6d507b452f83550da033630d88cc5ae8",
+        "non_holo",
+        "none",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_d3c9ae11eb5d53b1b1f787290044dfd2",
+      "printing_id": "research_printing_ddcc7a57b5385ba1bfa9726037c152c3",
+      "physical_key": [
+        "research_entry_d3c9ae11eb5d53b1b1f787290044dfd2",
+        "non_holo",
+        "none",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "printing_id": "research_printing_de89154e3b565280b721bc5e4333adb2",
+      "physical_key": [
+        "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+        "holo",
+        "unspecified",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[\"30th_anniversary\"]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_e95fefbb550f5d76b5016135107986ab",
+      "printing_id": "research_printing_e6d9decb818e5f2c824ea95d22e6cc5f",
+      "physical_key": [
+        "research_entry_e95fefbb550f5d76b5016135107986ab",
+        "non_holo",
+        "none",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[]",
+        "standard"
+      ]
+    },
+    {
+      "entry_id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "printing_id": "research_printing_f9e3f48b15dc58b898448bb8660ee983",
+      "physical_key": [
+        "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+        "non_holo",
+        "none",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[]",
+        "standard"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "from_revision": "1.8.19",
+  "to_revision": "1.8.20",
+  "checks": {
+    "all_previous_entry_ids_retained": true,
+    "all_previous_printing_ids_retained": true,
+    "all_previous_physical_keys_unchanged": true,
+    "all_previous_printing_fields_unchanged": true,
+    "roster_unchanged": true,
+    "asian_entries_unchanged": true,
+    "original_checkpoint_unchanged": true
+  },
+  "entries_before": 3832,
+  "entries_after": 3839,
+  "raw_printings_before": 4615,
+  "raw_printings_after": 4627,
+  "added_entry_ids": [
+    "research_entry_0246d03ae9f65678919701fb433df437",
+    "research_entry_3dcfdad312b05a6c821bb932d5cc0221",
+    "research_entry_5110b6a3c88d58deb6976bde0926f4df",
+    "research_entry_d1433f4889575cfc9573877d1c7ad2f4",
+    "research_entry_d3c9ae11eb5d53b1b1f787290044dfd2",
+    "research_entry_e63aaa876aae52a095687ce3f1976191",
+    "research_entry_e95fefbb550f5d76b5016135107986ab"
+  ],
+  "promoted_entry_ids": [
+    "research_entry_59c4b1dcfc88528598f3abb74c375618",
+    "research_entry_6d507b452f83550da033630d88cc5ae8",
+    "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+    "research_entry_c6b2bec258d6523fbd3f316fbd625efb"
+  ],
+  "added_printing_ids": [
+    "research_printing_1815008ab26259b599b38b18e67c6e7a",
+    "research_printing_20b4facda87d58199b073c32970cfcf4",
+    "research_printing_26648df8bf7f562ebc894cc2b82eaad3",
+    "research_printing_4dade24bfcc956b6b9211a1406e50bc7",
+    "research_printing_57389d8c9462504190982522f8da500e",
+    "research_printing_773dfb0daf745a85ae46a808bcdb1365",
+    "research_printing_877f6401cead598ab1d9559c789cde53",
+    "research_printing_a179b84b00d7542bbb6bdb4208a1bafa",
+    "research_printing_ddcc7a57b5385ba1bfa9726037c152c3",
+    "research_printing_de89154e3b565280b721bc5e4333adb2",
+    "research_printing_e6d9decb818e5f2c824ea95d22e6cc5f",
+    "research_printing_f9e3f48b15dc58b898448bb8660ee983"
+  ],
+  "updated_species_link_entries": [
+    "entry_51efe6958973554fa36af66430284d80",
+    "entry_59229963e86f5723ab151da4a2b0d91a",
+    "research_entry_324f42fe54945d9da47aa0264b9c2599",
+    "research_entry_d2bdcd2350eb5ee8b5618fb104347351"
+  ],
+  "coverage": {
+    "ok": true,
+    "appearances_checked": 153,
+    "physical_printings_checked": 12,
+    "errors": []
+  },
+  "pending_cases": 9,
+  "canonical_catalog_sha256": "7028c131694febc7cda2f644cd2ab12b7fca3c0da39c80f77542e1c8bb7fc2af"
+}

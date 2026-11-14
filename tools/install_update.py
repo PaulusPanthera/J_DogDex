@@ -1,7 +1,7 @@
 """Atomic managed-file update, explicit old-layout archive, and personal-data check."""
 import argparse,datetime,hashlib,json,os,re,shutil,socket,sqlite3,sys,tempfile,zipfile
 from pathlib import Path
-VERSION='1.8.19'
+VERSION='1.8.20'
 PROTECTED={'my_collection','runtime','docs','.git'}
 
 def digest(path):
@@ -30,7 +30,7 @@ def install(target,staging,check_running=True):
     if not (target/'app.py').is_file() or not (target/'data/catalog.json').is_file():raise ValueError('Extract the update directly into the existing DogDex folder first.')
     version_file=target/'dogdex/__init__.py'
     match=re.search(r'__version__\s*=\s*[\x27\"]([^\x27\"]+)',version_file.read_text(encoding='utf-8')) if version_file.is_file() else None
-    if not match or match[1] not in manifest['expected_app_versions']:raise ValueError('Install DogDex 1.8.18 before this update. An older application can share the same catalogue data but still require earlier code fixes.')
+    if not match or match[1] not in manifest['expected_app_versions']:raise ValueError('Install DogDex 1.8.19 before this update. An older application can share the same catalogue data but still require earlier code fixes.')
     if check_running:
         with socket.socket() as sock:
             sock.settimeout(.3)
@@ -45,7 +45,7 @@ def install(target,staging,check_running=True):
     if not {e['id'] for e in old['entries']}<={e['id'] for e in new['entries']}:raise ValueError('Existing card identity would be removed')
     if not {p['id'] for e in old['entries'] for p in e['printings']}<={p['id'] for e in new['entries'] for p in e['printings']}:raise ValueError('Existing printing ID would be removed')
     user=target/'my_collection';dbpath=user/'collection.sqlite3';before=rows(dbpath)
-    stamp=datetime.datetime.now().strftime('%Y%m%d-%H%M%S-%f');backup=user/'backups'/('before-1.8.19-'+stamp);backup.mkdir(parents=True)
+    stamp=datetime.datetime.now().strftime('%Y%m%d-%H%M%S-%f');backup=user/'backups'/('before-1.8.20-'+stamp);backup.mkdir(parents=True)
     if dbpath.is_file():copy_db(dbpath,backup/'collection.sqlite3')
     changes=[n for n,i in files.items() if not (target/n).is_file() or digest(target/n)!=i['sha256']]
     existed=[];installed=[];moved=[];archive=target/'project_notes/previous_layout'/stamp
@@ -73,6 +73,8 @@ def install(target,staging,check_running=True):
         # Validate the installed package and owned IDs on a disposable database.
         sys.path.insert(0,str(target))
         from dogdex.collector import Collection
+        from dogdex.cameo_review import require_coverage
+        require_coverage(new)
         with tempfile.TemporaryDirectory(prefix='dogdex-update-check-') as tmp:
             check=Path(tmp)/'collection';check.mkdir()
             if dbpath.is_file():copy_db(dbpath,check/'collection.sqlite3')
@@ -81,7 +83,7 @@ def install(target,staging,check_running=True):
         if rows(dbpath)!=before:raise ValueError('Personal rows changed during validation')
         result=dict(version=VERSION,changed_files=len(changes),archived_root_files=len(moved),personal_tables_unchanged=True,backup=str(backup.relative_to(target)))
         (backup/'installation.json').write_text(json.dumps(result,indent=2),encoding='utf-8')
-        print('DogDex 1.8.19 installed. Collection records are unchanged.');print('Start with START_DOGDEX.bat. Export mobile view again when ready.');print('Backup: '+str(backup));return result
+        print('DogDex 1.8.20 installed. Collection records are unchanged.');print('Start with START_DOGDEX.bat. Export mobile view again when ready.');print('Backup: '+str(backup));return result
     except Exception:
         for name in reversed(moved):shutil.move(str(archive/name),target/name)
         with zipfile.ZipFile(backup/'managed-files.zip') as z:

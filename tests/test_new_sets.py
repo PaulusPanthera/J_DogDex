@@ -2,12 +2,13 @@
 import copy,hashlib,json,unittest
 from pathlib import Path
 from dogdex.new_sets import apply,FACTS
+from catalog_history import catalog_at
 from dogdex.printing_model import physical_key
 ROOT=Path(__file__).resolve().parents[1]
 class NewSetTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.c=json.loads((ROOT/'data/catalog.json').read_text(encoding='utf-8'));cls.f=json.loads(FACTS.read_text(encoding='utf-8'));cls.by={e['id']:e for e in cls.c['entries']}
+        cls.c=catalog_at('1.8.19');cls.f=json.loads(FACTS.read_text(encoding='utf-8'));cls.by={e['id']:e for e in cls.c['entries']}
     def test_explicit_delta_inventory_and_price_holds(self):
         expected={'018':{'non_holo','reverse_holo'},'019':{'holo','reverse_holo'},'066':{'non_holo','reverse_holo'},'067':{'holo'},'106':{'holo'},'112':{'holo'}}
         for lang in ('en','de'):

@@ -21,6 +21,7 @@ from .identity_corrections import apply as apply_identity_corrections
 from .catalog_corrections import apply as apply_catalog_corrections
 from .new_sets import apply as apply_new_sets, refresh as refresh_new_sets
 from .reference_review import apply as apply_reference_review, refresh as refresh_reference_review
+from .cameo_review import apply as apply_cameo_review, refresh as refresh_cameo_review
 from .special_import import ROOT,FACTS,load,stable,norm,number,date_fields,add_printing,import_special,acquire_images,write_json
 
 ART_RULE_SOURCE='https://www.pokemon.com/uk/news/pokemon-tcg-scarlet-and-violet-revamps-pokemon-tcg-card-aesthetic'
@@ -141,6 +142,7 @@ def main(download=False):
  apply_catalog_corrections(catalog)
  apply_new_sets(catalog)
  apply_reference_review(catalog)
+ apply_cameo_review(catalog)
  catalog.update(format=3,revision='1.8.12',catalog_date='2026-10-31')
  entries=catalog['entries'];ps=[p for e in entries for p in e['printings']]
  assert {(e['lang'],e['release']) for e in entries}<={(r['lang'],r['release']) for r in catalog['releases']}
@@ -153,7 +155,7 @@ def main(download=False):
  catalog['language_stats']={lang:dict(entries=sum(e['lang']==lang for e in entries),with_printings=sum(e['lang']==lang and bool(e['printings']) for e in entries),printings=sum(len(e['printings']) for e in entries if e['lang']==lang),full_art=sum(e['lang']==lang and e.get('art_style')=='full_art' for e in entries),cameos=sum(e['lang']==lang and is_cameo(e) for e in entries)) for lang in ('en','de','ja','ko')}
  catalog['used_images']=sorted({image for e in entries for image in [e.get('image'),*(p.get('image') for p in e['printings'])] if image and (ROOT/'data/images'/image).is_file()})
  catalog['research_summary']=dict(accepted_set_dates=sum(bool(r.get('date')) for r in catalog['releases']),reference_only_set_dates=sum(not r.get('date') and bool(r.get('reference_date')) for r in catalog['releases']),unresolved_set_dates=sum(not r.get('date') and not r.get('reference_date') for r in catalog['releases']),japanese_printing_additions=catalog['printing_enrichment_summary']['japanese_added'],available_cached_reference_images=acquired,pending_special_candidates=len(catalog['special_research']),limits=['Printing totals count catalog targets. Provider assertions and independently checked facts are measured separately in the audit.','Shared catalog images may show a different edition; exact printing replacements can be saved locally.','Cardmarket links do not provide live raw prices.'])
- refresh_reference_review(catalog)
+ refresh_cameo_review(catalog)
  write_json(ROOT/'data/catalog.json',catalog);make_sqlite(catalog)
  print(json.dumps(dict(statistics=catalog['statistics'],language_stats=catalog['language_stats'],research=catalog['research_summary']),ensure_ascii=False),flush=True)
  return catalog

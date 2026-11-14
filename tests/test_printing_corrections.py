@@ -68,7 +68,7 @@ class PrintingCorrectionTests(unittest.TestCase):
   x=copy.deepcopy(self.catalog);result=apply(x);self.assertEqual(result['added'],[]);self.assertEqual(result['matched'],27);self.assertEqual(x,self.catalog)
   with sqlite3.connect(ROOT/'data/catalog-collector.sqlite3') as db:
    self.assertEqual(db.execute('SELECT COUNT(*) FROM printings').fetchone()[0],sum(len(e['printings']) for e in self.catalog['entries']));self.assertEqual(db.execute('PRAGMA quick_check').fetchone()[0],'ok');self.assertFalse(db.execute('PRAGMA foreign_key_check').fetchall())
-  reopened=Collection(ROOT,self.temp.name);self.assertEqual(set(reopened.printing_map()),set(self.store.printing_map()));self.assertEqual(collections.Counter(e['lang'] for e in self.entries.values() for p in e['printings']),dict(en=1757,de=1471,ja=847,ko=530))
+  reopened=Collection(ROOT,self.temp.name);self.assertEqual(set(reopened.printing_map()),set(self.store.printing_map()));self.assertEqual(collections.Counter(e['lang'] for e in self.entries.values() for p in e['printings']),dict(en=1763,de=1477,ja=847,ko=530))
  def test_upgrade_preserves_manual_equivalents_costs_wishes_metadata_and_images(self):
   with tempfile.TemporaryDirectory() as temp:
    root=Path(temp);(root/'data').mkdir();old=copy.deepcopy(self.catalog);newids=set(old['printing_corrections_186']['new_printing_ids'])

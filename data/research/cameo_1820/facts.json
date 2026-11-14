@@ -1,0 +1,1003 @@
+{
+  "format": 1,
+  "reviewed_on": "2026-11-13",
+  "records": [
+    {
+      "entry_id": "research_entry_d1433f4889575cfc9573877d1c7ad2f4",
+      "identity": [
+        "en",
+        "sv06",
+        "220"
+      ],
+      "action": "new_entry",
+      "name": "Perrin",
+      "english": "Perrin",
+      "subject_dex": [],
+      "cameo_dex": [
+        58
+      ],
+      "rarity_code": "special_illustration_rare",
+      "art_style": "full_art",
+      "release_date": "2024-05-24",
+      "set_name": "Twilight Masquerade",
+      "image": {
+        "filename": "6ec08e615521a6f2a9569bb8bf85c5f015e8451224ee701358608be76b66173e.webp",
+        "url": "https://assets.tcgdex.net/en/sv/sv06/220/high.webp",
+        "source_sha256": "c58cdd3f2ecf809d798c9544a175fb078ce6e418576b9edff12d18a988defebf",
+        "cached_sha256": "612fe349157f2aef03e221e75115036cfc6479240b77ef6f32707a7f9e0aa47f",
+        "dimensions": [
+          600,
+          825
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/sv06-220",
+        "https://www.pokemon.com/de/pokemon-news/illustrationen-der-pokemon-sammelkartenspiel-erweiterung-karmesin-purpur-maskerade-im-zwielicht"
+      ],
+      "cameo_evidence": "Hisuian Growlithe is reflected in the camera lens; checked on each localized card face. This is collector number 220, not the other Perrin artworks.",
+      "physical": [
+        {
+          "printing_id": "research_printing_57389d8c9462504190982522f8da500e",
+          "physical": {
+            "finish": "holo",
+            "pattern": "unspecified",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[]"
+          },
+          "evidence": "Explicit localized holo tuple plus the published Special Illustration Rare card face; no reverse printing generated.",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/sv06-220",
+            "https://www.pokemon.com/de/pokemon-news/illustrationen-der-pokemon-sammelkartenspiel-erweiterung-karmesin-purpur-maskerade-im-zwielicht"
+          ],
+          "candidate_product_id": 769394,
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/sv06-220",
+          "candidate_provider_language": "en"
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_e95fefbb550f5d76b5016135107986ab",
+      "identity": [
+        "en",
+        "me06",
+        "095"
+      ],
+      "action": "new_entry",
+      "name": "Legendary Pyroduct",
+      "english": "Legendary Pyroduct",
+      "subject_dex": [],
+      "cameo_dex": [
+        58
+      ],
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "release_date": "2026-11-06",
+      "set_name": "Delta Reign",
+      "image": {
+        "filename": "ef12fdde2d2485fb1e7f8b45d99d3aff7507b15c1ad61cc3a43fc011c94ccb84.webp",
+        "url": "https://assets.tcgdex.net/en/me/me06/095/high.webp",
+        "source_sha256": "80cd7561ee57d480420a61e10bb5154f5fcee20fb8ad7a1d80ee44900909a1fc",
+        "cached_sha256": "e4896ac23b1a42f9a1e58615bfd8474c6a82c88a3a588c2256a37c7d144df685",
+        "dimensions": [
+          600,
+          825
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/en/cards/me06-095",
+        "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/me06/95/",
+        "https://www.pokemon.com/de/features/wirf-einen-blick-auf-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-delta-herrschaft",
+        "https://holoncardshop.com/edition/delta-herrschaft/"
+      ],
+      "cameo_evidence": "Growlithe appears in the right-hand stadium panorama, collector number 095. The left half, 094, is a different card.",
+      "physical": [
+        {
+          "printing_id": "research_printing_e6d9decb818e5f2c824ea95d22e6cc5f",
+          "physical": {
+            "finish": "non_holo",
+            "pattern": "none",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[]"
+          },
+          "evidence": "Exact numbered standard card in the publisher database and regional normal-card inventory; generated API defaults alone are not the printing evidence. Reverse foil remains unresolved.",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/me06-095",
+            "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/me06/95/",
+            "https://www.pokemon.com/de/features/wirf-einen-blick-auf-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-delta-herrschaft",
+            "https://holoncardshop.com/edition/delta-herrschaft/"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "identity": [
+        "en",
+        "mep",
+        "108"
+      ],
+      "action": "promote_existing_research",
+      "name": "Espeon ex",
+      "english": "Espeon ex",
+      "subject_dex": [],
+      "cameo_dex": [
+        37,
+        38
+      ],
+      "rarity_code": "promo",
+      "art_style": "full_art",
+      "release_date": "2026-11-06",
+      "set_name": "MEP Black Star Promos",
+      "image": {
+        "filename": "f0204f705433a64e15ea1596fb6c1cee483b326cc621f6c5a67dc97fbf512374.webp",
+        "url": "https://cardcameos.com/img/espeon-ex-108-mega-evolution-black-star-promos-xl.webp",
+        "source_sha256": "87555ab4aadaf4e396ba1e90cc183e97e281acee98453f628b115f55b6f8230f",
+        "cached_sha256": "b734b729758511091be559e5f459a19188c84e28bd3dbd60dfc6072455592f68",
+        "dimensions": [
+          634,
+          886
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-108"
+      ],
+      "cameo_evidence": "Recognizable background Pokémon checked on the separately localized card faces. The printed 30th Anniversary logo is retained as a physical stamp; the host is outside the dog roster and remains a cameo entry.",
+      "physical": [
+        {
+          "printing_id": "research_printing_20b4facda87d58199b073c32970cfcf4",
+          "physical": {
+            "finish": "holo",
+            "pattern": "unspecified",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[\"30th_anniversary\"]",
+            "product_name": "30th Celebration Ultra-Premium Collection — Day"
+          },
+          "evidence": "Released EN/DE Ultra-Premium Collection promo, localized card face and visible anniversary logo. Holo surface is independent of printed Promo rarity.",
+          "source_urls": [
+            "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+            "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+            "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+            "https://api.tcgdex.net/v2/en/cards/mep-108"
+          ],
+          "candidate_product_id": 895616,
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/mep-108",
+          "candidate_provider_language": "en"
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "identity": [
+        "en",
+        "mep",
+        "110"
+      ],
+      "action": "promote_existing_research",
+      "name": "Umbreon ex",
+      "english": "Umbreon ex",
+      "subject_dex": [],
+      "cameo_dex": [
+        570,
+        571
+      ],
+      "rarity_code": "promo",
+      "art_style": "full_art",
+      "release_date": "2026-11-06",
+      "set_name": "MEP Black Star Promos",
+      "image": {
+        "filename": "8ade198239a5b5c643f823542f57a11baaa1565619268f74ff7b086106e538c2.webp",
+        "url": "https://cardcameos.com/img/umbreon-ex-110-mega-evolution-black-star-promos-xl.webp",
+        "source_sha256": "8ea680b8b5e62aa7c1aac48340c3309515c31ba85ab54de21dc7c082156c233a",
+        "cached_sha256": "d363c0c7d0dfeb252300853a40040c6221bde80a3a84d0e47bb1c5fc657f5ad6",
+        "dimensions": [
+          634,
+          886
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-110"
+      ],
+      "cameo_evidence": "Recognizable background Pokémon checked on the separately localized card faces. The printed 30th Anniversary logo is retained as a physical stamp; the host is outside the dog roster and remains a cameo entry.",
+      "physical": [
+        {
+          "printing_id": "research_printing_de89154e3b565280b721bc5e4333adb2",
+          "physical": {
+            "finish": "holo",
+            "pattern": "unspecified",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[\"30th_anniversary\"]",
+            "product_name": "30th Celebration Ultra-Premium Collection — Night"
+          },
+          "evidence": "Released EN/DE Ultra-Premium Collection promo, localized card face and visible anniversary logo. Holo surface is independent of printed Promo rarity.",
+          "source_urls": [
+            "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+            "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+            "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+            "https://api.tcgdex.net/v2/en/cards/mep-110"
+          ],
+          "candidate_product_id": 895618,
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/mep-110",
+          "candidate_provider_language": "en"
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "identity": [
+        "en",
+        "mep",
+        "92"
+      ],
+      "action": "promote_existing_research",
+      "name": "Paradise Resort",
+      "english": "Paradise Resort",
+      "subject_dex": [],
+      "cameo_dex": [
+        926
+      ],
+      "rarity_code": "promo",
+      "art_style": "standard",
+      "release_date": "2026-08",
+      "set_name": "MEP Black Star Promos",
+      "image": {
+        "filename": "98366dc8e215ecac0d06a28500e27df57856180c0804419fd1f0dd5a6fcbb3f1.webp",
+        "url": "https://cardcameos.com/img/paradise-resort-92-mega-evolution-black-star-promos-xl.webp",
+        "source_sha256": "5dcc88f403245734690d9a1842c3a4228652790eee14f6c736ba40f60549927a",
+        "cached_sha256": "cffb87977f45a165fe24c4525e76e0552b472939e3a5444ac0f95a5edd5db932",
+        "dimensions": [
+          414,
+          579
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+        "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)",
+        "https://www.tcgplayer.com/product/714597",
+        "https://www.tcgplayer.com/product/714598",
+        "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+        "https://www.ebay.de/itm/377466687245"
+      ],
+      "cameo_evidence": "Fidough appears in the 2026 resort artwork; checked on the English and German MEP092 card faces. Month precision avoids asserting the exact first distribution day.",
+      "physical": [
+        {
+          "printing_id": "research_printing_f9e3f48b15dc58b898448bb8660ee983",
+          "physical": {
+            "finish": "non_holo",
+            "pattern": "none",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[]",
+            "product_name": "2026 Pokémon World Championships competitor welcome kit"
+          },
+          "evidence": "Exact numbered 2026 World Championships promo; non-holo documented by the product-specific normal-finish inventory and German physical listing with Regular finish. The API holo label is rejected. Worlds 2026 logo is embedded in the artwork; no extra applied stamp inferred.",
+          "source_urls": [
+            "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+            "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)",
+            "https://www.tcgplayer.com/product/714597",
+            "https://www.tcgplayer.com/product/714598",
+            "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+            "https://www.ebay.de/itm/377466687245"
+          ],
+          "candidate_product_id": 903686,
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/mep-092",
+          "candidate_provider_language": "en"
+        },
+        {
+          "printing_id": "research_printing_877f6401cead598ab1d9559c789cde53",
+          "physical": {
+            "finish": "non_holo",
+            "pattern": "none",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[\"staff\"]",
+            "product_name": "2026 Pokémon World Championships staff distribution"
+          },
+          "evidence": "Exact numbered 2026 World Championships promo; non-holo documented by the product-specific normal-finish inventory and German physical listing with Regular finish. The API holo label is rejected. English STAFF photograph and separate STAFF product retained.",
+          "source_urls": [
+            "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+            "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)",
+            "https://www.tcgplayer.com/product/714597",
+            "https://www.tcgplayer.com/product/714598",
+            "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+            "https://www.ebay.de/itm/377466687245"
+          ],
+          "candidate_product_id": 905263,
+          "image": {
+            "filename": "e1defd35f8e894e3d6bf3eeea327fe0d98c61cb97d0a7d9a6d0ecf8e36caa89e.webp",
+            "url": "https://tcgplayer-cdn.tcgplayer.com/product/714598_400w.jpg",
+            "source_sha256": "eef53e12857f8c86f98726d638daba5fac3e2e41cf770ba0de124bb834bb30ab",
+            "cached_sha256": "0f233da3c4825d97abfb6f613f9385834caa23e62543775fd94b6dc952de1a3d",
+            "dimensions": [
+              400,
+              561
+            ],
+            "language_checked": true,
+            "scope": "representative_reference"
+          },
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/mep-092",
+          "candidate_provider_language": "en"
+        }
+      ],
+      "physical_conflict_note": "Provider type=holo conflicts with the exact TCGplayer normal-finish series, English non-foil inventory and the German physical listing Finish=Regular. The source tuple is retained as a rejected finish claim; only non-holo is accepted."
+    },
+    {
+      "entry_id": "research_entry_e63aaa876aae52a095687ce3f1976191",
+      "identity": [
+        "de",
+        "sv06",
+        "220"
+      ],
+      "action": "new_entry",
+      "name": "Gemma",
+      "english": "Perrin",
+      "subject_dex": [],
+      "cameo_dex": [
+        58
+      ],
+      "rarity_code": "special_illustration_rare",
+      "art_style": "full_art",
+      "release_date": "2024-05-24",
+      "set_name": "Maskerade im Zwielicht",
+      "image": {
+        "filename": "3ccf3e2056238777a161a500275a1e58b2d16307b46e083ad02c4f3d63264458.webp",
+        "url": "https://assets.tcgdex.net/de/sv/sv06/220/high.webp",
+        "source_sha256": "9d173a4d27deebd59bb7f10a0a0b14371aebaf0d5e3477cb204c63596e20ee36",
+        "cached_sha256": "d87517758527eec4aa2c90e8f16d8ff42e5af2dfbd4c37fff9e1e64c0248f730",
+        "dimensions": [
+          600,
+          825
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/sv06-220",
+        "https://www.pokemon.com/de/pokemon-news/illustrationen-der-pokemon-sammelkartenspiel-erweiterung-karmesin-purpur-maskerade-im-zwielicht"
+      ],
+      "cameo_evidence": "Hisuian Growlithe is reflected in the camera lens; checked on each localized card face. This is collector number 220, not the other Perrin artworks.",
+      "physical": [
+        {
+          "printing_id": "research_printing_4dade24bfcc956b6b9211a1406e50bc7",
+          "physical": {
+            "finish": "holo",
+            "pattern": "unspecified",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[]"
+          },
+          "evidence": "Explicit localized holo tuple plus the published Special Illustration Rare card face; no reverse printing generated.",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/sv06-220",
+            "https://www.pokemon.com/de/pokemon-news/illustrationen-der-pokemon-sammelkartenspiel-erweiterung-karmesin-purpur-maskerade-im-zwielicht"
+          ],
+          "candidate_product_id": 769394,
+          "candidate_source_url": "https://api.tcgdex.net/v2/de/cards/sv06-220",
+          "candidate_provider_language": "de"
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_3dcfdad312b05a6c821bb932d5cc0221",
+      "identity": [
+        "de",
+        "me06",
+        "095"
+      ],
+      "action": "new_entry",
+      "name": "Legendäre Lavaröhre",
+      "english": "Legendary Pyroduct",
+      "subject_dex": [],
+      "cameo_dex": [
+        58
+      ],
+      "rarity_code": "uncommon",
+      "art_style": "standard",
+      "release_date": "2026-11-06",
+      "set_name": "Delta-Herrschaft",
+      "image": {
+        "filename": "ce274a9a383e0f89024536aa7ef135a2c1cd18eb08df327841b7b143331d70b4.webp",
+        "url": "https://assets.tcgdex.net/de/me/me06/095/high.webp",
+        "source_sha256": "db97bef7b62b701fee9423acd3fd7c44ce82109eb12720824490aabab487d9ff",
+        "cached_sha256": "535b5d345aa84db16b60b228f30f8079851ba082ab6eb2f49cd697bba2ac2e8f",
+        "dimensions": [
+          600,
+          825
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/me06-095",
+        "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/me06/95/",
+        "https://www.pokemon.com/de/features/wirf-einen-blick-auf-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-delta-herrschaft",
+        "https://holoncardshop.com/edition/delta-herrschaft/"
+      ],
+      "cameo_evidence": "Growlithe appears in the right-hand stadium panorama, collector number 095. The left half, 094, is a different card.",
+      "physical": [
+        {
+          "printing_id": "research_printing_1815008ab26259b599b38b18e67c6e7a",
+          "physical": {
+            "finish": "non_holo",
+            "pattern": "none",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[]"
+          },
+          "evidence": "Exact numbered standard card in the publisher database and regional normal-card inventory; generated API defaults alone are not the printing evidence. Reverse foil remains unresolved.",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/me06-095",
+            "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/me06/95/",
+            "https://www.pokemon.com/de/features/wirf-einen-blick-auf-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-delta-herrschaft",
+            "https://holoncardshop.com/edition/delta-herrschaft/"
+          ]
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_5110b6a3c88d58deb6976bde0926f4df",
+      "identity": [
+        "de",
+        "mep",
+        "108"
+      ],
+      "action": "new_entry",
+      "name": "Psiana-ex",
+      "english": "Espeon ex",
+      "subject_dex": [],
+      "cameo_dex": [
+        37,
+        38
+      ],
+      "rarity_code": "promo",
+      "art_style": "full_art",
+      "release_date": "2026-11-06",
+      "set_name": "MEP Black Star Promos",
+      "image": {
+        "filename": "bca7acb3590f1ff4041db8a9432f0124c132524ea1fb284d91e0962af30229a3.webp",
+        "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_108_R_DE.png",
+        "source_sha256": "40f5ef70a0f7dc5fdd112ca77c976e7412a23e8fa2136699aa2d2c4ab7bfcf58",
+        "cached_sha256": "22a68f351a97dbe5833f1bfe4e6a55983967642ed5533d27c082ab9f31f7dfc1",
+        "dimensions": [
+          736,
+          1024
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-108"
+      ],
+      "cameo_evidence": "Recognizable background Pokémon checked on the separately localized card faces. The printed 30th Anniversary logo is retained as a physical stamp; the host is outside the dog roster and remains a cameo entry.",
+      "physical": [
+        {
+          "printing_id": "research_printing_773dfb0daf745a85ae46a808bcdb1365",
+          "physical": {
+            "finish": "holo",
+            "pattern": "unspecified",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[\"30th_anniversary\"]",
+            "product_name": "30th Celebration Ultra-Premium Collection — Day"
+          },
+          "evidence": "Released EN/DE Ultra-Premium Collection promo, localized card face and visible anniversary logo. Holo surface is independent of printed Promo rarity.",
+          "source_urls": [
+            "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+            "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+            "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+            "https://api.tcgdex.net/v2/en/cards/mep-108"
+          ],
+          "candidate_product_id": 895616,
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/mep-108",
+          "candidate_provider_language": "en"
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_0246d03ae9f65678919701fb433df437",
+      "identity": [
+        "de",
+        "mep",
+        "110"
+      ],
+      "action": "new_entry",
+      "name": "Nachtara-ex",
+      "english": "Umbreon ex",
+      "subject_dex": [],
+      "cameo_dex": [
+        570,
+        571
+      ],
+      "rarity_code": "promo",
+      "art_style": "full_art",
+      "release_date": "2026-11-06",
+      "set_name": "MEP Black Star Promos",
+      "image": {
+        "filename": "d7a5d5fe593fb8984fa4391c5d4cf1d2e287a290027fd9052d32b843ee1ac0c3.webp",
+        "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_110_R_DE.png",
+        "source_sha256": "7072c32b6b316eed0b94b368a077c8813e05747e01217ea1550e5a28ca63a825",
+        "cached_sha256": "c7f75670bd4a17326534cf83ab212cfcc94ed57ca85bc42bd449b7ace7eb5a20",
+        "dimensions": [
+          736,
+          1024
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+        "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+        "https://api.tcgdex.net/v2/en/cards/mep-110"
+      ],
+      "cameo_evidence": "Recognizable background Pokémon checked on the separately localized card faces. The printed 30th Anniversary logo is retained as a physical stamp; the host is outside the dog roster and remains a cameo entry.",
+      "physical": [
+        {
+          "printing_id": "research_printing_26648df8bf7f562ebc894cc2b82eaad3",
+          "physical": {
+            "finish": "holo",
+            "pattern": "unspecified",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[\"30th_anniversary\"]",
+            "product_name": "30th Celebration Ultra-Premium Collection — Night"
+          },
+          "evidence": "Released EN/DE Ultra-Premium Collection promo, localized card face and visible anniversary logo. Holo surface is independent of printed Promo rarity.",
+          "source_urls": [
+            "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-november-2026",
+            "https://www.pokemon.com/de/news/wirf-einen-blick-auf-alle-pokemon-sammelkartenspiel-produkte-die-im-november-2026-veroeffentlicht-werden",
+            "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-kartenliste-und-kartengalerie/",
+            "https://api.tcgdex.net/v2/en/cards/mep-110"
+          ],
+          "candidate_product_id": 895618,
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/mep-110",
+          "candidate_provider_language": "en"
+        }
+      ]
+    },
+    {
+      "entry_id": "research_entry_d3c9ae11eb5d53b1b1f787290044dfd2",
+      "identity": [
+        "de",
+        "mep",
+        "092"
+      ],
+      "action": "new_entry",
+      "name": "Paradies Resort",
+      "english": "Paradise Resort",
+      "subject_dex": [],
+      "cameo_dex": [
+        926
+      ],
+      "rarity_code": "promo",
+      "art_style": "standard",
+      "release_date": "2026-08",
+      "set_name": "MEP Black Star Promos",
+      "image": {
+        "filename": "75ef066ea24f0cea36a4f1450a2934bbb21e3f570781842d3ff4b550f03ccad5.webp",
+        "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_092_R_DE.png",
+        "source_sha256": "dbab607d6dc68ac02905b73a285661adf2e0ba13b76450b2b95f8ec2df33ad29",
+        "cached_sha256": "37711729408d4eec06514fb928b931013af636b0b325900493325be3a62054de",
+        "dimensions": [
+          736,
+          1024
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+        "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)",
+        "https://www.tcgplayer.com/product/714597",
+        "https://www.tcgplayer.com/product/714598",
+        "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+        "https://www.ebay.de/itm/377466687245"
+      ],
+      "cameo_evidence": "Fidough appears in the 2026 resort artwork; checked on the English and German MEP092 card faces. Month precision avoids asserting the exact first distribution day.",
+      "physical": [
+        {
+          "printing_id": "research_printing_ddcc7a57b5385ba1bfa9726037c152c3",
+          "physical": {
+            "finish": "non_holo",
+            "pattern": "none",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[]",
+            "product_name": "2026 Pokémon World Championships competitor welcome kit"
+          },
+          "evidence": "Exact numbered 2026 World Championships promo; non-holo documented by the product-specific normal-finish inventory and German physical listing with Regular finish. The API holo label is rejected. Worlds 2026 logo is embedded in the artwork; no extra applied stamp inferred.",
+          "source_urls": [
+            "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+            "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)",
+            "https://www.tcgplayer.com/product/714597",
+            "https://www.tcgplayer.com/product/714598",
+            "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+            "https://www.ebay.de/itm/377466687245"
+          ],
+          "candidate_product_id": 903686,
+          "candidate_source_url": "https://api.tcgdex.net/v2/en/cards/mep-092",
+          "candidate_provider_language": "en"
+        }
+      ],
+      "physical_conflict_note": "Provider type=holo conflicts with the exact TCGplayer normal-finish series, English non-foil inventory and the German physical listing Finish=Regular. The source tuple is retained as a rejected finish claim; only non-holo is accepted."
+    },
+    {
+      "entry_id": "research_entry_6d507b452f83550da033630d88cc5ae8",
+      "identity": [
+        "de",
+        "smp",
+        "SM231"
+      ],
+      "action": "promote_existing_research",
+      "name": "Festival der Champions",
+      "english": "Champions Festival",
+      "subject_dex": [],
+      "cameo_dex": [
+        235
+      ],
+      "rarity_code": "promo",
+      "art_style": "standard",
+      "release_date": "2019-08",
+      "set_name": "SM Promokarten",
+      "image": {
+        "filename": "569c1af0ef7f0ba5666479523423c2ceecc7e9a4c21d33c2b88fe60bc3bf2721.webp",
+        "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_231_R_DE.png",
+        "source_sha256": "b6052abac1487d850e2f3f233bf785abb20e8e3eb21310947dba3b7afdb782a4",
+        "cached_sha256": "24cc00d9d868e9359037a777ffe74f2aaebad3a99023ace27a6d0eb54c927610",
+        "dimensions": [
+          736,
+          1024
+        ],
+        "language_checked": true,
+        "scope": "representative_reference"
+      },
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Champions_Festival_(SM_Promo_231)",
+        "https://api.tcgdex.net/v2/de/cards/smp-SM231"
+      ],
+      "cameo_evidence": "Smeargle is depicted on the placard in the 2019 World Championships artwork. The German card is in the documented seven-language competitor promo kit.",
+      "physical": [
+        {
+          "printing_id": "research_printing_a179b84b00d7542bbb6bdb4208a1bafa",
+          "physical": {
+            "finish": "non_holo",
+            "pattern": "none",
+            "edition": "not_applicable",
+            "layout": "standard",
+            "size": "standard",
+            "material": "paper",
+            "print_state": "standard",
+            "stamps_json": "[]",
+            "product_name": "2019 Pokémon World Championships competitor promo kit"
+          },
+          "evidence": "German numbered SM231 card face, seven-language Worlds kit documentation, and explicit regional non-holo tuple. No staff or placement stamp inferred.",
+          "source_urls": [
+            "https://bulbapedia.bulbagarden.net/wiki/Champions_Festival_(SM_Promo_231)",
+            "https://api.tcgdex.net/v2/de/cards/smp-SM231"
+          ],
+          "candidate_product_id": 313448,
+          "candidate_source_url": "https://api.tcgdex.net/v2/de/cards/smp-SM231",
+          "candidate_provider_language": "de"
+        }
+      ]
+    }
+  ],
+  "link_updates": [
+    {
+      "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "identity": [
+        "en",
+        "30th",
+        "150"
+      ],
+      "add_cameo_dex": [
+        570,
+        571,
+        745
+      ],
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/en/cards/30th-150"
+      ],
+      "evidence": "Hisuian Zorua, Hisuian Zoroark and Midnight Lycanroc are visible in the same panorama; retain the already indexed Lucario. Both localized faces inspected."
+    },
+    {
+      "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "identity": [
+        "de",
+        "30th",
+        "150"
+      ],
+      "add_cameo_dex": [
+        570,
+        571,
+        745
+      ],
+      "source_urls": [
+        "https://bulbapedia.bulbagarden.net/wiki/Pikachu_ex_(30th_Celebration_150)",
+        "https://api.tcgdex.net/v2/de/cards/30th-150"
+      ],
+      "evidence": "Hisuian Zorua, Hisuian Zoroark and Midnight Lycanroc are visible in the same panorama; retain the already indexed Lucario. Both localized faces inspected."
+    },
+    {
+      "entry_id": "entry_51efe6958973554fa36af66430284d80",
+      "identity": [
+        "de",
+        "mep",
+        "059"
+      ],
+      "add_cameo_dex": [
+        263
+      ],
+      "source_urls": [
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png",
+        "https://cardcameos.com/zigzagoon-cameo-cards/"
+      ],
+      "evidence": "Galarian Zigzagoon is depicted in the drawing/poster at the left. Existing English appearance is preserved; Lucarionite-only attribution is held for policy review."
+    },
+    {
+      "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+      "identity": [
+        "de",
+        "smp",
+        "SM83"
+      ],
+      "add_cameo_dex": [
+        571
+      ],
+      "source_urls": [
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_083_R_DE_LG.png",
+        "https://pokecameos.com/pokemon/zoroark"
+      ],
+      "evidence": "Zoroark appears in the background of the German Zorua SM83 artwork; native card face inspected, no additional physical printing."
+    }
+  ],
+  "pending": [
+    {
+      "identity": [
+        "en/de",
+        "mep",
+        "120"
+      ],
+      "species": [
+        448
+      ],
+      "state": "announced_distribution_unverified",
+      "reason": "Ace Trainer distribution is scheduled by 31 January 2027; preview art is not proof of a released physical copy on 13 November 2026. German availability and other campaign variants require separate verification.",
+      "source_urls": [
+        "https://championships.pokemon.com/de-de/about/2027-season-changes",
+        "https://bulbapedia.bulbagarden.net/wiki/Celebratory_Fanfare_(SM_Promo_46)"
+      ]
+    },
+    {
+      "identity": [
+        "de",
+        "mep",
+        "059"
+      ],
+      "species": [
+        448
+      ],
+      "state": "object_attribution_review",
+      "reason": "Lucarionite attribution alone does not establish a recognizable Lucario depiction. Existing appearance policies are not rewritten in this update.",
+      "source_urls": [
+        "https://cardcameos.com/lucario-cameo-cards/"
+      ]
+    },
+    {
+      "identity": [
+        "en/de",
+        "me06",
+        "095"
+      ],
+      "species": [
+        58
+      ],
+      "state": "physical_variant_unverified",
+      "reason": "Reverse foil needs explicit physical inventory evidence. Generated API defaults and virtual pack simulations are insufficient.",
+      "source_urls": [
+        "https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/me06/95/",
+        "https://www.pokemon.com/de/features/wirf-einen-blick-auf-karten-der-pokemon-sammelkartenspiel-erweiterung-mega-entwicklung-delta-herrschaft",
+        "https://holoncardshop.com/edition/delta-herrschaft/"
+      ]
+    },
+    {
+      "identity": [
+        "de",
+        "mep",
+        "092"
+      ],
+      "species": [
+        926
+      ],
+      "state": "physical_variant_unverified",
+      "reason": "German STAFF and 2026 placement stamps require language- and year-specific physical proof. Do not expand a generic historic Worlds stamp list.",
+      "source_urls": [
+        "https://www.pokemon.com/uk/pokemon-news/pikachu-promo-cards-revealed-ahead-of-the-2026-world-championships",
+        "https://bulbapedia.bulbagarden.net/wiki/Paradise_Resort_(MEP_Promo_92)"
+      ]
+    },
+    {
+      "identity": [
+        "de",
+        "xy9",
+        "98a"
+      ],
+      "species": [
+        261
+      ],
+      "state": "regional_release_review",
+      "reason": "A German digital reference exists, but no independently verified German physical distribution and exact finish was established in this review. Retain the previous provisional identity; do not promote from a translation or language-adjusted price estimate.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy9-98a"
+      ]
+    },
+    {
+      "identity": [
+        "de",
+        "xy9",
+        "98b"
+      ],
+      "species": [
+        262
+      ],
+      "state": "regional_release_review",
+      "reason": "A German digital reference exists, but no independently verified German physical distribution and exact finish was established in this review. Retain the previous provisional identity; do not promote from a translation or language-adjusted price estimate.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xy9-98b"
+      ]
+    },
+    {
+      "identity": [
+        "de",
+        "xyp",
+        "XY211"
+      ],
+      "species": [
+        448
+      ],
+      "state": "regional_release_review",
+      "reason": "A German digital reference exists, but no independently verified German physical distribution and exact finish was established in this review. Retain the previous provisional identity; do not promote from a translation or language-adjusted price estimate.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/xyp-XY211"
+      ]
+    },
+    {
+      "identity": [
+        "de",
+        "swshp",
+        "SWSH116"
+      ],
+      "species": [
+        827
+      ],
+      "state": "regional_release_review",
+      "reason": "A German digital reference exists, but no independently verified German physical distribution and exact finish was established in this review. Retain the previous provisional identity; do not promote from a translation or language-adjusted price estimate.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH116"
+      ]
+    },
+    {
+      "identity": [
+        "de",
+        "swshp",
+        "SWSH244"
+      ],
+      "species": [
+        58
+      ],
+      "state": "regional_release_review",
+      "reason": "A German digital reference exists, but no independently verified German physical distribution and exact finish was established in this review. Retain the previous provisional identity; do not promote from a translation or language-adjusted price estimate.",
+      "source_urls": [
+        "https://api.tcgdex.net/v2/de/cards/swshp-SWSH244"
+      ]
+    }
+  ],
+  "limits": [
+    "Positive reference coverage is not proof that every printed artwork has been exhaustively inspected.",
+    "CardCameos excludes many reprints; Pokecameos and the community list contain foreign-only and mislabelled references. Each EN/DE claim is assessed separately.",
+    "All original identifiers, printing fields, Japanese/Korean records and collection files are preserved.",
+    "Marketplace IDs are unconfirmed candidates; no filtered offer prices or automatic product confirmations are added."
+  ],
+  "retained_provenance": [
+    {
+      "printing_id": "research_printing_4d936f9a8dcc5b5c85d078ead2dd3d78",
+      "physical_key": [
+        "entry_b5103d7ae4f55286ac22f99d068afcfc",
+        "non_holo",
+        "none",
+        "not_applicable",
+        "standard",
+        "standard",
+        "paper",
+        "[\"pikachu_jack_o_lantern\"]",
+        "standard"
+      ],
+      "published_value": {
+        "kind": "reference_review_1819",
+        "reviewed_on": "2026-11-12",
+        "source_urls": [
+          "https://bulbapedia.bulbagarden.net/wiki/Trick_or_Trade_2024_(TCG)",
+          "https://bulbapedia.bulbagarden.net/wiki/Greavard_(Scarlet_%26_Violet_104)",
+          "https://www.pokemon.com/us/pokemon-tcg/product-gallery/trick-or-trade-booster-bundle-2024"
+        ],
+        "evidence": "English Trick or Trade 2024 common/uncommon card, original collector number retained, Pikachu jack-o-lantern artwork stamp. Not the differently numbered 2023 reprint."
+      },
+      "regenerated_value_sha256": "ddb268f7a76b7a9b4b6029f10cc26ade3ac1904de98f787b1721e79f9e3aad14",
+      "reason": "The 1.8.19 facts file includes a later source citation absent from its published catalogue. Preserve the published printing provenance while allowing an exact deterministic replay; no physical field changes."
+    }
+  ],
+  "source_conflicts": [
+    {
+      "identity": [
+        "en/de",
+        "mep",
+        "092"
+      ],
+      "field": "finish",
+      "rejected_claim": "TCGdex variants_detailed type=holo",
+      "accepted": "non_holo",
+      "basis": [
+        "https://www.tcgplayer.com/product/714597",
+        "https://www.tcgplayer.com/product/714598",
+        "https://tcgcolombia.com/producto/singles/paradise-resort-092-world-championships-2026-092-normal-me-mega-evolution-promo/",
+        "https://www.ebay.de/itm/377466687245"
+      ]
+    }
+  ]
+}

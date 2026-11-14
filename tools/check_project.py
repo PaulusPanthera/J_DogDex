@@ -57,6 +57,13 @@ def check(root=ROOT):
         if missing:raise ValueError(str(len(missing))+' missing cached images')
         return str(len(c['used_images']))+' cached images present'
     run('cached_images',images)
+    def cameos():
+        from dogdex.cameo_review import require_coverage
+        if c is None:raise ValueError('Catalogue could not be loaded')
+        registry=json.loads((root/'data/research/cameo_1820/coverage_requirements.json').read_text(encoding='utf-8'))
+        result=require_coverage(c,registry)
+        return str(result['appearances_checked'])+' known EN/DE appearances and '+str(result['physical_printings_checked'])+' reviewed physical printings retained'
+    run('cameo_coverage',cameos)
     def personal():
         p=root/'my_collection/collection.sqlite3'
         with tempfile.TemporaryDirectory(prefix='dogdex-check-') as temp:

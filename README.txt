@@ -1,11 +1,12 @@
-DogDex 1.8.19
+DogDex 1.8.20
 
 Start with START_DOGDEX.bat. The full Windows package includes Python.
 
-This release repairs maintenance commands, separates historical audit tests from
-current-release checks, adds CHECK_DOGDEX.bat and prepares source tracking and
-GitHub checks. Catalogue facts remain at data revision 1.8.17, including the
-30th Celebration / 30 Jahre and Delta Reign / Delta-Herrschaft additions.
+This release adds the missing Perrin/Gemma 220 cameo, reviews EN/DE background
+appearances, restores confirmed promo identities and adds independent cameo
+coverage checks. It adds 12 explicit physical printings and eight species links.
+Application and shared catalogue revision: 1.8.20. Japanese/Korean records and
+all previous card/printing IDs are preserved. Personal edits stay separate.
 
 Folder guide
   app.py, START_DOGDEX.bat    Application launchers.
@@ -66,5 +67,5 @@ Artwork currently has Standard and Full Art classifications. Illustration Rare
 and Special Illustration Rare are rarities; holo and reverse holo are finishes.
 Japanese and Korean rarity codes remain independent of Western rarity labels.
 
-See DEVELOPMENT.md and project_notes/UPDATE_1_8_19.md.
-Catalogue evidence is recorded in project_notes/DATA_SOURCES_1_8_17.md.
+See DEVELOPMENT.md and project_notes/UPDATE_1_8_20.md.
+Cameo evidence and open cases: project_notes/DATA_SOURCES_1_8_20.md.

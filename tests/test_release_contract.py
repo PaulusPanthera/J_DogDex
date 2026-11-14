@@ -17,25 +17,25 @@ class ReleaseContractTests(unittest.TestCase):
     def setUpClass(cls):
         cls.c=read('data/catalog.json')
 
-    def test_current_1819_catalogue_contract(self):
+    def test_current_1820_catalogue_contract(self):
         c=self.c
-        self.assertEqual(c['revision'],'1.8.19')
-        self.assertEqual((len(c['roster']),len(c['entries'])),(41,3832))
-        self.assertEqual(c['statistics']['printings'],4615)
-        self.assertEqual(len({e['id'] for e in c['entries']}),3832)
+        self.assertEqual(c['revision'],'1.8.20')
+        self.assertEqual((len(c['roster']),len(c['entries'])),(41,3839))
+        self.assertEqual(c['statistics']['printings'],4627)
+        self.assertEqual(len({e['id'] for e in c['entries']}),3839)
         pids=[p['id'] for e in c['entries'] for p in e['printings']]
-        self.assertEqual((len(pids),len(set(pids))),(4615,4615))
-        self.assertEqual(collections.Counter(e['lang'] for e in c['entries']),dict(en=1011,de=960,ja=1059,ko=802))
+        self.assertEqual((len(pids),len(set(pids))),(4627,4627))
+        self.assertEqual(collections.Counter(e['lang'] for e in c['entries']),dict(en=1013,de=965,ja=1059,ko=802))
         for e in c['entries']:
             keys=[physical_key(e['id'],p) for p in e['printings']]
             self.assertEqual(len(keys),len(set(keys)),e['id'])
         with tempfile.TemporaryDirectory() as user:
             entries=Collection(ROOT,user).entries().values()
             counts=collections.Counter(e['lang'] for e in entries for p in e['printings'])
-            self.assertEqual(counts,dict(en=1757,de=1471,ja=847,ko=530))
-            self.assertEqual(sum(counts.values()),4605)
+            self.assertEqual(counts,dict(en=1763,de=1477,ja=847,ko=530))
+            self.assertEqual(sum(counts.values()),4617)
         with sqlite3.connect((ROOT/'data/catalog-collector.sqlite3').as_uri()+'?mode=ro',uri=True) as db:
-            self.assertEqual(db.execute('SELECT COUNT(*) FROM printings').fetchone()[0],4615)
+            self.assertEqual(db.execute('SELECT COUNT(*) FROM printings').fetchone()[0],4627)
             self.assertEqual(db.execute('PRAGMA quick_check').fetchone()[0],'ok')
         self.assertEqual(hashlib.sha256((ROOT/'data/catalog.sqlite3').read_bytes()).hexdigest(),'e79d48ff8d056d88fa0d6b1f0771f220d79f62d82797c886183e20ada9c22da0')
 

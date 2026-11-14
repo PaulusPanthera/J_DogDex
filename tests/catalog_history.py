@@ -17,6 +17,14 @@ def _statistics(c):
 
 @lru_cache(maxsize=None)
 def _frozen(version):
+    if version=='1.8.19':
+        # Reverse only the bounded 1.8.20 delta; frozen golden hashes below are
+        # checked independently against the exact 1.8.19 archive checkpoint.
+        c=read('data/catalog.json');before=read('data/research/cameo_1820/before_records.json')
+        originals={e['id']:e for e in before['entries']};added=set(before['new_entry_ids'])
+        c['entries']=[copy.deepcopy(originals.get(e['id'],e)) for e in c['entries'] if e['id'] not in added]
+        c.update(read('data/research/cameo_1820/before_header.json'));c.pop('cameo_review_1820',None)
+        return c
     paths={'1.4':'data/research/reconciliation_15/baseline_140.json','1.5':'data/research/completion_16/baseline_150.json','1.6':'data/research/asia_17/baseline_160.json'}
     if version in paths:return read(paths[version])
     stages={'1.7':('1.6','dogdex.asia_enrich'),'1.8.4':('1.7','dogdex.printing_enrich'),'1.8.6':('1.8.4','dogdex.printing_corrections'),'1.8.9':('1.8.6','dogdex.identity_corrections')}

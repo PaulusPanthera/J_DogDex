@@ -1,5 +1,5 @@
 // One catalog utility page: Cards and Sets & sources, with advanced fields folded away.
-import {entryPreview,hasMissingPictures,comparePrintings} from './catalog.mjs?v=1.8.19';
+import {entryPreview,hasMissingPictures,comparePrintings} from './catalog.mjs?v=1.8.20';
 export function makeEditor(env){
  const E=env.esc,pretty=env.pretty;let current={},completeness=null;
  const entries=()=>env.entries(),sources=()=>env.sources(),catalog=()=>env.catalog(),state=()=>env.state();

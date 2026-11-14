@@ -19,8 +19,8 @@ class SourceStructureTests(unittest.TestCase):
   ids={p['id'] for e in self.entries for p in e['printings']};old=set(self.baseline['accepted_printing_ids'])
   held={p['id'] for e in self.entries for p in e.get('printing_claims',[]) if e.get('scope_review',{}).get('decision')=='excluded_form'}
   self.assertTrue(old<=ids|held);self.assertEqual(old-ids,old&held)
-  self.assertEqual(ids-old,set(self.store.catalog['printing_corrections_186']['new_printing_ids'])|set(self.store.catalog['identity_corrections_189']['added_printing_ids'])|set(self.store.catalog['catalog_corrections_1812']['added_printing_ids'])|set(self.store.catalog['new_sets_1817']['added_printing_ids'])|set(self.store.catalog['reference_review_1819']['added_printing_ids']))
-  self.assertEqual(collections.Counter(e['lang'] for e in self.entries for p in e['printings']),dict(en=1757,de=1471,ja=847,ko=530))
+  self.assertEqual(ids-old,set(self.store.catalog['printing_corrections_186']['new_printing_ids'])|set(self.store.catalog['identity_corrections_189']['added_printing_ids'])|set(self.store.catalog['catalog_corrections_1812']['added_printing_ids'])|set(self.store.catalog['new_sets_1817']['added_printing_ids'])|set(self.store.catalog['reference_review_1819']['added_printing_ids'])|set(self.store.catalog['cameo_review_1820']['added_printing_ids']))
+  self.assertEqual(collections.Counter(e['lang'] for e in self.entries for p in e['printings']),dict(en=1763,de=1477,ja=847,ko=530))
  def test_unified_expansions_and_original_subset_numbers(self):
   for lang in ('en','de'):
    for code,child,counts in [('swsh12.5','swsh12.5gg',(16,6)),('swsh4.5','swsh4.5sv',(10,5))]:

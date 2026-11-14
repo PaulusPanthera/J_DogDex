@@ -1,0 +1,2423 @@
+{
+  "entries": [
+    {
+      "id": "entry_59229963e86f5723ab151da4a2b0d91a",
+      "lang": "de",
+      "name": "Zorua",
+      "english": "Zorua",
+      "dex": 570,
+      "number": "SM83",
+      "number_key": "SM83",
+      "identifier_namespace": "collector",
+      "release": "smp",
+      "set_name": "SM Promokarten",
+      "year": 2017,
+      "year_basis": "card",
+      "rarity_code": "promo",
+      "rarity_state": "known",
+      "rarity_namespace": "de:smp:regional_taxonomy",
+      "rarity_label": "Promo",
+      "rarity_family": "other",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "43fd90791eaa9fab0e1a5e8c81f4bf274f0f1a50c8c17a7bf67140ce2d5fc5dc.webp",
+      "printings": [
+        {
+          "id": "variant_bf65dcbd309c58ee867f7365d229c08d",
+          "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps_json": "[]",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "label": "Holo",
+          "category": "standard",
+          "image": "43fd90791eaa9fab0e1a5e8c81f4bf274f0f1a50c8c17a7bf67140ce2d5fc5dc.webp",
+          "image_scope": "entry",
+          "release_date": "2017-11",
+          "date_precision": "month",
+          "year": 2017,
+          "date_state": "sourced_product",
+          "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+          "sources": [
+            {
+              "id": "research_product_3c96bb077b705a7cba16809ae25fdec3",
+              "name": "Schimmernde Legenden – Zoroark-GX Spezial-Kollektion",
+              "state": "verified_product",
+              "kind": "box",
+              "links": [
+                "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+                "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+              ],
+              "notes": "Exact DE promo identity SM83 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November.",
+              "release_date": "2017-11",
+              "date_precision": "month",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+            }
+          ],
+          "research_corrections": [
+            {
+              "lang": "de",
+              "release": "smp",
+              "number": "SM83",
+              "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+              "printing_id": "variant_bf65dcbd309c58ee867f7365d229c08d",
+              "source_urls": [
+                "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+                "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+              ],
+              "evidence": "Exact DE promo identity SM83 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:smp",
+          "name": "SM Promokarten",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://www.pokewiki.de/Datei:Zorua_(SM_Black_Star_Promos_SM83).png",
+        "https://api.tcgdex.net/v2/de/cards/smp-SM83",
+        "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+        "https://www.ebay.com/itm/186444321770",
+        "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+      ],
+      "release_date": "2017-11",
+      "date_precision": "month",
+      "date_state": "sourced_card",
+      "subject_dex": [
+        570
+      ],
+      "cameo_dex": [],
+      "art_style": "standard",
+      "art_style_state": "verified",
+      "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+      "date_evidence": {
+        "lang": "de",
+        "release": "smp",
+        "number": "SM83",
+        "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+        "date": "2017-11",
+        "source_urls": [
+          "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+        ],
+        "evidence": "Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November."
+      },
+      "date_note": "Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November.",
+      "date_mode": "card",
+      "art_style_source": {
+        "method": "visual_review_of_exact_native_card",
+        "source_urls": [
+          "https://limitlesstcg.com/cards/de/SMP/83"
+        ],
+        "evidence": "Native German Zorua SM83 image reviewed: regular illustration window, exact identifier.",
+        "inference": false
+      },
+      "research_corrections": [
+        {
+          "lang": "de",
+          "release": "smp",
+          "number": "SM83",
+          "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/SMP/83"
+          ],
+          "evidence": "Native German Zorua SM83 image reviewed: regular illustration window, exact identifier."
+        }
+      ],
+      "image_source": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_083_R_DE_LG.png",
+      "image_evidence": {
+        "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+        "lang": "de",
+        "release": "smp",
+        "number": "SM83",
+        "name": "Zorua",
+        "source_url": "https://limitlesstcg.com/cards/de/SMP/83",
+        "filename": "43fd90791eaa9fab0e1a5e8c81f4bf274f0f1a50c8c17a7bf67140ce2d5fc5dc.webp",
+        "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_083_R_DE_LG.png",
+        "source_sha256": "a14768f6b8124f4e2e49ccaa1bcef27895fad918c1d9d303456dc7d3d0431de4",
+        "image_sha256": "386f202b92a3efc74b675ceccc1998b332178bd710fa91f8b596f2cf46de04a9",
+        "width": 460,
+        "height": 640,
+        "identity_check": "Manually reviewed native German name, KP/rules and exact printed SM83 identifier.",
+        "reviewed_on": "2026-10-28",
+        "review_state": "verified"
+      },
+      "rarity_key": "promo",
+      "rarity_order": 30,
+      "original_rarity_label": "Promo",
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "rarity_assertions",
+          "value": "Promo",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+          ],
+          "source_family": "tcgdex",
+          "disposition": "recovered_original_known",
+          "summary": "Original provider assertion, not independently verified now.",
+          "locator": "rarity_assertions/rarity_47bdae53536f5db6b034fbdf5f1d529a",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_assertions",
+          "value": "Promo",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+          ],
+          "source_family": "tcgdex",
+          "disposition": "recovered_original_known",
+          "summary": "Original provider assertion, not independently verified now.",
+          "locator": "rarity_assertions/rarity_1bb2d7a2cc6654e1ac67c019efb61cc6",
+          "retrieved_on": null
+        },
+        {
+          "field": "variant_claims",
+          "value": {
+            "pricing": {
+              "cardmarket": {
+                "avg": 0.74,
+                "avg-holo": null,
+                "avg1": 0.99,
+                "avg1-holo": 0.24,
+                "avg30": 0.87,
+                "avg30-holo": 0.44,
+                "avg7": 0.6,
+                "avg7-holo": 0.33,
+                "idProduct": 312555,
+                "low": 0.1,
+                "low-holo": null,
+                "trend": 1,
+                "trend-holo": 0.49,
+                "unit": "EUR",
+                "updated": "2026-10-24T22:54:32.818Z"
+              },
+              "tcgplayer": {
+                "holofoil": {
+                  "directLowPrice": null,
+                  "highPrice": 27.82,
+                  "lowPrice": 0.75,
+                  "marketPrice": 2.42,
+                  "midPrice": 2.37,
+                  "productId": 149385
+                },
+                "unit": "USD",
+                "updated": "2026-10-14T22:54:58.892Z"
+              }
+            },
+            "size": "Standard",
+            "thirdParty": {
+              "cardmarket": 312555,
+              "tcgplayer": 149385
+            },
+            "type": "Normal",
+            "variantId": "endfynwn4n10gzq"
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+          ],
+          "source_family": "tcgdex",
+          "disposition": "recovered_original_review",
+          "summary": "regional_applicability_not_verified",
+          "locator": "variant_claims/f63c805376a7d6486b8e4920a99c52e1012b358c23b8a7ee327f8ba7416bc384",
+          "retrieved_on": null
+        },
+        {
+          "field": "name",
+          "value": "Zorua",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "SM83",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2017-11",
+          "source_urls": [
+            "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+            "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+            "https://www.ebay.com/itm/186444321770"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_review_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "promo",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "standard",
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/SMP/83"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_review_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "lang": "de",
+            "release": "smp",
+            "number": "SM83",
+            "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+            "date": "2017",
+            "source_urls": [
+              "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+              "https://www.ebay.com/itm/186444321770"
+            ],
+            "evidence": "The actual German 2017 collection contains these promos. Exact German launch day is not corroborated, so the English day is not imported."
+          },
+          "source_urls": [
+            "https://www.cardport.de/pokemon-schimmernde-legenden-zoroark-gx-spezial-kollektion-de.html",
+            "https://www.ebay.com/itm/186444321770"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "coverage_reviewed_facts.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "lang": "de",
+            "release": "smp",
+            "number": "SM83",
+            "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+            "values": {
+              "art_style": "standard",
+              "art_style_state": "verified",
+              "art_style_source": {
+                "method": "visual_review_of_exact_native_card",
+                "source_urls": [
+                  "https://limitlesstcg.com/cards/de/SMP/83"
+                ],
+                "evidence": "Native German Zorua SM83 image reviewed: regular illustration window, exact identifier.",
+                "inference": false
+              }
+            },
+            "source_urls": [
+              "https://limitlesstcg.com/cards/de/SMP/83"
+            ],
+            "evidence": "Native German Zorua SM83 image reviewed: regular illustration window, exact identifier."
+          },
+          "source_urls": [
+            "https://limitlesstcg.com/cards/de/SMP/83"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "regional_reviewed_facts.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "lang": "de",
+            "release": "smp",
+            "number": "SM83",
+            "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+            "date": "2017-11",
+            "source_urls": [
+              "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+            ],
+            "evidence": "Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November."
+          },
+          "source_urls": [
+            "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "regional_reviewed_facts.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "lang": "de",
+            "release": "smp",
+            "number": "SM83",
+            "entry_id": "entry_59229963e86f5723ab151da4a2b0d91a",
+            "printing_id": "variant_bf65dcbd309c58ee867f7365d229c08d",
+            "values": {
+              "finish": "holo",
+              "pattern": "unspecified",
+              "stamps_json": "[]",
+              "release_date": "2017-11",
+              "date_precision": "month",
+              "year": 2017,
+              "date_state": "sourced_product",
+              "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+              "sources": [
+                {
+                  "id": "research_product_3c96bb077b705a7cba16809ae25fdec3",
+                  "name": "Schimmernde Legenden – Zoroark-GX Spezial-Kollektion",
+                  "state": "verified_product",
+                  "kind": "box",
+                  "links": [
+                    "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+                  ],
+                  "notes": "Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November.",
+                  "release_date": "2017-11",
+                  "date_precision": "month",
+                  "year": 2017,
+                  "date_state": "sourced_product",
+                  "date_source": "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX"
+                }
+              ]
+            },
+            "source_urls": [
+              "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+              "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+            ],
+            "evidence": "Exact DE promo identity SM83 is a foil product card. Correct the existing physical ID; the different-numbered non-holo theme-deck or Japanese print is not evidence for this promo. Native German sealed Zoroark-GX collection lists German language, Zorua foil and 6 November 2017. Keep November precision because international product launch is 3 November."
+          },
+          "source_urls": [
+            "https://www.wog.ch/en/index.cfm/details/product/60434-Pokemon-Schimmernde-Legenden-Zoroark-GX",
+            "https://api.tcgdex.net/v2/de/cards/smp-SM83"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "regional_reviewed_facts.json",
+          "retrieved_on": null
+        }
+      ]
+    },
+    {
+      "id": "entry_51efe6958973554fa36af66430284d80",
+      "lang": "de",
+      "name": "Fynx",
+      "english": "Fennekin",
+      "dex": 653,
+      "number": "059",
+      "number_key": "59",
+      "identifier_namespace": "collector",
+      "release": "mep",
+      "set_name": "MEP Black Star Promos",
+      "year": 2026,
+      "year_basis": "card",
+      "rarity_code": "promo",
+      "rarity_state": "known",
+      "rarity_namespace": "de:mep:regional_taxonomy",
+      "rarity_label": "Promo",
+      "rarity_family": "other",
+      "metadata_state": "approved",
+      "category": "standard",
+      "image": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+      "printings": [
+        {
+          "id": "variant_7f32d38a9edc560da7db4152447fde1d",
+          "entry_id": "entry_51efe6958973554fa36af66430284d80",
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "stamps_json": "[]",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "label": "Holo",
+          "category": "standard",
+          "image": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+          "image_scope": "entry"
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:mep",
+          "name": "MEP Black Star Promos",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/mep-059",
+        "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3",
+        "https://www.allgames4you.de/pokemon-tcg-erste-partner-kollektion-3",
+        "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+        "https://bulbapedia.bulbagarden.net/wiki/MEP_Black_Star_Promos_(TCG)"
+      ],
+      "release_date": "2026-08-07",
+      "date_precision": "day",
+      "date_state": "sourced_card",
+      "subject_dex": [
+        653
+      ],
+      "cameo_dex": [],
+      "art_style": "full_art",
+      "art_style_state": "visually_checked",
+      "date_source": "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3",
+      "date_evidence": {
+        "entry_id": "entry_51efe6958973554fa36af66430284d80",
+        "lang": "de",
+        "release": "mep",
+        "number": "059",
+        "date": "2026-08-07",
+        "source_urls": [
+          "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3",
+          "https://www.allgames4you.de/pokemon-tcg-erste-partner-kollektion-3",
+          "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+          "https://bulbapedia.bulbagarden.net/wiki/MEP_Black_Star_Promos_(TCG)"
+        ],
+        "evidence": "Two independent native German product listings explicitly date Series 3 to 7 August 2026; the regional Fynx scan prints MEP059. The English manufacturer corroborates the same product/date but is not the sole German-language evidence."
+      },
+      "date_note": "Two independent native German product listings explicitly date Series 3 to 7 August 2026; the regional Fynx scan prints MEP059. The English manufacturer corroborates the same product/date but is not the sole German-language evidence.",
+      "art_style_source": {
+        "method": "frozen_stratified_sample_native_image_review",
+        "image": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+        "image_sha256": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a",
+        "sample_position": 79,
+        "inference": false,
+        "source_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+      },
+      "research_corrections": [
+        {
+          "entry_id": "entry_51efe6958973554fa36af66430284d80",
+          "lang": "de",
+          "release": "mep",
+          "number": "059",
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+            "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+          ],
+          "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+        },
+        {
+          "entry_id": "entry_51efe6958973554fa36af66430284d80",
+          "lang": "de",
+          "release": "mep",
+          "number": "059",
+          "source_urls": [
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+          ],
+          "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+        }
+      ],
+      "date_mode": "card",
+      "image_source": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png",
+      "image_evidence": {
+        "entry_id": "entry_51efe6958973554fa36af66430284d80",
+        "lang": "de",
+        "release": "mep",
+        "number": "059",
+        "name": "Fynx",
+        "source_url": "https://limitlesstcg.com/cards/de/MEP/59",
+        "filename": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+        "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png",
+        "source_sha256": "8f6ce7a57b3dfdf95707c98d47edf999172b1fbe60cfbfb8a9754ce37fbf54b2",
+        "image_sha256": "84b00a886f03100b282d044fad9551622c6946e4e86ad40e6bc0ae4fbe50ed65",
+        "width": 736,
+        "height": 1024,
+        "identity_check": "Exact localized title/collector route and native image; German KP, native printed name or printed German rule word checked when DE"
+      },
+      "rarity_key": "promo",
+      "rarity_order": 30,
+      "original_rarity_label": "Promo",
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "rarity_assertions",
+          "value": "Promo",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/mep-059"
+          ],
+          "source_family": "tcgdex",
+          "disposition": "recovered_original_known",
+          "summary": "Original provider assertion, not independently verified now.",
+          "locator": "rarity_assertions/rarity_2c734277c902554d99ea2b22b858d576",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_assertions",
+          "value": "Promo",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/mep-059"
+          ],
+          "source_family": "tcgdex",
+          "disposition": "recovered_original_known",
+          "summary": "Original provider assertion, not independently verified now.",
+          "locator": "rarity_assertions/rarity_d321d7f6416d5feca51c22a30a0377d8",
+          "retrieved_on": null
+        },
+        {
+          "field": "variant_claims",
+          "value": {
+            "pricing": {
+              "cardmarket": {
+                "avg": 6.99,
+                "avg-holo": null,
+                "avg1": 5.88,
+                "avg1-holo": null,
+                "avg30": 6.58,
+                "avg30-holo": null,
+                "avg7": 6.18,
+                "avg7-holo": null,
+                "idProduct": 891890,
+                "low": 2,
+                "low-holo": null,
+                "trend": 6.35,
+                "trend-holo": 0,
+                "unit": "EUR",
+                "updated": "2026-10-24T22:54:32.806Z"
+              },
+              "tcgplayer": null
+            },
+            "size": "Standard",
+            "thirdParty": {
+              "cardmarket": 891890
+            },
+            "type": "Holo",
+            "variantId": "jr7oetx1mqug9"
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/mep-059"
+          ],
+          "source_family": "tcgdex",
+          "disposition": "recovered_original_review",
+          "summary": "regional_applicability_not_verified",
+          "locator": "variant_claims/3c67dbbb66ed6e0ebaca47a057e2c48bec893af3136f7e12a3caa59d42c6295b",
+          "retrieved_on": null
+        },
+        {
+          "field": "name",
+          "value": "Fynx",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "059",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-08-07",
+          "source_urls": [
+            "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3",
+            "https://www.allgames4you.de/pokemon-tcg-erste-partner-kollektion-3",
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+            "https://bulbapedia.bulbagarden.net/wiki/MEP_Black_Star_Promos_(TCG)"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_review_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "promo",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png",
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+            "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "prior_review_claim",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "entry_id": "entry_51efe6958973554fa36af66430284d80",
+            "lang": "de",
+            "release": "mep",
+            "number": "059",
+            "values": {
+              "art_style": "full_art",
+              "art_style_state": "verified",
+              "art_style_source": {
+                "method": "visual_review_exact_regional_card_and_manufacturer_product",
+                "image": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+                "source_urls": [
+                  "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+                  "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+                ],
+                "observed_on": "2026-10-28",
+                "note": "Illustration extends behind the rules and across the full card; printed Promo rarity is preserved."
+              }
+            },
+            "source_urls": [
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+              "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+            ],
+            "evidence": "Exact regional reference visually reviewed as Full Art; this does not change its printed Promo rarity."
+          },
+          "source_urls": [
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+            "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "promo_reviewed_facts.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "entry_id": "entry_51efe6958973554fa36af66430284d80",
+            "lang": "de",
+            "release": "mep",
+            "number": "059",
+            "date": "2026-08-07",
+            "source_urls": [
+              "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3",
+              "https://www.allgames4you.de/pokemon-tcg-erste-partner-kollektion-3",
+              "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+              "https://bulbapedia.bulbagarden.net/wiki/MEP_Black_Star_Promos_(TCG)"
+            ],
+            "evidence": "Two independent native German product listings explicitly date Series 3 to 7 August 2026; the regional Fynx scan prints MEP059. The English manufacturer corroborates the same product/date but is not the sole German-language evidence."
+          },
+          "source_urls": [
+            "https://card-centre.de/products/pokemon-illustrations-kollektion-erste-partner-serie-3",
+            "https://www.allgames4you.de/pokemon-tcg-erste-partner-kollektion-3",
+            "https://www.pokemon.com/us/pokemon-tcg/product-gallery/first-partner-illustration-collection-series-3",
+            "https://bulbapedia.bulbagarden.net/wiki/MEP_Black_Star_Promos_(TCG)"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "promo_reviewed_facts.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "entry_id": "entry_51efe6958973554fa36af66430284d80",
+            "lang": "de",
+            "release": "mep",
+            "number": "059",
+            "values": {
+              "art_style": "full_art",
+              "art_style_state": "visually_checked",
+              "art_style_source": {
+                "method": "frozen_stratified_sample_native_image_review",
+                "image": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a.webp",
+                "image_sha256": "7ada7350e061438c0a8cb6b0d47bc5d9dd43125b25f79055eaa662a17d691b4a",
+                "sample_position": 79,
+                "inference": false,
+                "source_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+              }
+            },
+            "source_urls": [
+              "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+            ],
+            "evidence": "Exact native card face independently reviewed for identity, printed identifier, language and collector artwork style. Shared reference scans do not establish physical edition or foil-paper variant."
+          },
+          "source_urls": [
+            "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_059_R_DE.png"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "systematic/reviewed_facts.json",
+          "retrieved_on": null
+        }
+      ]
+    },
+    {
+      "id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+      "lang": "en",
+      "name": "Pikachu ex",
+      "english": "Pikachu ex",
+      "dex": 448,
+      "subject_dex": [],
+      "cameo_dex": [
+        448
+      ],
+      "number": "150",
+      "number_key": "150",
+      "identifier_namespace": "collector",
+      "release": "30th",
+      "set_name": "30th Celebration",
+      "year": 2026,
+      "year_basis": "set",
+      "release_date": "2026-09-16",
+      "date_precision": "day",
+      "date_state": "sourced_regional",
+      "rarity_code": "special_illustration_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "en:30th:reviewed_printed_rarity",
+      "rarity_label": "Special Illustration Rare",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "category": "cameo",
+      "image": "3a8b808058ce8cf7f2b816bb11feeff192b1b7be42fb33ed75b4d8e71fc615df.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[\"30th_anniversary\"]",
+          "id": "research_printing_035f794ee9915e58bcfe62a2471206f7",
+          "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+          "image": "3a8b808058ce8cf7f2b816bb11feeff192b1b7be42fb33ed75b4d8e71fc615df.webp",
+          "image_scope": "entry",
+          "category": "cameo",
+          "provenance": {
+            "kind": "reviewed_western_physical_printing",
+            "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+            "source_urls": [
+              "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+              "https://api.tcgdex.net/v2/en/cards/30th-150"
+            ],
+            "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred.",
+            "observed_on": "2026-10-28"
+          },
+          "label": "Holo · 30th anniversary",
+          "collection_status": "documented",
+          "verification": {
+            "existence": {
+              "status": "documented",
+              "source_urls": [
+                "https://api.tcgdex.net/v2/en/cards/30th-150",
+                "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+                "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+              ],
+              "checked_on": "2026-11-11",
+              "method": "explicit_regional_inventory"
+            },
+            "specimen": {
+              "status": "not_inspected"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:en:30th",
+          "name": "30th Celebration",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/en/cards/30th-150",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/umbreon",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "verified",
+      "provenance": {
+        "source_id": "tcgdex:en:30th-150",
+        "cameo_evidence": "named artwork index matched to exact localized provider identity",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/30th-150",
+          "https://pokecameos.com/pokemon/eevee",
+          "https://pokecameos.com/pokemon/umbreon",
+          "https://pokecameos.com/pokemon/lucario",
+          "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128"
+        ]
+      },
+      "cameo_source": {
+        "method": "native_face_review",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/30th-150",
+          "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+        ],
+        "evidence": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained."
+      },
+      "date_source": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+      "date_evidence": {
+        "date": "2026-09-16",
+        "source_urls": [
+          "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection",
+          "https://api.tcgdex.net/v2/en/sets/30th"
+        ]
+      },
+      "image_source": "https://assets.tcgdex.net/en/me/30th/150/high.webp",
+      "art_style_source": {
+        "method": "reviewed_card_face",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/en/cards/30th-150",
+          "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+        ],
+        "reviewed_on": "2026-11-11"
+      },
+      "research_corrections": [
+        {
+          "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+          "lang": "en",
+          "release": "30th",
+          "number": "150",
+          "source_urls": [
+            "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+          ],
+          "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+        }
+      ],
+      "rarity_key": "special_illustration_rare",
+      "rarity_order": 7,
+      "original_rarity_label": "Special illustration rare",
+      "identity_status": "documented",
+      "evidence": [
+        {
+          "field": "cameo appearance",
+          "value": {
+            "id": "pikachu-ex-150-30th-celebration",
+            "name": "Pikachu ex",
+            "set": "30th Celebration",
+            "no": "150",
+            "year": "2026",
+            "ill": "kantaro",
+            "img": "/img/pikachu-ex-150-30th-celebration.webp",
+            "xl": "/img/pikachu-ex-150-30th-celebration-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Nidoran♀",
+                "/nidoran-f-cameo-cards/"
+              ],
+              [
+                "Alolan Meowth",
+                "/alolan-meowth-cameo-cards/"
+              ],
+              [
+                "Galarian Meowth",
+                "/galarian-meowth-cameo-cards/"
+              ],
+              [
+                "Gengar",
+                "/gengar-cameo-cards/"
+              ],
+              [
+                "Eevee",
+                "/eevee-cameo-cards/"
+              ],
+              [
+                "Snorlax",
+                "/snorlax-cameo-cards/"
+              ],
+              [
+                "Zapdos",
+                "/zapdos-cameo-cards/"
+              ],
+              [
+                "Mewtwo",
+                "/mewtwo-cameo-cards/"
+              ],
+              [
+                "Umbreon",
+                "/umbreon-cameo-cards/"
+              ],
+              [
+                "Illumise",
+                "/illumise-cameo-cards/"
+              ],
+              [
+                "Jirachi",
+                "/jirachi-cameo-cards/"
+              ],
+              [
+                "Seismitoad",
+                "/seismitoad-cameo-cards/"
+              ],
+              [
+                "Scraggy",
+                "/scraggy-cameo-cards/"
+              ],
+              [
+                "Hisuian Zorua",
+                "/hisuian-zorua-cameo-cards/"
+              ],
+              [
+                "Hisuian Zoroark",
+                "/hisuian-zoroark-cameo-cards/"
+              ],
+              [
+                "Ferrothorn",
+                "/ferrothorn-cameo-cards/"
+              ],
+              [
+                "Chandelure",
+                "/chandelure-cameo-cards/"
+              ],
+              [
+                "Greninja",
+                "/greninja-cameo-cards/"
+              ],
+              [
+                "Lycanroc (Midnight)",
+                "/lycanroc-midnight-cameo-cards/"
+              ],
+              [
+                "Jangmo-o",
+                "/jangmo-o-cameo-cards/"
+              ],
+              [
+                "Kommo-o",
+                "/kommo-o-cameo-cards/"
+              ],
+              [
+                "Cosmoem",
+                "/cosmoem-cameo-cards/"
+              ],
+              [
+                "Toxtricity (Amped)",
+                "/toxtricity-amped-cameo-cards/"
+              ],
+              [
+                "Gholdengo",
+                "/gholdengo-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/lucario-cameo-cards/"
+          ],
+          "source_family": "cardcameos",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "cameo appearance",
+          "value": {
+            "id": "da41b870-0968-52c7-aca6-d2c4c67468b2",
+            "productId": 712954,
+            "cardName": "Pikachu ex",
+            "setName": "30th Celebration",
+            "cardNumber": "150",
+            "tcgNumber": "150/128",
+            "note": null,
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/712954_400w.jpg",
+            "altImageUrl": null,
+            "zoomUrl": "https://tcgplayer-cdn.tcgplayer.com/product/712954_in_1000x1000.jpg",
+            "productUrl": "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128",
+            "price": 56.82,
+            "releaseDate": "2026-09-16",
+            "language": "en"
+          },
+          "source_urls": [
+            "https://pokecameos.com/pokemon/lucario"
+          ],
+          "source_family": "pokecameos",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "name",
+          "value": "Pikachu ex",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "number",
+          "value": "150",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "release_date",
+          "value": "2026-09-16",
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/sets/30th"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "provider_assertion",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "rarity_code",
+          "value": "special_illustration_rare",
+          "source_urls": [],
+          "source_family": "prior_field_ledger",
+          "disposition": "populated_unchecked",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "art_style",
+          "value": "full_art",
+          "source_urls": [
+            "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+          ],
+          "source_family": "prior_field_ledger",
+          "disposition": "inferred",
+          "summary": "Recovered 1.5 assessment; not newly checked.",
+          "locator": "reconciliation_15/field_verification_ledger.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+            "lang": "en",
+            "release": "30th",
+            "number": "150",
+            "values": {
+              "art_style": "full_art",
+              "art_style_state": "verified",
+              "art_style_source": {
+                "source_url": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+                "method": "exact_illustration_card_and_official_rarity",
+                "inference": true
+              }
+            },
+            "source_urls": [
+              "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+            ],
+            "evidence": "Illustration-tier artwork; checked independently of common foil finish."
+          },
+          "source_urls": [
+            "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "western_reviewed_facts.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "prior reviewed evidence",
+          "value": {
+            "entry_id": "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+            "lang": "en",
+            "release": "30th",
+            "number": "150",
+            "printing": {
+              "finish": "holo",
+              "edition": "not_applicable",
+              "pattern": "unspecified",
+              "layout": "standard",
+              "size": "standard",
+              "material": "paper",
+              "stamps": [],
+              "print_state": "standard"
+            },
+            "source_urls": [
+              "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+              "https://api.tcgdex.net/v2/en/cards/30th-150"
+            ],
+            "evidence": "Manufacturer documents all cards in the internationally released expansion as foil. No reverse or stamped extra inferred."
+          },
+          "source_urls": [
+            "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+            "https://api.tcgdex.net/v2/en/cards/30th-150"
+          ],
+          "source_family": "prior_project_review",
+          "disposition": "recovered_historical",
+          "summary": "Historical fact may have been superseded; current selected value is separate.",
+          "locator": "western_reviewed_facts.json",
+          "retrieved_on": null
+        },
+        {
+          "field": "Previous assessment",
+          "value": {
+            "number": "150",
+            "rarity_code": "special_illustration_rare",
+            "rarity_state": "known",
+            "identity_status": "documented",
+            "release_date": "2026-09-16",
+            "date_source": "https://api.tcgdex.net/v2/en/sets/30th",
+            "date_note": null,
+            "date_evidence": "Explicit localized TCGdex set detail releaseDate; not independently confirmed against manufacturer for every row.",
+            "status_reason": null
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/30th-150",
+            "https://pokecameos.com/pokemon/eevee",
+            "https://pokecameos.com/pokemon/umbreon",
+            "https://pokecameos.com/pokemon/lucario",
+            "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128"
+          ],
+          "summary": "Historical selection retained; the released regional identity is now selected separately.",
+          "source_family": "new_sets_1817",
+          "disposition": "documented",
+          "retrieved_on": "2026-11-11"
+        },
+        {
+          "field": "Reviewed regional identity",
+          "value": {
+            "number": "150",
+            "name": "Pikachu ex",
+            "rarity_code": "special_illustration_rare",
+            "art_style": "full_art"
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/30th-150",
+            "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+            "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+          ],
+          "summary": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained.",
+          "source_family": "new_sets_1817",
+          "disposition": "documented",
+          "retrieved_on": "2026-11-11"
+        },
+        {
+          "field": "Existing anniversary printing qualified",
+          "value": {
+            "printing_id": "research_printing_035f794ee9915e58bcfe62a2471206f7",
+            "previous_physical_key": [
+              "research_entry_d2bdcd2350eb5ee8b5618fb104347351",
+              "holo",
+              "unspecified",
+              "not_applicable",
+              "standard",
+              "standard",
+              "paper",
+              "[]",
+              "standard"
+            ]
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/en/cards/30th-150",
+            "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+            "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+          ],
+          "summary": "Visible anniversary mark qualifies the existing target; stable ID retained.",
+          "source_family": "new_sets_1817",
+          "disposition": "documented",
+          "retrieved_on": "2026-11-11"
+        }
+      ],
+      "provider_identifiers": {
+        "tcgdex": "30th-150"
+      }
+    },
+    {
+      "id": "research_entry_c6b2bec258d6523fbd3f316fbd625efb",
+      "lang": "en",
+      "name": "Umbreon ex",
+      "english": "Umbreon ex",
+      "dex": 571,
+      "subject_dex": [],
+      "cameo_dex": [
+        570,
+        571
+      ],
+      "number": "110",
+      "number_key": "110",
+      "identifier_namespace": "collector",
+      "release": "mep",
+      "set_name": "MEP Black Star Promos",
+      "year_basis": "card",
+      "date_mode": "card",
+      "rarity_code": null,
+      "rarity_state": "unresolved",
+      "rarity_namespace": "en:unresolved",
+      "rarity_label": "Needs research",
+      "rarity_family": "other",
+      "metadata_state": "review",
+      "identity_status": "provisional",
+      "status_reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "category": "cameo",
+      "image": null,
+      "printings": [],
+      "sources": [
+        {
+          "id": "release:en:mep",
+          "name": "MEP Black Star Promos",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://cardcameos.com/zoroark-cameo-cards/"
+      ],
+      "art_style": null,
+      "art_style_state": "unresolved",
+      "release_date": null,
+      "date_precision": null,
+      "year": null,
+      "date_state": "unresolved",
+      "date_source": "https://api.tcgdex.net/v2/en/sets/mep",
+      "evidence": [
+        {
+          "field": "identity / language",
+          "value": {
+            "id": "umbreon-ex-110-mega-evolution-black-star-promos",
+            "name": "Umbreon ex",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "110",
+            "year": "2025",
+            "ill": "REND",
+            "img": "/img/umbreon-ex-110-mega-evolution-black-star-promos.webp",
+            "xl": "/img/umbreon-ex-110-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Eevee",
+                "/eevee-cameo-cards/"
+              ],
+              [
+                "Mewtwo",
+                "/mewtwo-cameo-cards/"
+              ],
+              [
+                "Murkrow",
+                "/murkrow-cameo-cards/"
+              ],
+              [
+                "Lunatone",
+                "/lunatone-cameo-cards/"
+              ],
+              [
+                "Cresselia",
+                "/cresselia-cameo-cards/"
+              ],
+              [
+                "Zorua",
+                "/zorua-cameo-cards/"
+              ],
+              [
+                "Deino",
+                "/deino-cameo-cards/"
+              ],
+              [
+                "Zweilous",
+                "/zweilous-cameo-cards/"
+              ],
+              [
+                "Hydreigon",
+                "/hydreigon-cameo-cards/"
+              ],
+              [
+                "Minior",
+                "/minior-cameo-cards/"
+              ],
+              [
+                "Zeraora",
+                "/zeraora-cameo-cards/"
+              ],
+              [
+                "Toxel",
+                "/toxel-cameo-cards/"
+              ],
+              [
+                "Toxtricity (Low-Key)",
+                "/toxtricity-low-key-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/zoroark-cameo-cards/"
+          ],
+          "source_family": "source_inventory",
+          "disposition": "newly_admitted_provisional",
+          "summary": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "cameo appearance",
+          "value": {
+            "id": "umbreon-ex-110-mega-evolution-black-star-promos",
+            "name": "Umbreon ex",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "110",
+            "year": "2025",
+            "ill": "REND",
+            "img": "/img/umbreon-ex-110-mega-evolution-black-star-promos.webp",
+            "xl": "/img/umbreon-ex-110-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Eevee",
+                "/eevee-cameo-cards/"
+              ],
+              [
+                "Mewtwo",
+                "/mewtwo-cameo-cards/"
+              ],
+              [
+                "Murkrow",
+                "/murkrow-cameo-cards/"
+              ],
+              [
+                "Lunatone",
+                "/lunatone-cameo-cards/"
+              ],
+              [
+                "Cresselia",
+                "/cresselia-cameo-cards/"
+              ],
+              [
+                "Zorua",
+                "/zorua-cameo-cards/"
+              ],
+              [
+                "Deino",
+                "/deino-cameo-cards/"
+              ],
+              [
+                "Zweilous",
+                "/zweilous-cameo-cards/"
+              ],
+              [
+                "Hydreigon",
+                "/hydreigon-cameo-cards/"
+              ],
+              [
+                "Minior",
+                "/minior-cameo-cards/"
+              ],
+              [
+                "Zeraora",
+                "/zeraora-cameo-cards/"
+              ],
+              [
+                "Toxel",
+                "/toxel-cameo-cards/"
+              ],
+              [
+                "Toxtricity (Low-Key)",
+                "/toxtricity-low-key-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/zoroark-cameo-cards/"
+          ],
+          "source_family": "cardcameos",
+          "disposition": "provisional",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "cameo appearance",
+          "value": {
+            "id": "umbreon-ex-110-mega-evolution-black-star-promos",
+            "name": "Umbreon ex",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "110",
+            "year": "2025",
+            "ill": "REND",
+            "img": "/img/umbreon-ex-110-mega-evolution-black-star-promos.webp",
+            "xl": "/img/umbreon-ex-110-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Eevee",
+                "/eevee-cameo-cards/"
+              ],
+              [
+                "Mewtwo",
+                "/mewtwo-cameo-cards/"
+              ],
+              [
+                "Murkrow",
+                "/murkrow-cameo-cards/"
+              ],
+              [
+                "Lunatone",
+                "/lunatone-cameo-cards/"
+              ],
+              [
+                "Cresselia",
+                "/cresselia-cameo-cards/"
+              ],
+              [
+                "Zoroark",
+                "/zoroark-cameo-cards/"
+              ],
+              [
+                "Deino",
+                "/deino-cameo-cards/"
+              ],
+              [
+                "Zweilous",
+                "/zweilous-cameo-cards/"
+              ],
+              [
+                "Hydreigon",
+                "/hydreigon-cameo-cards/"
+              ],
+              [
+                "Minior",
+                "/minior-cameo-cards/"
+              ],
+              [
+                "Zeraora",
+                "/zeraora-cameo-cards/"
+              ],
+              [
+                "Toxel",
+                "/toxel-cameo-cards/"
+              ],
+              [
+                "Toxtricity (Low-Key)",
+                "/toxtricity-low-key-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/zorua-cameo-cards/"
+          ],
+          "source_family": "cardcameos",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        }
+      ],
+      "rarity_key": "unresolved",
+      "rarity_order": 1001
+    },
+    {
+      "id": "research_entry_59c4b1dcfc88528598f3abb74c375618",
+      "lang": "en",
+      "name": "Espeon ex",
+      "english": "Espeon ex",
+      "dex": 37,
+      "subject_dex": [],
+      "cameo_dex": [
+        37,
+        38
+      ],
+      "number": "108",
+      "number_key": "108",
+      "identifier_namespace": "collector",
+      "release": "mep",
+      "set_name": "MEP Black Star Promos",
+      "year_basis": "card",
+      "date_mode": "card",
+      "rarity_code": null,
+      "rarity_state": "unresolved",
+      "rarity_namespace": "en:unresolved",
+      "rarity_label": "Needs research",
+      "rarity_family": "other",
+      "metadata_state": "review",
+      "identity_status": "provisional",
+      "status_reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "category": "cameo",
+      "image": null,
+      "printings": [],
+      "sources": [
+        {
+          "id": "release:en:mep",
+          "name": "MEP Black Star Promos",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://cardcameos.com/vulpix-cameo-cards/"
+      ],
+      "art_style": null,
+      "art_style_state": "unresolved",
+      "release_date": null,
+      "date_precision": null,
+      "year": null,
+      "date_state": "unresolved",
+      "date_source": "https://api.tcgdex.net/v2/en/sets/mep",
+      "evidence": [
+        {
+          "field": "identity / language",
+          "value": {
+            "id": "espeon-ex-108-mega-evolution-black-star-promos",
+            "name": "Espeon ex",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "108",
+            "year": "2025",
+            "ill": "REND",
+            "img": "/img/espeon-ex-108-mega-evolution-black-star-promos.webp",
+            "xl": "/img/espeon-ex-108-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Ninetales",
+                "/ninetales-cameo-cards/"
+              ],
+              [
+                "Kangaskhan",
+                "/kangaskhan-cameo-cards/"
+              ],
+              [
+                "Eevee",
+                "/eevee-cameo-cards/"
+              ],
+              [
+                "Mew",
+                "/mew-cameo-cards/"
+              ],
+              [
+                "Marill",
+                "/marill-cameo-cards/"
+              ],
+              [
+                "Azumarill",
+                "/azumarill-cameo-cards/"
+              ],
+              [
+                "Solrock",
+                "/solrock-cameo-cards/"
+              ],
+              [
+                "Tropius",
+                "/tropius-cameo-cards/"
+              ],
+              [
+                "Cherubi",
+                "/cherubi-cameo-cards/"
+              ],
+              [
+                "Cherrim",
+                "/cherrim-cameo-cards/"
+              ],
+              [
+                "Victini",
+                "/victini-cameo-cards/"
+              ],
+              [
+                "Comfey",
+                "/comfey-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/vulpix-cameo-cards/"
+          ],
+          "source_family": "source_inventory",
+          "disposition": "newly_admitted_provisional",
+          "summary": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "cameo appearance",
+          "value": {
+            "id": "espeon-ex-108-mega-evolution-black-star-promos",
+            "name": "Espeon ex",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "108",
+            "year": "2025",
+            "ill": "REND",
+            "img": "/img/espeon-ex-108-mega-evolution-black-star-promos.webp",
+            "xl": "/img/espeon-ex-108-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Ninetales",
+                "/ninetales-cameo-cards/"
+              ],
+              [
+                "Kangaskhan",
+                "/kangaskhan-cameo-cards/"
+              ],
+              [
+                "Eevee",
+                "/eevee-cameo-cards/"
+              ],
+              [
+                "Mew",
+                "/mew-cameo-cards/"
+              ],
+              [
+                "Marill",
+                "/marill-cameo-cards/"
+              ],
+              [
+                "Azumarill",
+                "/azumarill-cameo-cards/"
+              ],
+              [
+                "Solrock",
+                "/solrock-cameo-cards/"
+              ],
+              [
+                "Tropius",
+                "/tropius-cameo-cards/"
+              ],
+              [
+                "Cherubi",
+                "/cherubi-cameo-cards/"
+              ],
+              [
+                "Cherrim",
+                "/cherrim-cameo-cards/"
+              ],
+              [
+                "Victini",
+                "/victini-cameo-cards/"
+              ],
+              [
+                "Comfey",
+                "/comfey-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/vulpix-cameo-cards/"
+          ],
+          "source_family": "cardcameos",
+          "disposition": "provisional",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "cameo appearance",
+          "value": {
+            "id": "espeon-ex-108-mega-evolution-black-star-promos",
+            "name": "Espeon ex",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "108",
+            "year": "2025",
+            "ill": "REND",
+            "img": "/img/espeon-ex-108-mega-evolution-black-star-promos.webp",
+            "xl": "/img/espeon-ex-108-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Vulpix",
+                "/vulpix-cameo-cards/"
+              ],
+              [
+                "Kangaskhan",
+                "/kangaskhan-cameo-cards/"
+              ],
+              [
+                "Eevee",
+                "/eevee-cameo-cards/"
+              ],
+              [
+                "Mew",
+                "/mew-cameo-cards/"
+              ],
+              [
+                "Marill",
+                "/marill-cameo-cards/"
+              ],
+              [
+                "Azumarill",
+                "/azumarill-cameo-cards/"
+              ],
+              [
+                "Solrock",
+                "/solrock-cameo-cards/"
+              ],
+              [
+                "Tropius",
+                "/tropius-cameo-cards/"
+              ],
+              [
+                "Cherubi",
+                "/cherubi-cameo-cards/"
+              ],
+              [
+                "Cherrim",
+                "/cherrim-cameo-cards/"
+              ],
+              [
+                "Victini",
+                "/victini-cameo-cards/"
+              ],
+              [
+                "Comfey",
+                "/comfey-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/ninetales-cameo-cards/"
+          ],
+          "source_family": "cardcameos",
+          "disposition": "newly_reconciled",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        }
+      ],
+      "rarity_key": "unresolved",
+      "rarity_order": 1001
+    },
+    {
+      "id": "research_entry_b830d08f96a15dc287ff0f1d7384dc0b",
+      "lang": "en",
+      "name": "Paradise Resort",
+      "english": "Paradise Resort",
+      "dex": 926,
+      "subject_dex": [],
+      "cameo_dex": [
+        926
+      ],
+      "number": "92",
+      "number_key": "92",
+      "identifier_namespace": "collector",
+      "release": "mep",
+      "set_name": "MEP Black Star Promos",
+      "year_basis": "card",
+      "date_mode": "card",
+      "rarity_code": null,
+      "rarity_state": "unresolved",
+      "rarity_namespace": "en:unresolved",
+      "rarity_label": "Needs research",
+      "rarity_family": "other",
+      "metadata_state": "review",
+      "identity_status": "provisional",
+      "status_reason": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+      "category": "cameo",
+      "image": null,
+      "printings": [],
+      "sources": [
+        {
+          "id": "release:en:mep",
+          "name": "MEP Black Star Promos",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://cardcameos.com/fidough-cameo-cards/"
+      ],
+      "art_style": null,
+      "art_style_state": "unresolved",
+      "release_date": null,
+      "date_precision": null,
+      "year": null,
+      "date_state": "unresolved",
+      "date_source": "https://api.tcgdex.net/v2/en/sets/mep",
+      "evidence": [
+        {
+          "field": "identity / language",
+          "value": {
+            "id": "paradise-resort-92-mega-evolution-black-star-promos",
+            "name": "Paradise Resort",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "92",
+            "year": "2025",
+            "ill": "Naoki Saito",
+            "img": "/img/paradise-resort-92-mega-evolution-black-star-promos.webp",
+            "xl": "/img/paradise-resort-92-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Pikachu",
+                "/pikachu-cameo-cards/"
+              ],
+              [
+                "Psyduck",
+                "/psyduck-cameo-cards/"
+              ],
+              [
+                "Sudowoodo",
+                "/sudowoodo-cameo-cards/"
+              ],
+              [
+                "Spheal",
+                "/spheal-cameo-cards/"
+              ],
+              [
+                "Sylveon",
+                "/sylveon-cameo-cards/"
+              ],
+              [
+                "Charjabug",
+                "/charjabug-cameo-cards/"
+              ],
+              [
+                "Klawf",
+                "/klawf-cameo-cards/"
+              ],
+              [
+                "Gimmighoul (Chest)",
+                "/gimmighoul-chest-cameo-cards/"
+              ],
+              [
+                "Archaludon",
+                "/archaludon-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/fidough-cameo-cards/"
+          ],
+          "source_family": "source_inventory",
+          "disposition": "newly_admitted_provisional",
+          "summary": "Traceable inventory claim; exact identity/language or remaining fields await confirmation.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "cameo appearance",
+          "value": {
+            "id": "paradise-resort-92-mega-evolution-black-star-promos",
+            "name": "Paradise Resort",
+            "set": "Mega Evolution Black Star Promos",
+            "no": "92",
+            "year": "2025",
+            "ill": "Naoki Saito",
+            "img": "/img/paradise-resort-92-mega-evolution-black-star-promos.webp",
+            "xl": "/img/paradise-resort-92-mega-evolution-black-star-promos-xl.webp",
+            "note": "",
+            "jumbo": false,
+            "also": [
+              [
+                "Pikachu",
+                "/pikachu-cameo-cards/"
+              ],
+              [
+                "Psyduck",
+                "/psyduck-cameo-cards/"
+              ],
+              [
+                "Sudowoodo",
+                "/sudowoodo-cameo-cards/"
+              ],
+              [
+                "Spheal",
+                "/spheal-cameo-cards/"
+              ],
+              [
+                "Sylveon",
+                "/sylveon-cameo-cards/"
+              ],
+              [
+                "Charjabug",
+                "/charjabug-cameo-cards/"
+              ],
+              [
+                "Klawf",
+                "/klawf-cameo-cards/"
+              ],
+              [
+                "Gimmighoul (Chest)",
+                "/gimmighoul-chest-cameo-cards/"
+              ],
+              [
+                "Archaludon",
+                "/archaludon-cameo-cards/"
+              ]
+            ]
+          },
+          "source_urls": [
+            "https://cardcameos.com/fidough-cameo-cards/"
+          ],
+          "source_family": "cardcameos",
+          "disposition": "provisional",
+          "summary": "Inventory reconciliation does not certify finish, date or regional variants.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        }
+      ],
+      "rarity_key": "unresolved",
+      "rarity_order": 1001
+    },
+    {
+      "id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+      "lang": "de",
+      "name": "Pikachu-ex",
+      "english": "Pikachu ex",
+      "dex": 448,
+      "subject_dex": [],
+      "cameo_dex": [
+        448
+      ],
+      "number": "150",
+      "number_key": "150",
+      "identifier_namespace": "collector",
+      "release": "30th",
+      "set_name": "30 Jahre",
+      "year_basis": "set",
+      "date_mode": "source",
+      "rarity_code": "special_illustration_rare",
+      "rarity_state": "known",
+      "rarity_namespace": "de:30th:reviewed_printed_rarity",
+      "rarity_label": "Selten, besondere Illustration",
+      "rarity_family": "rare",
+      "metadata_state": "approved",
+      "identity_status": "documented",
+      "category": "cameo",
+      "image": "23bdb234a1ac6e30650311259339888456c37487a8a09fa39d5bae08f501048e.webp",
+      "printings": [
+        {
+          "finish": "holo",
+          "pattern": "unspecified",
+          "edition": "not_applicable",
+          "layout": "standard",
+          "size": "standard",
+          "material": "paper",
+          "print_state": "standard",
+          "printed_rarity_state": "inherit",
+          "printed_rarity_code": null,
+          "stamps_json": "[\"30th_anniversary\"]",
+          "id": "research_printing_c32e933a434553959adb6b8b50c479b7",
+          "entry_id": "research_entry_324f42fe54945d9da47aa0264b9c2599",
+          "image": "23bdb234a1ac6e30650311259339888456c37487a8a09fa39d5bae08f501048e.webp",
+          "image_scope": "entry",
+          "category": "cameo",
+          "provenance": {
+            "kind": "new_sets_1817",
+            "source_url": "https://api.tcgdex.net/v2/de/cards/30th-150",
+            "source_urls": [
+              "https://api.tcgdex.net/v2/de/cards/30th-150",
+              "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+              "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+            ],
+            "reviewed_on": "2026-11-11",
+            "evidence": "Manufacturer all-foil expansion; explicit anniversary face."
+          },
+          "label": "Holo · 30th anniversary",
+          "collection_status": "documented",
+          "verification": {
+            "existence": {
+              "status": "documented",
+              "source_urls": [
+                "https://api.tcgdex.net/v2/de/cards/30th-150",
+                "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+                "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+              ],
+              "checked_on": "2026-11-11",
+              "method": "explicit_regional_inventory"
+            },
+            "specimen": {
+              "status": "not_inspected"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "release:de:30th",
+          "name": "30 Jahre",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/30th-150",
+        "https://api.tcgdex.net/v2/en/cards/30th-150",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/umbreon",
+        "https://pokecameos.com/pokemon/lucario",
+        "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128",
+        "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+        "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+      ],
+      "art_style": "full_art",
+      "art_style_state": "verified",
+      "release_date": "2026-09-16",
+      "date_precision": "day",
+      "year": 2026,
+      "date_state": "sourced_regional",
+      "date_source": "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+      "evidence": [
+        {
+          "field": "identity / language",
+          "value": {
+            "category": "Pokémon",
+            "id": "30th-150",
+            "illustrator": "kantaro",
+            "image": "https://assets.tcgdex.net/de/me/30th/150",
+            "localId": "150",
+            "name": "Pikachu-ex",
+            "rarity": "Selten, besondere Illustration",
+            "set": {
+              "cardCount": {
+                "official": 128,
+                "total": 158
+              },
+              "id": "30th",
+              "name": "30 Jahre"
+            },
+            "variants": {
+              "firstEdition": false,
+              "holo": false,
+              "normal": true,
+              "reverse": false,
+              "wPromo": false
+            },
+            "variants_detailed": [
+              {
+                "type": "normal",
+                "size": "Standard",
+                "variantId": "generated"
+              }
+            ],
+            "hp": 190,
+            "types": [
+              "Elektro"
+            ],
+            "stage": "Basis",
+            "suffix": "EX",
+            "attacks": [
+              {
+                "cost": [
+                  "Elektro"
+                ],
+                "name": "Zipp-Zapp-Wahn",
+                "effect": "Du kannst beliebig viele Basis-Energiekarten aus deiner Hand beliebig an deine Pokémon anlegen."
+              },
+              {
+                "cost": [
+                  "Elektro",
+                  "Elektro",
+                  "Farblos"
+                ],
+                "name": "Donner",
+                "effect": "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.",
+                "damage": 200
+              }
+            ],
+            "weaknesses": [
+              {
+                "type": "Kampf",
+                "value": "×2"
+              }
+            ],
+            "retreat": 1,
+            "legal": {
+              "standard": false,
+              "expanded": true
+            },
+            "updated": "2026-09-17T00:45:22+02:00",
+            "pricing": {
+              "cardmarket": null,
+              "tcgplayer": null
+            }
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/30th-150",
+            "https://api.tcgdex.net/v2/en/cards/30th-150",
+            "https://pokecameos.com/pokemon/eevee",
+            "https://pokecameos.com/pokemon/umbreon",
+            "https://pokecameos.com/pokemon/lucario",
+            "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128"
+          ],
+          "source_family": "source_inventory",
+          "disposition": "newly_admitted_provisional",
+          "summary": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        },
+        {
+          "field": "Previous assessment",
+          "value": {
+            "number": "150",
+            "rarity_code": null,
+            "rarity_state": "unresolved",
+            "identity_status": "provisional",
+            "release_date": "2026-09-16",
+            "date_source": "https://www.pokewiki.de/Erweiterung",
+            "date_note": null,
+            "date_evidence": null,
+            "status_reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation."
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/30th-150",
+            "https://api.tcgdex.net/v2/en/cards/30th-150",
+            "https://pokecameos.com/pokemon/eevee",
+            "https://pokecameos.com/pokemon/umbreon",
+            "https://pokecameos.com/pokemon/lucario",
+            "https://www.tcgplayer.com/product/712954/pokemon-me-30th-celebration-pikachu-ex-150-128"
+          ],
+          "summary": "Historical selection retained; the released regional identity is now selected separately.",
+          "source_family": "new_sets_1817",
+          "disposition": "documented",
+          "retrieved_on": "2026-11-11"
+        },
+        {
+          "field": "Reviewed regional identity",
+          "value": {
+            "number": "150",
+            "name": "Pikachu-ex",
+            "rarity_code": "special_illustration_rare",
+            "art_style": "full_art"
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/30th-150",
+            "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+            "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+          ],
+          "summary": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained.",
+          "source_family": "new_sets_1817",
+          "disposition": "documented",
+          "retrieved_on": "2026-11-11"
+        }
+      ],
+      "rarity_key": "special_illustration_rare",
+      "rarity_order": 7,
+      "art_style_source": {
+        "method": "reviewed_card_face",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/30th-150",
+          "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+        ],
+        "reviewed_on": "2026-11-11"
+      },
+      "provider_identifiers": {
+        "tcgdex": "30th-150"
+      },
+      "date_evidence": {
+        "date": "2026-09-16",
+        "source_urls": [
+          "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "https://www.pokemon.com/us/features/highlighting-10-cards-from-the-pokemon-tcg-30th-celebration-classic-collection",
+          "https://api.tcgdex.net/v2/de/sets/30th"
+        ]
+      },
+      "image_source": "https://assets.tcgdex.net/de/me/30th/150/high.webp",
+      "image_language": "de",
+      "image_review": {
+        "kind": "representative",
+        "status": "unverified",
+        "image": "23bdb234a1ac6e30650311259339888456c37487a8a09fa39d5bae08f501048e.webp",
+        "image_language": "de"
+      },
+      "cameo_source": {
+        "method": "native_face_review",
+        "source_urls": [
+          "https://api.tcgdex.net/v2/de/cards/30th-150",
+          "https://press.pokemon.com/en-CA/MEDIA-ALERT-The-Pokemon-Company-International-Reveals-Product-Lineup-f",
+          "https://www.card-corner.de/pokemon-30-jahre-30th-celebration-card-list"
+        ],
+        "evidence": "Lucario cameo inspected in both native German and English reference faces. Existing card identity retained."
+      },
+      "original_rarity_label": "Needs research"
+    },
+    {
+      "id": "research_entry_6d507b452f83550da033630d88cc5ae8",
+      "lang": "de",
+      "name": "Festival der Champions",
+      "english": "Champions Festival",
+      "dex": 235,
+      "subject_dex": [],
+      "cameo_dex": [
+        235
+      ],
+      "number": "SM231",
+      "number_key": "sm231",
+      "identifier_namespace": "collector",
+      "release": "smp",
+      "set_name": "SM Promokarten",
+      "year_basis": "card",
+      "date_mode": "card",
+      "rarity_code": null,
+      "rarity_state": "unresolved",
+      "rarity_namespace": "de:unresolved",
+      "rarity_label": "Needs research",
+      "rarity_family": "other",
+      "metadata_state": "review",
+      "identity_status": "provisional",
+      "status_reason": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+      "category": "cameo",
+      "image": null,
+      "printings": [],
+      "sources": [
+        {
+          "id": "release:de:smp",
+          "name": "SM Promokarten",
+          "state": "catalog_release"
+        }
+      ],
+      "links": [
+        "https://api.tcgdex.net/v2/de/cards/smp-SM231",
+        "https://api.tcgdex.net/v2/en/cards/smp-SM231",
+        "https://pokecameos.com/pokemon/eevee",
+        "https://pokecameos.com/pokemon/smeargle",
+        "https://www.tcgplayer.com/product/198360/pokemon-sm-promos-champions-festival-sm231-world-championships-2019"
+      ],
+      "art_style": null,
+      "art_style_state": "unresolved",
+      "release_date": null,
+      "date_precision": null,
+      "year": null,
+      "date_state": "unresolved",
+      "date_source": null,
+      "evidence": [
+        {
+          "field": "identity / language",
+          "value": {
+            "category": "Trainer",
+            "id": "smp-SM231",
+            "illustrator": "Naoki Saito",
+            "localId": "SM231",
+            "name": "Festival der Champions",
+            "rarity": "Promo",
+            "set": {
+              "cardCount": {
+                "official": 248,
+                "total": 248
+              },
+              "id": "smp",
+              "name": "SM Promokarten",
+              "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol"
+            },
+            "variants": {
+              "firstEdition": false,
+              "holo": false,
+              "normal": true,
+              "reverse": false,
+              "wPromo": false
+            },
+            "variants_detailed": [
+              {
+                "type": "Normal",
+                "size": "Standard",
+                "thirdParty": {
+                  "cardmarket": 313448,
+                  "tcgplayer": 198360
+                },
+                "variantId": "endfynwn4n10gzq",
+                "pricing": {
+                  "cardmarket": {
+                    "updated": "2026-10-28T22:54:32.784Z",
+                    "unit": "EUR",
+                    "idProduct": 313448,
+                    "avg": 124.99,
+                    "low": 74.99,
+                    "trend": 229.31,
+                    "avg1": 124.99,
+                    "avg7": 361.38,
+                    "avg30": 157.28,
+                    "avg-holo": null,
+                    "low-holo": null,
+                    "trend-holo": 23.51,
+                    "avg1-holo": 21.48,
+                    "avg7-holo": 22.2,
+                    "avg30-holo": 22.2
+                  },
+                  "tcgplayer": null
+                }
+              }
+            ],
+            "effect": "Einmal während seines Zuges darf jeder Spieler, falls er 6 Pokémon im Spiel hat, 10 Schadenspunkte bei jedem seiner Pokémon heilen.",
+            "trainerType": "Stadionkarte",
+            "legal": {
+              "standard": false,
+              "expanded": true
+            },
+            "updated": "2026-08-19T20:32:36Z",
+            "pricing": {
+              "cardmarket": {
+                "updated": "2026-10-28T22:54:32.784Z",
+                "unit": "EUR",
+                "idProduct": 313448,
+                "avg": 124.99,
+                "low": 74.99,
+                "trend": 229.31,
+                "avg1": 124.99,
+                "avg7": 361.38,
+                "avg30": 157.28,
+                "avg-holo": null,
+                "low-holo": null,
+                "trend-holo": 23.51,
+                "avg1-holo": 21.48,
+                "avg7-holo": 22.2,
+                "avg30-holo": 22.2
+              },
+              "tcgplayer": null
+            }
+          },
+          "source_urls": [
+            "https://api.tcgdex.net/v2/de/cards/smp-SM231",
+            "https://api.tcgdex.net/v2/en/cards/smp-SM231",
+            "https://pokecameos.com/pokemon/eevee",
+            "https://pokecameos.com/pokemon/smeargle",
+            "https://www.tcgplayer.com/product/198360/pokemon-sm-promos-champions-festival-sm231-world-championships-2019"
+          ],
+          "source_family": "source_inventory",
+          "disposition": "newly_admitted_provisional",
+          "summary": "Native provider lists the identity; localized cameo and physical details require separate confirmation.",
+          "locator": "",
+          "retrieved_on": "2026-10-29"
+        }
+      ],
+      "rarity_key": "unresolved",
+      "rarity_order": 1001
+    }
+  ],
+  "new_entry_ids": [
+    "research_entry_d1433f4889575cfc9573877d1c7ad2f4",
+    "research_entry_e95fefbb550f5d76b5016135107986ab",
+    "research_entry_e63aaa876aae52a095687ce3f1976191",
+    "research_entry_3dcfdad312b05a6c821bb932d5cc0221",
+    "research_entry_5110b6a3c88d58deb6976bde0926f4df",
+    "research_entry_0246d03ae9f65678919701fb433df437",
+    "research_entry_d3c9ae11eb5d53b1b1f787290044dfd2"
+  ]
+}
